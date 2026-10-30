@@ -28,6 +28,8 @@ The mind is the ultimate command center—fighting is fundamentally a contest of
   - 2.5 Range 3: Close Distance (Elbows, Knees, and Head Control)
   - 2.6 Range 4: Near Distance (Grips, Clinch, Submissions, and Body-to-Body Contact — Jamming Long Weapons)
   - 2.7 Weapon Radius Modifiers & The Tactical Dilemma (Evasion vs. Jamming against Bats, Clubs, and Blades)
+  - 2.8 The Spatial Trade-Off: Zero Distance (Control & Smothering) vs. Created Distance (Maneuver)
+  - 2.9 The Transition Gap: Why Escapes and Vulnerability Live in the Micro-Space of Movement
 - **Chapter 03: Timing, Precision, and the Opportunity Window** (Target: 2,500 words)
   - 3.1 The Geometry of Mistakes: Off-Balance, Over-Commitment, and Flaws
   - 3.2 Skill Disparity: White Belt Windows vs. High-Level Milliseconds
@@ -45,10 +47,11 @@ The mind is the ultimate command center—fighting is fundamentally a contest of
   - 5.1 Subduing Without Fighting: Avoidance as the Supreme Objective
   - 5.2 Avoid Strength, Strike Weakness: Refusing the Centerline
   - 5.3 Terrain, Positioning, and Deception: Making the Attacker's Assumptions Wrong
-- **Chapter 06: The Airpower Lens — Velocity, Synergy, and Decision Dominance** (Target: 2,500 words)
+- **Chapter 06: The Airpower & Systems Engineering Lens — Velocity, Synergy, and Problem Solving** (Target: 2,500 words)
   - 6.1 Clear Purpose + Flexible Method (Decoupled Mission Execution)
   - 6.2 Concentration of Effect and Parallel Attack: Overwhelming the Threat
   - 6.3 Speed, Range, and Initiative: Setting the Tempo of the Engagement
+  - 6.4 Systems Engineering & TRIZ in Combat: Applying Altshuller's Inventive Principles to Resolve Physical Contradictions
 - **Chapter 07: The Ground Maneuver Lens — Angles, Flanking, and Security** (Target: 2,500 words)
   - 7.1 Maneuver to Advantage: Offline Angular Footwork and Flanking
   - 7.2 Security of Position: Never Ceding Structural Advantage for a Cheap Strike
@@ -62,7 +65,7 @@ The mind is the ultimate command center—fighting is fundamentally a contest of
 - **Chapter 09: Execution Principles — Initiative, Concentration, and Economy** (Target: 2,800 words)
   - 9.1 Principle 4: Initiative (Continuous Pressure, No Pausing on Partial Success)
   - 9.2 Principle 5: Concentration (Focusing Overwhelming Force at the Decisive Moment)
-  - 9.3 Principle 6: Economy (Minimum Effort on Secondary Distractions)
+  - 9.3 Principle 6: Economy of Force & The Asymmetric Limb Ratio (The Mathematics of Limb Economy: 1 Limb Controlling 2–3 Opponent Axes vs. 2-on-1 Resource Deficits; TRIZ Principle 6)
 - **Chapter 10: Tactical Principles — Surprise, Avoidance, and Persistence** (Target: 2,800 words)
   - 10.1 Principle 7: Surprise & Unpreparedness (Exploiting Rhythm Shifts & Deception)
   - 10.2 Principle 8: Avoidance When Superior (The Clean Exit)
@@ -79,11 +82,11 @@ The mind is the ultimate command center—fighting is fundamentally a contest of
 - **Chapter 14: Wrestling & Clinch-to-Takedown — Posture, Base, Level Changes, and Anti-Takedown Defense** (Target: 2,500 words)
   - *Syllabus*: Shows how Time–Distance–Power and the unified principles operate when the fight collapses into tie-ups and body control. Emphasis falls on Security of Position (refusing to surrender posture or base for a low-percentage shot), Maneuver (angling off the centerline and using level changes to create advantage), and Economy (minimum grip fighting that still advances the primary objective of creating space or a dominant position). Timing windows are short; success depends on recognizing off-balance moments and capitalizing before the opponent resets. Examines common sport habits that fail in self-defense—chasing takedowns onto bad surfaces, ignoring weapons or multiple people, and staying engaged after the objective of separation or exit has already been met.
 - **Chapter 15: Brazilian Jiu-Jitsu & Ground Survival — Control, Asymmetry, and Getting Back Up** (Target: 2,500 words)
-  - *Syllabus*: Examines the principles once the fight goes to body-to-body contact and the ground. Persistence and Economy become critical—continuing effective control only as long as it serves the objective, then creating the opportunity to stand or exit. Know the Situation is stressed because the ground multiplies risks (multiple attackers, weapons, hard surfaces, legal exposure). Security of Position appears as the refusal to give up a stable, mobile posture for a low-percentage submission attempt when separation is still possible. Timing is framed around capitalizing on the opponent’s transitions or mistakes rather than forcing complex attacks. Explicitly addresses the self-defense limits of sport ground fighting: the priority is almost always to get up and create distance, not to win a prolonged grappling match.
+  - *Syllabus*: Examines the principles once the fight goes to body-to-body contact and the ground. Formulates the Zero-Distance Paradox: eliminating dead space (chest-to-chest) neutralizes an opponent's kinetic work ($W = F \times d = 0$) and strips their frames, but anchors your own mobility. To advance position or stand up, the defender must create distance—entering the dangerous "Transition Gap" where nearly all escapes and reversals occur. Solves this dilemma through asymmetric micro-space and ratcheting control. Details Multifunctional Control (TRIZ Principle 6): how a single limb can simultaneously lock multiple opponent structures (e.g., top mount where one leg traps the arm across the chest, pins the hip line, and misaligns the shoulder/spine; Khabib's Dagestani leg triangle; the crucifix). Persistence and Economy become critical—continuing effective control only as long as it serves the objective, then creating the opportunity to stand or exit. Know the Situation is stressed because the ground multiplies risks (multiple attackers, weapons, hard surfaces, legal exposure). Explicitly addresses the self-defense limits of sport ground fighting: the priority is almost always to get up and create distance, not to win a prolonged grappling match.
 - **Chapter 16: The Transitions Between Ranges — When Distance Collapses or Expands** (Target: 2,200 words)
   - 16.1 The Danger Zone: Moving between Kicking, Boxing, Clinch, and Ground
   - 16.2 Intercepting Entries (Teeps, Sprawls, Framing, and Angular Evasion)
-  - 16.3 The Breakaway: Transitioning from Near Range back to Escape Distance
+  - 16.3 The Breakaway & The Transition Gap: Navigating the Danger Zone when Expanding from Near/Zero Distance to Escape Range
 
 ### Part V: The Tactical Decision Engine
 - **Chapter 17: The 4-Step Stress Cycle** (Target: 2,500 words)

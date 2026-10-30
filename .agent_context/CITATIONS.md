@@ -113,3 +113,9 @@ Authoritative references backing the strategy, airpower doctrine, military groun
   - *Annotation*: Foundational statutory model defining the justification for non-deadly and deadly force based on an actor's honest and reasonable belief of necessity.
 - **Supreme Court of the United States**: *Graham v. Connor*, 490 U.S. 386 (1989).
   - *Annotation*: The landmark constitutional standard evaluating force through the lens of "objective reasonableness" from the perspective of a reasonable person on the scene, acknowledging that confrontations are tense, uncertain, and rapidly evolving.
+
+---
+
+## 12. Systems Engineering, Problem-Solving & TRIZ
+- **Altshuller, Genrich (1984)**: *Creativity as an Exact Science: The Theory of the Solution of Inventive Problems (TRIZ)*. Gordon and Breach Science Publishers.
+  - *Annotation*: The foundational treatise introducing the 40 Inventive Principles for systematically resolving structural and physical contradictions without compromise. Cited in Chapter 06, Chapter 09, and Chapter 15 for **Principle 6 (Universality / Multifunctionality: making one component perform multiple functions to eliminate redundant parts)**, anchoring the Asymmetric Limb Ratio and multifunctional pinning geometry in combat.

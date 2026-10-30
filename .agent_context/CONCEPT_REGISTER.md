@@ -80,7 +80,17 @@ All combat choices, positioning, and decisions must be filtered through these th
 
 ### Principle 6: Economy
 - **Definition**: Use the least effort required on secondary problems. Preserve energy, structure, and options for the primary objective or the exit. Avoid prolonged exchanges that consume resources without advancing the purpose. Not making errors is more important than fancy moves.
-- **Sources**: Army (Economy of Force); Airpower (Economy, Priority); Sun Tzu (Avoid Wasteful Engagement).
+- **Multifunctional Control & The Asymmetric Limb Ratio (TRIZ Principle 6 in Combat)**:
+  - **Engineering Foundation**: Applies Altshuller's TRIZ Principle 6 (*Universality / Multifunctionality*: "Make an object or structure perform multiple functions; eliminate the need for other parts") to physical combat geometry.
+  - **The Limb Economy**: Every combatant possesses four primary extremities (two arms, two legs). Tactical engagements create three mathematical resource states:
+    - *Resource Deficit (Two-on-One)*: Committing two of your limbs to control one of theirs leaves you at a 2-vs-3 disadvantage in free tools.
+    - *Parity (One-to-One)*: One limb ties up one limb (3 vs. 3 free tools).
+    - *Asymmetric Resource Dominance (One-on-Two or Three)*: Positioning one limb or structural wedge to immobilize two or more of an opponent's limbs or movement axes. You retain an immediate operational surplus (3 free limbs vs. 2 or 1).
+  - **Tactical Manifestations**:
+    - *Grappling*: Top mount where one leg traps the opponent's arm across the chest—controlling the hip line, isolating the arm, and rotating the shoulder/spine out of alignment with a single lower extremity. Other examples include Khabib's Dagestani leg triangle (one leg laces two legs), the crucifix, and the crossface.
+    - *Striking & Clinch*: Muay Thai frame-and-bicep tie (one forearm blocks posture, shields against punches, and controls rotation); JKD/Wing Chun forearm gate trap (pinning an attacker's lead wrist into their own rear guard).
+    - *Weapons Defense*: Pinning an attacker's weapon wrist against their own chest, using their weapon arm as a barricade against their off-hand.
+- **Sources**: Army (Economy of Force); Airpower (Economy, Priority); Sun Tzu (Avoid Wasteful Engagement); Altshuller / TRIZ (Universality / Multifunctionality).
 
 ### Principle 7: Surprise / Unpreparedness
 - **Definition**: Strike or move in a time, angle, or manner the attacker has not anticipated. Change rhythm, level, or direction to exploit a moment of unreadiness. Capitalize on opponent mistakes, off-balance positions, or disrupted timing. The better the opponent, the tighter the timing window required.

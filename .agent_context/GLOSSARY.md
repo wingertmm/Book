@@ -8,6 +8,7 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 - **Actions on Contact**: An immediate, pre-trained tactical sequence executed without hesitation the instant violence begins: Recognize $\rightarrow$ Lock Purpose $\rightarrow$ Choose $\rightarrow$ Act $\rightarrow$ Reassess.
 - **Adrenaline-Induced Degradation**: The physiological breakdown of conscious reasoning, peripheral vision (tunnel vision), and fine motor control when heart rates exceed ~145–175 BPM.
 - **Angular Flanking**: Stepping or pivoting off the attacker's line of force (centerline) to occupy an oblique or rear angle where their primary weapons cannot bear.
+- **Asymmetric Limb Ratio**: The tactical mathematics of limb commitment wherein one defensive limb or structural anchor immobilizes two or more of an opponent's limbs or movement axes (e.g., 1-on-2 or 1-on-3), generating a numerical surplus in uncommitted operational limbs.
 - **Asymmetry of Habit Unlearning**: The neurological reality that extinguishing an automated motor error requires active prefrontal inhibition, making unlearning a bad habit vastly more difficult and cognitively expensive than learning a correct skill from the start.
 - **Avoidance When Superior**: The highest form of self-defense; resolving a crisis through awareness, de-escalation, or immediate departure without applying physical power.
 
@@ -46,6 +47,7 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 ### M
 - **Maneuver to Advantage**: Using angular movement, changes in level, or environmental features to degrade an attacker's options while enhancing your own.
 - **Medium Distance**: The striking range defined by extended fist reach where two-way trades carry maximum risk.
+- **Multifunctional Control (TRIZ Principle 6)**: The application of Altshuller's engineering principle of universality to combat geometry—designing holds, pins, or frames where a single defensive limb or wedge accomplishes multiple simultaneous control functions (e.g., a leg pinning an arm, restricting hip elevation, and misaligning the spine).
 
 ### N
 - **Near Distance**: Complete body-to-body engagement involving grips, underhooks, clinch fighting, throws, and ground grappling.
@@ -67,3 +69,4 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 ### T
 - **Time**: The temporal dimension of combat; the reactionary gap and decision window required to observe, orient, decide, and act.
 - **Transition Gap (The Escape Window)**: The temporary, dynamic micro-space that inevitably opens when shifting between pinning positions or maneuvering to disengage, representing the primary vulnerability interval where an opponent can frame, shrimp, or reverse.
+- **TRIZ (Theory of Inventive Problem Solving)**: The engineering heuristic system developed by Genrich Altshuller, applied in combat strategy to resolve physical contradictions and optimize resource efficiency (specifically Principle 6: Universality/Multifunctionality).
