@@ -31,6 +31,9 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 ### E
 - **Economy of Force**: Deploying the minimum necessary effort on secondary distractions so maximum energy and capability remain reserved for the primary objective or exit.
 
+### F
+- **Framing (Structural Skeletal Frame)**: The mechanical positioning of bones (forearms, shins, locked limb angles) as rigid structural struts or trusses to absorb, bear, or redirect an opponent's weight and incoming force directly into the ground or pelvis, eliminating metabolic muscle fatigue (Economy of Force) and preventing spatial collapse.
+
 ### H
 - **Hard Target**: A defender whose posture, structural alignment, situational awareness, and foundational positioning make them difficult and costly to attack.
 
