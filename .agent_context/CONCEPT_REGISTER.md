@@ -27,7 +27,7 @@ All combat choices, positioning, and decisions must be filtered through these th
 
 - **Hesitation**: When a practitioner must consciously ponder "which technique to execute", the 200-millisecond window closes and they get hit.
 - **Rigidity**: Mindless repetition of choreographed katas or compliant drills creates blind scripts that collapse when an attacker moves unconventionally.
-- **Synthesis**: Intelligent tactical planning in training builds subconscious reflexes that execute adaptively under adrenaline.
+- **Synthesis**: Strategic minds direct deliberate training, building subconscious reflexes that execute adaptively under adrenaline.
 
 ### Observable Intent Cues
 - **Weight Transfer**: Micro-shifts in foot pressure indicating an impending strike or level change.
@@ -101,5 +101,25 @@ All combat choices, positioning, and decisions must be filtered through these th
 $$\text{Recognize} \longrightarrow \text{Prioritize} \longrightarrow \text{Choose} \longrightarrow \text{Act \& Reassess}$$
 - **Recognize**: Security & situational audit.
 - **Prioritize**: Lock the primary objective (exit vs. control).
-- **Choose**: Evaluate options through Time, Distance, and Power.
+- **Choose**: Evaluate options through Time, Distance, and Power via Recognition-Primed Decision (RPD) matching.
 - **Act & Reassess**: Exploit initiative with drilled actions on contact.
+
+---
+
+## 6. Tactical & Legal Boundary Invariants
+
+### A. The Five Elements of Lawful Self-Defense (Branca 2016)
+Every physical action must withstand legal scrutiny across all five mandatory elements:
+1. **Innocence**: You cannot be the initial aggressor or provoke the confrontation.
+2. **Imminence**: The threat must be actively occurring or immediately about to happen (not past or speculative).
+3. **Proportionality**: Force applied must match the level of threat (non-deadly vs. deadly force).
+4. **Avoidance**: Utilizing safe exit or retreat opportunities where practically available or legally mandated.
+5. **Reasonableness**: The perception of threat and degree of force must be what an objectively reasonable person would believe in the same circumstances (*Graham v. Connor*).
+
+### B. The Reactionary Gap Dynamics (Tueller 1983 / Blair 2011)
+- **The Finding**: A forward-charging assailant can close 21 feet in approximately 1.5 seconds.
+- **Tactical Meaning**: An action initiator has an inherent 200–400 millisecond advantage over a stationary reactor. Linear retreat fails; defense requires creating space, stepping offline (angular maneuver), or utilizing physical obstacles.
+
+### C. The Ground Reality (Dossey / LAPD 1988)
+- **The Context**: The oft-quoted "90% of fights go to the ground" myth stems from a misreading of police arrest data (~62% of suspect control altercations ended on the ground during handcuffing).
+- **Self-Defense Rule**: In civilian altercations on asphalt, remaining on the ground exponentially multiplies vulnerability to stomps, weapon draws, and third-party assailants. The primary objective on the ground is positional defense and immediate recovery to the feet.
