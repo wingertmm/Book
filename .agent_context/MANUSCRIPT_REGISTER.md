@@ -14,7 +14,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | Chapter / Section | Target Words | Actual Words | Status | Gate 1 Plan | Gate 2 Freeze Tag | Primary Verification Probe ID |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Part I: The Master Filter** | | | | | | |
-| `CH01 The Triad` | 2,500 | 4,617 (Sec 1.1: 1,614; Sec 1.2: 1,597; Sec 1.3: 1,406) | `Gate 2 In Review` | `docs/plans/CH01_W3_PLAN.md` | `CH01-SEC03-TARGET-FROZEN` | `[PROBE-CH01-SEC03-HARD-TARGET]` |
+| `CH01 The Triad` | 2,500 | 4,617 (Sec 1.1: 1,614; Sec 1.2: 1,597; Sec 1.3: 1,406) | `Frozen (Done)` | `docs/plans/CH01_W3_PLAN.md` | `CH01-SEC03-TARGET-FROZEN` | `[PROBE-CH01-SEC03-HARD-TARGET]` |
 | `CH02 The Four Ranges` | 2,800 | — | `Planned` | — | — | `[PROBE-CH02-DISTANCE-RANGES]`|
 | `CH03 Timing & Windows` | 2,500 | — | `Planned` | — | — | `[PROBE-CH03-TIMING-WINDOWS]` |
 | `CH04 The Command Center` | 2,800 | — | `Planned` | — | — | `[PROBE-CH04-COMMAND-CENTER]` |
