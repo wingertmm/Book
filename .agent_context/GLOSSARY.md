@@ -69,7 +69,9 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 - **Outcome Focus**: Directing attentional focus toward external effects (e.g., driving through a target, creating 3 feet of separation) rather than internal body mechanics, maximizing strike velocity and impact force under stress (Halperin & Wulf 2016).
 
 ### P
+- **Pancake (Crossface Redirection)**: A wrestling and grappling counter to a forward penetration shot, combining heavy cervical spine crossfacing with an underhook/lat wrap to redirect an opponent's forward driving momentum into a rotational flip, depositing them flat on their back in bottom position.
 - **Power**: The focused application of kinetic force, leverage, and momentum guided strictly by strategic purpose and legal proportionality.
+- **Predictive Funneling (The Engineered Opening)**: The deliberate presentation of a calculated structural vulnerability (e.g., an exposed lead leg) to collapse an opponent's decision tree down to a single high-probability attack vector, allowing the defender to execute a pre-primed counter with zero reaction latency.
 - **Purpose First**: The master rule requiring the primary objective to be decided before or at the moment of contact, judging all tactical choices by whether they advance that goal.
 
 ### S

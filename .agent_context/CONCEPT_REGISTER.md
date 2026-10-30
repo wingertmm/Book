@@ -67,6 +67,14 @@ All combat choices, positioning, and decisions must be filtered through these th
 - **Gaze & Eye Line**: Looking down at targets, tracking weapons, or scanning for bystanders before committing.
 - **Respiratory Cadence**: Sudden sharp inhalations or breath-holding immediately preceding power delivery.
 
+### Predictive Funneling & The Engineered Opening (Hick's Law Inversion)
+- **Cognitive Mechanism**: Rather than reacting to an unconstrained, multi-vector threat environment, the defender deliberately displays an apparent structural vulnerability (e.g., exposing a strong lead leg to an aggressive wrestler).
+- **Hick's Law Inversion ($n \to 1$)**: Decision latency increases with the number of potential targets ($T = b \cdot \log_2(n + 1)$). Offering an irresistible opening collapses the opponent's choice architecture down to a single deterministic action ($n = 1$).
+- **Zero-Latency Execution**: Because the attacker's trajectory is pre-calculated by the defender, reaction latency drops from a lagging ~200–400 ms down to zero. The counter is pre-primed in subconscious motor circuits.
+- **Biomechanical Case Study (The Lead-Leg Bait $\to$ Crossface & Pancake)**:
+  - *Cervical Spine Torque (Crossface)*: Driving a rigid forearm across the opponent's philtrum/jaw turns their head perpendicular to their spine. Because human anatomy mandates that spinal alignment follows the cervical spine, the opponent's forward driving power is bio-mechanically neutralized.
+  - *Momentum Redirection (The Pancake)*: Securing an underhook or far lat grip and rotating their chest toward the ceiling converts their linear kinetic energy into rotational momentum, flattening them directly onto their back into bottom control.
+
 ---
 
 ## 3. The 11 Unified Principles (Level 2 Strategic Core)
@@ -111,7 +119,8 @@ All combat choices, positioning, and decisions must be filtered through these th
 
 ### Principle 7: Surprise / Unpreparedness
 - **Definition**: Strike or move in a time, angle, or manner the attacker has not anticipated. Change rhythm, level, or direction to exploit a moment of unreadiness. Capitalize on opponent mistakes, off-balance positions, or disrupted timing. The better the opponent, the tighter the timing window required.
-- **Sources**: Sun Tzu (Attack Where Unprepared, Deception); Airpower (Surprise, Decision-Cycle Advantage); Army (Surprise).
+- **Engineered Surprise & Sun Tzu's Baiting Doctrine**: High-level surprise is rarely accidental; it is engineered. By displaying apparent weakness or offering false targets (*"With baits he tempts them, and with his main force he awaits them"* - Sun Tzu), the defender induces the attacker into committing forward into a pre-registered ambush.
+- **Sources**: Sun Tzu (Attack Where Unprepared, Deception, Baiting); Airpower (Surprise, Decision-Cycle Advantage); Army (Surprise).
 
 ### Principle 8: Avoidance When Superior
 - **Definition**: If a safe exit or de-escalation exists, it is the preferred resolution. Physical force is used only when avoidance is no longer viable or has failed. The supreme art of war is to subdue the enemy without fighting.
