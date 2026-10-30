@@ -16,7 +16,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | **Part I: The Master Filter** | | | | | | |
 | `CH01 The Triad` | 2,500 | 4,617 (Sec 1.1: 1,614; Sec 1.2: 1,597; Sec 1.3: 1,406) | `Frozen (Done)` | `docs/plans/CH01_W3_PLAN.md` | `CH01-SEC03-TARGET-FROZEN` | `[PROBE-CH01-SEC03-HARD-TARGET]` |
 | `CH02 The Four Ranges` | 3,000 | 4,935 (Wave 1: 1,554; Wave 2: 1,672; Wave 3: 1,709) | `Frozen (Done)` | `docs/plans/CH02_W3_PLAN.md` | `CH02-RANGES-COMPLETE-FROZEN` | `[PROBE-CH02-W03-TRANSITIONS]` |
-| `CH03 Timing & Windows` | 2,500 | 1,623 (Wave 1: 1,623) | `Gate 2 In Review` | `docs/plans/CH03_W1_PLAN.md` | `CH03-W01-GEOMETRY-FROZEN` | `[PROBE-CH03-W01-GEOMETRY-MISTAKES]` |
+| `CH03 Timing & Windows` | 2,500 | 1,623 (Wave 1: 1,623) | `Gate 1 In Review` | `docs/plans/CH03_W2_PLAN.md` | `CH03-W01-GEOMETRY-FROZEN` | `[PROBE-CH03-W02-SKILL-DISPARITY]` |
 | `CH04 The Command Center` | 2,800 | — | `Planned` | — | — | `[PROBE-CH04-COMMAND-CENTER]` |
 | **Part II: Strategic Lenses** | | | | | | |
 | `CH05 The Sun Tzu Lens` | 2,500 | — | `Planned` | — | — | `[PROBE-CH05-SUNTZU-TACTICS]` |
