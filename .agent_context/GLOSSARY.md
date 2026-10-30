@@ -9,6 +9,7 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 - **Adrenaline-Induced Degradation**: The physiological breakdown of conscious reasoning, peripheral vision (tunnel vision), and fine motor control when heart rates exceed ~145–175 BPM.
 - **Angular Flanking**: Stepping or pivoting off the attacker's line of force (centerline) to occupy an oblique or rear angle where their primary weapons cannot bear.
 - **Asymmetric Limb Ratio**: The tactical mathematics of limb commitment wherein one defensive limb or structural anchor immobilizes two or more of an opponent's limbs or movement axes (e.g., 1-on-2 or 1-on-3), generating a numerical surplus in uncommitted operational limbs.
+- **Asymmetric Tactical ROI (Convex Tactics)**: The deliberate selection of tactical actions with an extreme structural imbalance between risk and reward—where failure produces negligible positional degradation or bodily exposure, but success achieves the decisive objective (e.g., the ankle pick vs. the high-risk double leg).
 - **Asymmetry of Habit Unlearning**: The neurological reality that extinguishing an automated motor error requires active prefrontal inhibition, making unlearning a bad habit vastly more difficult and cognitively expensive than learning a correct skill from the start.
 - **Avoidance When Superior**: The highest form of self-defense; resolving a crisis through awareness, de-escalation, or immediate departure without applying physical power.
 
@@ -32,6 +33,7 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 - **Economy of Force**: Deploying the minimum necessary effort on secondary distractions so maximum energy and capability remain reserved for the primary objective or exit.
 
 ### F
+- **Force Couple (Rotational Tipping)**: A system of two parallel forces of equal magnitude acting in opposite directions at separate points along a body to produce pure rotational torque without linear translation; exploited in grappling by pulling the head while arresting the ankle across a maximized moment arm.
 - **Framing (Structural Skeletal Frame)**: The mechanical positioning of bones (forearms, shins, locked limb angles) as rigid structural struts or trusses to absorb, bear, or redirect an opponent's weight and incoming force directly into the ground or pelvis, eliminating metabolic muscle fatigue (Economy of Force) and preventing spatial collapse.
 
 ### H

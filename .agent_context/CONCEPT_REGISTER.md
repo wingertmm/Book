@@ -34,6 +34,9 @@ All combat choices, positioning, and decisions must be filtered through these th
   - *Engineering Foundation*: A frame acts as a structural truss or column bearing compressive loads along its axial dimension, transmitting force directly into the ground, pelvis, or spine rather than absorbing bending moments through muscular actuation.
   - *Muscular Actuation vs. Skeletal Trusses*: Pushing an opponent off with muscles (triceps, pecs) relies on active, metabolically expensive isometric contractions that rapidly burn ATP, generate lactic acid, and fail against a heavier opponent's body mass ($F = mg$). Skeletal framing aligns bones (forearms, shins) as rigid struts that bear hundreds of pounds of downward force with near-zero caloric expenditure (Economy of Force).
   - *Tactical Function*: Frames establish an uncollapsible spatial buffer ($d_{\text{min}}$) preventing zero-distance smothering, protect vital anatomical targets, and serve as rigid fulcrums to push oneself away (shrimping/hip escaping) to recreate distance.
+- **Force Couples & Moment Arm Maximization (The Physics of Asymmetric Takedowns)**:
+  - *Linear Mass Collision (Double Leg)*: Driving directly into an opponent's Center of Mass (pelvis) minimizes the moment arm ($r \to 0$), requiring immense kinetic work ($W = \int F \, dx$) to overcome their total body mass, base friction, and downward sprawl force.
+  - *Rotational Force Couple (Ankle Pick)*: Applying opposing force vectors at the extreme opposite ends of the skeletal chain—pulling the head/collar ($F_1$) at the top of the cervical spine while arresting the ankle ($F_2$) at the base. Maximizing the moment arm ($r \approx \text{total body height}$) minimizes the force required to produce tipping torque ($\tau = r \times F$). Gravity and base denial perform the takedown work.
 
 ---
 
@@ -74,7 +77,11 @@ All combat choices, positioning, and decisions must be filtered through these th
 
 ### Principle 2: Security of Position
 - **Definition**: Do not surrender a sound position, angle, distance, or piece of terrain for a low-percentage strike or high-risk exchange. Correct body mechanics and position make you a hard target. Fundamentals that prevent errors are vastly more valuable than elaborate techniques.
-- **Sources**: Army (Security, Protection); Sun Tzu (Avoid Strength, Use Terrain); Airpower (Balance).
+- **Asymmetric Tactical ROI (Convex Tactics — Ankle Pick vs. Double Leg)**:
+  - *Core Doctrine*: Tactical decisions must favor actions where the cost of failure is negligible, but the upside of success is decisive. Never gamble your structural base or spinal posture for an offensive reward.
+  - *The Double Leg Failure Trap*: High investment, catastrophic downside. A failed shot leaves the defender flattened under a 200-lb sprawl, locked in a front headlock/guillotine, knees battered on concrete, and vulnerable to third-party strikes.
+  - *The Ankle Pick Advantage*: Low investment, negligible downside. The defender’s head stays upright, hips remain back, and posture is preserved. If the pick fails, the defender simply releases the ankle grip, maintains the collar tie/frame, and resets to neutral on their feet with zero structural penalty.
+- **Sources**: Army (Security, Protection); Sun Tzu (Avoid Strength, Use Terrain); Airpower (Balance); Decision Theory (Convex Payoffs / Asymmetry).
 
 ### Principle 3: Maneuver to Advantage
 - **Definition**: Move to an angle or range that weakens the attacker’s options and strengthens yours. Prefer offline or flanking movement over staying on the attacker’s centerline. Distance is space control: close space to engage, expand space to retreat. Ranges dictate weapons: Long (feet), Medium (fists), Close (elbows/knees), Near (grips/body-to-body).
