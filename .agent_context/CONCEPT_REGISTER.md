@@ -63,11 +63,15 @@ All combat choices, positioning, and decisions must be filtered through these th
 
 ---
 
-## 3. The 4 Physical Combat Ranges
-1. **Long Distance (Projectile / Kicking / Avoidance Range)**: Outside the reach of hands; primary domain for recognition, verbal de-escalation, and immediate exit corridors.
-2. **Medium Distance (Fist / Striking Range)**: Reach of extended arms; high risk of two-way exchange; requires immediate decision to create distance or collapse inside.
-3. **Close Distance (Elbow / Knee / Head Control Range)**: Inside arm extension; high power, short reaction time; devastating leverage and structural disruption.
-4. **Near Distance (Grips / Clinch / Ground / Body-to-Body)**: Complete tactile connection; wrestling, judo, and jujitsu control mechanics; weapon retention and underhook dominance.
+## 3. Discipline-to-Range Mapping & Sport Biases
+
+| Combat Discipline | Primary Distance Range | Core Principle Stressed | Sport Habit / Self-Defense Failure Mode |
+| :--- | :--- | :--- | :--- |
+| **Taekwondo (TKD)** | **Long Range** (Feet / Kicks) | *Distance as Shield*, *Maneuver* (footwork, refusing centerline), *Timing* | Drops hands; vulnerable when distance collapses; lacks clinch/grappling recovery; ignores weapons. |
+| **Muay Thai** | **Medium to Close Range** (Punches, Teeps, Elbows, Knees, Clinch) | *Concentration of Power*, *Initiative*, *Active Space Control* | Prolonged trading in the pocket; accepting damage to score; neglects immediate exit corridors; vulnerable to shoot takedowns. |
+| **Wrestling** | **Clinch-to-Takedown Range** (Tie-ups, Underhooks, Level Changes) | *Security of Position* (posture/base), *Maneuver*, *Economy* | Chasing low singles on concrete; exposing neck/back; staying engaged on ground rather than disengaging to feet. |
+| **Brazilian Jiu-Jitsu (BJJ)** | **Near Range & Ground** (Submissions, Sweeps, Guard, Body-to-Body) | *Persistence*, *Economy*, *Positional Security* | Pulling guard in the street; prolonged ground entanglement against multiple attackers or weapon draws; failure to stand up. |
+| **Range Transitions** | **The Collapsing / Expanding Gap** | *Actions on Contact*, *Initiative* | Freezing when range suddenly changes (e.g. striker tackled or grappler caught at kick distance). |
 
 ---
 
