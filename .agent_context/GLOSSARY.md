@@ -12,6 +12,9 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 - **Asymmetry of Habit Unlearning**: The neurological reality that extinguishing an automated motor error requires active prefrontal inhibition, making unlearning a bad habit vastly more difficult and cognitively expensive than learning a correct skill from the start.
 - **Avoidance When Superior**: The highest form of self-defense; resolving a crisis through awareness, de-escalation, or immediate departure without applying physical power.
 
+### B
+- **Base of Support (BOS)**: The structural foundation area bounded by an individual's points of contact with the ground; keeping the Center of Mass vertically aligned within this perimeter is required to maintain static and dynamic equilibrium.
+
 ### C
 - **Centerline**: The imaginary vertical plane passing through the center of an opponent's body where their primary striking and driving mass are concentrated.
 - **Clear Purpose + Flexible Method**: The self-defense adaptation of mission command; locking the strategic objective (e.g. exit safely) while retaining decentralized freedom to choose the tactical tool.
@@ -21,6 +24,7 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 
 ### D
 - **Decision-Cycle Dominance**: Moving through the recognition-to-action sequence faster than an attacker, forcing them into a perpetually lagging reactive state.
+- **Degrees of Freedom (DOF)**: The independent spatial and rotational parameters (three translational, three rotational) defining the movement capability of a physical body; pinning systems operate by systematically constraining these axes to zero.
 - **Distance**: The spatial dimension of combat governing reaction time and weapon eligibility across four distinct ranges.
 - **Dual-Brain Combat Architecture**: The operational partition between the conscious Command Center (cortex) and the involuntary motor reflex engine (lizard brain).
 
@@ -37,6 +41,9 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 
 ### J
 - **Jamming (Distance Collapse)**: Aggressively closing spatial separation inside an opponent's optimal kinetic or rotational radius (e.g., inside a bat swing arc or straight punch extension) to neutralize leverage ($\tau = r \times F$) and bio-mechanically disable long-range strikes.
+
+### K
+- **Kinematic Chain**: The interconnected mechanical assembly of rigid skeletal links (bones) and articulating joints (fulcrums) that transfer energy, acceleration, and force from the ground through the core to the target.
 
 ### L
 - **Law of Permanence**: The training principle that repetition cements motor patterns regardless of their technical correctness (*"Practice does not make perfect; practice makes permanent. Only perfect practice makes perfect"*), mandating deliberate quality control over mindless volume.

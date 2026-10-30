@@ -2,12 +2,14 @@
 
 **Title**: *Time, Distance, and Power: The Strategy, Physics, and Decision Framework of Self-Defense*  
 **Subtitle**: *A Martial and Military Synthesis: Principles Over Techniques for Real-World Violence*  
-**Author Persona**: Retired Air Force Officer, Multi-Discipline Martial Artist (Wrestling Coach, Judo, TKD Black Belt, Japanese Jujitsu Black Belt, BJJ Purple Belt).
+**Author Persona**: Retired Air Force Officer, Mechanical Engineer (BS, MS), Multi-Discipline Martial Artist (Wrestling Coach, Judo, TKD Black Belt, Japanese Jujitsu Black Belt, BJJ Purple Belt).
 
 ---
 
 ## Pedagogical Architecture & Core Thesis
 Technique manuals collapse under adrenaline. High-level performance in real violence relies on **subconscious neural pathways** formed through realistic training, governed by an immutable triad of physics: **Time, Distance, and Power**. 
+
+The author’s background as a **Mechanical Engineer (BS, MS)** and **Air Force Officer** provides an analytical, systems-based lens: human combat is deconstructed not as a collection of mystical traditions, but as an applied physical and engineering system governed by classical mechanics—force vectors, fulcrums, mechanical advantage, moment arms ($\tau = r \times F$), center-of-mass statics, and kinematic constraints.
 
 The mind is the ultimate command center—fighting is fundamentally a contest of minds, strategy, intent deciphering, and cue-reading. However, **thinking without repetition produces hesitation; repetition without thinking produces rigid, unadaptive patterns**. By encoding mechanical fundamentals into the lower brain ("lizard brain") through deep repetition, the conscious mind is freed to operate at the strategic layer: reading opponent intent, exploiting timing windows, and imposing tactical will.
 

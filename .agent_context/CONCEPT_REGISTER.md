@@ -24,6 +24,12 @@ All combat choices, positioning, and decisions must be filtered through these th
 - **Created Distance = Maneuver & The Transition Gap**: To advance position, change angles, or disengage to your feet, you *must* create micro-space. That momentary gap is the exact window that allows the opponent to escape, insert frames, or strike.
 - **The Tactical Imperative**: High-level grappling and self-defense require deliberate transitions: clamp down with zero space to extinguish an opponent's flurry, and create directional, framed micro-space only when ready to advance or break away to an exit.
 
+### The Mechanical Engineering & Systems Lens (Statics, Dynamics, and Kinematics)
+- **The Human Body as an Open Kinematic Chain**: A multi-body mechanical system of rigid skeletal links connected by anatomical joints (fulcrums) with defined degrees of freedom, driven by muscular actuators.
+- **Statics & Equilibrium (Center of Mass vs. Base of Support)**: Structural balance requires keeping the Center of Mass (COM) vertically aligned over the Base of Support (BOS). All throws, sweeps, and off-balancing maneuvers function by projecting the opponent's COM outside their polygon of support or removing their foundation while applying rotational torque.
+- **Dynamics & Kinetic Work ($W = F \times d$, $J = \Delta p$)**: Damage and physical displacement require mechanical work and impulse transfer. Striking power relies on kinetic chain stiffening at the moment of impact to couple whole-body effective mass ($m_{\text{eff}}$), maximizing kinetic energy transfer ($E_k = \frac{1}{2}m_{\text{eff}}v^2$).
+- **Torque, Fulcrums & Levers ($\tau = r \times F$)**: Joint locks, breaks, and chokes exploit mechanical advantage. By maximizing the moment arm ($r$) and isolating a joint as a fulcrum, the defender's large muscle groups (hips, core, both arms) easily overcome the opponent's smaller, isolated anatomical structures.
+- **Degrees of Freedom & Constraint Theory**: Pins and positional control are mechanical systems of constraints that systematically reduce the opponent's 6 spatial degrees of freedom (3 translational, 3 rotational) down to zero.
 
 ---
 

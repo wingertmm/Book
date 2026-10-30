@@ -5,9 +5,9 @@ Authoritative rules for tone, vocabulary, and technical formatting for *Time, Di
 ---
 
 ## 1. Authorial Voice & Tone
-- **Pragmatic & Authoritative**: Write with the measured, objective tone of a seasoned military officer and veteran martial arts coach. Avoid machismo, bravado, or bar-fight storytelling.
-- **Stoic & Analytical**: Focus on human physiology, bio-mechanics, physics, and strategic logic under pressure.
-- **Accessible Military Synthesis**: Translate military doctrine into clean, intuitive civilian language. For example, use *"Clear purpose + flexible method"* rather than bureaucratic jargon like *"Commander's Intent"*.
+- **Pragmatic, Analytical & Engineering-Grounded**: Write with the measured, objective precision of a mechanical engineer (BS, MS), seasoned Air Force officer, and veteran multi-discipline martial artist. Analyze combat as an interconnected physical system governed by statics, dynamics, force vectors, fulcrums, leverage, moment arms ($\tau = r \times F$), and kinematic chains, free of mystical dogma or bravado.
+- **Stoic & Evidence-Based**: Focus on human physiology, bio-mechanics, empirical physics, and strategic logic under pressure.
+- **Accessible Military & Engineering Synthesis**: Translate military doctrine and engineering principles into clean, intuitive civilian language. For example, use *"Clear purpose + flexible method"* rather than bureaucratic jargon like *"Commander's Intent"*, and explain leverage and fulcrums intuitively without dry academic pedantry.
 - **Spelling & Branding Standard**: Use standard English spelling: **Fighting** (never "Phighting").
 
 ---
