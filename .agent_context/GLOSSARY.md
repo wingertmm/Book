@@ -61,7 +61,9 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 ### S
 - **Security of Position**: The principle that a defender must never cede a sound physical, structural, or spatial position for a low-percentage strike or high-risk exchange.
 - **Setups & Off-Balancing**: Creating mechanical or cognitive vulnerabilities in an opponent (via misdirection, level changes, or structural breaks) before launching a decisive action.
+- **Spatial Trade-Off (Zero-Distance Paradox)**: The tactical dilemma wherein eliminating space (zero distance) achieves maximum physical control and nullifies an opponent's kinetic work, but completely immobilizes the controller; conversely, generating space to maneuver or advance position creates the exact window an opponent requires to escape.
 - **Surprise**: Acting outside the attacker's expectations in timing, angle, or method.
 
 ### T
 - **Time**: The temporal dimension of combat; the reactionary gap and decision window required to observe, orient, decide, and act.
+- **Transition Gap (The Escape Window)**: The temporary, dynamic micro-space that inevitably opens when shifting between pinning positions or maneuvering to disengage, representing the primary vulnerability interval where an opponent can frame, shrimp, or reverse.

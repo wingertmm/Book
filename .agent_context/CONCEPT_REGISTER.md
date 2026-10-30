@@ -19,6 +19,12 @@ All combat choices, positioning, and decisions must be filtered through these th
 - **Distance Modifiers (Weapons)**: Impact weapons (bats, pipes) artificially extend the attacker's lethal perimeter by 2–3 feet and rely on rotational leverage ($\tau = r \times F$). Defense requires either expanding outside the perimeter or aggressively jamming inside the swing arc into near/clinch range.
 - **The Defensive Dilemma (Evasion vs. Jamming)**: Against long-range weapons, safety exists only at extreme distance ($>7\text{ ft}$) or zero distance ($<1\text{ ft}$). The middle distance is the kill zone.
 
+### The Spatial Trade-Off: Zero Distance (Control) vs. Created Distance (Maneuver)
+- **Zero Distance = Maximum Control, Zero Mobility**: Eliminating all dead space (chest-to-chest, tight underhooks) removes the opponent's levers, prevents frames, and neutralizes kinetic work ($W = F \times d$). However, it also anchors your own mobility.
+- **Created Distance = Maneuver & The Transition Gap**: To advance position, change angles, or disengage to your feet, you *must* create micro-space. That momentary gap is the exact window that allows the opponent to escape, insert frames, or strike.
+- **The Tactical Imperative**: High-level grappling and self-defense require deliberate transitions: clamp down with zero space to extinguish an opponent's flurry, and create directional, framed micro-space only when ready to advance or break away to an exit.
+
+
 ---
 
 ## 2. The Cognitive & Neurological Layer (The Mind as Command Center)
