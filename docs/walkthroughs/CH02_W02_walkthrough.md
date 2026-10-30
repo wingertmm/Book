@@ -12,7 +12,7 @@
 ### 2. Freeze Tag & Diff Summary
 - **Authorized Freeze Tag**: `CH02-W02-RANGES-FROZEN`
 - **Diffstat Summary**: `3 files changed, 276 insertions(+)`
-- **Actual Word Count**: `1,570 words` (Target: 1,400–1,700 words, strictly below the 1,900 ceiling)
+- **Actual Word Count**: `1,672 words` (Target: 1,400–1,700 words, strictly below the 1,900 ceiling)
 
 ### 3. Invariant Locks Summary
 - **Status**: [ALL 8 LOCKS HELD / 0 FAILURES]
@@ -20,8 +20,8 @@
   - `Lock 2 (Action Precedes Math)`: **PASSED** (Kinetic arc acceleration and impulse isolated in `> [!NOTE]` callout; 0 formulas in narrative)
   - `Lock 3 (The Mat Test Compliance)`: **PASSED** (Full read-aloud audit verified coach-to-fighter corner voice)
   - `Lock 4 (Terminology Fidelity)`: **PASSED** (Matches `CONCEPT_REGISTER.md` and `GLOSSARY.md`)
-  - `Lock 5 (Word Count Budget)`: **PASSED** (1,570 words / 1,900 ceiling)
-  - `Lock 6 (Linguistic Hygiene)`: **PASSED** (0 banned words; 3.7% passive voice)
+  - `Lock 5 (Word Count Budget)`: **PASSED** (1,672 words / 1,900 ceiling)
+  - `Lock 6 (Linguistic Hygiene)`: **PASSED** (0 banned words; 2.3% passive voice)
   - `Lock 7 (Authorial Credibility)`: **PASSED** (Military/engineering precision subordinated to practical mat realities)
   - `Lock 8 (Negative Blast Radius)`: **PASSED** (0 impact weapon modifiers; 0 detailed ground grappling submissions)
 

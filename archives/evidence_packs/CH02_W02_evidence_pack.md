@@ -28,8 +28,8 @@
 | **Lock 2: Action Precedes Math** | **YES** | Kinetic energy transfer ($E_k = \frac{1}{2}mv^2$) and arc acceleration isolated in dedicated `> [!NOTE]` callout; 0 formulas in narrative flow. |
 | **Lock 3: The Mat Test Compliance** | **YES** | Read-aloud audit verified coach-to-fighter corner voice; zero classroom lecture tone. |
 | **Lock 4: Terminology Fidelity** | **YES** | Aligns with `CONCEPT_REGISTER.md` and `GLOSSARY.md` (Long Distance, Medium Distance, Close Distance, Near Distance, Jamming, Rotational Clearance). |
-| **Lock 5: Word Count Budget** | **YES** | 1,570 words (Budget: 1,400–1,700; Ceiling: 1,900). |
-| **Lock 6: Linguistic Hygiene** | **YES** | 0 banned words (`seamlessly`, `natively`, `cleanly`, `simply`, `obviously`, `phighting`); 3.7% passive voice. |
+| **Lock 5: Word Count Budget** | **YES** | 1,672 words (Budget: 1,400–1,700; Ceiling: 1,900). |
+| **Lock 6: Linguistic Hygiene** | **YES** | 0 banned words (`seamlessly`, `natively`, `cleanly`, `simply`, `obviously`, `phighting`); 2.3% passive voice. |
 | **Lock 7: Authorial Credibility** | **YES** | Practical martial ground truth backed by engineering and military doctrine. |
 | **Lock 8: Negative Blast Radius** | **YES** | 0 impact weapon modifiers (reserved for Wave 3); 0 detailed ground grappling submissions (reserved for Chapter 15). |
 
@@ -49,7 +49,7 @@ tests/code_examples/test_ch02_probes.py::test_ch02_w01_zero_banned_marketing_wor
 tests/code_examples/test_ch02_probes.py::test_ch02_w01_mandatory_concepts_present PASSED
 tests/code_examples/test_ch02_w02_file_exists PASSED
 tests/code_examples/test_ch02_w02_word_count_within_budget 
-[PROBE-CH02-W02-FOUR-RANGES] Actual word count: 1570
+[PROBE-CH02-W02-FOUR-RANGES] Actual word count: 1672
 PASSED
 tests/code_examples/test_ch02_probes.py::test_ch02_w02_zero_banned_marketing_words PASSED
 tests/code_examples/test_ch02_probes.py::test_ch02_w02_mandatory_concepts_present PASSED
@@ -60,9 +60,13 @@ tests/code_examples/test_ch02_probes.py::test_ch02_w02_mandatory_concepts_presen
 ---
 
 ### Artifact 4: Linter & Style Hygiene Report
-- **Total Word Count**: `1,570 words`
-- **Passive Voice Percentage**: `3.7%` (Ceiling: 10%)
+- **Total Word Count**: `1,672 words`
+- **Passive Voice Percentage**: `2.3%` (Ceiling: 10%)
 - **Banned Words Count**: `0`
+- **User Gate 1 Feedback Incorporations**:
+  - Consistent range descriptors matching canonical outline (Long: Kicking & Projectile / Avoidance; Medium: Striking / Fist; Close: Elbows, Knees, and Head Control; Near: Grips, Clinch, and Body-to-Body Contact / Jamming).
+  - Beat 2 non-absolute framing: Explicitly conditioned pocket standing on relative attributes (reach, height, mobility), initiative, and dominant angles.
+  - Tactical Synthesis dynamic movement: Heightened emphasis on continuous spatial transit rather than static occupation, laying operational runway for the Wave 3 Transition Gap.
 - **Conceptual Token Matches**:
   - `Long Distance`: Present
   - `Medium Distance`: Present

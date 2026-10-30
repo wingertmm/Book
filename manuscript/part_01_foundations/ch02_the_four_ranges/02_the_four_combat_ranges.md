@@ -1,4 +1,4 @@
-## 2.2 The Four Combat Ranges: Long, Medium, Close, and Near
+## 2.3–2.6 The Four Combat Ranges: Long, Medium, Close, and Near
 
 Distance is not a fixed measurement; it is an active spatial dial. 
 
@@ -8,7 +8,7 @@ Fighters do not lose confrontations because they lack moves. They lose because t
 
 ---
 
-### Beat 1: Range 1 — Long Distance (The Avoidance & Reaction Zone)
+### Beat 1: Range 1 — Long Distance (Kicking & Projectile / Avoidance Range)
 
 Long distance is the only range where you can escape without exchanging blood; surrender it only if you have a decisive reason to close.
 
@@ -24,24 +24,24 @@ The decision rule at Long Distance is unambiguous: preserve the gap, scan for ex
 
 ---
 
-### Beat 2: Range 2 — Medium Distance (The High-Casualty Pocket)
+### Beat 2: Range 2 — Medium Distance (Striking / Fist Range)
 
-Medium distance is where people take the most damage; never stand toe-to-toe in the pocket unless your relative attributes and initiative grant a clear advantage.
+Medium distance is where people take the most damage; never stand toe-to-toe in the pocket unless your relative attributes, angle, and initiative grant a decisive advantage.
 
 **Medium Distance** lives at arm's length—roughly three to five feet. This is the domain of western boxing, kickboxing, and the common street brawl. Here, fingertips can brush the opponent's lead hand, and full-extension punches (jabs, crosses, looping overhands) achieve terminal velocity.
 
 Medium Distance is the most dangerous zone on the spatial dial for three reasons:
 1. **Peak Kinetic Acceleration**: In this pocket, human limbs possess the exact operational runway needed to whip through rotational arcs, transferring maximum kinetic force into jawlines, temples, and ribs.
 2. **Compressed Reaction Time**: A punch thrown from arm's length reaches its target in 150 to 200 milliseconds—pushing past human neurological reaction thresholds.
-3. **Mutual Lethality**: Both combatants occupy the same striking envelope simultaneously. Unless your wingspan, hand speed, and head movement give you an overwhelming structural edge, trading punches in the pocket is an exercise in mutual blunt-force trauma.
+3. **Mutual Lethality**: Both combatants occupy the same striking envelope simultaneously. Unless your relative attributes—wingspan, hand speed, and head movement—give you an overwhelming structural edge, trading punches in the pocket is an exercise in mutual blunt-force trauma.
 
 Untrained fighters gravitate to Medium Distance out of instinct and then freeze. They plant their feet, tuck their chin into their chest, and swing wild punches while absorbing punishment. 
 
-A disciplined tactician views Medium Distance not as a home, but as a dangerous highway to cross. When forced into Medium Distance, you have two rational tactical choices:
+A disciplined tactician views Medium Distance not as a home, but as a dangerous highway to cross. Unless your relative reach, superior timing, or dominant angle grant you an unassailable tactical advantage, standing toe-to-toe is an unacceptable gamble. When forced into Medium Distance, you have two rational tactical choices:
 - **Expand the Gap**: Use rapid lateral footwork to cut a 45-degree angle and retreat back into Long Distance where reaction time returns.
 - **Collapse the Gap**: Slip beneath the incoming strike, drop your level, and drive forward into Close or Near Distance before the punch reaches terminal velocity.
 
-Do not linger in the pocket. You either own the angle and initiative, or you transition immediately.
+Do not linger in the pocket. You either own the angle and relative initiative, or you transition immediately.
 
 > [!NOTE]
 > **The Mechanics Behind It: Kinetic Arc Acceleration and the High-Casualty Zone**  
@@ -51,7 +51,7 @@ Do not linger in the pocket. You either own the angle and initiative, or you tra
 
 ---
 
-### Beat 3: Range 3 — Close Distance (Infighting & Neck Control)
+### Beat 3: Range 3 — Close Distance (Elbows, Knees, and Head Control)
 
 When space collapses to elbow range, posture control replaces punching speed; whoever controls the head and neck controls the fight.
 
@@ -70,7 +70,7 @@ Close Distance is a pressure cooker. When you maintain posture and inside frames
 
 ---
 
-### Beat 4: Range 4 — Near Distance (The Zero-Distance Jam & Clinch)
+### Beat 4: Range 4 — Near Distance (Grips, Clinch, and Body-to-Body Contact / Jamming)
 
 At chest-to-chest range, strikes lose their runway; you do not trade blows, you fight for underhooks, base, and balance.
 
@@ -87,11 +87,11 @@ Near Distance is where a smaller, disciplined defender neutralizes an aggressive
 
 ---
 
-### Tactical Synthesis: The Range Transition Spectrum
+### Tactical Synthesis: Dynamic Movement Across the Spatial Dial
 
-Mastery is knowing where you stand on the spatial dial and forcing your opponent across range boundaries into the zone where their tools fail.
+Mastery is not occupying a single range; it is dictating the dynamic transition across ranges while forcing your opponent into zones where their tools fail.
 
-The Four Combat Ranges do not exist as isolated islands. Combat is an active, continuous movement across a spatial spectrum:
+The Four Combat Ranges are not static territories where fighters stand and negotiate. Real violence is fluid, chaotic, and characterized by rapid, violent shifts along the spatial dial. A static fighter is a target. If you attempt to remain parked in Medium Distance, you will absorb trauma; if you freeze at Long Distance without cutting angles, an aggressive assailant will run through your perimeter.
 
 ```
 [ LONG DISTANCE ]       ──►  Reactionary Gap / Scan & Disengage
@@ -106,8 +106,8 @@ The Four Combat Ranges do not exist as isolated islands. Combat is an active, co
 [ NEAR DISTANCE ]       ──►  Clinch & Grappling / Underhooks & Base
 ```
 
-Never stay static in any single range. You must jam a kicking specialist into Close or Near Distance; you must keep a dangerous wrestler at Long Distance through active footwork and framing. 
+You must treat distance as a dynamic engine. You jam a kicking specialist into Close or Near Distance before they can extend their hips; you keep a dangerous wrestler at Long Distance through active footwork and framing. 
 
-The danger in combat lives in the transitions. When you move between ranges, you create micro-openings where balance shifts and defenses drop. 
+The decisive moments of combat do not occur within the static centers of these ranges; they occur during the high-velocity transitions between them. When combatants crash forward or retreat, structural integrity wavers, balance shifts, and defenses momentarily drop. 
 
-In the final wave of this chapter, we analyze these spatial dynamics in depth: examining how impact weapons alter reach perimeters, navigating the **Spatial Trade-Off** between control and maneuver, and mastering **The Transition Gap** where nearly all escapes and counters are born.
+In the final wave of this chapter, we analyze these critical mechanics in depth: examining how impact weapons alter reach perimeters, navigating the **Spatial Trade-Off** between clinch control and open-space maneuver, and mastering **The Transition Gap**—the razor-thin window of vulnerability and opportunity that opens every time distance changes.
