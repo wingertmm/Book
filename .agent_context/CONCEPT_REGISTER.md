@@ -1,26 +1,79 @@
 # Concept Register & Terminology Lexicon
 
-Master source of truth for technical terminology, conceptual models, and architectural boundaries in this book.
+Master source of truth for the tactical framework, physical definitions, and 11 Unified Principles in *Time, Distance, and Power*.
 
 ---
 
-## 1. Core Architectural Concepts
-| Term | Formal Definition | Scope / Layer | Invariant Constraint |
+## 1. The Core Physics Triad (Level 1 Master Filter)
+All combat choices, positioning, and decisions must be filtered through these three:
+
+| Dimension | Tactical Function | Physical Mechanism | Self-Defense Translation |
 | :--- | :--- | :--- | :--- |
-| **Triad Architecture** | 3-tier organizational model: Global Governance Engine, Thin Personas, and Decentralized Context. | Architectural Governance | Personas must remain < 80 lines. |
-| **Dual-Gate Critic Lifecycle** | Formal 2-step verification loop: Gate 1 approves the Plan before execution; Gate 2 accepts the Diff and Evidence before merging. | Process / Governance | Zero code/prose modifications permitted before Gate 1 approval. |
-| **Invariant Lock** | A deterministic, falsifiable constraint evaluated via automated check or exact invariant inspection. | Verification | Must evaluate strictly to Yes/No. |
-| **Falsification Probe** | An automated executable test suite or physical harness designed to falsify a technical claim. | Testing / QA | Must output authentic `Exit Code: 0` console tail. |
-| **Single Front Door Invariant** | Architectural constraint mandating exactly one user-facing interactive supervisor per system. | Swarm Architecture | Specialists run headlessly; never exposed in UI chat dropdowns. |
-| **In-Line Diff Primacy** | The standard requiring verbatim `git diff --stat` and unified hunks pasted directly into the review thread. | Review Process | Diffs are primary; narrative summaries without diffs fail Gate 2. |
-| **Modular Pedagogical Architecture** | Modular structuring of knowledge into Domain Core, Abstract Interfaces (Ports), and Concrete Adapters. | Technical Writing | Sections must be severable and independently teachable. |
+| **Time** | Decision-cycle compression; reaction window management. | Speed of perception, orientation, and neuromuscular execution. | Shorter decision lag; seizing the initiative before the attacker can set their defense. |
+| **Distance** | Space control; range creation or denial. | Linear and angular separation relative to physical reach and attributes. | Long (feet), Medium (fists), Close (elbows/knees), Near (grips/clinch). Moving offline to collapse or expand space. |
+| **Power** | Force application; structural disruption. | Kinetic kinetic transfer, mass acceleration, leverage, momentum. | Concentrated at decisive points; guided strictly by purpose and legal proportionality. |
 
 ---
 
-## 2. Acronyms & Abbreviations
-- **CCM**: Concept-to-Chapter Matrix
-- **MOSA**: Modular Open Systems Approach
-- **SOP**: Standard Operating Procedure
-- **SRP**: Single Responsibility Principle
-- **VCRM**: Verification Cross-Reference Matrix
-- **DTE**: Developmental Test & Evaluation
+## 2. The 11 Unified Principles (Level 2 Strategic Core)
+
+### Principle 1: Purpose First
+- **Definition**: Define the primary objective before or at the instant of contact (e.g., create safety and exit, or protect another person). Every action is judged by whether it advances that objective. Secondary goals are discarded if they compete with the primary purpose. Timing, distance, and power must be integrated—an action serving only one is incomplete.
+- **Sources**: Airpower (Priority, Clear Purpose + Flexible Method); Army (Objective); Sun Tzu (Pre-calculation).
+
+### Principle 2: Security of Position
+- **Definition**: Do not surrender a sound position, angle, distance, or piece of terrain for a low-percentage strike or high-risk exchange. Correct body mechanics and position make you a hard target. Fundamentals that prevent errors are vastly more valuable than elaborate techniques.
+- **Sources**: Army (Security, Protection); Sun Tzu (Avoid Strength, Use Terrain); Airpower (Balance).
+
+### Principle 3: Maneuver to Advantage
+- **Definition**: Move to an angle or range that weakens the attacker’s options and strengthens yours. Prefer offline or flanking movement over staying on the attacker’s centerline. Distance is space control: close space to engage, expand space to retreat. Ranges dictate weapons: Long (feet), Medium (fists), Close (elbows/knees), Near (grips/body-to-body).
+- **Sources**: Army (Maneuver); Sun Tzu (Positioning, Unexpected Routes); Airpower (Flexibility).
+
+### Principle 4: Initiative
+- **Definition**: Once you decide to act, continue driving the interaction so the attacker is forced to react to you. Do not pause after the first successful action if the threat remains. Timing is required for every action; too early or too late fails. Higher-level opponents present smaller windows, requiring precision, off-balancing, and setups to get inside their decision cycle.
+- **Sources**: Army & Airpower (Offensive / Initiative); Sun Tzu (Speed, Seize Opportunity).
+
+### Principle 5: Concentration
+- **Definition**: Focus available power at one decisive moment and place rather than distributing weak efforts. Commit fully once the opening exists. Timing, distance, and power must be integrated for maximum effect; power applied at the wrong time or distance is wasted.
+- **Sources**: Airpower (Concentration); Army (Mass); Sun Tzu (Strike Weakness with Focused Force).
+
+### Principle 6: Economy
+- **Definition**: Use the least effort required on secondary problems. Preserve energy, structure, and options for the primary objective or the exit. Avoid prolonged exchanges that consume resources without advancing the purpose. Not making errors is more important than fancy moves.
+- **Sources**: Army (Economy of Force); Airpower (Economy, Priority); Sun Tzu (Avoid Wasteful Engagement).
+
+### Principle 7: Surprise / Unpreparedness
+- **Definition**: Strike or move in a time, angle, or manner the attacker has not anticipated. Change rhythm, level, or direction to exploit a moment of unreadiness. Capitalize on opponent mistakes, off-balance positions, or disrupted timing. The better the opponent, the tighter the timing window required.
+- **Sources**: Sun Tzu (Attack Where Unprepared, Deception); Airpower (Surprise, Decision-Cycle Advantage); Army (Surprise).
+
+### Principle 8: Avoidance When Superior
+- **Definition**: If a safe exit or de-escalation exists, it is the preferred resolution. Physical force is used only when avoidance is no longer viable or has failed. The supreme art of war is to subdue the enemy without fighting.
+- **Sources**: Sun Tzu (Subdue Without Fighting); Airpower & Army (Priority and Economy when fighting is unnecessary).
+
+### Principle 9: Persistence to Resolution
+- **Definition**: Continue until the objective is met or a superior option appears. Do not stop at the first partial success if the attacker can still continue. Reassess continuously, but do not abandon effective pressure prematurely.
+- **Sources**: Airpower (Persistence); Army (Follow-through in Actions on Contact).
+
+### Principle 10: Actions on Contact
+- **Definition**: At the moment of contact, execute a pre-trained sequence without pause: recognize → lock purpose → choose → act → reassess. The sequence must be drilled until it appears subconsciously under stress. High-level performers develop neural pathways through repetition: "Beware the person who has trained one action a thousand times, not the person who has trained a thousand actions once."
+- **Sources**: Army (Actions on Contact); Airpower (Flexible Method); Sun Tzu (Speed).
+
+### Principle 11: Know the Situation
+- **Definition**: Continuously update what you know about yourself, the attacker, weapons, bystanders, and the environment. White belts present large timing windows; high-level fighters present small ones. Accurate assessment of the opponent’s level and intent directly determines the required timing precision.
+- **Sources**: Sun Tzu (Know Yourself and the Enemy); Army (Security / Reconnaissance); Airpower (Observation in the Decision Cycle).
+
+---
+
+## 3. The 4 Physical Combat Ranges
+1. **Long Distance (Projectile / Kicking / Avoidance Range)**: Outside the reach of hands; primary domain for recognition, verbal de-escalation, and immediate exit corridors.
+2. **Medium Distance (Fist / Striking Range)**: Reach of extended arms; high risk of two-way exchange; requires immediate decision to create distance or collapse inside.
+3. **Close Distance (Elbow / Knee / Head Control Range)**: Inside arm extension; high power, short reaction time; devastating leverage and structural disruption.
+4. **Near Distance (Grips / Clinch / Ground / Body-to-Body)**: Complete tactile connection; wrestling, judo, and jujitsu control mechanics; weapon retention and underhook dominance.
+
+---
+
+## 4. The Decision Engine Cycle
+$$\text{Recognize} \longrightarrow \text{Prioritize} \longrightarrow \text{Choose} \longrightarrow \text{Act \& Reassess}$$
+- **Recognize**: Security & situational audit.
+- **Prioritize**: Lock the primary objective (exit vs. control).
+- **Choose**: Evaluate options through Time, Distance, and Power.
+- **Act & Reassess**: Exploit initiative with drilled actions on contact.

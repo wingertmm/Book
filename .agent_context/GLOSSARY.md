@@ -1,34 +1,53 @@
-# Book Glossary & Index
+# Book Glossary & Index: Time, Distance, and Power
 
-Alphabetical definitions of core terminology across the manuscript.
+Alphabetical definitions of foundational terms, doctrines, and combat principles.
 
 ---
 
 ### A
-- **Adapter**: A software component that converts data and invocations between an external technology (e.g., REST API, Database, CLI) and an internal Port contract.
-- **Agentic Drift**: The gradual degradation of an LLM's adherence to project constraints and architectural boundaries as context length increases.
+- **Actions on Contact**: An immediate, pre-trained tactical sequence executed without hesitation the instant violence begins: Recognize $\rightarrow$ Lock Purpose $\rightarrow$ Choose $\rightarrow$ Act $\rightarrow$ Reassess.
+- **Adrenaline-Induced Degradation**: The physiological breakdown of conscious reasoning, peripheral vision (tunnel vision), and fine motor control when heart rates exceed ~145–175 BPM.
+- **Angular Flanking**: Stepping or pivoting off the attacker's line of force (centerline) to occupy an oblique or rear angle where their primary weapons cannot bear.
+- **Avoidance When Superior**: The highest form of self-defense; resolving a crisis through awareness, de-escalation, or immediate departure without applying physical power.
 
 ### C
-- **Concept-to-Chapter Matrix (CCM)**: An audit matrix verifying that every technical term and pattern is formally defined before use and verified across chapters.
+- **Centerline**: The imaginary vertical plane passing through the center of an opponent's body where their primary striking and driving mass are concentrated.
+- **Clear Purpose + Flexible Method**: The self-defense adaptation of mission command; locking the strategic objective (e.g. exit safely) while retaining decentralized freedom to choose the tactical tool.
+- **Close Distance**: The combat range within arm's reach where elbows, knees, and head-control frames dominate.
+- **Concentration**: Applying overwhelming force at a decisive moment and structural vulnerability rather than scattering weak, piecemeal strikes.
 
 ### D
-- **Dual-Gate Critic Lifecycle**: A governance model enforcing two mandatory approval gates: Gate 1 (pre-implementation plan approval) and Gate 2 (post-implementation diff and evidence acceptance).
+- **Decision-Cycle Dominance**: Moving through the recognition-to-action sequence faster than an attacker, forcing them into a perpetually lagging reactive state.
+- **Distance**: The spatial dimension of combat governing reaction time and weapon eligibility across four distinct ranges.
 
-### F
-- **Falsification Probe**: A targeted test suite or invariant assertion designed to detect regressions or rule violations with deterministic exit codes.
+### E
+- **Economy of Force**: Deploying the minimum necessary effort on secondary distractions so maximum energy and capability remain reserved for the primary objective or exit.
 
 ### H
-- **Hexagonal Architecture**: An architectural style prioritizing the isolation of domain logic via abstract Ports and concrete Adapters.
+- **Hard Target**: A defender whose posture, structural alignment, situational awareness, and foundational positioning make them difficult and costly to attack.
 
 ### I
-- **In-Line Diff Primacy**: The principle requiring full unified diffs to be pasted directly into review surfaces rather than summarized.
-- **Invariant Lock**: A non-negotiable safety constraint that must evaluate to True throughout a system's lifecycle.
+- **Initiative**: Driving the tempo and direction of the encounter so the attacker is forced to react to you, rather than vice versa.
+
+### L
+- **Long Distance**: The combat range outside physical contact where kicks, projectiles, and early avoidance/exit options exist.
 
 ### M
-- **Modular Pedagogical Architecture**: The structuring of educational and technical texts into severable, modular sections with explicit interfaces.
+- **Maneuver to Advantage**: Using angular movement, changes in level, or environmental features to degrade an attacker's options while enhancing your own.
+- **Medium Distance**: The striking range defined by extended fist reach where two-way trades carry maximum risk.
+
+### N
+- **Near Distance**: Complete body-to-body engagement involving grips, underhooks, clinch fighting, throws, and ground grappling.
+- **Neural Conditioning**: The deliberate process of deep physical repetition that encodes combat decisions into subconscious neural pathways, bypassing conscious deliberation under adrenaline.
+
+### P
+- **Power**: The focused application of kinetic force, leverage, and momentum guided strictly by strategic purpose and legal proportionality.
+- **Purpose First**: The master rule requiring the primary objective to be decided before or at the moment of contact, judging all tactical choices by whether they advance that goal.
 
 ### S
-- **Single Front Door Invariant**: An architectural rule requiring a single user-facing supervisor in multi-agent swarms to prevent disjointed user interactions.
+- **Security of Position**: The principle that a defender must never cede a sound physical, structural, or spatial position for a low-percentage strike or high-risk exchange.
+- **Setups & Off-Balancing**: Creating mechanical or cognitive vulnerabilities in an opponent (via misdirection, level changes, or structural breaks) before launching a decisive action.
+- **Surprise**: Acting outside the attacker's expectations in timing, angle, or method.
 
 ### T
-- **Triad Architecture**: An organizational paradigm partitioning agent frameworks into Global Governance, Thin Personas, and Decentralized Context.
+- **Time**: The temporal dimension of combat; the reactionary gap and decision window required to observe, orient, decide, and act.
