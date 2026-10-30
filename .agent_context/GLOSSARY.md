@@ -19,9 +19,11 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 ### C
 - **Centerline**: The imaginary vertical plane passing through the center of an opponent's body where their primary striking and driving mass are concentrated.
 - **Clear Purpose + Flexible Method**: The self-defense adaptation of mission command; locking the strategic objective (e.g. exit safely) while retaining decentralized freedom to choose the tactical tool.
+- **Closed-Loop Combat Control**: A sensorimotor control paradigm where a combatant continuously integrates real-time feedback (tactile pressure, weight shifts, visual cues) to execute micro-adjustments in base, angles, and frames, maintaining dynamic stability under severe perturbation rather than executing rigid, open-loop scripted moves.
 - **Close Distance**: The combat range within arm's reach where elbows, knees, and head-control frames dominate.
 - **Command Center**: The higher cortical faculties (prefrontal cortex) responsible for strategic intent, threat auditing, cue reading, and choosing when to engage or disengage before contact.
 - **Concentration**: Applying overwhelming force at a decisive moment and structural vulnerability rather than scattering weak, piecemeal strikes.
+- **Controlled Chaos**: The operational doctrine of accepting combat as an inherently non-linear, high-entropy system; the practitioner establishes rigid structural boundaries (frames, wedges, base) and closed-loop feedback to maintain equilibrium while weaponizing tempo and uncertainty against the adversary.
 
 ### D
 - **Decision-Cycle Dominance**: Moving through the recognition-to-action sequence faster than an attacker, forcing them into a perpetually lagging reactive state.

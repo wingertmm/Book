@@ -13,6 +13,8 @@ The author’s background as a **Mechanical Engineer (BS, MS)** and **Air Force 
 
 The mind is the ultimate command center—fighting is fundamentally a contest of minds, strategy, intent deciphering, and cue-reading. However, **thinking without repetition produces hesitation; repetition without thinking produces rigid, unadaptive patterns**. By encoding mechanical fundamentals into the lower brain ("lizard brain") through deep repetition, the conscious mind is freed to operate at the strategic layer: reading opponent intent, exploiting timing windows, and imposing tactical will.
 
+Violence is inherently an open, non-linear engine of high-entropy disorder. The objective of mastery is not to eliminate chaos through brittle, scripted choreographies—which shatter upon contact—but to achieve **Controlled Chaos**: establishing rigid structural boundary conditions (frames, base, wedges) and closed-loop dynamic stability that absorb shocks while weaponizing tempo and uncertainty against the adversary.
+
 ---
 
 ## Detailed Table of Contents & Word Count Targets
@@ -40,7 +42,7 @@ The mind is the ultimate command center—fighting is fundamentally a contest of
   - 4.1 The Mind as the Primary Weapon: Strategy, Analysis, and Deciphering Intent
   - 4.2 The Dual-Brain Paradox: Why Conscious Reasoning Drops Out Under Adrenaline
   - 4.3 Offloading to the Lizard Brain: How Deep Repetition Turns Moves into Involuntary Reflexes
-  - 4.4 Cue-Reading in the Chaos: Decoding Weight Shifts, Eye Lines, Breathing, and Centerline Telegraphs
+  - 4.4 Controlled Chaos: Closed-Loop Damping, Navigating the Vortex, and Cue-Reading under High Entropy
   - 4.5 The Iron Law: "Thinking without repetition produces hesitation; repetition without thinking produces rigid patterns."
   - 4.6 The Quality Constraint: Why Practice Makes Permanent and Imperfect Practice Automates Flaws
 
@@ -52,7 +54,7 @@ The mind is the ultimate command center—fighting is fundamentally a contest of
 - **Chapter 06: The Airpower & Systems Engineering Lens — Velocity, Synergy, and Problem Solving** (Target: 2,500 words)
   - 6.1 Clear Purpose + Flexible Method (Decoupled Mission Execution)
   - 6.2 Concentration of Effect and Parallel Attack: Overwhelming the Threat
-  - 6.3 Speed, Range, and Initiative: Setting the Tempo of the Engagement
+  - 6.3 Speed, Range, and Initiative: Setting the Tempo and Weaponizing Chaos (Boyd's Fast Transients)
   - 6.4 Systems Engineering & TRIZ in Combat: Applying Altshuller's Inventive Principles to Resolve Physical Contradictions
 - **Chapter 07: The Ground Maneuver Lens — Angles, Flanking, and Security** (Target: 2,500 words)
   - 7.1 Maneuver to Advantage: Offline Angular Footwork and Flanking
@@ -105,7 +107,7 @@ The mind is the ultimate command center—fighting is fundamentally a contest of
 - **Chapter 19: Train Like You Fight — The Law of Neural Conditioning** (Target: 2,500 words)
   - 19.1 "Beware the Man Who Practiced One Punch 1,000 Times"
   - 19.2 The Law of Permanence: Why Imperfect Practice Automates Errors (The Asymmetry of Unlearning)
-  - 19.3 Progressive Stress Inoculation: From Controlled Mats to Unpredictable Chaos
+  - 19.3 Progressive Stress Inoculation: Conditioning for Controlled Chaos Over Compliant Scripting
   - 19.4 Drilling Decision Points Over Move Sequences: Outcome Focus vs. Micro-Control
 - **Chapter 20: Weapon Surprises, Asymmetric Threats, and Multiple Attackers** (Target: 2,800 words)
   - 20.1 The First Time You See a Blade Cannot Be on the Street

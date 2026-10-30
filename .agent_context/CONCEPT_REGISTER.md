@@ -37,6 +37,10 @@ All combat choices, positioning, and decisions must be filtered through these th
 - **Force Couples & Moment Arm Maximization (The Physics of Asymmetric Takedowns)**:
   - *Linear Mass Collision (Double Leg)*: Driving directly into an opponent's Center of Mass (pelvis) minimizes the moment arm ($r \to 0$), requiring immense kinetic work ($W = \int F \, dx$) to overcome their total body mass, base friction, and downward sprawl force.
   - *Rotational Force Couple (Ankle Pick)*: Applying opposing force vectors at the extreme opposite ends of the skeletal chain—pulling the head/collar ($F_1$) at the top of the cervical spine while arresting the ankle ($F_2$) at the base. Maximizing the moment arm ($r \approx \text{total body height}$) minimizes the force required to produce tipping torque ($\tau = r \times F$). Gravity and base denial perform the takedown work.
+- **Controlled Chaos (Closed-Loop Dynamic Stability vs. Open-Loop Failure)**:
+  - *Engineering Foundation*: Combat is an open, non-linear, high-entropy dynamic system. Open-loop systems (choreographed scripts, compliant drills) fail catastrophically when subjected to unscripted resistance. Closed-loop control systems continuously sample error signals (unexpected weight shifts, off-balance perturbations, incoming strikes) and apply real-time negative-feedback corrections (angular pivots, base adjustments, framing) to preserve structural equilibrium.
+  - *Boundary Conditions*: Control is achieved not by micromanaging every opponent action, but by establishing rigid physical and geometric boundary conditions (frames, ground, walls, cervical spine misalignment). The opponent's chaotic thrashing is absorbed or redirected, expending their kinetic energy while the defender's structure remains stable.
+  - *Weaponized Entropy (Boyd's Principle)*: By maintaining internal dynamic stability while generating rapid, unexpected fast transients (level changes, tempo shifts, angular off-balancing), the practitioner forces the opponent into escalating cognitive and biomechanical chaos, collapsing their OODA loop.
 
 ---
 
