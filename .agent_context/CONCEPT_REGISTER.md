@@ -11,11 +11,33 @@ All combat choices, positioning, and decisions must be filtered through these th
 | :--- | :--- | :--- | :--- |
 | **Time** | Decision-cycle compression; reaction window management. | Speed of perception, orientation, and neuromuscular execution. | Shorter decision lag; seizing the initiative before the attacker can set their defense. |
 | **Distance** | Space control; range creation or denial. | Linear and angular separation relative to physical reach and attributes. | Long (feet), Medium (fists), Close (elbows/knees), Near (grips/clinch). Moving offline to collapse or expand space. |
-| **Power** | Force application; structural disruption. | Kinetic kinetic transfer, mass acceleration, leverage, momentum. | Concentrated at decisive points; guided strictly by purpose and legal proportionality. |
+| **Power** | Force application; structural disruption. | Kinetic transfer, mass acceleration, leverage, momentum. | Concentrated at decisive points; guided strictly by purpose and legal proportionality. |
 
 ---
 
-## 2. The 11 Unified Principles (Level 2 Strategic Core)
+## 2. The Cognitive & Neurological Layer (The Mind as Command Center)
+
+### The Dual-Brain Combat Architecture
+- **The Command Center (Higher Brain / Cortex)**: Operates before and between contacts. Responsible for strategic intent, threat recognition, reading subtle pre-incident cues, assessing terrain, and selecting when to engage or disengage.
+- **The Lizard Brain (Lower Brain / Brainstem & Cerebellum)**: Takes over the moment violence begins. Executes deeply ingrained motor programs as involuntary reflexes without conscious deliberation.
+- **The Offloading Principle**: Mastery is the process of offloading mechanical movements (sprawls, slips, frames, base recovery) to the lower brain. This frees conscious bandwidth for high-level tactical reading: tracking an attacker's balance, anticipating weapon presentation, or identifying an exit door.
+
+### The Iron Law of Combat Mastery
+> **"Thinking without repetition produces hesitation. Repetition without thinking produces rigid, unadaptive patterns."**
+
+- **Hesitation**: When a practitioner must consciously ponder "which technique to execute", the 200-millisecond window closes and they get hit.
+- **Rigidity**: Mindless repetition of choreographed katas or compliant drills creates blind scripts that collapse when an attacker moves unconventionally.
+- **Synthesis**: Intelligent tactical planning in training builds subconscious reflexes that execute adaptively under adrenaline.
+
+### Observable Intent Cues
+- **Weight Transfer**: Micro-shifts in foot pressure indicating an impending strike or level change.
+- **Centerline Rotation**: Dropping a rear shoulder or blading the hips to generate torque.
+- **Gaze & Eye Line**: Looking down at targets, tracking weapons, or scanning for bystanders before committing.
+- **Respiratory Cadence**: Sudden sharp inhalations or breath-holding immediately preceding power delivery.
+
+---
+
+## 3. The 11 Unified Principles (Level 2 Strategic Core)
 
 ### Principle 1: Purpose First
 - **Definition**: Define the primary objective before or at the instant of contact (e.g., create safety and exit, or protect another person). Every action is judged by whether it advances that objective. Secondary goals are discarded if they compete with the primary purpose. Timing, distance, and power must be integrated—an action serving only one is incomplete.
@@ -63,7 +85,7 @@ All combat choices, positioning, and decisions must be filtered through these th
 
 ---
 
-## 3. Discipline-to-Range Mapping & Sport Biases
+## 4. Discipline-to-Range Mapping & Sport Biases
 
 | Combat Discipline | Primary Distance Range | Core Principle Stressed | Sport Habit / Self-Defense Failure Mode |
 | :--- | :--- | :--- | :--- |
@@ -75,7 +97,7 @@ All combat choices, positioning, and decisions must be filtered through these th
 
 ---
 
-## 4. The Decision Engine Cycle
+## 5. The Decision Engine Cycle
 $$\text{Recognize} \longrightarrow \text{Prioritize} \longrightarrow \text{Choose} \longrightarrow \text{Act \& Reassess}$$
 - **Recognize**: Security & situational audit.
 - **Prioritize**: Lock the primary objective (exit vs. control).

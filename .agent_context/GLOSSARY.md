@@ -14,11 +14,13 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 - **Centerline**: The imaginary vertical plane passing through the center of an opponent's body where their primary striking and driving mass are concentrated.
 - **Clear Purpose + Flexible Method**: The self-defense adaptation of mission command; locking the strategic objective (e.g. exit safely) while retaining decentralized freedom to choose the tactical tool.
 - **Close Distance**: The combat range within arm's reach where elbows, knees, and head-control frames dominate.
+- **Command Center**: The higher cortical faculties (prefrontal cortex) responsible for strategic intent, threat auditing, cue reading, and choosing when to engage or disengage before contact.
 - **Concentration**: Applying overwhelming force at a decisive moment and structural vulnerability rather than scattering weak, piecemeal strikes.
 
 ### D
 - **Decision-Cycle Dominance**: Moving through the recognition-to-action sequence faster than an attacker, forcing them into a perpetually lagging reactive state.
 - **Distance**: The spatial dimension of combat governing reaction time and weapon eligibility across four distinct ranges.
+- **Dual-Brain Combat Architecture**: The operational partition between the conscious Command Center (cortex) and the involuntary motor reflex engine (lizard brain).
 
 ### E
 - **Economy of Force**: Deploying the minimum necessary effort on secondary distractions so maximum energy and capability remain reserved for the primary objective or exit.
@@ -28,8 +30,11 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 
 ### I
 - **Initiative**: Driving the tempo and direction of the encounter so the attacker is forced to react to you, rather than vice versa.
+- **Intent Cues**: Observable physical and bio-mechanical telegraphs (weight transfer, gaze direction, respiratory catch, centerline rotation) that reveal an opponent's commitment prior to motion.
+- **Iron Law of Combat Mastery**: *"Thinking without repetition produces hesitation; repetition without thinking produces rigid, unadaptive patterns."*
 
 ### L
+- **Lizard Brain Offloading**: The neurological process of drilling mechanical fundamentals until execution is managed entirely by lower brain centers as an involuntary reflex, freeing the conscious mind for high-level tactical reading.
 - **Long Distance**: The combat range outside physical contact where kicks, projectiles, and early avoidance/exit options exist.
 
 ### M
