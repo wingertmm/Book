@@ -37,6 +37,16 @@ Provide a definitive, fighter-first operational breakdown of the Master Equation
 
 ---
 
+### 3.1 Updated Style Guide Compliance Matrix (Fighter-First Mandates)
+| Requirement | Implementation in Section 1.2 | Verification Method |
+| :--- | :--- | :--- |
+| **1. Lead sentence states usable rule** | Each subsection opens with an unequivocal tactical rule (e.g., *"Distance is not empty air—it is time you can spend. Surrender it without purpose, and you surrender your ability to react."*). | Code review of opening sentences in Beats 1–4. |
+| **2. Plain-language mechanism first** | Sensory reaction delay, anatomical reach envelopes, and chest-to-chest smothering are explained using visceral mat metaphors before any technical abstraction. | Pre-draft beat outline audit. |
+| **3. Formal physics in callouts/parentheticals** | Kinetic Work ($W = F \times d$) and Reaction Time ($t = d/v$) isolated entirely inside a dedicated `> [!NOTE]` callout block ("The Physics Behind It"). | Automated grep / AST scan ensuring 0 equations in main prose flow. |
+| **4. Explicit Mat Test check** | Voice must pass the Mat Test: *Would a coach say this to a fighter between rounds?* If a line sounds like a classroom lecture, it must be rewritten into physical action cues. | Post-draft Mat Test audit prior to Gate 2 submission. |
+
+---
+
 ### 4. Target Files
 - **File to Create**:
   - `manuscript/part_01_foundations/ch01_the_triad/02_the_master_equation_distance_buys_time.md`
@@ -74,11 +84,12 @@ Provide a definitive, fighter-first operational breakdown of the Master Equation
 ### 6. Verification Probes & Fact Checks
 - **Designated Probe ID**: `[PROBE-CH01-SEC02-MASTER-EQUATION]`
 - **Verification Harness**: `tests/code_examples/test_ch01_probes.py`
-  - Automated assertions for:
+  - Automated & Editorial assertions:
     1. Word count in bounds [1,100 – 1,700 words].
     2. Zero occurrences of banned words list.
     3. Passive voice $< 10\%$.
     4. Required conceptual tokens present (`Reactionary Gap`, `Master Equation`, `Law of Weapon Eligibility`, `Zero Distance`).
+    5. **Mat Test Protocol**: Full prose read-aloud audit verifying that no paragraph reads like a whiteboard physics lecture; all mechanics grounded in coach-to-fighter cues before draft acceptance.
 - **Citation Anchors**:
   - *Blair et al. (2011)*: Action vs. reaction latency metrics.
   - *Tueller (1983)*: Reactionary gap demonstration (contextualized as physical closing velocity, not legal doctrine).
