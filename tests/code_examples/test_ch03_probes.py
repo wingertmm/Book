@@ -145,3 +145,70 @@ def test_ch03_w02_mandatory_concepts_present():
 
     assert not missing, f"Mandatory concepts missing from Chapter 03 Wave 2: {missing}"
 
+
+# ---------------------------------------------------------------------------
+# Wave 3 Probe Suite: Section 3.3 (Setups, Funneling & Engineered Openings)
+# ---------------------------------------------------------------------------
+
+W03_PATH = os.path.join(
+    os.path.dirname(__file__),
+    "..",
+    "..",
+    "manuscript",
+    "part_01_foundations",
+    "ch03_timing_and_windows",
+    "03_setups_predictive_funneling_and_engineered_openings.md",
+)
+
+W03_MANDATORY_CONCEPTS = [
+    "Engineered Opening",
+    "Predictive Funneling",
+    "Hick's Law Inversion",
+    "Baiting",
+    "Cervical Spine Torque",
+    "Momentum Redirection",
+]
+
+
+def test_ch03_w03_file_exists():
+    """Assert Chapter 03 Wave 3 markdown file exists."""
+    assert os.path.exists(W03_PATH), f"Target Wave 3 file missing: {W03_PATH}"
+
+
+def test_ch03_w03_word_count_within_budget():
+    """Assert Chapter 03 Wave 3 word count is within Gate 1 budget (1,300 - 1,800 words)."""
+    with open(W03_PATH, "r", encoding="utf-8") as f:
+        text = f.read()
+    words = text.split()
+    word_count = len(words)
+    print(f"\n[PROBE-CH03-W03-ENGINEERED-OPENINGS] Actual word count: {word_count}")
+    assert 1300 <= word_count <= 1800, f"Word count {word_count} outside budget [1300, 1800]"
+
+
+def test_ch03_w03_zero_banned_marketing_words():
+    """Assert zero occurrences of banned marketing fluff in Chapter 03 Wave 3."""
+    with open(W03_PATH, "r", encoding="utf-8") as f:
+        text = f.read().lower()
+
+    violations = []
+    for pattern in BANNED_WORDS:
+        matches = re.findall(pattern, text)
+        if matches:
+            violations.append((pattern, len(matches)))
+
+    assert not violations, f"Banned words detected in Chapter 03 Wave 3: {violations}"
+
+
+def test_ch03_w03_mandatory_concepts_present():
+    """Assert all mandatory concepts required for Chapter 03 Wave 3 are present."""
+    with open(W03_PATH, "r", encoding="utf-8") as f:
+        text = f.read()
+
+    missing = []
+    for concept in W03_MANDATORY_CONCEPTS:
+        if concept.lower() not in text.lower():
+            missing.append(concept)
+
+    assert not missing, f"Mandatory concepts missing from Chapter 03 Wave 3: {missing}"
+
+
