@@ -2,7 +2,7 @@
 
 **Target Chapter & Wave**: `Chapter 01 - Wave 1: Why Single-Attribute Tactics Fail & The Master Equation`  
 **Target Milestone**: `Part I: The Master Filter (The Physics & Philosophy of Force)`  
-**Status**: `PENDING EDITOR GATE 1 APPROVAL`  
+**Status**: `GATE 1: APPROVED BY EDITOR`  
 
 ---
 

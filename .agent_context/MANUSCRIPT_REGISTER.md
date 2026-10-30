@@ -14,7 +14,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | Chapter / Section | Target Words | Actual Words | Status | Gate 1 Plan | Gate 2 Freeze Tag | Primary Verification Probe ID |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Part I: The Master Filter** | | | | | | |
-| `CH01 The Triad` | 2,500 | — | `Planned` | — | — | `[PROBE-CH01-TRIAD-PHYSICS]` |
+| `CH01 The Triad` | 2,500 | — | `In Progress` | `docs/plans/CH01_W1_PLAN.md` | — | `[PROBE-CH01-TRIAD-PHYSICS]` |
 | `CH02 The Four Ranges` | 2,800 | — | `Planned` | — | — | `[PROBE-CH02-DISTANCE-RANGES]`|
 | `CH03 Timing & Windows` | 2,500 | — | `Planned` | — | — | `[PROBE-CH03-TIMING-WINDOWS]` |
 | `CH04 The Command Center` | 2,800 | — | `Planned` | — | — | `[PROBE-CH04-COMMAND-CENTER]` |
