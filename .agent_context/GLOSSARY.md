@@ -8,6 +8,7 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 - **Actions on Contact**: An immediate, pre-trained tactical sequence executed without hesitation the instant violence begins: Recognize $\rightarrow$ Lock Purpose $\rightarrow$ Choose $\rightarrow$ Act $\rightarrow$ Reassess.
 - **Adrenaline-Induced Degradation**: The physiological breakdown of conscious reasoning, peripheral vision (tunnel vision), and fine motor control when heart rates exceed ~145–175 BPM.
 - **Angular Flanking**: Stepping or pivoting off the attacker's line of force (centerline) to occupy an oblique or rear angle where their primary weapons cannot bear.
+- **Asymmetry of Habit Unlearning**: The neurological reality that extinguishing an automated motor error requires active prefrontal inhibition, making unlearning a bad habit vastly more difficult and cognitively expensive than learning a correct skill from the start.
 - **Avoidance When Superior**: The highest form of self-defense; resolving a crisis through awareness, de-escalation, or immediate departure without applying physical power.
 
 ### C
@@ -34,6 +35,7 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 - **Iron Law of Combat Mastery**: *"Thinking without repetition produces hesitation; repetition without thinking produces rigid, unadaptive patterns."*
 
 ### L
+- **Law of Permanence**: The training principle that repetition cements motor patterns regardless of their technical correctness (*"Practice does not make perfect; practice makes permanent. Only perfect practice makes perfect"*), mandating deliberate quality control over mindless volume.
 - **Lizard Brain Offloading**: The neurological process of drilling mechanical fundamentals until execution is managed entirely by lower brain centers as an involuntary reflex, freeing the conscious mind for high-level tactical reading.
 - **Long Distance**: The combat range outside physical contact where kicks, projectiles, and early avoidance/exit options exist.
 
@@ -44,6 +46,9 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 ### N
 - **Near Distance**: Complete body-to-body engagement involving grips, underhooks, clinch fighting, throws, and ground grappling.
 - **Neural Conditioning**: The deliberate process of deep physical repetition that encodes combat decisions into subconscious neural pathways, bypassing conscious deliberation under adrenaline.
+
+### O
+- **Outcome Focus**: Directing attentional focus toward external effects (e.g., driving through a target, creating 3 feet of separation) rather than internal body mechanics, maximizing strike velocity and impact force under stress (Halperin & Wulf 2016).
 
 ### P
 - **Power**: The focused application of kinetic force, leverage, and momentum guided strictly by strategic purpose and legal proportionality.

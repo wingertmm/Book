@@ -36,6 +36,7 @@ The mind is the ultimate command center—fighting is fundamentally a contest of
   - 4.3 Offloading to the Lizard Brain: How Deep Repetition Turns Moves into Involuntary Reflexes
   - 4.4 Cue-Reading in the Chaos: Decoding Weight Shifts, Eye Lines, Breathing, and Centerline Telegraphs
   - 4.5 The Iron Law: "Thinking without repetition produces hesitation; repetition without thinking produces rigid patterns."
+  - 4.6 The Quality Constraint: Why Practice Makes Permanent and Imperfect Practice Automates Flaws
 
 ### Part II: The Three Strategic Lenses (Sun Tzu, Airpower, and Ground Maneuver)
 - **Chapter 05: The Classical Lens — Sun Tzu's Philosophy of Violence** (Target: 2,500 words)
@@ -96,8 +97,9 @@ The mind is the ultimate command center—fighting is fundamentally a contest of
 ### Part VI: Training Doctrine & Survival Realities (Building the Neural Pathways)
 - **Chapter 19: Train Like You Fight — The Law of Neural Conditioning** (Target: 2,500 words)
   - 19.1 "Beware the Man Who Practiced One Punch 1,000 Times"
-  - 19.2 Progressive Stress Inoculation: From Controlled Mats to Unpredictable Chaos
-  - 19.3 Drilling Decision Points Over Move Sequences
+  - 19.2 The Law of Permanence: Why Imperfect Practice Automates Errors (The Asymmetry of Unlearning)
+  - 19.3 Progressive Stress Inoculation: From Controlled Mats to Unpredictable Chaos
+  - 19.4 Drilling Decision Points Over Move Sequences: Outcome Focus vs. Micro-Control
 - **Chapter 20: Weapon Surprises, Asymmetric Threats, and Multiple Attackers** (Target: 2,800 words)
   - 20.1 The First Time You See a Blade Cannot Be on the Street
   - 20.2 Flanking and Funneling Multiple Opponents (Using Terrain as a Barrier)

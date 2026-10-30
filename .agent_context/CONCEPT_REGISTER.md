@@ -29,6 +29,13 @@ All combat choices, positioning, and decisions must be filtered through these th
 - **Rigidity**: Mindless repetition of choreographed katas or compliant drills creates blind scripts that collapse when an attacker moves unconventionally.
 - **Synthesis**: Strategic minds direct deliberate training, building subconscious reflexes that execute adaptively under adrenaline.
 
+### The Law of Permanence & The Asymmetry of Unlearning
+> **"Practice does not make perfect; practice makes permanent. Only perfect practice makes perfect."**
+
+- **The Asymmetry of Unlearning**: Motor-learning and neurobiology confirm that once a faulty habit (dropping hands, squaring up, reaching, freezing) is automated into sensorimotor loops, it is vastly more difficult and cognitively expensive to unlearn than acquiring a correct skill from scratch. Overwriting requires active cortical inhibition of the old pathway before the new circuit can fire.
+- **The Deliberate Quality Constraint**: Sheer volume of repetitions is dangerous if mechanics or tactical triggers are flawed. The Command Center must actively govern the feedback loop and quality of practice so that what is automated is what actually survives contact under stress.
+- **Outcome Focus Over Internal Micromanagement**: Practice must focus on external outcomes (creating distance, breaking balance, penetrating a line) rather than obsessing over internal body part positioning (Halperin & Wulf 2016).
+
 ### Observable Intent Cues
 - **Weight Transfer**: Micro-shifts in foot pressure indicating an impending strike or level change.
 - **Centerline Rotation**: Dropping a rear shoulder or blading the hips to generate torque.
