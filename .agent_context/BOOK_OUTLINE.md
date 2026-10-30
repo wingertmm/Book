@@ -20,12 +20,14 @@ The mind is the ultimate command center—fighting is fundamentally a contest of
   - 1.1 Why Single-Attribute Tactics Fail (Power without Timing, Distance without Speed)
   - 1.2 The Master Equation: How Distance Buys Time, and Time Directs Power
   - 1.3 The Law of the Hard Target: Correct Position and Mechanics Over Fancy Techniques
-- **Chapter 02: Distance as Space Control Across the Four Ranges** (Target: 2,800 words)
+- **Chapter 02: Distance as Space Control Across the Four Ranges** (Target: 3,000 words)
   - 2.1 The Physics of Relative Attributes (Reach, Height, Mobility)
-  - 2.2 Range 1: Long Distance (Kicking & Projectile / Avoidance Range)
-  - 2.3 Range 2: Medium Distance (Striking / Fist Range)
-  - 2.4 Range 3: Close Distance (Elbows, Knees, and Head Control)
-  - 2.5 Range 4: Near Distance (Grips, Clinch, Submissions, and Body-to-Body Contact)
+  - 2.2 The Law of Weapon Eligibility: How Distance Filters Available Attacks and Prunes the Threat Matrix
+  - 2.3 Range 1: Long Distance (Kicking & Projectile / Avoidance Range)
+  - 2.4 Range 2: Medium Distance (Striking / Fist Range)
+  - 2.5 Range 3: Close Distance (Elbows, Knees, and Head Control)
+  - 2.6 Range 4: Near Distance (Grips, Clinch, Submissions, and Body-to-Body Contact — Jamming Long Weapons)
+  - 2.7 Weapon Radius Modifiers & The Tactical Dilemma (Evasion vs. Jamming against Bats, Clubs, and Blades)
 - **Chapter 03: Timing, Precision, and the Opportunity Window** (Target: 2,500 words)
   - 3.1 The Geometry of Mistakes: Off-Balance, Over-Commitment, and Flaws
   - 3.2 Skill Disparity: White Belt Windows vs. High-Level Milliseconds

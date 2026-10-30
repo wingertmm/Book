@@ -13,6 +13,12 @@ All combat choices, positioning, and decisions must be filtered through these th
 | **Distance** | Space control; range creation or denial. | Linear and angular separation relative to physical reach and attributes. | Long (feet), Medium (fists), Close (elbows/knees), Near (grips/clinch). Moving offline to collapse or expand space. |
 | **Power** | Force application; structural disruption. | Kinetic transfer, mass acceleration, leverage, momentum. | Concentrated at decisive points; guided strictly by purpose and legal proportionality. |
 
+### The Law of Weapon Eligibility (Distance as a Threat Filter)
+- **Principle**: Physical distance dictates what attacks are bio-mechanically possible, automatically pruning the threat decision tree and reducing cognitive overload (Hick's Law).
+- **Threat Narrowing**: At close/clinch range, linear kicks, side kicks, and wide roundhouses are physically jammed; the defender only needs to anticipate short-arc tools (elbows, knees, headbutts, underhooks).
+- **Distance Modifiers (Weapons)**: Impact weapons (bats, pipes) artificially extend the attacker's lethal perimeter by 2–3 feet and rely on rotational leverage ($\tau = r \times F$). Defense requires either expanding outside the perimeter or aggressively jamming inside the swing arc into near/clinch range.
+- **The Defensive Dilemma (Evasion vs. Jamming)**: Against long-range weapons, safety exists only at extreme distance ($>7\text{ ft}$) or zero distance ($<1\text{ ft}$). The middle distance is the kill zone.
+
 ---
 
 ## 2. The Cognitive & Neurological Layer (The Mind as Command Center)

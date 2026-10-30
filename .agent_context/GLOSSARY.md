@@ -34,8 +34,12 @@ Alphabetical definitions of foundational terms, doctrines, and combat principles
 - **Intent Cues**: Observable physical and bio-mechanical telegraphs (weight transfer, gaze direction, respiratory catch, centerline rotation) that reveal an opponent's commitment prior to motion.
 - **Iron Law of Combat Mastery**: *"Thinking without repetition produces hesitation; repetition without thinking produces rigid, unadaptive patterns."*
 
+### J
+- **Jamming (Distance Collapse)**: Aggressively closing spatial separation inside an opponent's optimal kinetic or rotational radius (e.g., inside a bat swing arc or straight punch extension) to neutralize leverage ($\tau = r \times F$) and bio-mechanically disable long-range strikes.
+
 ### L
 - **Law of Permanence**: The training principle that repetition cements motor patterns regardless of their technical correctness (*"Practice does not make perfect; practice makes permanent. Only perfect practice makes perfect"*), mandating deliberate quality control over mindless volume.
+- **Law of Weapon Eligibility**: The bio-mechanical principle stating that physical distance dictates which attacks are possible, instantly pruning the threat matrix and reducing cognitive reaction load under stress.
 - **Lizard Brain Offloading**: The neurological process of drilling mechanical fundamentals until execution is managed entirely by lower brain centers as an involuntary reflex, freeing the conscious mind for high-level tactical reading.
 - **Long Distance**: The combat range outside physical contact where kicks, projectiles, and early avoidance/exit options exist.
 
