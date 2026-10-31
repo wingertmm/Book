@@ -24,7 +24,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | `CH07 Ground Maneuver` | 2,500 | 5,266 (Wave 1: 1,752; Wave 2: 1,763; Wave 3: 1,751) | `Frozen (Done)` | `docs/plans/CH07_W3_PLAN.md` | `CH07-GROUND-COMPLETE-FROZEN` | `[PROBE-CH07-W03-ECONOMY-TERRAIN]` |
 | **Part III: 11 Principles** | | | | | | |
 | `CH08 Principles 1–3` | 2,800 | 5,290 (W1: 1,756; W2: 1,762; W3: 1,772) | `Frozen (Done)` | `docs/plans/CH08_W3_PLAN.md` | `CH08-PRINCIPLES-1-3-COMPLETE-FROZEN` | `[PROBE-CH08-W03-MANEUVER-ADVANTAGE]` |
-| `CH09 Principles 4–6` | 2,800 | 3,440 (W1: 1,686; W2: 1,754) | `Gate 1 In Review` | `docs/plans/CH09_W3_PLAN.md` | `CH09-W02-CONCENTRATION-FROZEN` (W2 Frozen) | `[PROBE-CH09-W03-ECONOMY-FORCE]` |
+| `CH09 Principles 4–6` | 2,800 | 5,174 (W1: 1,686; W2: 1,754; W3: 1,734) | `Gate 2 In Review` | `docs/plans/CH09_W3_PLAN.md` | Pending (`CH09-PRINCIPLES-4-6-COMPLETE-FROZEN`) | `[PROBE-CH09-W03-ECONOMY-FORCE]` |
 | `CH10 Principles 7–9` | 2,800 | — | `Planned` | — | — | `[PROBE-CH10-PRINCIPLES-7-9]` |
 | `CH11 Principles 10–11` | 2,800 | — | `Planned` | — | — | `[PROBE-CH11-PRINCIPLES-10-11]`|
 | **Part IV: Style Applications**| | | | | | |
