@@ -25,8 +25,8 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | **Part III: 11 Principles** | | | | | | |
 | `CH08 Principles 1–3` | 2,800 | 5,290 (W1: 1,756; W2: 1,762; W3: 1,772) | `Frozen (Done)` | `docs/plans/CH08_W3_PLAN.md` | `CH08-PRINCIPLES-1-3-COMPLETE-FROZEN` | `[PROBE-CH08-W03-MANEUVER-ADVANTAGE]` |
 | `CH09 Principles 4–6` | 2,800 | 5,174 (W1: 1,686; W2: 1,754; W3: 1,734) | `Frozen (Done)` | `docs/plans/CH09_W3_PLAN.md` | `CH09-PRINCIPLES-4-6-COMPLETE-FROZEN` | `[PROBE-CH09-W03-ECONOMY-FORCE]` |
-| `CH10 Principles 7–9` | 2,800 | 5,237 (W1: 1,751; W2: 1,736; W3: 1,750) | `Gate 2 In Review` | `docs/plans/CH10_W3_PLAN.md` | `CH10-PRINCIPLES-7-9-COMPLETE-FROZEN` (Pending Approval) | `[PROBE-CH10-W03-PERSISTENCE]` |
-| `CH11 Principles 10–11` | 2,800 | — | `Planned` | — | — | `[PROBE-CH11-PRINCIPLES-10-11]`|
+| `CH10 Principles 7–9` | 2,800 | 5,237 (W1: 1,751; W2: 1,736; W3: 1,750) | `Frozen (Done)` | `docs/plans/CH10_W3_PLAN.md` | `CH10-PRINCIPLES-7-9-COMPLETE-FROZEN` | `[PROBE-CH10-W03-PERSISTENCE]` |
+| `CH11 Principles 10–11` | 2,800 | — | `Gate 1 In Review` | `docs/plans/CH11_W1_PLAN.md` | — | `[PROBE-CH11-W01-ACTIONS-ON-CONTACT]` |
 | **Part IV: Style Applications**| | | | | | |
 | `CH12 Taekwondo (Long)` | 2,500 | — | `Planned` | — | — | `[PROBE-CH12-TKD-LONG-RANGE]` |
 | `CH13 Muay Thai (Med/Close)` | 2,500 | — | `Planned` | — | — | `[PROBE-CH13-MUAYTHAI-CLOSE]` |
