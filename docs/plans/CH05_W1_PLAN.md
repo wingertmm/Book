@@ -2,7 +2,7 @@
 
 **Target Chapter & Wave**: `Chapter 05 - Wave 1: Section 5.1 (Subduing Without Fighting: Avoidance as the Supreme Objective)`  
 **Target Milestone**: `Part II: The Three Strategic Lenses (Sun Tzu, Airpower, and Ground Maneuver)`  
-**Status**: `GATE 1: SUBMITTED FOR REVIEW`  
+**Status**: `GATE 2: SUBMITTED FOR REVIEW`  
 
 ---
 
