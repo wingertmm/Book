@@ -23,7 +23,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | `CH06 The Airpower Lens` | 2,500 | 4,956 (Wave 1: 1,581; Wave 2: 1,688; Wave 3: 1,687) | `Frozen (Done)` | `docs/plans/CH06_W3_PLAN.md` | `CH06-AIRPOWER-COMPLETE-FROZEN` | `[PROBE-CH06-W03-3D-BATTLESPACE]` |
 | `CH07 Ground Maneuver` | 2,500 | 5,266 (Wave 1: 1,752; Wave 2: 1,763; Wave 3: 1,751) | `Frozen (Done)` | `docs/plans/CH07_W3_PLAN.md` | `CH07-GROUND-COMPLETE-FROZEN` | `[PROBE-CH07-W03-ECONOMY-TERRAIN]` |
 | **Part III: 11 Principles** | | | | | | |
-| `CH08 Principles 1–3` | 2,800 | Wave 1: 1,756 (Frozen) | `Gate 1 In Review` | `docs/plans/CH08_W2_PLAN.md` | `CH08-W01-PURPOSE-FROZEN` | `[PROBE-CH08-W02-SECURITY-POSITION]` |
+| `CH08 Principles 1–3` | 2,800 | 3,518 (Wave 1: 1,756; Wave 2: 1,762) | `Gate 2 In Review` | `docs/plans/CH08_W2_PLAN.md` | `CH08-W01-PURPOSE-FROZEN` | `[PROBE-CH08-W02-SECURITY-POSITION]` |
 | `CH09 Principles 4–6` | 2,800 | — | `Planned` | — | — | `[PROBE-CH09-PRINCIPLES-4-6]` |
 | `CH10 Principles 7–9` | 2,800 | — | `Planned` | — | — | `[PROBE-CH10-PRINCIPLES-7-9]` |
 | `CH11 Principles 10–11` | 2,800 | — | `Planned` | — | — | `[PROBE-CH11-PRINCIPLES-10-11]`|
