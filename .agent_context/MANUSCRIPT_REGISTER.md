@@ -17,7 +17,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | `CH01 The Triad` | 2,500 | 4,617 (Sec 1.1: 1,614; Sec 1.2: 1,597; Sec 1.3: 1,406) | `Frozen (Done)` | `docs/plans/CH01_W3_PLAN.md` | `CH01-SEC03-TARGET-FROZEN` | `[PROBE-CH01-SEC03-HARD-TARGET]` |
 | `CH02 The Four Ranges` | 3,000 | 4,935 (Wave 1: 1,554; Wave 2: 1,672; Wave 3: 1,709) | `Frozen (Done)` | `docs/plans/CH02_W3_PLAN.md` | `CH02-RANGES-COMPLETE-FROZEN` | `[PROBE-CH02-W03-TRANSITIONS]` |
 | `CH03 Timing & Windows` | 2,500 | 4,750 (Wave 1: 1,623; Wave 2: 1,528; Wave 3: 1,599) | `Frozen (Done)` | `docs/plans/CH03_W3_PLAN.md` | `CH03-TIMING-COMPLETE-FROZEN` | `[PROBE-CH03-W03-ENGINEERED-OPENINGS]` |
-| `CH04 The Command Center` | 2,800 | 3,461 (Wave 1: 1,756; Wave 2: 1,705) | `Gate 1 In Review` | `docs/plans/CH04_W3_PLAN.md` | `CH04-W02-OFFLOADING-FROZEN` | `[PROBE-CH04-W03-IRON-LAW-QUALITY]` |
+| `CH04 The Command Center` | 2,800 | 5,219 (Wave 1: 1,756; Wave 2: 1,705; Wave 3: 1,758) | `Gate 2 In Review` | `docs/plans/CH04_W3_PLAN.md` | `CH04-W03-IRON-FROZEN` | `[PROBE-CH04-W03-IRON-LAW-QUALITY]` |
 | **Part II: Strategic Lenses** | | | | | | |
 | `CH05 The Sun Tzu Lens` | 2,500 | — | `Planned` | — | — | `[PROBE-CH05-SUNTZU-TACTICS]` |
 | `CH06 The Airpower Lens` | 2,500 | — | `Planned` | — | — | `[PROBE-CH06-AIRPOWER-SYNERGY]`|
