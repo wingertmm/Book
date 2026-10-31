@@ -3,6 +3,7 @@ Verification probe suite for Chapter 05: The Classical Lens — Sun Tzu's Philos
 Probe IDs:
 - [PROBE-CH05-W01-SUNTZU-FOUNDATIONS]
 - [PROBE-CH05-W02-REFUSING-CENTERLINE]
+- [PROBE-CH05-W03-DECEPTION-TERRAIN]
 """
 import os
 import re
@@ -146,3 +147,69 @@ def test_ch05_w02_mandatory_concepts_present():
             missing.append(concept)
 
     assert not missing, f"Missing mandatory conceptual invariants in Chapter 05 Wave 2: {missing}"
+
+
+# ---------------------------------------------------------------------------
+# Wave 3 Probe Suite: Section 5.3 (The Tao of Deception: Shapes, Terrain, and Unorthodox Force)
+# ---------------------------------------------------------------------------
+
+W03_PATH = os.path.join(
+    os.path.dirname(__file__),
+    "..",
+    "..",
+    "manuscript",
+    "part_02_strategic_lenses",
+    "ch05_the_sun_tzu_lens",
+    "03_the_tao_of_deception.md",
+)
+
+W03_MANDATORY_CONCEPTS = [
+    "All Warfare Is Based on Deception",
+    "Orthodox and Unorthodox Force",
+    "Formlessness",
+    "Terrain Classification",
+    "Desperate Ground",
+    "Information Entropy",
+]
+
+
+def test_ch05_w03_file_exists():
+    """Assert Chapter 05 Wave 3 markdown file exists."""
+    assert os.path.exists(W03_PATH), f"Target Wave 3 file missing: {W03_PATH}"
+
+
+def test_ch05_w03_word_count_within_budget():
+    """Assert Chapter 05 Wave 3 word count is within Gate 1 budget (1,300 - 1,800 words)."""
+    assert os.path.exists(W03_PATH), f"Target Wave 3 file missing: {W03_PATH}"
+    with open(W03_PATH, "r", encoding="utf-8") as f:
+        text = f.read()
+    words = text.split()
+    word_count = len(words)
+    print(f"\n[PROBE-CH05-W03-DECEPTION-TERRAIN] Actual word count: {word_count}")
+    assert 1300 <= word_count <= 1800, f"Word count {word_count} outside budget [1300, 1800]"
+
+
+def test_ch05_w03_zero_banned_marketing_words():
+    """Assert zero occurrences of banned marketing fluff in Chapter 05 Wave 3."""
+    assert os.path.exists(W03_PATH), f"Target Wave 3 file missing: {W03_PATH}"
+    with open(W03_PATH, "r", encoding="utf-8") as f:
+        text = f.read().lower()
+
+    for pattern in BANNED_WORDS:
+        match = re.search(pattern, text)
+        assert match is None, f"Found banned marketing word matching '{pattern}' in Chapter 05 Wave 3 draft!"
+
+
+def test_ch05_w03_mandatory_concepts_present():
+    """Assert all mandatory conceptual invariants are present in Chapter 05 Wave 3."""
+    assert os.path.exists(W03_PATH), f"Target Wave 3 file missing: {W03_PATH}"
+    with open(W03_PATH, "r", encoding="utf-8") as f:
+        text = f.read()
+
+    missing = []
+    for concept in W03_MANDATORY_CONCEPTS:
+        pattern = re.compile(re.escape(concept), re.IGNORECASE)
+        if not pattern.search(text):
+            missing.append(concept)
+
+    assert not missing, f"Missing mandatory conceptual invariants in Chapter 05 Wave 3: {missing}"
