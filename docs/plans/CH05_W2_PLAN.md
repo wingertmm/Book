@@ -2,7 +2,7 @@
 
 **Target Chapter & Wave**: `Chapter 05 - Wave 2: Section 5.2 (Avoid Strength, Strike Weakness: Refusing the Centerline)`  
 **Target Milestone**: `Part II: The Three Strategic Lenses (Sun Tzu, Airpower, and Ground Maneuver)`  
-**Status**: `GATE 2: SUBMITTED FOR REVIEW`  
+**Status**: `FROZEN (DONE)`  
 
 ---
 
