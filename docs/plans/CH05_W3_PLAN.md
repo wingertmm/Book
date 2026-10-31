@@ -2,7 +2,7 @@
 
 **Target Chapter & Wave**: `Chapter 05 - Wave 3: Section 5.3 (The Tao of Deception: Shapes, Terrain, and Unorthodox Force)`  
 **Target Milestone**: `Part II: The Three Strategic Lenses (Sun Tzu, Airpower, and Ground Maneuver)`  
-**Status**: `GATE 2: SUBMITTED FOR REVIEW`  
+**Status**: `FROZEN (DONE)`  
 
 ---
 
