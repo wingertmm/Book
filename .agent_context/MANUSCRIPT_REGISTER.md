@@ -19,7 +19,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | `CH03 Timing & Windows` | 2,500 | 4,750 (Wave 1: 1,623; Wave 2: 1,528; Wave 3: 1,599) | `Frozen (Done)` | `docs/plans/CH03_W3_PLAN.md` | `CH03-TIMING-COMPLETE-FROZEN` | `[PROBE-CH03-W03-ENGINEERED-OPENINGS]` |
 | `CH04 The Command Center` | 2,800 | 5,219 (Wave 1: 1,756; Wave 2: 1,705; Wave 3: 1,758) | `Frozen (Done)` | `docs/plans/CH04_W3_PLAN.md` | `CH04-COMMAND-COMPLETE-FROZEN` | `[PROBE-CH04-W03-IRON-LAW-QUALITY]` |
 | **Part II: Strategic Lenses** | | | | | | |
-| `CH05 The Sun Tzu Lens` | 2,500 | 1,766 (Wave 1: 1,766) | `In Progress` | `docs/plans/CH05_W2_PLAN.md` | `CH05-W01-SUNTZU-FROZEN` | `[PROBE-CH05-W02-REFUSING-CENTERLINE]` |
+| `CH05 The Sun Tzu Lens` | 2,500 | 3,465 (Wave 1: 1,766; Wave 2: 1,699) | `Gate 2 In Review` | `docs/plans/CH05_W2_PLAN.md` | `CH05-W02-REFUSING-FROZEN (Pending)` | `[PROBE-CH05-W02-REFUSING-CENTERLINE]` |
 | `CH06 The Airpower Lens` | 2,500 | — | `Planned` | — | — | `[PROBE-CH06-AIRPOWER-SYNERGY]`|
 | `CH07 Ground Maneuver` | 2,500 | — | `Planned` | — | — | `[PROBE-CH07-MANEUVER-ANGLES]` |
 | **Part III: 11 Principles** | | | | | | |
