@@ -20,7 +20,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | `CH04 The Command Center` | 2,800 | 5,219 (Wave 1: 1,756; Wave 2: 1,705; Wave 3: 1,758) | `Frozen (Done)` | `docs/plans/CH04_W3_PLAN.md` | `CH04-COMMAND-COMPLETE-FROZEN` | `[PROBE-CH04-W03-IRON-LAW-QUALITY]` |
 | **Part II: Strategic Lenses** | | | | | | |
 | `CH05 The Sun Tzu Lens` | 2,500 | 5,055 (Wave 1: 1,766; Wave 2: 1,699; Wave 3: 1,590) | `Frozen (Done)` | `docs/plans/CH05_W3_PLAN.md` | `CH05-SUNTZU-COMPLETE-FROZEN` | `[PROBE-CH05-W03-DECEPTION-TERRAIN]` |
-| `CH06 The Airpower Lens` | 2,500 | — | `In Progress` | `docs/plans/CH06_W1_PLAN.md` | — | `[PROBE-CH06-W01-BOYD-ENERGY-MANEUVER]` |
+| `CH06 The Airpower Lens` | 2,500 | — | `Gate 1 In Review` | `docs/plans/CH06_W1_PLAN.md` | — | `[PROBE-CH06-W01-BOYD-ENERGY-MANEUVER]` |
 | `CH07 Ground Maneuver` | 2,500 | — | `Planned` | — | — | `[PROBE-CH07-MANEUVER-ANGLES]` |
 | **Part III: 11 Principles** | | | | | | |
 | `CH08 Principles 1–3` | 2,800 | — | `Planned` | — | — | `[PROBE-CH08-PRINCIPLES-1-3]` |
