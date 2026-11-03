@@ -32,7 +32,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | `CH13 Muay Thai (Med/Close)` | 2,500 | 3,441 (Wave 1: 1,714; Wave 2: 1,727) | `Frozen (Done)` | `docs/plans/CH13_W2_PLAN.md` | `CH13-MUAYTHAI-COMPLETE-FROZEN` | `[PROBE-CH13-W02-CLINCH-DISRUPTION-AND-EGRESS]` |
 | `CH14 Wrestling (Clinch/Down)`| 2,500 | 3,403 (Wave 1: 1,743; Wave 2: 1,660) | `Frozen (Done)` | `docs/plans/CH14_W2_PLAN.md` | `CH14-WRESTLING-COMPLETE-FROZEN` | `[PROBE-CH14-W02-TIE-UPS-AND-SPORT-TRAPS]` |
 | `CH15 BJJ (Ground Survival)`| 2,500 | 3,467 (Wave 1: 1,747; Wave 2: 1,720) | `Frozen (Done)` | `docs/plans/CH15_W2_PLAN.md` | `CH15-BJJ-COMPLETE-FROZEN` | `[PROBE-CH15-W02-SPORT-BJJ-TRAPS-AND-EGRESS]` |
-| `CH16 Range Transitions` | 2,200 | 1,746 (Wave 1: 1,746) | `Gate 1 In Review` | `docs/plans/CH16_W2_PLAN.md` | `CH16-W01-RANGE-CHAINING-AND-BRIDGES-FROZEN` | `[PROBE-CH16-W02-DYNAMIC-SWITCHING-AND-CAPSTONE]` |
+| `CH16 Range Transitions` | 2,200 | 3,395 (Wave 1: 1,746; Wave 2: 1,649) | `Frozen (Done)` | `docs/plans/CH16_W2_PLAN.md` | `CH16-TRANSITIONS-COMPLETE-FROZEN` | `[PROBE-CH16-W02-DYNAMIC-SWITCHING-AND-CAPSTONE]` |
 | **Part V: Decision Engine** | | | | | | |
 | `CH17 The 4-Step Cycle` | 2,500 | — | `Planned` | — | — | `[PROBE-CH17-DECISION-CYCLE]` |
 | `CH18 High-Stress Physiology`| 2,200 | — | `Planned` | — | — | `[PROBE-CH18-STRESS-FAILURE]` |
