@@ -40,4 +40,15 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | `CH19 Neural Conditioning` | 2,500 | 3,242 (Wave 1: 1,570; Wave 2: 1,672) | `Frozen (Done)`    | `docs/plans/CH19_W2_PLAN.md` | `CH19-NEURAL-CONDITIONING-COMPLETE-FROZEN` | `[PROBE-CH19-W02-STRESS-INOCULATION-AND-CAPSTONE]` |
 | `CH20 Weapon & Asymmetric` | 2,800 | 3,369 (Wave 1: 1,710; Wave 2: 1,659) | `Frozen (Done)`    | `docs/plans/CH20_W2_PLAN.md` | `CH20-WEAPONS-ASYMMETRIC-COMPLETE-FROZEN` | `[PROBE-CH20-W02-IMMEDIATE-ACTION-AND-CAPSTONE]` |
 | `CH21 Legal & Ethical Bounds`| 2,000 | 3,353 (Wave 1: 1,633; Wave 2: 1,720) | `Frozen (Done)`    | `docs/plans/CH21_W2_PLAN.md` | `CH21-LEGAL-ETHICAL-COMPLETE-FROZEN` | `[PROBE-CH21-W02-POST-INCIDENT-AND-CAPSTONE]` |
-| **Total Manuscript** | **53,700** | **88,060 (52 sections / 21 chapters)** | `Frozen (Done)`    | — | `BOOK-TIME-DISTANCE-POWER-COMPLETE-FROZEN` | **[ALL 225 PROBES GREEN]** |
+| **Total Manuscript** | **53,700** | **88,060 (52 sections / 21 chapters)** | `Frozen (Done)`    | — | `BOOK-TIME-DISTANCE-POWER-COMPLETE-FROZEN` | **[ALL 235 PROBES GREEN]** |
+
+---
+
+### Post-Freeze Integration & Production Milestones (Gate 3)
+
+| Gate Milestone | Description | Status | Plan / Report | Freeze Tag | Verification |
+| :--- | :--- | :---: | :--- | :--- | :--- |
+| `Gate 3A: Consistency Audit` | Whole-manuscript consistency, voice, and technical integration audit | `Frozen (Done)` | `docs/plans/GATE_3A_AUDIT_PLAN.md` | `GATE-3A-CONSISTENCY-AUDIT-FROZEN` | `[PROBE-GATE-3A-COHERENCE-SUITE]` (10/10 GREEN) |
+| `Gate 3B: Technical Integrity` | Cross-chapter references, ASCII/Mermaid inventory, legal review flag | `Ready` | Pending | Pending | — |
+| `Gate 3C: Production Package` | Front/Back matter, TOC, style guide finalization, single-volume export | `Pending` | Pending | Pending | — |
+
