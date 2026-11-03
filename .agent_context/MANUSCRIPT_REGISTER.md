@@ -38,6 +38,6 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | `CH18 High-Stress Physiology`| 2,200 | 3,444 (Wave 1: 1,700; Wave 2: 1,744) | `Frozen (Done)`    | `docs/plans/CH18_W2_PLAN.md` | `CH18-HIGH-STRESS-PHYSIOLOGY-COMPLETE-FROZEN` | `[PROBE-CH18-W02-MOTOR-DEGRADATION-AND-CAPSTONE]` |
 | **Part VI: Training Doctrine** | | | | | | |
 | `CH19 Neural Conditioning` | 2,500 | 3,242 (Wave 1: 1,570; Wave 2: 1,672) | `Frozen (Done)`    | `docs/plans/CH19_W2_PLAN.md` | `CH19-NEURAL-CONDITIONING-COMPLETE-FROZEN` | `[PROBE-CH19-W02-STRESS-INOCULATION-AND-CAPSTONE]` |
-| `CH20 Weapon & Asymmetric` | 2,800 | 3,369 (Wave 1: 1,710; Wave 2: 1,659) | `Gate 2 In Review` | `docs/plans/CH20_W2_PLAN.md` | `CH20-WEAPONS-ASYMMETRIC-COMPLETE-FROZEN` (Pending) | `[PROBE-CH20-W02-IMMEDIATE-ACTION-AND-CAPSTONE]` |
-| `CH21 Legal & Ethical Bounds`| 2,000 | — | `Planned` | — | — | `[PROBE-CH21-LEGAL-BOUNDARIES]`|
+| `CH20 Weapon & Asymmetric` | 2,800 | 3,369 (Wave 1: 1,710; Wave 2: 1,659) | `Frozen (Done)`    | `docs/plans/CH20_W2_PLAN.md` | `CH20-WEAPONS-ASYMMETRIC-COMPLETE-FROZEN` | `[PROBE-CH20-W02-IMMEDIATE-ACTION-AND-CAPSTONE]` |
+| `CH21 Legal & Ethical Bounds`| 2,000 | 1,633 (Wave 1: 1,633) | `Gate 2 In Review` | `docs/plans/CH21_W1_PLAN.md` | `CH21-W01-PROPORTIONALITY-FROZEN` (Pending) | `[PROBE-CH21-W01-PROPORTIONALITY-AND-FORCE]` |
 | **Total Manuscript** | **53,700** | — | — | — | — | — |
