@@ -39,5 +39,5 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | **Part VI: Training Doctrine** | | | | | | |
 | `CH19 Neural Conditioning` | 2,500 | 3,242 (Wave 1: 1,570; Wave 2: 1,672) | `Frozen (Done)`    | `docs/plans/CH19_W2_PLAN.md` | `CH19-NEURAL-CONDITIONING-COMPLETE-FROZEN` | `[PROBE-CH19-W02-STRESS-INOCULATION-AND-CAPSTONE]` |
 | `CH20 Weapon & Asymmetric` | 2,800 | 3,369 (Wave 1: 1,710; Wave 2: 1,659) | `Frozen (Done)`    | `docs/plans/CH20_W2_PLAN.md` | `CH20-WEAPONS-ASYMMETRIC-COMPLETE-FROZEN` | `[PROBE-CH20-W02-IMMEDIATE-ACTION-AND-CAPSTONE]` |
-| `CH21 Legal & Ethical Bounds`| 2,000 | 1,633 (Wave 1: 1,633) | `Gate 2 In Review` | `docs/plans/CH21_W1_PLAN.md` | `CH21-W01-PROPORTIONALITY-FROZEN` (Pending) | `[PROBE-CH21-W01-PROPORTIONALITY-AND-FORCE]` |
-| **Total Manuscript** | **53,700** | — | — | — | — | — |
+| `CH21 Legal & Ethical Bounds`| 2,000 | 3,353 (Wave 1: 1,633; Wave 2: 1,720) | `Frozen (Done)`    | `docs/plans/CH21_W2_PLAN.md` | `CH21-LEGAL-ETHICAL-COMPLETE-FROZEN` | `[PROBE-CH21-W02-POST-INCIDENT-AND-CAPSTONE]` |
+| **Total Manuscript** | **53,700** | **88,060 (52 sections / 21 chapters)** | `Frozen (Done)`    | — | `BOOK-TIME-DISTANCE-POWER-COMPLETE-FROZEN` | **[ALL 225 PROBES GREEN]** |
