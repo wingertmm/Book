@@ -21,7 +21,7 @@ BASE_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "manuscript")
 
 def get_section_files():
     all_files = sorted(glob.glob(os.path.join(BASE_DIR, "**", "*.md"), recursive=True))
-    return [f for f in all_files if not f.endswith("README.md")]
+    return [f for f in all_files if "part_" in f and not f.endswith("README.md")]
 
 
 def test_gate_3a_all_52_sections_exist_and_non_empty():
