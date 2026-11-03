@@ -30,7 +30,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | **Part IV: Style Applications**| | | | | | |
 | `CH12 Taekwondo (Long)` | 2,500 | 3,436 (Wave 1: 1,676; Wave 2: 1,760) | `Frozen (Done)` | `docs/plans/CH12_W2_PLAN.md` | `CH12-TAEKWONDO-COMPLETE-FROZEN` | `[PROBE-CH12-W02-INTERCEPTION-AND-SPORT-TRAPS]` |
 | `CH13 Muay Thai (Med/Close)` | 2,500 | 3,441 (Wave 1: 1,714; Wave 2: 1,727) | `Frozen (Done)` | `docs/plans/CH13_W2_PLAN.md` | `CH13-MUAYTHAI-COMPLETE-FROZEN` | `[PROBE-CH13-W02-CLINCH-DISRUPTION-AND-EGRESS]` |
-| `CH14 Wrestling (Clinch/Down)`| 2,500 | 1,743 (Wave 1: 1,743) | `Gate 1 In Review` | `docs/plans/CH14_W2_PLAN.md` | `CH14-W01-POSTURE-AND-TAKEDOWN-DEFENSE-FROZEN` | `[PROBE-CH14-W02-TIE-UPS-AND-SPORT-TRAPS]` |
+| `CH14 Wrestling (Clinch/Down)`| 2,500 | 3,403 (Wave 1: 1,743; Wave 2: 1,660) | `Frozen (Done)` | `docs/plans/CH14_W2_PLAN.md` | `CH14-WRESTLING-COMPLETE-FROZEN` | `[PROBE-CH14-W02-TIE-UPS-AND-SPORT-TRAPS]` |
 | `CH15 BJJ (Ground Survival)`| 2,500 | — | `Planned` | — | — | `[PROBE-CH15-BJJ-GROUND-SURV]` |
 | `CH16 Range Transitions` | 2,200 | — | `Planned` | — | — | `[PROBE-CH16-TRANSITIONS]` |
 | **Part V: Decision Engine** | | | | | | |
