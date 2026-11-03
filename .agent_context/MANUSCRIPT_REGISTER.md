@@ -34,7 +34,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | `CH15 BJJ (Ground Survival)`| 2,500 | 3,467 (Wave 1: 1,747; Wave 2: 1,720) | `Frozen (Done)` | `docs/plans/CH15_W2_PLAN.md` | `CH15-BJJ-COMPLETE-FROZEN` | `[PROBE-CH15-W02-SPORT-BJJ-TRAPS-AND-EGRESS]` |
 | `CH16 Range Transitions` | 2,200 | 3,395 (Wave 1: 1,746; Wave 2: 1,649) | `Frozen (Done)` | `docs/plans/CH16_W2_PLAN.md` | `CH16-TRANSITIONS-COMPLETE-FROZEN` | `[PROBE-CH16-W02-DYNAMIC-SWITCHING-AND-CAPSTONE]` |
 | **Part V: Decision Engine** | | | | | | |
-| `CH17 The 4-Step Cycle` | 2,500 | — | `Planned` | — | — | `[PROBE-CH17-DECISION-CYCLE]` |
+| `CH17 The 4-Step Cycle` | 2,500 | — | `Gate 1 In Review` | `docs/plans/CH17_W1_PLAN.md` | — | `[PROBE-CH17-W01-RECOGNIZE-AND-PRIORITIZE]` |
 | `CH18 High-Stress Physiology`| 2,200 | — | `Planned` | — | — | `[PROBE-CH18-STRESS-FAILURE]` |
 | **Part VI: Training Doctrine** | | | | | | |
 | `CH19 Neural Conditioning` | 2,500 | — | `Planned` | — | — | `[PROBE-CH19-NEURAL-PATHWAYS]` |
