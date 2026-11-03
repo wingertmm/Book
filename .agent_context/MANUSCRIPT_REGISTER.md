@@ -35,7 +35,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | `CH16 Range Transitions` | 2,200 | 3,395 (Wave 1: 1,746; Wave 2: 1,649) | `Frozen (Done)` | `docs/plans/CH16_W2_PLAN.md` | `CH16-TRANSITIONS-COMPLETE-FROZEN` | `[PROBE-CH16-W02-DYNAMIC-SWITCHING-AND-CAPSTONE]` |
 | **Part V: Decision Engine** | | | | | | |
 | `CH17 The 4-Step Cycle`      | 2,500 | 3,501 (Wave 1: 1,753; Wave 2: 1,748) | `Frozen (Done)`    | `docs/plans/CH17_W2_PLAN.md` | `CH17-THE-4-STEP-CYCLE-COMPLETE-FROZEN` | `[PROBE-CH17-W02-CHOOSE-ACT-REASSESS]` |
-| `CH18 High-Stress Physiology`| 2,200 | —                                     | `Gate 1 In Review` | `docs/plans/CH18_W1_PLAN.md` | —                                       | `[PROBE-CH18-W01-AUTONOMIC-CASCADE]` |
+| `CH18 High-Stress Physiology`| 2,200 | 1,700 (Wave 1: 1,700; Wave 2: —)     | `Gate 1 In Review` | `docs/plans/CH18_W2_PLAN.md` | `CH18-W01-AUTONOMIC-CASCADE-FROZEN` | `[PROBE-CH18-W02-MOTOR-DEGRADATION-AND-CAPSTONE]` |
 | **Part VI: Training Doctrine** | | | | | | |
 | `CH19 Neural Conditioning` | 2,500 | — | `Planned` | — | — | `[PROBE-CH19-NEURAL-PATHWAYS]` |
 | `CH20 Weapon & Asymmetric` | 2,800 | — | `Planned` | — | — | `[PROBE-CH20-WEAPONS-DRILLS]` |
