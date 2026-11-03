@@ -37,7 +37,7 @@ Tracks the real-time lifecycle status, word counts, freeze tags, and verificatio
 | `CH17 The 4-Step Cycle`      | 2,500 | 3,501 (Wave 1: 1,753; Wave 2: 1,748) | `Frozen (Done)`    | `docs/plans/CH17_W2_PLAN.md` | `CH17-THE-4-STEP-CYCLE-COMPLETE-FROZEN` | `[PROBE-CH17-W02-CHOOSE-ACT-REASSESS]` |
 | `CH18 High-Stress Physiology`| 2,200 | 3,444 (Wave 1: 1,700; Wave 2: 1,744) | `Frozen (Done)`    | `docs/plans/CH18_W2_PLAN.md` | `CH18-HIGH-STRESS-PHYSIOLOGY-COMPLETE-FROZEN` | `[PROBE-CH18-W02-MOTOR-DEGRADATION-AND-CAPSTONE]` |
 | **Part VI: Training Doctrine** | | | | | | |
-| `CH19 Neural Conditioning` | 2,500 | 3,242 (Wave 1: 1,570; Wave 2: 1,672) | `Gate 2 In Review` | `docs/plans/CH19_W2_PLAN.md` | `CH19-NEURAL-CONDITIONING-COMPLETE-FROZEN` (Pending) | `[PROBE-CH19-W02-STRESS-INOCULATION-AND-CAPSTONE]` |
-| `CH20 Weapon & Asymmetric` | 2,800 | — | `Planned` | — | — | `[PROBE-CH20-WEAPONS-DRILLS]` |
+| `CH19 Neural Conditioning` | 2,500 | 3,242 (Wave 1: 1,570; Wave 2: 1,672) | `Frozen (Done)`    | `docs/plans/CH19_W2_PLAN.md` | `CH19-NEURAL-CONDITIONING-COMPLETE-FROZEN` | `[PROBE-CH19-W02-STRESS-INOCULATION-AND-CAPSTONE]` |
+| `CH20 Weapon & Asymmetric` | 2,800 | 1,710 (Wave 1: 1,710) | `Gate 2 In Review` | `docs/plans/CH20_W1_PLAN.md` | `CH20-W01-EDGED-WEAPONS-FROZEN` (Pending) | `[PROBE-CH20-W01-EDGED-WEAPONS-AND-FLANKING]` |
 | `CH21 Legal & Ethical Bounds`| 2,000 | — | `Planned` | — | — | `[PROBE-CH21-LEGAL-BOUNDARIES]`|
 | **Total Manuscript** | **53,700** | — | — | — | — | — |
