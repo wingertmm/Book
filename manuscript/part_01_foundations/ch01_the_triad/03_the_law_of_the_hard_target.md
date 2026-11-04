@@ -18,6 +18,7 @@ Becoming a hard target does not mean dropping into a theatrical martial arts sta
 
 A true hard target presents quiet, disciplined structure disguised in ordinary civilian posture:
 - **Rooted Athletic Base**: Feet rest shoulder-width apart, one foot slightly trailing. Knees retain spring-loaded flexion—never locked or crossed.
+- **Vertical Alignment**: Shoulders stay centered directly over hips, and hips over the stance. This vertical column grounds your center of mass, keeps posture strong, and eliminates the bending moments that drain energy.
 - **Centerline Shielding**: Vulnerable nodes—throat, solar plexus, groin—blade slightly away from an approach rather than squaring up like an archery target.
 - **Natural Guard Positioning**: Hands stay out of pockets, resting naturally above the waist in a calm, non-threatening gesture. Open palms face outward, but forearms occupy the corridor between an adversary's fists and your jaw.
 - **Cervical Protection**: Shoulders remain relaxed, chin tucked toward the sternum, eyes tracking the adversary's chest and hips.
@@ -72,7 +73,7 @@ Untrained combatants compromise balance in two predictable ways:
 To anchor yourself as a hard target, widen your Base of Support while lowering your Center of Mass:
 1. Position feet slightly wider than shoulders, staggered with a lead and rear foot to resist forces from front and flanks.
 2. Flex knees and drop hips three to four inches, shortening the lever arm an attacker can use to unbalance you.
-3. Keep your head over your hips. Your head weighs ten to twelve pounds; if it leans past your lead knee, your spinal column follows, destroying equilibrium.
+3. Lock your vertical alignment: keep shoulders over hips over stance. When your shoulders stay stacked directly over your hips, gravity works in axial compression down your spinal column, letting your skeleton carry the load. The moment your shoulders drift past your hips, a bending moment breaks your posture, forcing muscles to burn fuel fighting gravity and leaving your balance vulnerable to an easy shove.
 
 With a wide base and lowered center of mass, an opponent's driving force is routed into the ground. You do not fight mass with arm strength; you anchor against the earth.
 

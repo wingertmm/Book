@@ -79,9 +79,9 @@ When Distance, Time, and Power align, you operate on maximum efficiency with min
 
 $$\eta = \frac{E_{\text{delivered}}}{E_{\text{expended}}} \longrightarrow \mathbf{Maximum}$$
 
-Distance cuts wasted steps. Timing catches the opponent mid-transit when they cannot brace. Power lands in short, explosive snaps instead of continuous straining. 
+Distance cuts wasted steps. Timing catches the opponent mid-transit when they cannot brace. Power lands in short, explosive snaps from a stable stance rather than continuous straining. 
 
-Swing at air and fight your own muscles, and you gas out. Hit what is open, with your bones stacked, and you last.
+Swing at air and throw your shoulders past your hips, and you gas out. Keep your vertical alignment—shoulders over hips over stance—strike from balance, and you last.
 
 ---
 
