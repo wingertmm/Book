@@ -8,7 +8,7 @@ On a climate-controlled mat against a compliant partner feeding predictable ener
 
 They disintegrate because fear is the ultimate mind-killer. Under an unexpected ambush, human physiology changes radically. An adrenaline surge triggers intense vasoconstriction, elevating heart rates above 145 beats per minute. Fine motor skills evaporate, peripheral vision collapses into tunnel vision, auditory exclusion muffles sound, and the conscious mind loses the bandwidth required to retrieve complex moves.
 
-When survival is on the line, the human body defaults strictly to whatever motor pathways have been burned into lower brain structures through repetitive conditioning. If nothing is trained, you freeze. Violence is chaotic, high-entropy, and non-linear. Violence is not governed by choreography; violence is governed by the immutable laws of Newtonian physics and human biomechanics.
+When survival is on the line, the human body defaults strictly to whatever motor pathways have been burned into lower brain structures through repetitive conditioning. If nothing is trained, you freeze. Violence is chaotic, high-entropy, and non-linear. It cannot be survived through scripted choreography—but it can be shaped by strategy. Because violence is governed by physical reality—mass, momentum, and human anatomy—it can be channeled and resolved by a disciplined combat doctrine.
 
 Every physical confrontation—from a scholastic wrestling duel to a sudden ambush in a parking structure—operates within an unyielding triad: **Time, Distance, and Power**.
 
