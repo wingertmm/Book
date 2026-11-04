@@ -74,3 +74,21 @@ def test_two_volume_docx_exports_exist():
     assert VOL2_DOCX.exists(), f"Volume 2 DOCX missing: {VOL2_DOCX}"
     assert VOL1_DOCX.stat().st_size > 50 * 1024, f"Volume 1 DOCX is under 50 KB: {VOL1_DOCX.stat().st_size}"
     assert VOL2_DOCX.stat().st_size > 50 * 1024, f"Volume 2 DOCX is under 50 KB: {VOL2_DOCX.stat().st_size}"
+
+def test_two_volume_chapter_docx_directories_and_pruning():
+    """Assert volume chapter directories are populated and legacy omnibus is pruned."""
+    legacy_file = EXPORTS_DIR / "TIME_DISTANCE_AND_POWER_COMPLETE_REVIEW.docx"
+    assert not legacy_file.exists(), f"Legacy single-volume review file should be pruned: {legacy_file}"
+
+    vol1_chap_dir = EXPORTS_DIR / "volume_1_chapters"
+    vol2_chap_dir = EXPORTS_DIR / "volume_2_chapters"
+
+    assert vol1_chap_dir.exists(), f"Missing Volume 1 chapters dir: {vol1_chap_dir}"
+    assert vol2_chap_dir.exists(), f"Missing Volume 2 chapters dir: {vol2_chap_dir}"
+
+    v1_files = list(vol1_chap_dir.glob("*.docx"))
+    v2_files = list(vol2_chap_dir.glob("*.docx"))
+
+    assert len(v1_files) == 18, f"Expected 18 Volume 1 chapter docx files, found {len(v1_files)}"
+    assert len(v2_files) == 8, f"Expected 8 Volume 2 chapter docx files, found {len(v2_files)}"
+
