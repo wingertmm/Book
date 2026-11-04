@@ -1,12 +1,10 @@
 ## 1.2 The Master Equation: How Distance Buys Time, and Time Directs Power
 
-Section 1.1 established the formula; Section 1.2 operationalizes it on the floor:
-
 $$\mathbf{Distance} \longrightarrow \mathbf{Time} \longrightarrow \mathbf{Power}$$
 
-The **Master Equation** is the physical chain of cause and effect under ambush. Reverse the sequence—trying to generate power before establishing time, or hunting for time inside an adversary's reach—and your defense collapses. 
+This sequence is the **Master Equation** of personal defense. Reverse the sequence and the defense collapses. Power without time is a flail. Time without distance is panic. 
 
-To apply the equation under stress, you must convert distance into an operational weapon across four distinct tactical beats.
+Distance creates the window you need to see. That window lets your nervous system pick an opening. And targeted execution delivers decisive force. On the floor, you make this equation work through four tactical beats:
 
 ---
 
@@ -26,17 +24,15 @@ To survive an ambush, you must construct a **Reactionary Gap**. Enforcing physic
 
 ### Beat 2: How Distance Filters Available Threats
 
-Distance dictates what attacks are possible before they are thrown. Control distance, and you dictate the adversary's options.
+Distance dictates what attacks are possible before they are thrown. Control distance, and you dictate what the adversary can do.
 
-When space collapses, untrained minds freeze trying to defend against dozens of attacks simultaneously. Distance cuts through this overload via the **Law of Weapon Eligibility**.
+When space collapses, an untrained mind freezes trying to defend against twenty attacks at once. Distance cuts through that panic. Every strike requires runway to build power; outside that runway, the strike is physically disqualified. This is the **Law of Weapon Eligibility**:
 
-Every weapon requires a specific spatial window to generate leverage and reach a target. Outside that window, the attack is biomechanically disqualified:
+- **At Extended Range (6 to 10 feet)**: Striking limbs and collar ties cannot reach. The only viable threats are lunging tackles or linear kicks—both requiring big weight shifts that telegraph intent hundreds of milliseconds in advance.
+- **At Medium Striking Range (3 to 5 feet)**: Clinch strikes and headbutts cannot reach. The threat narrows strictly to punches and forward shoots.
+- **At Close Clinch Range (1 to 2 feet)**: Extended strikes lose clearance. The threat collapses to short hooks, upper-body ties, elbows, and inside knees.
 
-- **At Extended Range (6 to 10 feet)**: Striking limbs and collar ties cannot reach. The only viable threats are lunging tackles or linear kicks—both requiring high-amplitude weight shifts that telegraph intent hundreds of milliseconds in advance.
-- **At Medium Striking Range (3 to 5 feet)**: Clinch strikes and headbutts cannot reach. The threat matrix narrows strictly to punches and forward shoots.
-- **At Close Clinch Range (1 to 2 feet)**: Extended strikes lose clearance. The threat matrix collapses to short hooks, upper-body ties, elbows, and inside knees.
-
-Distance acts as an active physical filter, pruning theoretical threats down to one or two high-probability vectors. Shrinking the adversary's options lowers cognitive workload, eliminates panic, and prepares countermeasures before the blow launches.
+Distance acts as an active physical filter, cutting theoretical threats down to one or two high-probability movements. Pruning the adversary's options keeps your head from spinning, kills panic, and lets you counter before the blow lands.
 
 ---
 
@@ -75,20 +71,17 @@ Power does not defeat violence. **Directed power** defeats violence. And the onl
 
 #### The Energetics of Combat: Efficiency as an Immunity to Exhaustion
 
-Untrained fighters gas out in thirty to sixty seconds because they keep swinging at air and fighting their own muscles. Combat exhaustion is rarely a deficit of cardiovascular stamina; it is the physical cost of desynchronization.
+Untrained fighters gas out in thirty to sixty seconds because they swing at empty air and fight their own stiff muscles. Combat exhaustion is rarely a lack of cardio; it is the physical cost of being out of sync.
 
-When power is thrown without distance and timing, three metabolic leaks drain your fuel tank:
-1. **Swinging into the Void**: Missing a full-power strike forces your own tendons and opposing muscles to brake the limb. Catching empty air burns more metabolic energy than landing an impact.
-2. **Fighting Your Own Frame (Antagonistic Tension)**: Under panic, opposing muscle groups contract at the same time. You burn through muscular fuel just trying to move against your own stiffness.
-3. **The Anaerobic Cliff**: The body's explosive burst tank empties in eight to ten seconds. Frantic flailing spikes heart rates past the anaerobic threshold, flooding muscles with lactic acid until limbs turn to lead.
+When power is thrown without distance and timing, you bleed fuel three ways: missing a full-power strike forces your own tendons and opposing muscles to brake the limb; panic contracts opposing muscle groups simultaneously so you fight your own anatomy; and frantic flailing empties your burst tank in ten seconds, flooding muscles with acid until arms turn to lead.
 
-When Distance, Time, and Power align, combat energetics invert:
+When Distance, Time, and Power align, you operate on maximum efficiency with minimum effort:
 
 $$\eta = \frac{E_{\text{delivered}}}{E_{\text{expended}}} \longrightarrow \mathbf{Maximum}$$
 
-The synchronized fighter operates on maximum efficiency with minimum effort (*Seiryoku Zen'yo*). Distance eliminates wasted footwork; timing catches the opponent when they cannot resist; and power is delivered in short, explosive snaps rather than continuous straining.
+Distance cuts wasted steps. Timing catches the opponent mid-transit when they cannot brace. Power lands in short, explosive snaps instead of continuous straining. 
 
-Efficient fighters do not fight their own anatomy, and they do not waste force on braced targets. Every ounce of kinetic energy lands where it counts. Because they do not bleed fuel, they stay dangerous, calm, and unexhausted while the adversary breaks against the clock.
+Swing at air and fight your own muscles, and you gas out. Hit what is open, with your bones stacked, and you last.
 
 ---
 

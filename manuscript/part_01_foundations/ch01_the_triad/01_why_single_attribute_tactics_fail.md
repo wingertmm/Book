@@ -42,13 +42,13 @@ Consider the classic bar-room haymaker. The striker commits full body mass to a 
 #### 2. Distance Without Velocity: The Evasion Trap
 A second failure mode treats distance as passive, linear retreat. Many instructors teach students to continuously back away with hands raised, hoping space will cause an altercation to dissolve.
 
-Distance is not passive avoidance; distance is active spatial control. In an engagement, distance is governed by bidirectional modulation:
-- **Maintaining distance**: Operating just outside the opponent's maximum striking and grabbing reach preserves reaction time, protects posture, and keeps egress corridors open.
-- **Closing distance**: Stepping aggressively inside the opponent's reach is deployed deliberately when you choose to strike, establish underhooks, manipulate the cervical spine, or pin their structure to eliminate their striking levers.
+Distance is not passive avoidance; distance is active control. In a fight, you choose when to keep space and when to close it:
+- **Maintaining distance**: Stay just outside their longest reach. That gap preserves reaction time, keeps your balance, and keeps your exit open.
+- **Closing distance**: Step hard inside their reach when you choose to attack. You close space to strike, lock underhooks, control the neck, or pin their arms so they cannot hit.
 
-The asymmetry of combat intent defines this spatial struggle: a defender requires space to stay secure, maneuver, and exit, whereas an aggressive attacker seeks to eliminate space, smother defense, and prevent movement.
+The attacker wants to collapse space to overwhelm you. You control space so you can exit or counter on your own terms.
 
-The elite counter-fighter embodies this active control. Rather than retreating in panic, the counter-fighter maintains precise boundary distance outside the opponent's threat radius, drawing the attacker forward into over-extension. The instant the attacker commits, the counter-fighter closes the distance with explosive velocity to intercept the opening. Distance without the offensive velocity and intent to alter the attacker’s decision cycle is merely delayed capitulation. Running backward in a straight line compromises your base, narrows your field of view, and inevitably ends when your back strikes a wall, a curb, or a second assailant.
+The elite counter-fighter embodies this active control. Instead of running in panic, the counter-fighter holds the edge of the threat radius, drawing the attacker into over-extension. The moment the attacker commits, the counter-fighter closes the gap with explosive speed to punish the opening. Running backward in a straight line compromises your base, narrows your vision, and inevitably ends when your back hits a wall, a curb, or a second assailant.
 
 #### 3. Timing Without Structure: The Speed Trap
 The third failure mode confuses timing with raw speed and reflexive twitch reaction. The defender attempts to be faster than the attacker, trying to "beat them to the punch" without securing a stable base or structural alignment.
