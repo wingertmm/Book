@@ -60,11 +60,11 @@ Consider the mechanical execution of a foot sweep (*deashi harai*). A foot sweep
 Timing without power and mechanical structure produces fragile contact. Intercepting an incoming strike with a fast, off-balance flick often damages the defender more than the assailant. Striking dense bone without locked skeletal alignment, a planted base, and whole-body mass coupling fractures metacarpals and collapses wrists. Timing synchronizes opportunity, but structural alignment delivers the decisive effect.
 
 > [!IMPORTANT]
-> **The Law of Mutual Dependency**:  
+> **The Law of Mutual Dependency & Systemic Efficiency**:  
 > Power applied at the wrong time is wasted momentum.  
 > Distance maintained without offensive threat is temporary delay.  
 > Timing achieved without structural power is superficial contact.  
-> An effective tactical response requires all three dimensions integrated as a single, indivisible system.
+> When the triad is synchronized, you achieve **systemic efficiency**. Efficient fighters are effective fighters: they eliminate wasted kinetic work, conserve metabolic reserves, and do not exhaust under pressure.
 
 ---
 
