@@ -707,6 +707,21 @@ def parse_markdown_to_docx(doc, md_text, is_first_section=True):
     if in_code_block:
         render_code_diagram(doc, code_lines)
 
+def save_docx_safely(doc, target_path: Path) -> Path:
+    """Save docx file, falling back to an _updated variant if the file is locked by Word."""
+    try:
+        doc.save(target_path)
+        return target_path
+    except PermissionError:
+        alt_path = target_path.with_name(f"{target_path.stem}_updated{target_path.suffix}")
+        try:
+            doc.save(alt_path)
+            print(f"  [NOTE] {target_path.name} is currently open in Word. Saved update to: {alt_path.name}")
+            return alt_path
+        except Exception as e:
+            print(f"  [WARNING] Could not save {target_path.name} or fallback {alt_path.name}: {e}")
+            return target_path
+
 def export_individual_chapters():
     CHAPTERS_EXPORT_DIR.mkdir(parents=True, exist_ok=True)
     generated_files = []
@@ -754,10 +769,10 @@ def export_individual_chapters():
             parse_markdown_to_docx(doc, sec_text, is_first_section=(idx == 0))
             
         out_path = CHAPTERS_EXPORT_DIR / ch["filename"]
-        doc.save(out_path)
-        file_size_kb = out_path.stat().st_size / 1024
-        print(f"  [OK] {ch['number_str']}: {ch['title'][:40]:<40} -> {ch['filename']} ({total_words:,} words, {file_size_kb:.1f} KB)")
-        generated_files.append((out_path, total_words))
+        saved_path = save_docx_safely(doc, out_path)
+        file_size_kb = saved_path.stat().st_size / 1024 if saved_path and saved_path.exists() else 0
+        print(f"  [OK] {ch['number_str']}: {ch['title'][:40]:<40} -> {saved_path.name} ({total_words:,} words, {file_size_kb:.1f} KB)")
+        generated_files.append((saved_path, total_words))
         
     return generated_files
 
@@ -785,8 +800,9 @@ def export_front_and_back_matter():
             doc_fm.add_page_break()
             
     out_fm = CHAPTERS_EXPORT_DIR / "00_Front_Matter.docx"
-    doc_fm.save(out_fm)
-    print(f"  [OK] 00_Front_Matter.docx ({fm_words:,} words, {out_fm.stat().st_size/1024:.1f} KB)")
+    saved_fm = save_docx_safely(doc_fm, out_fm)
+    file_size_kb = saved_fm.stat().st_size / 1024 if saved_fm and saved_fm.exists() else 0
+    print(f"  [OK] {saved_fm.name} ({fm_words:,} words, {file_size_kb:.1f} KB)")
     
     # 2. Back Matter
     bm_files = [
@@ -809,10 +825,11 @@ def export_front_and_back_matter():
             doc_bm.add_page_break()
             
     out_bm = CHAPTERS_EXPORT_DIR / "22_Back_Matter.docx"
-    doc_bm.save(out_bm)
-    print(f"  [OK] 22_Back_Matter.docx ({bm_words:,} words, {out_bm.stat().st_size/1024:.1f} KB)")
+    saved_bm = save_docx_safely(doc_bm, out_bm)
+    file_size_kb = saved_bm.stat().st_size / 1024 if saved_bm and saved_bm.exists() else 0
+    print(f"  [OK] {saved_bm.name} ({bm_words:,} words, {file_size_kb:.1f} KB)")
     
-    return out_fm, out_bm
+    return saved_fm, saved_bm
 
 def export_complete_master_volume():
     print("\n[EXPORT] Exporting Complete Single-Volume Review Manuscript (.docx)...")
@@ -861,9 +878,10 @@ def export_complete_master_volume():
     parse_markdown_to_docx(doc, txt)
     
     out_master = EXPORTS_DIR / "TIME_DISTANCE_AND_POWER_COMPLETE_REVIEW.docx"
-    doc.save(out_master)
-    print(f"  [OK] TIME_DISTANCE_AND_POWER_COMPLETE_REVIEW.docx ({words:,} words, {out_master.stat().st_size/1024:.1f} KB)")
-    return out_master
+    saved_master = save_docx_safely(doc, out_master)
+    file_size_kb = saved_master.stat().st_size / 1024 if saved_master and saved_master.exists() else 0
+    print(f"  [OK] {saved_master.name} ({words:,} words, {file_size_kb:.1f} KB)")
+    return saved_master
 
 def main():
     chap_files = export_individual_chapters()
