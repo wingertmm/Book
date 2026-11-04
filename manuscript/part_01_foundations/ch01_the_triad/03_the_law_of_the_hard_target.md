@@ -70,6 +70,8 @@ Untrained combatants compromise balance in two predictable ways:
 - **The Stilt Failure**: Standing tall with locked knees and a narrow foot stance. This raises the Center of Mass and shrinks the Base of Support to a small rectangle, allowing a moderate shove to tip you onto the pavement.
 - **The Linear Over-Commitment**: Lunging forward onto one foot to throw a punch, projecting the Center of Mass past the lead toes and inviting takedowns.
 
+Both breakdowns occur during uncontrolled transitions. Transitions are the most vulnerable moments in combat because shifting your base momentarily compromises static equilibrium. Every step is an unweighted transit; every committed strike transfers mass. A disciplined hard target keeps transitions short, protected, and balanced—never allowing the Center of Mass to run ahead of the stance. Conversely, when an adversary lunges or steps sloppily, their transition becomes your prime window of opportunity to disrupt their balance or drive a counter.
+
 To anchor yourself as a hard target, widen your Base of Support while lowering your Center of Mass:
 1. Position feet slightly wider than shoulders, staggered with a lead and rear foot to resist forces from front and flanks.
 2. Flex knees and drop hips three to four inches, shortening the lever arm an attacker can use to unbalance you.

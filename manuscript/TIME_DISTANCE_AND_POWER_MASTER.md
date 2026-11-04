@@ -300,7 +300,9 @@ The third failure mode confuses timing with raw speed and reflexive twitch react
 
 Timing is fundamentally not speed. Raw speed is an athletic attribute that degrades with age, fatigue, and injury; timing is the synchronization of opportunity with physical movement. Timing is the weaponization of surprise—recognizing an opponent’s kinetic pattern, identifying their rhythmic commitment, and interrupting their cadence at the exact moment of maximum vulnerability.
 
-Consider the mechanical execution of a foot sweep (*deashi harai*). A foot sweep is never forced through muscular speed or brute strength; attempting to sweep an opponent whose foot is firmly planted into the canvas will only sprain your own ankle. The sweep succeeds only when the opponent's advancing foot is light on the ground and unweighted—catching the foot while it is floating in mid-air during a step transition. Because the opponent's center of mass is traveling forward while their base of support is arrested in transit, negligible kinetic force produces catastrophic mechanical tipping.
+Consider the mechanical execution of a foot sweep (*deashi harai*). A foot sweep is never forced through muscular speed or brute strength; attempting to sweep an opponent whose foot is firmly planted into the canvas will only sprain your own ankle. The sweep succeeds only when the opponent's advancing foot is light on the ground and unweighted—catching the foot while it is floating in mid-air during a step transition.
+
+Transitions are the most vulnerable time in combat. In transit, an adversary cannot brace their frame, plant a base, or reverse momentum. That vulnerability creates your highest-percentage tactical opportunity for defense and attack: catch an opponent in the transition seam, and negligible force produces catastrophic mechanical tipping.
 
 Timing without power and mechanical structure produces fragile contact. Intercepting an incoming strike with a fast, off-balance flick often damages the defender more than the assailant. Striking dense bone without locked skeletal alignment, a planted base, and whole-body mass coupling fractures metacarpals and collapses wrists. Timing synchronizes opportunity, but structural alignment delivers the decisive effect.
 
@@ -427,11 +429,15 @@ Distance acts as an active physical filter, cutting theoretical threats down to 
 
 Distance is an active control dial. Safety lives at the extremes—either completely outside reach, or locked chest-to-chest at **Zero Distance**. Lingering in the middle without initiative turns space into a kill zone where an assailant has full clearance to rotate hips and accelerate fists to maximum speed.
 
+Transitions are the most vulnerable time in combat. Whenever you move between ranges—shifting from outside reach into the pocket, or attempting to disengage—you are in transit. In transit, your base is dynamic, your center of mass is in motion, and your skeletal guard is open. That vulnerability cuts both ways: it creates grave danger if you hesitate, but it yields your best tactical opportunities when an adversary moves.
+
+The tactical rule is absolute: **never fight in transit**. Do not linger in the seam between distances. If you move, cross the threshold decisively.
+
 When an ambush detonates, you have two rational tactical choices:
 1. **Create Distance (Expand the Gap)**: Cut an immediate angle or drive backward, using stiff-arm frames or environmental barriers to push space beyond their reach, buying runway to disengage or access tools.
 2. **Collapse Distance (Crash to Zero Distance)**: Drive your chest into the attacker's ribcage, clamping triceps, establishing an overhook, and wedging your forehead under their chin.
 
-Crashing to Zero Distance neutralizes strikes because kinetic force requires runway to accelerate. If you step deep inside the arc before a punch launches—pinning your shoulder against their collarbone and trapping their bicep—their limb cannot extend. You eliminate operational clearance, converting a dangerous striker into a tangled grappler fighting for balance against your base.
+Crashing to Zero Distance neutralizes strikes because kinetic force requires runway to accelerate. If you step deep inside the arc before a punch launches—pinning your shoulder against their collarbone and trapping their bicep—their limb cannot extend. You catch the adversary during their striking transition: as their arm coils or initiates forward drive, you eliminate operational clearance, converting a dangerous striker into a tangled grappler fighting for balance against your base.
 
 > [!NOTE]
 > **The Mechanics Behind It: Kinetic Work ($W = F \times d$)**  
@@ -466,7 +472,7 @@ When Distance, Time, and Power align, you operate on maximum efficiency with min
 
 $$\eta = \frac{E_{\text{delivered}}}{E_{\text{expended}}} \longrightarrow \mathbf{Maximum}$$
 
-Distance cuts wasted steps. Timing catches the opponent mid-transit when they cannot brace. Power lands in short, explosive snaps from a stable stance rather than continuous straining. 
+Distance cuts wasted steps. Timing attacks the transition—catching the opponent mid-transit when their base is ungrounded and they cannot brace. Power lands in short, explosive snaps from a stable stance rather than continuous straining. 
 
 Swing at air and throw your shoulders past your hips, and you gas out. Keep your vertical alignment—shoulders over hips over stance—strike from balance, and you last.
 
@@ -565,6 +571,8 @@ In statics, you remain upright only while your Center of Mass projects downward 
 Untrained combatants compromise balance in two predictable ways:
 - **The Stilt Failure**: Standing tall with locked knees and a narrow foot stance. This raises the Center of Mass and shrinks the Base of Support to a small rectangle, allowing a moderate shove to tip you onto the pavement.
 - **The Linear Over-Commitment**: Lunging forward onto one foot to throw a punch, projecting the Center of Mass past the lead toes and inviting takedowns.
+
+Both breakdowns occur during uncontrolled transitions. Transitions are the most vulnerable moments in combat because shifting your base momentarily compromises static equilibrium. Every step is an unweighted transit; every committed strike transfers mass. A disciplined hard target keeps transitions short, protected, and balanced—never allowing the Center of Mass to run ahead of the stance. Conversely, when an adversary lunges or steps sloppily, their transition becomes your prime window of opportunity to disrupt their balance or drive a counter.
 
 To anchor yourself as a hard target, widen your Base of Support while lowering your Center of Mass:
 1. Position feet slightly wider than shoulders, staggered with a lead and rear foot to resist forces from front and flanks.

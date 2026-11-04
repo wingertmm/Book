@@ -40,11 +40,15 @@ Distance acts as an active physical filter, cutting theoretical threats down to 
 
 Distance is an active control dial. Safety lives at the extremes—either completely outside reach, or locked chest-to-chest at **Zero Distance**. Lingering in the middle without initiative turns space into a kill zone where an assailant has full clearance to rotate hips and accelerate fists to maximum speed.
 
+Transitions are the most vulnerable time in combat. Whenever you move between ranges—shifting from outside reach into the pocket, or attempting to disengage—you are in transit. In transit, your base is dynamic, your center of mass is in motion, and your skeletal guard is open. That vulnerability cuts both ways: it creates grave danger if you hesitate, but it yields your best tactical opportunities when an adversary moves.
+
+The tactical rule is absolute: **never fight in transit**. Do not linger in the seam between distances. If you move, cross the threshold decisively.
+
 When an ambush detonates, you have two rational tactical choices:
 1. **Create Distance (Expand the Gap)**: Cut an immediate angle or drive backward, using stiff-arm frames or environmental barriers to push space beyond their reach, buying runway to disengage or access tools.
 2. **Collapse Distance (Crash to Zero Distance)**: Drive your chest into the attacker's ribcage, clamping triceps, establishing an overhook, and wedging your forehead under their chin.
 
-Crashing to Zero Distance neutralizes strikes because kinetic force requires runway to accelerate. If you step deep inside the arc before a punch launches—pinning your shoulder against their collarbone and trapping their bicep—their limb cannot extend. You eliminate operational clearance, converting a dangerous striker into a tangled grappler fighting for balance against your base.
+Crashing to Zero Distance neutralizes strikes because kinetic force requires runway to accelerate. If you step deep inside the arc before a punch launches—pinning your shoulder against their collarbone and trapping their bicep—their limb cannot extend. You catch the adversary during their striking transition: as their arm coils or initiates forward drive, you eliminate operational clearance, converting a dangerous striker into a tangled grappler fighting for balance against your base.
 
 > [!NOTE]
 > **The Mechanics Behind It: Kinetic Work ($W = F \times d$)**  
@@ -79,7 +83,7 @@ When Distance, Time, and Power align, you operate on maximum efficiency with min
 
 $$\eta = \frac{E_{\text{delivered}}}{E_{\text{expended}}} \longrightarrow \mathbf{Maximum}$$
 
-Distance cuts wasted steps. Timing catches the opponent mid-transit when they cannot brace. Power lands in short, explosive snaps from a stable stance rather than continuous straining. 
+Distance cuts wasted steps. Timing attacks the transition—catching the opponent mid-transit when their base is ungrounded and they cannot brace. Power lands in short, explosive snaps from a stable stance rather than continuous straining. 
 
 Swing at air and throw your shoulders past your hips, and you gas out. Keep your vertical alignment—shoulders over hips over stance—strike from balance, and you last.
 
