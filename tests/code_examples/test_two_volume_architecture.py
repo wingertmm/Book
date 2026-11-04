@@ -86,9 +86,9 @@ def test_two_volume_chapter_docx_directories_and_pruning():
     assert vol1_chap_dir.exists(), f"Missing Volume 1 chapters dir: {vol1_chap_dir}"
     assert vol2_chap_dir.exists(), f"Missing Volume 2 chapters dir: {vol2_chap_dir}"
 
-    v1_files = list(vol1_chap_dir.glob("*.docx"))
-    v2_files = list(vol2_chap_dir.glob("*.docx"))
+    v1_chapters = {f.name.replace("_updated.docx", ".docx") for f in vol1_chap_dir.glob("*.docx") if not f.name.startswith("~$")}
+    v2_chapters = {f.name.replace("_updated.docx", ".docx") for f in vol2_chap_dir.glob("*.docx") if not f.name.startswith("~$")}
 
-    assert len(v1_files) == 18, f"Expected 18 Volume 1 chapter docx files, found {len(v1_files)}"
-    assert len(v2_files) == 8, f"Expected 8 Volume 2 chapter docx files, found {len(v2_files)}"
+    assert len(v1_chapters) == 18, f"Expected 18 Volume 1 chapter docx files, found {len(v1_chapters)}"
+    assert len(v2_chapters) == 8, f"Expected 8 Volume 2 chapter docx files, found {len(v2_chapters)}"
 

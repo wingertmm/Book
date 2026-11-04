@@ -226,7 +226,7 @@ Across Chapters 01 through 03, we proved that physical distance provides the ope
 When you maintain Long Distance, your prefrontal cortex retains the metabolic bandwidth and temporal runway required to read Intent Cues, evaluate terrain, and choose whether to engage or escape. But when distance collapses into Medium or Close range without warning, time evaporates. Adrenaline floods your system, the cognitive bottleneck shuts down intellectual reasoning, and the Lizard Brain assumes absolute command.
 
 If your training relies on conscious thinking, you will freeze. Survival requires a dual-track doctrine:
-1. **Before Contact**: Operate from the Command Center. Maintain distance, read precursor intent cues, evaluate structural angles, and engineer the terms of engagement.
+1. **Before Contact**: Operate from the Command Center. Maintain distance, read precursor intent cues, evaluate structural angles, and dictate the terms of engagement.
 2. **At and During Contact**: Release control to the Lizard Brain. Execute pre-programmed, gross-motor reflexes that require zero conscious deliberation to survive the collision.
 
 Understanding the limits of conscious reasoning brings us to the core problem of combat conditioning: if the higher brain drops out under adrenaline, how do we install high-level martial mechanics into the primitive lower brain?
@@ -904,7 +904,7 @@ Understanding how the body degrades under acute threat is only half the battle. 
 
 Discard fine motor techniques before violence starts; under sympathetic arousal, only gross skeletal mechanics survive. Section 18.1 exposed the sensory distortions of High-Stress Physiology: the sympathetic surge, tunnel vision, auditory exclusion, and tachypsychia. But sensory distortion is merely the opening shock. As heart rate surges past $145\text{--}175\ \text{BPM}$, biological wetware triggers a second failure mode: the destruction of motor coordination and executive cognitive function.
 
-When an ambush forces heart rate into Zone 2 and Zone 3, biological wetware refuses to execute intricate choreography. Engineering tactics around gross skeletal structure separates standing upright from collapsing under assault.
+When an ambush forces heart rate into Zone 2 and Zone 3, biological wetware refuses to execute intricate choreography. Structuring tactics around gross skeletal alignment separates standing upright from collapsing under assault.
 
 ---
 
@@ -1019,7 +1019,7 @@ Yet knowing these boundaries is meaningless without an empirical methodology to 
 
 Never collect techniques you cannot execute in the dark; mastery is depth of myelination, not breadth of catalog. Chapter 18 exposed the biological reality of high-stress combat: when lethal threat detonates, the sympathoadrenal surge triggers prefrontal hypofrontality, collapses fine motor control, and induces sensory distortion. In that biological furnace, conscious calculation dies. You do not rise to the occasion; you sink to the floor of your physiological habits.
 
-Personal defense requires engineering those habits into hardwired reflexes. This process is **Neural Conditioning**—the deliberate structural hardening of neuromuscular pathways to withstand catastrophic terror. If your training relies on memorizing an encyclopedic syllabus of moves, you build an illusion that shatters on asphalt. True combat capability demands rewiring the biological hardware itself.
+Personal defense requires forging those habits into hardwired reflexes. This process is **Neural Conditioning**—the deliberate structural hardening of neuromuscular pathways to withstand catastrophic terror. If your training relies on memorizing an encyclopedic syllabus of moves, you build an illusion that shatters on asphalt. True combat capability demands rewiring the biological hardware itself.
 
 ---
 
@@ -1117,7 +1117,7 @@ Speed is not muscle contraction; speed is the physical velocity of an electrical
 - **Time ($\Delta t$)**: Time is the ultimate metric of survival. Myelination drops axonal conduction latency from five hundred milliseconds to ten milliseconds; motor chunking eliminates hundreds of milliseconds of cognitive hesitation. Together, they compress response time to subcortical speeds.
 - **Power ($P$)**: Power requires simultaneous, coordinated motor unit recruitment. An unconditioned nervous system fires motor units asynchronously, producing weak, fragmented kinetic work. Densely myelinated engrams synchronize motor unit recruitment, delivering concentrated kinetic force through rigid skeletal frames.
 
-Understanding the biology of myelination and the unforgiving Law of Permanence solves only the first half of training engineering. If perfect practice creates permanent habits, how do we introduce high-stress reality into training without degrading our form into sloppy panic? In Wave 2, we tackle Sections 19.3 and 19.4: **Progressive Stress Inoculation and Drilling Decision Points Over Move Sequences**, examining how to condition the nervous system for controlled chaos.
+Understanding the biology of myelination and the unforgiving Law of Permanence solves only the first half of training doctrine. If perfect practice creates permanent habits, how do we introduce high-stress reality into training without degrading our form into sloppy panic? In Wave 2, we tackle Sections 19.3 and 19.4: **Progressive Stress Inoculation and Drilling Decision Points Over Move Sequences**, examining how to condition the nervous system for controlled chaos.
 
 ---
 
@@ -1576,7 +1576,7 @@ In Part I, we established the mechanical engine: ground reaction forces, pelvic 
 
 Part IV applied these laws across combat ranges: long-range Taekwondo kicks, medium-range Muay Thai clinch frames, Wrestling takedowns, and Brazilian Jiu-Jitsu ground survival. 
 
-Part V engineered the decision engine: cycling Detect, Frame, Disrupt, and Egress inside an attacker's reaction loop under sympathetic stress. 
+Part V mapped the decision engine: cycling Detect, Frame, Disrupt, and Egress inside an attacker's reaction loop under sympathetic stress. 
 
 Part VI forged the training doctrine: stress inoculation, weapon presentation counters, and the legal boundaries governing lethal power.
 
@@ -1589,7 +1589,7 @@ The Master Equation governs every millisecond of human combat:
 - **Time ($\Delta t$)**: Time is the velocity of neurological conduction and biomechanical execution. By myelinating motor engrams, drilling branching decision points, and reading pre-attack indicators, you compress reaction latency, dominating the temporal gap inside the adversary's loop.
 - **Power ($P$)**: Power is not reckless rage; it is the deliberate concentration of mechanical work into anatomical targets within minimum time, delivered through aligned skeletal structures and terminated immediately upon threat cessation.
 
-This establishes the **Unified Architecture** of our discipline. Combat is not a theatrical sport or an outlet for ego. It is an emergency life-safety engineering problem. The martial engineer trains with unyielding discipline so that when violence strikes, they preserve human life, neutralize aggression without hatred, and walk away with their physical integrity intact, their conscience clean, and their legal freedom secure.
+This establishes the **Unified Architecture** of our discipline. Combat is not a theatrical sport or an outlet for ego. It is an emergency survival problem governed by the laws of physics. The disciplined practitioner trains with unyielding resolve so that when violence strikes, they preserve human life, neutralize aggression without hatred, and walk away with their physical integrity intact, their conscience clean, and their legal freedom secure.
 
 ---
 

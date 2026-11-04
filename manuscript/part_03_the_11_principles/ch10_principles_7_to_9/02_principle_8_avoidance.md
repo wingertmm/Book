@@ -12,7 +12,7 @@ In civilian self-defense on concrete, ego subverts this doctrine. In parking lot
 
 This ego trap is fatal. On pavement, consensual mutual combat is a catastrophic gamble. An individual who fights over pride confuses social status with survival. They enter physical violence voluntarily, blind to the unforgiving physics of the street.
 
-As an engineer and combatives coach, you reject the brawler's pride. You enforce **Principle 8: Avoidance When Superior**. You recognize that physical force is an emergency fallback, not a preferred solution. When an exit corridor exists, disengaging and leaving the environment is not a retreat; it is an immediate operational victory. You preserve your life, your health, your legal freedom, and your family's security, denying the aggressor any opportunity to inflict catastrophic harm.
+Reject the brawler's pride. **Principle 8: Avoidance When Superior** recognizes that physical force is an emergency fallback, not a preferred solution. When an exit corridor exists, disengaging and leaving the environment is not a retreat; it is an immediate operational victory. You preserve your life, your health, your legal freedom, and your family's security, denying the aggressor any opportunity to inflict catastrophic harm.
 
 ```
 +------------------------------------------------------------------------+
@@ -39,7 +39,7 @@ As an engineer and combatives coach, you reject the brawler's pride. You enforce
 
 Never risk catastrophic ruin for zero upside; on pavement, the math of mutual combat is always negative.
 
-An engineer evaluates mechanical and operational systems through risk profiles and expected value. In consensual street violence, the risk curve is characterized by severe negative asymmetry. 
+A disciplined tactician evaluates operational situations through risk profiles and expected value. In consensual street violence, the risk curve is characterized by severe negative asymmetry. 
 
 Consider the payoff of winning an avoidable street fight. What do you gain by knocking out a belligerent stranger in a parking lot? Zero financial return, zero career advancement, and zero enduring security. You gain only toxic ego validation. The tactical upside is zero.
 

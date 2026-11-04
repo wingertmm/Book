@@ -55,7 +55,7 @@ The sprawl severs the shooter's kinetic chain. For a takedown to succeed, the at
 
 Bait the predictable entry to eliminate your reaction delay, then rotate their cervical spine to kill their drive. Reacting to an unconstrained attacker forces you to process infinite threat variables. Hick's Law dictates that decision latency scales logarithmically with potential attacks. Waiting to identify whether an attacker will punch or tackle consumes 200 to 400 milliseconds—a window in which you absorb impact.
 
-**Predictive Funneling** eliminates this latency by engineering an intentional opening. Against an aggressive opponent displaying wrestling intent, stand slightly more upright and extend your lead leg forward. Offering an apparent flaw funnels the threat's choice architecture down to a single deterministic action ($n = 1$): the shot on your lead leg. Because you baited the entry, your counter-response requires zero cognitive processing lag.
+**Predictive Funneling** eliminates this latency by manufacturing an intentional opening. Against an aggressive opponent displaying wrestling intent, stand slightly more upright and extend your lead leg forward. Offering an apparent flaw funnels the threat's choice architecture down to a single deterministic action ($n = 1$): the shot on your lead leg. Because you baited the entry, your counter-response requires zero cognitive processing lag.
 
 The primary weapon is the **Crossface**. As the attacker commits their head into your hip, drive the rigid blade of your forearm across their philtrum or jawline. Cup their far triceps, and drive your shoulder forward, forcing their head to rotate away from the centerline.
 

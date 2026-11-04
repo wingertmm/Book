@@ -12,7 +12,7 @@ On concrete, the most common failure is the attrition trap. When violence erupts
 
 In combat sports with timed rounds, conditioned athletes muscle through scrambles. In street violence, pushing with muscle is suicidal. Muscle tissue relies on adenosine triphosphate (ATP) and anaerobic glycolysis. Under acute stress, continuous isometric contractions deplete ATP within seconds and flood the bloodstream with lactic acid, causing rapid tremor and respiratory failure. When your grip burns out, you become a defenseless target.
 
-As an engineer and combatives coach, you reject muscular attrition. You enforce **Principle 6: Economy of Force**. You do not push incoming mass with muscle; you construct **Skeletal Framing**.
+Reject muscular attrition. **Principle 6: Economy of Force** dictates that you do not push incoming mass with muscle; you construct **Skeletal Framing**.
 
 Skeletal framing deploys bones—forearms, shins, and locked skeletal angles—as rigid structural trusses aligned with your pelvis and the ground. Bone possesses exceptional compressive strength, bearing hundreds of pounds of load without active muscular contraction. When an assailant charges, you do not bench-press their chest. You angle your forearms into structural wedges, lock your joint angles, and ground your base. The attacker's momentum impacts a rigid frame, transmitting kinetic energy directly into the earth while your muscles remain relaxed and oxygenated. The attacker exhausts themselves pushing against bone, while you preserve energy for the decisive strike or exit corridor.
 
@@ -53,7 +53,7 @@ At principle level, multifunctional control operates across every range:
 - **Ground Entanglement**: A single lower extremity across an opponent's torso in top control pins their arm, locks their hip line, and misaligns their spine. One limb controls three axes, freeing your remaining limbs to disengage and stand.
 - **Weapon Interception**: Pinning an assailant's armed wrist against their torso uses their weapon arm as a barricade against their off-hand. A framed wedge traps both upper limbs, preventing weapon transfers and opening your exit.
 
-By engineering asymmetric limb dominance, you never over-commit resources. You control the threat with minimal physical expenditure while keeping your primary operational tools free.
+By establishing asymmetric limb dominance, you never over-commit resources. You control the threat with minimal physical expenditure while keeping your primary operational tools free.
 
 ### The Law of Minimum Essential Engagement: Pruning the Fight to the Exit
 
@@ -65,7 +65,7 @@ Economy of Force commands that you prune the engagement to its minimum viable du
 
 You do not fight to dominate an opponent's ego, prove technical skill, or inflict retribution. If an off-balancing shove breaks an attacker's posture and opens a corridor toward an exit, your mission is complete. You do not chase them to land a combination; you turn and accelerate to safety.
 
-Engaging beyond the minimum essential threshold is a failure of command discipline. It burns energy, increases legal exposure, and invites unforeseen chaos. Apply force with engineering precision: the exact amount required to solve the mechanical crisis, and not a single joule more.
+Engaging beyond the minimum essential threshold is a failure of command discipline. It burns energy, increases legal exposure, and invites unforeseen chaos. Apply force with mathematical precision: the exact amount required to solve the mechanical crisis, and not a single joule more.
 
 > [!NOTE]
 > ### The Mechanics Behind It: Metabolic Work, Compressive Structural Trusses, and the Asymmetric Limb Ratio

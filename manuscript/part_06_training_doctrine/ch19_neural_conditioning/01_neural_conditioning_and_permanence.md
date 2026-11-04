@@ -4,7 +4,7 @@
 
 Never collect techniques you cannot execute in the dark; mastery is depth of myelination, not breadth of catalog. Chapter 18 exposed the biological reality of high-stress combat: when lethal threat detonates, the sympathoadrenal surge triggers prefrontal hypofrontality, collapses fine motor control, and induces sensory distortion. In that biological furnace, conscious calculation dies. You do not rise to the occasion; you sink to the floor of your physiological habits.
 
-Personal defense requires engineering those habits into hardwired reflexes. This process is **Neural Conditioning**—the deliberate structural hardening of neuromuscular pathways to withstand catastrophic terror. If your training relies on memorizing an encyclopedic syllabus of moves, you build an illusion that shatters on asphalt. True combat capability demands rewiring the biological hardware itself.
+Personal defense requires forging those habits into hardwired reflexes. This process is **Neural Conditioning**—the deliberate structural hardening of neuromuscular pathways to withstand catastrophic terror. If your training relies on memorizing an encyclopedic syllabus of moves, you build an illusion that shatters on asphalt. True combat capability demands rewiring the biological hardware itself.
 
 ---
 
@@ -102,4 +102,4 @@ Speed is not muscle contraction; speed is the physical velocity of an electrical
 - **Time ($\Delta t$)**: Time is the ultimate metric of survival. Myelination drops axonal conduction latency from five hundred milliseconds to ten milliseconds; motor chunking eliminates hundreds of milliseconds of cognitive hesitation. Together, they compress response time to subcortical speeds.
 - **Power ($P$)**: Power requires simultaneous, coordinated motor unit recruitment. An unconditioned nervous system fires motor units asynchronously, producing weak, fragmented kinetic work. Densely myelinated engrams synchronize motor unit recruitment, delivering concentrated kinetic force through rigid skeletal frames.
 
-Understanding the biology of myelination and the unforgiving Law of Permanence solves only the first half of training engineering. If perfect practice creates permanent habits, how do we introduce high-stress reality into training without degrading our form into sloppy panic? In Wave 2, we tackle Sections 19.3 and 19.4: **Progressive Stress Inoculation and Drilling Decision Points Over Move Sequences**, examining how to condition the nervous system for controlled chaos.
+Understanding the biology of myelination and the unforgiving Law of Permanence solves only the first half of training doctrine. If perfect practice creates permanent habits, how do we introduce high-stress reality into training without degrading our form into sloppy panic? In Wave 2, we tackle Sections 19.3 and 19.4: **Progressive Stress Inoculation and Drilling Decision Points Over Move Sequences**, examining how to condition the nervous system for controlled chaos.

@@ -12,7 +12,7 @@ On concrete, the duel assumption is fatal. Violence is an open, non-linear cruci
 
 Military doctrine formalizes this imperative. Sun Tzu wrote in *The Art of War*: *"Know the enemy and know yourself; in a hundred battles you will never be in peril."* U.S. Army Field Manual 3-0 (*Operations*) reinforces continuous reconnaissance: combat power applied without intelligence is blind force wasted. Air Force Doctrine Publication 1 (*Airpower Operations*) and John Boyd’s *Observe* phase state the same reality: the fighter who perceives environmental changes fastest dictates engagement tempo.
 
-As an engineer and combatives coach, you enforce **Principle 11: Know the Situation**. You reject the duel illusion, maintaining a continuous, real-time **Dynamic Threat Audit** across four operational vectors:
+Reject the duel illusion. **Principle 11: Know the Situation** demands maintaining a continuous, real-time **Dynamic Threat Audit** across four operational vectors:
 
 1. **Self**: Monitor base, skeletal posture, fatigue, and injuries. When protecting family, maintain position between the threat and protected parties.
 2. **Threat**: Track primary and secondary assailants. Watch intent shifts, pre-attack cues, and hands. Hands deploy weapons; hands strike. If you cannot see hands, treat them as armed.

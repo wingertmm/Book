@@ -4,7 +4,7 @@ Before a punch launches or a grapple locks, your physical posture has already de
 
 Most people believe self-defense begins when hands touch. By then, half the battle is already decided. If your feet are tangled, your center of mass is ungrounded, and your arms flail in space, no catalog of black-belt techniques can rescue you under shock. 
 
-Combat is an engineering problem governed by equilibrium. To survive violent impact, you must establish an unyielding defensive structure before contact occurs: **The Law of the Hard Target**.
+Combat is a physical reality governed by equilibrium. To survive violent impact, you must establish an unyielding defensive structure before contact occurs: **The Law of the Hard Target**.
 
 ---
 
@@ -91,7 +91,7 @@ You do not absorb an impact by tensing like a statue; you absorb it by aligning 
 
 When struck or shoved, many people tense every muscle, lock their knees, and hold their breath. They try to become an immovable granite pillar. 
 
-Rigid structures are brittle. In structural engineering, a rigid post snaps under sudden shock; a resilient structure flexes along controlled pathways, dissipates kinetic energy, and rebounds. 
+Rigid structures are brittle. In structural mechanics, a rigid post snaps under sudden shock; a resilient structure flexes along controlled pathways, dissipates kinetic energy, and rebounds. 
 
 When sudden impact hits your guard:
 - Keep joints compliant. Do not lock elbows or knees.
@@ -113,6 +113,6 @@ In Chapter 01, we established the three structural pillars of personal combat:
 
 The Law of the Hard Target is the physical anchor that makes the Master Equation function. Without a stable base and rigid skeletal frames, you cannot maintain the distance needed to buy time; without time, power is wasted. 
 
-When you stand as a hard target, you do not hope for survival; you engineer it through position, mechanics, and structural integrity.
+When you stand as a hard target, you do not hope for survival; you command it through position, mechanics, and structural integrity.
 
 In Chapter 02, we take this structural foundation onto the battlefield—mapping space into **the Four Combat Ranges** and establishing how the rules of engagement shift as distance collapses.

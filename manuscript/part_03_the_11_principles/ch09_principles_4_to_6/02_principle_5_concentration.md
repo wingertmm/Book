@@ -12,7 +12,7 @@ In street self-defense on concrete, this reality is absolute. Consensual combat 
 
 On pavement against an adrenalized assailant, peppering is suicidal. An attacker driven by predatory rage ignores superficial pain. Light strikes bouncing off shoulders, chest muscles, or frontal cranial bone produce zero physiological stoppage. Worse, every weak blow burns cardiovascular energy, exposes your guard, and risks fracturing metacarpal bones. Most dangerously, a diffuse flurry leaves forward momentum unchecked. The assailant charges straight through your arm punches, driving you into asphalt or deploying a weapon.
 
-As an engineer and combatives coach, you reject volumetric striking. You enforce **Principle 5: Concentration**. You refuse to scatter weak, piecemeal efforts across fortified targets. Once an opening appears, you focus your mass into a single structural choke point to end the threat immediately.
+Reject volumetric striking. **Principle 5: Concentration** refuses to scatter weak, piecemeal efforts across fortified targets. Once an opening appears, focus whole-body mass into a single structural choke point to end the threat immediately.
 
 ```
 +------------------------------------------------------------------------+
@@ -35,7 +35,7 @@ As an engineer and combatives coach, you reject volumetric striking. You enforce
 
 ### The Decisive Point: Identifying Biomechanical Choke Points
 
-Target structural junctions where biological engineering cannot build armor; strike where minimal force creates catastrophic mechanical failure.
+Target structural junctions where human anatomy cannot build armor; strike where minimal force creates catastrophic mechanical failure.
 
 In combat operations, the decisive point is the geographic or structural node whose destruction guarantees victory. In personal defense, the decisive point is an unarmored biological vulnerability where human anatomy cannot absorb mechanical shock.
 

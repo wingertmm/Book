@@ -2,7 +2,7 @@
 
 ## The Five Invariant Laws of the Human Machine
 
-Volume 1 established combat as an engineering problem governed by the invariant laws of physics and military strategy: Time, Distance, and Power ($P = \frac{W}{\Delta t}$). We mapped the Four Ranges, applied the strategic lenses of Sun Tzu, John Boyd, and armored maneuver warfare, codified the 11 Unified Principles of War, and synthesized four foundational martial arts disciplines into a single operating system.
+Volume 1 established combat as an exact physical discipline governed by the invariant laws of physics and military strategy: Time, Distance, and Power ($P = \frac{W}{\Delta t}$). We mapped the Four Ranges, applied the strategic lenses of Sun Tzu, John Boyd, and armored maneuver warfare, codified the 11 Unified Principles of War, and synthesized four foundational martial arts disciplines into a single operating system.
 
 Yet, an unyielding operational paradox remains: **flawless combat doctrine is useless if the human machine executing it collapses under the shock of violence.**
 
@@ -75,8 +75,8 @@ Yet knowing these five invariant laws is not the same as mastering the biologica
 
 How does the brain transition from terror-induced paralysis to decisive action? How does the autonomic nervous system trigger tunnel vision and auditory exclusion, and how do tactical breathing protocols reverse the panic spike? How do repeated physical repetitions physically thicken myelin sheaths around neural pathways to convert clumsy moves into lightning-fast motor engrams? How do you survive an unexpected blade ambush at zero distance, and how do you navigate the post-incident legal aftermath to protect your freedom?
 
-For the exhaustive human-factors engineering—the neurobiology of high-stress survival, the three-tier stress inoculation ladder, immediate action drills against weapons, and constitutional force law—the practitioner is directed to the companion volume:
+For the exhaustive human-factors analysis—the neurobiology of high-stress survival, the three-tier stress inoculation ladder, immediate action drills against weapons, and constitutional force law—the practitioner is directed to the companion volume:
 
 **Volume 2: The Machine Under Load — Stress Physiology, Neural Conditioning, and Survival Realities**
 
-Where Volume 1 provides the unchanging doctrine of combat, Volume 2 engineers the human machine to execute that doctrine when civilization strips away.
+Where Volume 1 provides the unchanging doctrine of combat, Volume 2 conditions the human machine to execute that doctrine when civilization strips away.

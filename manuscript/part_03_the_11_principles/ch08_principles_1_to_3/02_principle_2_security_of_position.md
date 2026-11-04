@@ -12,14 +12,14 @@ In personal combat on asphalt, Purpose First (Principle 1) defines *where* you a
 
 Untrained combatants operate under the illusion that offense creates safety. When an aggressor charges, the novice lunges forward, throwing haymakers while leaning past their toes. The instant your center of mass travels outside your base of support, offensive capability drops to zero. You cannot hit hard while falling, nor defend while stumbling forward.
 
-As an engineer and combatives coach, you treat physical position as an uncompromisable asset. You anchor your platform first, ensuring that your skeletal frame can absorb external shock loads before you ever launch a counter-maneuver.
+Physical position is an uncompromisable asset. Anchor your platform first, ensuring that your skeletal frame can absorb external shock loads before you ever launch a counter-maneuver.
 
 ```
 +------------------------------------------------------------------------+
 |                      SECURITY OF POSITION FILTER                       |
 |                                                                        |
 |      INCOMING PRESSURE                   POSITIONAL ANCHOR             |
-|   [Unconditioned Urge]                [Engineered Structural Base]     |
+|   [Unconditioned Urge]                [Structural Platform Anchor]     |
 |            |                                      |                    |
 |   - Flail & reach (Chasing)           - Elbows tucked inside ribs      |
 |   - Over-commit to strike             - Center of mass inside base     |

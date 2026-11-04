@@ -12,7 +12,7 @@ In close-quarters combat on concrete, **Security of Position** represents the id
 
 Untrained fighters routinely violate this principle. Under survival stress, amateurs equate aggression with wild flurries, lunging forward or diving at legs for an immediate knockout. They gamble away structural stability for an uncertain reward. 
 
-As a combatives instructor and engineer, you teach a sterner doctrine: position precedes force. Launching a strike from an unstable base delivers minimal stopping power and buys you nothing if you lose your feet. On asphalt, maintaining your defensive anchor guarantees survival; gambling your base invites destruction.
+Combatives demands a sterner doctrine: position precedes force. Launching a strike from an unstable base delivers minimal stopping power and buys you nothing if you lose your feet. On asphalt, maintaining your defensive anchor guarantees survival; gambling your base invites destruction.
 
 ### The Siren Song of the Cheap Strike: Why Fighters Compromise Their Base
 

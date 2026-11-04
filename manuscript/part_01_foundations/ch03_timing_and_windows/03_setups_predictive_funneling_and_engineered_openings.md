@@ -81,7 +81,7 @@ By manufacturing the opening, the defender never guesses. They bait the shot, sh
 
 ### Tactical Synthesis: Integrating Timing into the Master Triad
 
-Space creates the runway, but timing pulls the trigger; master the geometry, calibrate to the window, and engineer the collision.
+Space creates the runway, but timing pulls the trigger; master the geometry, calibrate to the window, and command the collision.
 
 Chapter 03 completes the second pillar of our triad: **Timing**. Across its three waves, we have deconstructed timing from a vague artistic attribute into an exact mechanical discipline:
 

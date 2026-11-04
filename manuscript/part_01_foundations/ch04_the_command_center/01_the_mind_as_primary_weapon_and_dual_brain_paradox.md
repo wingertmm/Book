@@ -108,7 +108,7 @@ Across Chapters 01 through 03, we proved that physical distance provides the ope
 When you maintain Long Distance, your prefrontal cortex retains the metabolic bandwidth and temporal runway required to read Intent Cues, evaluate terrain, and choose whether to engage or escape. But when distance collapses into Medium or Close range without warning, time evaporates. Adrenaline floods your system, the cognitive bottleneck shuts down intellectual reasoning, and the Lizard Brain assumes absolute command.
 
 If your training relies on conscious thinking, you will freeze. Survival requires a dual-track doctrine:
-1. **Before Contact**: Operate from the Command Center. Maintain distance, read precursor intent cues, evaluate structural angles, and engineer the terms of engagement.
+1. **Before Contact**: Operate from the Command Center. Maintain distance, read precursor intent cues, evaluate structural angles, and dictate the terms of engagement.
 2. **At and During Contact**: Release control to the Lizard Brain. Execute pre-programmed, gross-motor reflexes that require zero conscious deliberation to survive the collision.
 
 Understanding the limits of conscious reasoning brings us to the core problem of combat conditioning: if the higher brain drops out under adrenaline, how do we install high-level martial mechanics into the primitive lower brain?

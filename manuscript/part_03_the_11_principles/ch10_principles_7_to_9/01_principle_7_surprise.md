@@ -2,9 +2,9 @@
 
 ## 10.1 Principle 7: Surprise / Unpreparedness: Exploiting Rhythm Shifts, Deception, and Sun Tzu's Baiting Doctrine
 
-### The Myth of the Sucker Punch: Why Surprise Is an Engineered Tactical Weapon
+### The Myth of the Sucker Punch: Why Surprise Is a Calculated Tactical Weapon
 
-Never fight on the attacker’s terms or timing; engineer surprise to strike when their neurological defenses are down.
+Never fight on the attacker’s terms or timing; manufacture surprise to strike when their neurological defenses are down.
 
 In military operational doctrine, U.S. Army Field Manual 3-0 (*Operations*) and Army Doctrine Publication 3-0 define the Principle of War: *Surprise*: strike the enemy at a time or place or in a manner for which they are unprepared. Department of the Air Force Doctrine Publication 1 (*Airpower Operations*) reinforces this mandate through *Surprise and Stealth*: airpower achieves decisive shock by leveraging speed, low observability, and unpredictable vectors to strike before the adversary can orient sensors or deploy countermeasures. Sun Tzu established the philosophical foundation for this principle over two millennia ago in *The Art of War*: all warfare is based on deception; attack where the enemy is unprepared and appear where you are not expected.
 
@@ -12,13 +12,13 @@ In street self-defense on concrete, surprise is often clouded by sporting mythol
 
 Entering a real-world violent encounter with a sporting mindset is fatal. If you announce your intentions, square up in an athletic stance, and wait for the adversary to prepare their guard, you surrender your tactical advantage. You enter a symmetric duel where mass, reach, and raw aggression determine survival.
 
-As an engineer and combatives coach, you reject the myth of the noble duel. You enforce **Principle 7: Surprise / Unpreparedness**. You understand that surprise is not a cheap trick; it is an engineered tactical weapon. You manipulate sensory inputs, rhythm, and spatial angles to ensure that when your counter-offensive launches, the attacker is neurologically and biomechanically incapable of mounting a defense.
+Reject the myth of the noble duel. **Principle 7: Surprise / Unpreparedness** dictates that surprise is not a cheap trick; it is a calculated tactical weapon. You manipulate sensory inputs, rhythm, and spatial angles to ensure that when your counter-offensive launches, the attacker is neurologically and biomechanically incapable of mounting a defense.
 
 ```
 +------------------------------------------------------------------------+
-|                SYMMETRIC DUEL VS. ENGINEERED SURPRISE                  |
+|                SYMMETRIC DUEL VS. CALCULATED SURPRISE                  |
 |                                                                        |
-|      SYMMETRIC DUEL (Sport Habit)         ENGINEERED SURPRISE (Principle 7) |
+|      SYMMETRIC DUEL (Sport Habit)         CALCULATED SURPRISE (Principle 7) |
 |                                                                        |
 |      [ Square Up & Telegraph Stance ]     [ Deceptive Neutral Posture ]|
 |                    |                                    |              |
@@ -52,14 +52,14 @@ Never move to a predictable rhythm; break your cadence to slip inside the attack
 
 Human neurophysiology tracks moving objects by establishing temporal expectations. When two combatants exchange strikes, their brains naturally fall into an entrained, metronomic cadence: a predictable one-two, one-two marching beat. Novice fighters move, bounce, and strike in metric time. An aggressive attacker quickly calibrates to this steady rhythm, timing their counters to land in the gaps between your predictable beats.
 
-An engineered defender exploits **Broken Cadence**. Instead of operating in metric time, you introduce syncopation—striking on the half-beat or shifting velocities without warning.
+A disciplined tactician exploits **Broken Cadence**. Instead of operating in metric time, you introduce syncopation—striking on the half-beat or shifting velocities without warning.
 
 1. **The Half-Beat Acceleration**: When an attacker expects a strike on beat two, you alter your kinetic acceleration to land on beat one-and-a-half. By striking during their inhalation, mid-stride, or during their motor preparation phase, you hit them before their central nervous system can issue a defensive motor command.
 2. **The Lull and Explode**: You move with deliberate, relaxed slowness, signaling compliance or retreat. The attacker's nervous system downshifts its sensory tracking rate. The instant their focus relaxes, you explode with maximum kinetic drive along an offline angle, bridging the distance before their brain can re-orient.
 
-This temporal disruption links directly to **Sun Tzu's Baiting Doctrine (Predictive Funneling)**. High-level surprise is rarely accidental; you engineer it by offering false information. 
+This temporal disruption links directly to **Sun Tzu's Baiting Doctrine (Predictive Funneling)**. High-level surprise is rarely accidental; you manufacture it by offering false information. 
 
-By deliberately dropping your lead hand, leaning slightly forward, or exposing your forward leg, you present a tempting, apparent vulnerability. The attacker's predatory instinct seizes on the opening, committing their weight forward into an aggressive charge. Because you pre-registered the trap, you know their exact line of attack before they initiate. As their momentum crosses the threshold, you sidestep into the dead angle and deliver a concentrated strike into their exposed flank. The attacker believes they are executing an ambush; in reality, they are stepping into your pre-engineered kill zone.
+By deliberately dropping your lead hand, leaning slightly forward, or exposing your forward leg, you present a tempting, apparent vulnerability. The attacker's predatory instinct seizes on the opening, committing their weight forward into an aggressive charge. Because you pre-registered the trap, you know their exact line of attack before they initiate. As their momentum crosses the threshold, you sidestep into the dead angle and deliver a concentrated strike into their exposed flank. The attacker believes they are executing an ambush; in reality, they are stepping into your pre-calculated kill zone.
 
 ```
 +------------------------------------------------------------------------+
@@ -112,6 +112,6 @@ Surprise transforms every element of the equation:
 - **Time**: Broken cadence and half-beat syncopation compress time. You strike before the adversary's sensory update cycle completes, exploiting their central processing bottleneck.
 - **Power**: By targeting an unbraced adversary, surprise magnifies effective power. You achieve catastrophic structural stoppage with a fraction of the metabolic energy required against an armored guard.
 
-Surprise is not random chaos; it is an engineered tactical discipline. You display apparent weakness to dictate where the attacker drives, break cadence to slip inside their decision loop, and deliver concentrated mass into an unshielded biological vulnerability.
+Surprise is not random chaos; it is a calculated tactical discipline. You display apparent weakness to dictate where the attacker drives, break cadence to slip inside their decision loop, and deliver concentrated mass into an unshielded biological vulnerability.
 
 Yet tactical deception is never an excuse to prolong combat. Feints, setups, and baiting must never degenerate into sporting games or ego posturing. True mastery of combat recognizes that the greatest tactical victory is avoiding violence altogether. When physical force is avoidable, continuing to engage is a critical strategic error. To complete your survival doctrine, you must master the ultimate form of strategic security: **10.2 Principle 8: Avoidance When Superior**.

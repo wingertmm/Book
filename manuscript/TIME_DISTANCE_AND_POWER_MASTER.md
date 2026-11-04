@@ -506,7 +506,7 @@ Before a punch launches or a grapple locks, your physical posture has already de
 
 Most people believe self-defense begins when hands touch. By then, half the battle is already decided. If your feet are tangled, your center of mass is ungrounded, and your arms flail in space, no catalog of black-belt techniques can rescue you under shock. 
 
-Combat is an engineering problem governed by equilibrium. To survive violent impact, you must establish an unyielding defensive structure before contact occurs: **The Law of the Hard Target**.
+Combat is a physical reality governed by equilibrium. To survive violent impact, you must establish an unyielding defensive structure before contact occurs: **The Law of the Hard Target**.
 
 ---
 
@@ -593,7 +593,7 @@ You do not absorb an impact by tensing like a statue; you absorb it by aligning 
 
 When struck or shoved, many people tense every muscle, lock their knees, and hold their breath. They try to become an immovable granite pillar. 
 
-Rigid structures are brittle. In structural engineering, a rigid post snaps under sudden shock; a resilient structure flexes along controlled pathways, dissipates kinetic energy, and rebounds. 
+Rigid structures are brittle. In structural mechanics, a rigid post snaps under sudden shock; a resilient structure flexes along controlled pathways, dissipates kinetic energy, and rebounds. 
 
 When sudden impact hits your guard:
 - Keep joints compliant. Do not lock elbows or knees.
@@ -615,7 +615,7 @@ In Chapter 01, we established the three structural pillars of personal combat:
 
 The Law of the Hard Target is the physical anchor that makes the Master Equation function. Without a stable base and rigid skeletal frames, you cannot maintain the distance needed to buy time; without time, power is wasted. 
 
-When you stand as a hard target, you do not hope for survival; you engineer it through position, mechanics, and structural integrity.
+When you stand as a hard target, you do not hope for survival; you command it through position, mechanics, and structural integrity.
 
 In Chapter 02, we take this structural foundation onto the battlefield—mapping space into **the Four Combat Ranges** and establishing how the rules of engagement shift as distance collapses.
 
@@ -1233,7 +1233,7 @@ By manufacturing the opening, the defender never guesses. They bait the shot, sh
 
 ### Tactical Synthesis: Integrating Timing into the Master Triad
 
-Space creates the runway, but timing pulls the trigger; master the geometry, calibrate to the window, and engineer the collision.
+Space creates the runway, but timing pulls the trigger; master the geometry, calibrate to the window, and command the collision.
 
 Chapter 03 completes the second pillar of our triad: **Timing**. Across its three waves, we have deconstructed timing from a vague artistic attribute into an exact mechanical discipline:
 
@@ -1359,7 +1359,7 @@ Across Chapters 01 through 03, we proved that physical distance provides the ope
 When you maintain Long Distance, your prefrontal cortex retains the metabolic bandwidth and temporal runway required to read Intent Cues, evaluate terrain, and choose whether to engage or escape. But when distance collapses into Medium or Close range without warning, time evaporates. Adrenaline floods your system, the cognitive bottleneck shuts down intellectual reasoning, and the Lizard Brain assumes absolute command.
 
 If your training relies on conscious thinking, you will freeze. Survival requires a dual-track doctrine:
-1. **Before Contact**: Operate from the Command Center. Maintain distance, read precursor intent cues, evaluate structural angles, and engineer the terms of engagement.
+1. **Before Contact**: Operate from the Command Center. Maintain distance, read precursor intent cues, evaluate structural angles, and dictate the terms of engagement.
 2. **At and During Contact**: Release control to the Lizard Brain. Execute pre-programmed, gross-motor reflexes that require zero conscious deliberation to survive the collision.
 
 Understanding the limits of conscious reasoning brings us to the core problem of combat conditioning: if the higher brain drops out under adrenaline, how do we install high-level martial mechanics into the primitive lower brain?
@@ -2118,7 +2118,7 @@ Never fight on a flat plane; changing your elevation forces the attacker to trac
 
 Most fighters conceptualize combat on a flat, two-dimensional grid. They step forward, retreat, circle, and pivot, treating the pocket as a flat chessboard. This mindset creates tactical vulnerability. When both combatants move solely along the horizontal plane, their visual systems track threat vectors with minimal effort. The brain easily plots trajectories across a flat surface, allowing an attacker to maintain alignment and drive linear power down the centerline.
 
-As an Air Force officer and engineer, you recognize that combat dominance requires expanding into **The 3D Battlespace**. In aerial combat, a pilot who maneuvers exclusively in horizontal turns bleeds energy, surrenders position, and gets shot down. Air combat maneuvers—such as the high yoyo, low yoyo, and diving spirals—unfold across the vertical axis. A pilot dives to convert altitude into airspeed, or climbs to trade velocity for potential energy and positional dominance.
+True combat dominance requires expanding beyond flat horizontal movement into **The 3D Battlespace**. In aerial combat, a pilot who maneuvers exclusively in horizontal turns bleeds energy, surrenders position, and gets shot down. Air combat maneuvers—such as the high yoyo, low yoyo, and diving spirals—unfold across the vertical axis. A pilot dives to convert altitude into airspeed, or climbs to trade velocity for potential energy and positional dominance.
 
 In close-quarters combatives, the vertical dimension represents an underutilized combat multiplier. You introduce **Vertical Maneuver** by actively changing your elevation relative to the threat. Dropping your hips four to six inches or dipping your head beneath an incoming strike breaks the attacker's line of sight and corrupts their targeting solution. Because an aggressive predator expects a stationary or horizontally retreating target, a sudden vertical level change forces an immediate visual reset. Their forward momentum carries their strike harmlessly overhead, exposing their unguarded head and torso to immediate counters.
 
@@ -2218,7 +2218,7 @@ Never take a step that does not improve your position or degrade the attacker’
 
 In the previous chapter, we examined close-quarters violence through the fluid, open airspace of Boyd’s Energy-Maneuverability. But physical self-defense rarely takes place in infinite sky. Personal violence unfolds on earth—governed by terrestrial friction, curb edges, walls, parked vehicles, broken bottles, and unyielding concrete. When boots meet asphalt, combat becomes an unforgiving problem of terrestrial physics.
 
-As an engineer and combatives instructor, you analyze ground combat through **The Ground Maneuver Lens**. In military infantry doctrine, codified in U.S. Army Field Manual 3-0 (*Operations*) and Training Circular 3-25.150 (*Combatives*), movement constitutes the primary mechanism of survival. A rifle squad that remains stationary in an open alley gets pinned, flanked, and systematically eliminated. Yet dashing forward without a plan invites equal destruction. Every tactical element maneuvers with a single doctrinal mandate: **Maneuver to Advantage**.
+Ground combat demands rigorous analysis through **The Ground Maneuver Lens**. In military infantry doctrine, codified in U.S. Army Field Manual 3-0 (*Operations*) and Training Circular 3-25.150 (*Combatives*), movement constitutes the primary mechanism of survival. A rifle squad that remains stationary in an open alley gets pinned, flanked, and systematically eliminated. Yet dashing forward without a plan invites equal destruction. Every tactical element maneuvers with a single doctrinal mandate: **Maneuver to Advantage**.
 
 In close-quarters personal defense, this doctrine dictates that you never take an unguided step. Unconscious pacing, nervous shuffling, or backing up blindly wastes vital energy and surrenders spatial control. Every adjustment of your base must achieve one of two physical objectives: it must either dismantle the attacker’s offensive alignment or enhance your own structural and positional leverage. Movement on concrete is not decorative athletic footwork; it is operational geometry designed to seize positional dominance before delivering force.
 
@@ -2320,7 +2320,7 @@ In close-quarters combat on concrete, **Security of Position** represents the id
 
 Untrained fighters routinely violate this principle. Under survival stress, amateurs equate aggression with wild flurries, lunging forward or diving at legs for an immediate knockout. They gamble away structural stability for an uncertain reward. 
 
-As a combatives instructor and engineer, you teach a sterner doctrine: position precedes force. Launching a strike from an unstable base delivers minimal stopping power and buys you nothing if you lose your feet. On asphalt, maintaining your defensive anchor guarantees survival; gambling your base invites destruction.
+Combatives demands a sterner doctrine: position precedes force. Launching a strike from an unstable base delivers minimal stopping power and buys you nothing if you lose your feet. On asphalt, maintaining your defensive anchor guarantees survival; gambling your base invites destruction.
 
 ### The Siren Song of the Cheap Strike: Why Fighters Compromise Their Base
 
@@ -2551,7 +2551,7 @@ In physical self-defense, the absence of an immediate, defined purpose stands as
 
 If you do not consciously lock your **Primary Objective** before or at the moment of contact, survival stress makes the choice for you. Under the surge of survival adrenaline—when heart rates spike past 175 beats per minute and sensory channels narrow—the unconditioned human brain defaults to primitive, ego-driven urges. You lunge into an attritional brawl, trading punches out of pride or fear, blind to the legal, physical, and environmental traps multiplying around you.
 
-As a combatives instructor and engineer, you enforce the first law of personal combat: **Principle 1: Purpose First**. You never enter an engagement to brawl; you enter with an explicit, locked mission. You decide whether your objective is to create distance, break a grip, protect a dependent, or secure a doorway. That purpose governs every subsequent physical motion.
+The first law of personal combat is **Principle 1: Purpose First**. Never enter an engagement to brawl; enter with an explicit, locked mission. Decide whether your objective is to create distance, break a grip, protect a dependent, or secure a doorway. That purpose governs every subsequent physical motion.
 
 ```
 +------------------------------------------------------------------------+
@@ -2683,14 +2683,14 @@ In personal combat on asphalt, Purpose First (Principle 1) defines *where* you a
 
 Untrained combatants operate under the illusion that offense creates safety. When an aggressor charges, the novice lunges forward, throwing haymakers while leaning past their toes. The instant your center of mass travels outside your base of support, offensive capability drops to zero. You cannot hit hard while falling, nor defend while stumbling forward.
 
-As an engineer and combatives coach, you treat physical position as an uncompromisable asset. You anchor your platform first, ensuring that your skeletal frame can absorb external shock loads before you ever launch a counter-maneuver.
+Physical position is an uncompromisable asset. Anchor your platform first, ensuring that your skeletal frame can absorb external shock loads before you ever launch a counter-maneuver.
 
 ```
 +------------------------------------------------------------------------+
 |                      SECURITY OF POSITION FILTER                       |
 |                                                                        |
 |      INCOMING PRESSURE                   POSITIONAL ANCHOR             |
-|   [Unconditioned Urge]                [Engineered Structural Base]     |
+|   [Unconditioned Urge]                [Structural Platform Anchor]     |
 |            |                                      |                    |
 |   - Flail & reach (Chasing)           - Elbows tucked inside ribs      |
 |   - Over-commit to strike             - Center of mass inside base     |
@@ -2817,7 +2817,7 @@ In personal combat on pavement, this operational reality is absolute. When an ag
 
 Linear collisions heavily favor the heavier, larger, and more aggressive combatant. If you weigh 160 pounds and contest a 220-pound assailant along their line of drive, Newtonian mechanics dictates that their greater forward momentum ($p = m v$) will overpower your stationary structure. Even if you block their initial blows, the kinetic shock rattles your skeletal frame, collapses your base, and forces your center of mass backward into an uncontrolled stumble.
 
-As an engineer and combatives coach, you treat linear force as an incoming locomotive: you never stand on the tracks. You enforce **Principle 3: Maneuver to Advantage**. The moment linear pressure accelerates toward you, you refuse the centerline, step offline, and redirect the encounter into an asymmetric geometry where the attacker's forward drive expends itself into empty space.
+Never stand on the tracks of an incoming locomotive. **Principle 3: Maneuver to Advantage** dictates that the moment linear pressure accelerates toward you, you refuse the centerline, step offline, and redirect the encounter into an asymmetric geometry where the attacker's forward drive expends itself into empty space.
 
 ```
 +------------------------------------------------------------------------+
@@ -2950,7 +2950,7 @@ In personal combat on asphalt, this doctrine is merciless. In consensual gym spa
 
 Passive defense is a mathematically losing strategy. Human reaction latency means that responding to an initiated attack takes longer than launching the attack itself. If you remain purely reactive, you remain permanently behind the attacker's tempo. Even a structurally sound guard degrades under repeated shock loads. 
 
-As an engineer and combatives coach, you reject the turn-taking myth. You enforce **Principle 4: Initiative**. Once physical conflict is joined, you do not wait to react; you drive the engagement relentlessly, forcing the attacker into a defensive posture until the threat is neutralized or an exit corridor opens.
+Reject the turn-taking myth. **Principle 4: Initiative** dictates that once physical conflict is joined, you do not wait to react; you drive the engagement relentlessly, forcing the attacker into a defensive posture until the threat is neutralized or an exit corridor opens.
 
 ```
 +------------------------------------------------------------------------+
@@ -2977,7 +2977,7 @@ Never pause after landing a strike to admire your work; an unmonitored opponent 
 
 When an untrained defender lands a solid blow or executes a successful off-balancing shove, their brain experiences a surge of relief. This relief triggers a dangerous cognitive hesitation known as **The Admiration Pause**. The novice freezes, drops their hands slightly, and stares at the attacker to evaluate whether the strike ended the fight.
 
-In violent close quarters, this hesitation typically spans 400 to 800 milliseconds under sympathetic nervous system stress. To an engineer assessing temporal dynamics, that pause represents an operational disaster:
+In violent close quarters, this hesitation typically spans 400 to 800 milliseconds under sympathetic nervous system stress. In tactical time dynamics, that pause represents an operational disaster:
 
 1. **Recovery Window for the Adversary**: A 400 to 800 millisecond gap grants a concussed or off-balance assailant sufficient time to regain footing, re-orient their visual field, and deploy concealed weapons.
 2. **Surrender of Tempo**: Halting your momentum resets the engagement to neutral. You surrender the tempo you just paid for in sweat and risk, forcing you to fight for the initiative all over again.
@@ -3080,7 +3080,7 @@ In street self-defense on concrete, this reality is absolute. Consensual combat 
 
 On pavement against an adrenalized assailant, peppering is suicidal. An attacker driven by predatory rage ignores superficial pain. Light strikes bouncing off shoulders, chest muscles, or frontal cranial bone produce zero physiological stoppage. Worse, every weak blow burns cardiovascular energy, exposes your guard, and risks fracturing metacarpal bones. Most dangerously, a diffuse flurry leaves forward momentum unchecked. The assailant charges straight through your arm punches, driving you into asphalt or deploying a weapon.
 
-As an engineer and combatives coach, you reject volumetric striking. You enforce **Principle 5: Concentration**. You refuse to scatter weak, piecemeal efforts across fortified targets. Once an opening appears, you focus your mass into a single structural choke point to end the threat immediately.
+Reject volumetric striking. **Principle 5: Concentration** refuses to scatter weak, piecemeal efforts across fortified targets. Once an opening appears, focus whole-body mass into a single structural choke point to end the threat immediately.
 
 ```
 +------------------------------------------------------------------------+
@@ -3103,7 +3103,7 @@ As an engineer and combatives coach, you reject volumetric striking. You enforce
 
 ### The Decisive Point: Identifying Biomechanical Choke Points
 
-Target structural junctions where biological engineering cannot build armor; strike where minimal force creates catastrophic mechanical failure.
+Target structural junctions where human anatomy cannot build armor; strike where minimal force creates catastrophic mechanical failure.
 
 In combat operations, the decisive point is the geographic or structural node whose destruction guarantees victory. In personal defense, the decisive point is an unarmored biological vulnerability where human anatomy cannot absorb mechanical shock.
 
@@ -3202,7 +3202,7 @@ On concrete, the most common failure is the attrition trap. When violence erupts
 
 In combat sports with timed rounds, conditioned athletes muscle through scrambles. In street violence, pushing with muscle is suicidal. Muscle tissue relies on adenosine triphosphate (ATP) and anaerobic glycolysis. Under acute stress, continuous isometric contractions deplete ATP within seconds and flood the bloodstream with lactic acid, causing rapid tremor and respiratory failure. When your grip burns out, you become a defenseless target.
 
-As an engineer and combatives coach, you reject muscular attrition. You enforce **Principle 6: Economy of Force**. You do not push incoming mass with muscle; you construct **Skeletal Framing**.
+Reject muscular attrition. **Principle 6: Economy of Force** dictates that you do not push incoming mass with muscle; you construct **Skeletal Framing**.
 
 Skeletal framing deploys bones—forearms, shins, and locked skeletal angles—as rigid structural trusses aligned with your pelvis and the ground. Bone possesses exceptional compressive strength, bearing hundreds of pounds of load without active muscular contraction. When an assailant charges, you do not bench-press their chest. You angle your forearms into structural wedges, lock your joint angles, and ground your base. The attacker's momentum impacts a rigid frame, transmitting kinetic energy directly into the earth while your muscles remain relaxed and oxygenated. The attacker exhausts themselves pushing against bone, while you preserve energy for the decisive strike or exit corridor.
 
@@ -3243,7 +3243,7 @@ At principle level, multifunctional control operates across every range:
 - **Ground Entanglement**: A single lower extremity across an opponent's torso in top control pins their arm, locks their hip line, and misaligns their spine. One limb controls three axes, freeing your remaining limbs to disengage and stand.
 - **Weapon Interception**: Pinning an assailant's armed wrist against their torso uses their weapon arm as a barricade against their off-hand. A framed wedge traps both upper limbs, preventing weapon transfers and opening your exit.
 
-By engineering asymmetric limb dominance, you never over-commit resources. You control the threat with minimal physical expenditure while keeping your primary operational tools free.
+By establishing asymmetric limb dominance, you never over-commit resources. You control the threat with minimal physical expenditure while keeping your primary operational tools free.
 
 ### The Law of Minimum Essential Engagement: Pruning the Fight to the Exit
 
@@ -3255,7 +3255,7 @@ Economy of Force commands that you prune the engagement to its minimum viable du
 
 You do not fight to dominate an opponent's ego, prove technical skill, or inflict retribution. If an off-balancing shove breaks an attacker's posture and opens a corridor toward an exit, your mission is complete. You do not chase them to land a combination; you turn and accelerate to safety.
 
-Engaging beyond the minimum essential threshold is a failure of command discipline. It burns energy, increases legal exposure, and invites unforeseen chaos. Apply force with engineering precision: the exact amount required to solve the mechanical crisis, and not a single joule more.
+Engaging beyond the minimum essential threshold is a failure of command discipline. It burns energy, increases legal exposure, and invites unforeseen chaos. Apply force with mathematical precision: the exact amount required to solve the mechanical crisis, and not a single joule more.
 
 > [!NOTE]
 > ### The Mechanics Behind It: Metabolic Work, Compressive Structural Trusses, and the Asymmetric Limb Ratio
@@ -3311,9 +3311,9 @@ With the Foundational Trinity and the Execution Triad locked into your operation
 
 ## 10.1 Principle 7: Surprise / Unpreparedness: Exploiting Rhythm Shifts, Deception, and Sun Tzu's Baiting Doctrine
 
-### The Myth of the Sucker Punch: Why Surprise Is an Engineered Tactical Weapon
+### The Myth of the Sucker Punch: Why Surprise Is a Calculated Tactical Weapon
 
-Never fight on the attacker’s terms or timing; engineer surprise to strike when their neurological defenses are down.
+Never fight on the attacker’s terms or timing; manufacture surprise to strike when their neurological defenses are down.
 
 In military operational doctrine, U.S. Army Field Manual 3-0 (*Operations*) and Army Doctrine Publication 3-0 define the Principle of War: *Surprise*: strike the enemy at a time or place or in a manner for which they are unprepared. Department of the Air Force Doctrine Publication 1 (*Airpower Operations*) reinforces this mandate through *Surprise and Stealth*: airpower achieves decisive shock by leveraging speed, low observability, and unpredictable vectors to strike before the adversary can orient sensors or deploy countermeasures. Sun Tzu established the philosophical foundation for this principle over two millennia ago in *The Art of War*: all warfare is based on deception; attack where the enemy is unprepared and appear where you are not expected.
 
@@ -3321,13 +3321,13 @@ In street self-defense on concrete, surprise is often clouded by sporting mythol
 
 Entering a real-world violent encounter with a sporting mindset is fatal. If you announce your intentions, square up in an athletic stance, and wait for the adversary to prepare their guard, you surrender your tactical advantage. You enter a symmetric duel where mass, reach, and raw aggression determine survival.
 
-As an engineer and combatives coach, you reject the myth of the noble duel. You enforce **Principle 7: Surprise / Unpreparedness**. You understand that surprise is not a cheap trick; it is an engineered tactical weapon. You manipulate sensory inputs, rhythm, and spatial angles to ensure that when your counter-offensive launches, the attacker is neurologically and biomechanically incapable of mounting a defense.
+Reject the myth of the noble duel. **Principle 7: Surprise / Unpreparedness** dictates that surprise is not a cheap trick; it is a calculated tactical weapon. You manipulate sensory inputs, rhythm, and spatial angles to ensure that when your counter-offensive launches, the attacker is neurologically and biomechanically incapable of mounting a defense.
 
 ```
 +------------------------------------------------------------------------+
-|                SYMMETRIC DUEL VS. ENGINEERED SURPRISE                  |
+|                SYMMETRIC DUEL VS. CALCULATED SURPRISE                  |
 |                                                                        |
-|      SYMMETRIC DUEL (Sport Habit)         ENGINEERED SURPRISE (Principle 7) |
+|      SYMMETRIC DUEL (Sport Habit)         CALCULATED SURPRISE (Principle 7) |
 |                                                                        |
 |      [ Square Up & Telegraph Stance ]     [ Deceptive Neutral Posture ]|
 |                    |                                    |              |
@@ -3361,14 +3361,14 @@ Never move to a predictable rhythm; break your cadence to slip inside the attack
 
 Human neurophysiology tracks moving objects by establishing temporal expectations. When two combatants exchange strikes, their brains naturally fall into an entrained, metronomic cadence: a predictable one-two, one-two marching beat. Novice fighters move, bounce, and strike in metric time. An aggressive attacker quickly calibrates to this steady rhythm, timing their counters to land in the gaps between your predictable beats.
 
-An engineered defender exploits **Broken Cadence**. Instead of operating in metric time, you introduce syncopation—striking on the half-beat or shifting velocities without warning.
+A disciplined tactician exploits **Broken Cadence**. Instead of operating in metric time, you introduce syncopation—striking on the half-beat or shifting velocities without warning.
 
 1. **The Half-Beat Acceleration**: When an attacker expects a strike on beat two, you alter your kinetic acceleration to land on beat one-and-a-half. By striking during their inhalation, mid-stride, or during their motor preparation phase, you hit them before their central nervous system can issue a defensive motor command.
 2. **The Lull and Explode**: You move with deliberate, relaxed slowness, signaling compliance or retreat. The attacker's nervous system downshifts its sensory tracking rate. The instant their focus relaxes, you explode with maximum kinetic drive along an offline angle, bridging the distance before their brain can re-orient.
 
-This temporal disruption links directly to **Sun Tzu's Baiting Doctrine (Predictive Funneling)**. High-level surprise is rarely accidental; you engineer it by offering false information. 
+This temporal disruption links directly to **Sun Tzu's Baiting Doctrine (Predictive Funneling)**. High-level surprise is rarely accidental; you manufacture it by offering false information. 
 
-By deliberately dropping your lead hand, leaning slightly forward, or exposing your forward leg, you present a tempting, apparent vulnerability. The attacker's predatory instinct seizes on the opening, committing their weight forward into an aggressive charge. Because you pre-registered the trap, you know their exact line of attack before they initiate. As their momentum crosses the threshold, you sidestep into the dead angle and deliver a concentrated strike into their exposed flank. The attacker believes they are executing an ambush; in reality, they are stepping into your pre-engineered kill zone.
+By deliberately dropping your lead hand, leaning slightly forward, or exposing your forward leg, you present a tempting, apparent vulnerability. The attacker's predatory instinct seizes on the opening, committing their weight forward into an aggressive charge. Because you pre-registered the trap, you know their exact line of attack before they initiate. As their momentum crosses the threshold, you sidestep into the dead angle and deliver a concentrated strike into their exposed flank. The attacker believes they are executing an ambush; in reality, they are stepping into your pre-calculated kill zone.
 
 ```
 +------------------------------------------------------------------------+
@@ -3421,7 +3421,7 @@ Surprise transforms every element of the equation:
 - **Time**: Broken cadence and half-beat syncopation compress time. You strike before the adversary's sensory update cycle completes, exploiting their central processing bottleneck.
 - **Power**: By targeting an unbraced adversary, surprise magnifies effective power. You achieve catastrophic structural stoppage with a fraction of the metabolic energy required against an armored guard.
 
-Surprise is not random chaos; it is an engineered tactical discipline. You display apparent weakness to dictate where the attacker drives, break cadence to slip inside their decision loop, and deliver concentrated mass into an unshielded biological vulnerability.
+Surprise is not random chaos; it is a calculated tactical discipline. You display apparent weakness to dictate where the attacker drives, break cadence to slip inside their decision loop, and deliver concentrated mass into an unshielded biological vulnerability.
 
 Yet tactical deception is never an excuse to prolong combat. Feints, setups, and baiting must never degenerate into sporting games or ego posturing. True mastery of combat recognizes that the greatest tactical victory is avoiding violence altogether. When physical force is avoidable, continuing to engage is a critical strategic error. To complete your survival doctrine, you must master the ultimate form of strategic security: **10.2 Principle 8: Avoidance When Superior**.
 
@@ -3441,7 +3441,7 @@ In civilian self-defense on concrete, ego subverts this doctrine. In parking lot
 
 This ego trap is fatal. On pavement, consensual mutual combat is a catastrophic gamble. An individual who fights over pride confuses social status with survival. They enter physical violence voluntarily, blind to the unforgiving physics of the street.
 
-As an engineer and combatives coach, you reject the brawler's pride. You enforce **Principle 8: Avoidance When Superior**. You recognize that physical force is an emergency fallback, not a preferred solution. When an exit corridor exists, disengaging and leaving the environment is not a retreat; it is an immediate operational victory. You preserve your life, your health, your legal freedom, and your family's security, denying the aggressor any opportunity to inflict catastrophic harm.
+Reject the brawler's pride. **Principle 8: Avoidance When Superior** recognizes that physical force is an emergency fallback, not a preferred solution. When an exit corridor exists, disengaging and leaving the environment is not a retreat; it is an immediate operational victory. You preserve your life, your health, your legal freedom, and your family's security, denying the aggressor any opportunity to inflict catastrophic harm.
 
 ```
 +------------------------------------------------------------------------+
@@ -3468,7 +3468,7 @@ As an engineer and combatives coach, you reject the brawler's pride. You enforce
 
 Never risk catastrophic ruin for zero upside; on pavement, the math of mutual combat is always negative.
 
-An engineer evaluates mechanical and operational systems through risk profiles and expected value. In consensual street violence, the risk curve is characterized by severe negative asymmetry. 
+A disciplined tactician evaluates operational situations through risk profiles and expected value. In consensual street violence, the risk curve is characterized by severe negative asymmetry. 
 
 Consider the payoff of winning an avoidable street fight. What do you gain by knocking out a belligerent stranger in a parking lot? Zero financial return, zero career advancement, and zero enduring security. You gain only toxic ego validation. The tactical upside is zero.
 
@@ -3569,7 +3569,7 @@ In military doctrine, U.S. Army Field Manual 3-0 (*Operations*) defines sustaine
 
 When an aggressor ambushes, they dump peak kinetic energy into the opening five to ten seconds. An untrained defender instinctively flails, backs up blindly, or cowers behind loose hands. Under acute adrenal surge, these panicked reactions cause immediate balance collapse on pavement.
 
-As an engineer and combatives coach, you enforce **Principle 9: Persistence to Resolution**. When geometry denies avoidance, you do not yield. You execute **Weathering the Storm** behind rigid skeletal frames.
+When geometry denies avoidance, you do not yield. **Principle 9: Persistence to Resolution** demands that you execute **Weathering the Storm** behind rigid skeletal frames.
 
 You drop your center of gravity, wedge your feet into the earth, tuck your chin to your sternum, and construct a tight structural helmet using your forearms and elbows. You do not reach out with muscle to swat at incoming fists. You align bones into triangular compressive trusses that transmit impact loads through your torso into the pavement. By rolling your shoulders and presenting angled surfaces, you deflect linear strikes, allowing the attacker's kinetic energy to glance off bone while their heart rate spikes and anaerobic fuel rapidly drains.
 
@@ -3682,7 +3682,7 @@ The first nine principles establish the complete strategic, physical, and psycho
 
 How do you ensure these principles function reliably under catastrophic adrenal dump? How do you prevent system paralysis when an ambush strikes in total darkness?
 
-To answer these questions, we turn to the final two principles: the engineering architecture that ensures absolute operational survivability: **Chapter 11: Principles 10–11: Simplicity / Redundancy and Speed / Decisiveness**.
+To answer these questions, we turn to the final two principles: the tactical architecture that ensures absolute operational survivability: **Chapter 11: Principles 10–11: Actions on Contact and Know the Situation**.
 
 ---
 
@@ -3702,7 +3702,7 @@ In this crucible, conscious reasoning becomes a fatal liability. The human neoco
 
 That cognitive deliberation requires typical observed spans of 300 to 500 milliseconds. Under dynamic combat conditions, a committed strike or tackle covers terminal distance in 150 to 250 milliseconds. If you must consciously decide which technique to execute while incoming mass accelerates toward your jaw, you get hit before initiating physical movement.
 
-As an engineer and combatives coach, you enforce **Principle 10: Actions on Contact**. You never rely on conscious decision-making during the opening shock of violence. You survive by delegating immediate physical defense to pre-conditioned, subcortical reflexes.
+**Principle 10: Actions on Contact** mandates that you never rely on conscious decision-making during the opening shock of violence. Survive by delegating immediate physical defense to pre-conditioned, subcortical reflexes.
 
 ```
 +------------------------------------------------------------------------+
@@ -3750,7 +3750,7 @@ This is the living embodiment of the classic martial maxim: *"Beware the person 
 
 A battle drill is a launchpad, not a rigid script; use your drilled default to buy time for tactical reassessment.
 
-An essential engineering distinction separates an adaptive battle drill from a brittle choreographed sequence. Many traditional martial arts teach rigid open-loop scripts: *If the attacker punches with their right hand, block with your left forearm, step forward, strike with your right palm, and sweep their leg.*
+A vital operational distinction separates an adaptive battle drill from a brittle choreographed sequence. Many traditional martial arts teach rigid open-loop scripts: *If the attacker punches with their right hand, block with your left forearm, step forward, strike with your right palm, and sweep their leg.*
 
 On concrete, choreographed scripts fail immediately. Real violence is an open, high-entropy dynamic system. Predators do not throw compliant single strikes; they flail, tackle, pull weapons, or re-attack unpredictably. The moment an attacker deviates from the rehearsed script, the defender's conscious sequence short-circuits, causing total paralysis.
 
@@ -3829,7 +3829,7 @@ On concrete, the duel assumption is fatal. Violence is an open, non-linear cruci
 
 Military doctrine formalizes this imperative. Sun Tzu wrote in *The Art of War*: *"Know the enemy and know yourself; in a hundred battles you will never be in peril."* U.S. Army Field Manual 3-0 (*Operations*) reinforces continuous reconnaissance: combat power applied without intelligence is blind force wasted. Air Force Doctrine Publication 1 (*Airpower Operations*) and John Boyd’s *Observe* phase state the same reality: the fighter who perceives environmental changes fastest dictates engagement tempo.
 
-As an engineer and combatives coach, you enforce **Principle 11: Know the Situation**. You reject the duel illusion, maintaining a continuous, real-time **Dynamic Threat Audit** across four operational vectors:
+Reject the duel illusion. **Principle 11: Know the Situation** demands maintaining a continuous, real-time **Dynamic Threat Audit** across four operational vectors:
 
 1. **Self**: Monitor base, skeletal posture, fatigue, and injuries. When protecting family, maintain position between the threat and protected parties.
 2. **Threat**: Track primary and secondary assailants. Watch intent shifts, pre-attack cues, and hands. Hands deploy weapons; hands strike. If you cannot see hands, treat them as armed.
@@ -3963,7 +3963,7 @@ On asphalt, trading blows is suicidal. Street violence has no rules, gloves, or 
 
 The primary defensive doctrine of personal defense is **Distance as Shield**. Space is your ultimate structural armor. An aggressor outside kicking perimeter cannot fracture your jaw without physically crossing intervening terrain ($\Delta x = v \cdot \Delta t$). That physical transit takes measurable time, telegraphs their hostile vector, and expands your reactive decision window.
 
-As a mechanical engineer, military officer, and Taekwondo black belt, I treat kicking range ($d \approx d_{\text{kick}}$) not as sport acrobatics, but as perimeter defense. **Taekwondo**, stripped of Olympic point-scoring rules, is the martial art of outermost standoff control. It organizes defense around an asymmetric spatial reality: striking the adversary while keeping your vital command center outside their physical reach.
+Kicking range ($d \approx d_{\text{kick}}$) is not sport acrobatics; it is perimeter defense. **Taekwondo**, stripped of Olympic point-scoring rules, is the martial art of outermost standoff control. It organizes defense around an asymmetric spatial reality: striking the adversary while keeping your vital command center outside their physical reach.
 
 ```text
 +------------------------------------------------------------------------+
@@ -4537,7 +4537,7 @@ The sprawl severs the shooter's kinetic chain. For a takedown to succeed, the at
 
 Bait the predictable entry to eliminate your reaction delay, then rotate their cervical spine to kill their drive. Reacting to an unconstrained attacker forces you to process infinite threat variables. Hick's Law dictates that decision latency scales logarithmically with potential attacks. Waiting to identify whether an attacker will punch or tackle consumes 200 to 400 milliseconds—a window in which you absorb impact.
 
-**Predictive Funneling** eliminates this latency by engineering an intentional opening. Against an aggressive opponent displaying wrestling intent, stand slightly more upright and extend your lead leg forward. Offering an apparent flaw funnels the threat's choice architecture down to a single deterministic action ($n = 1$): the shot on your lead leg. Because you baited the entry, your counter-response requires zero cognitive processing lag.
+**Predictive Funneling** eliminates this latency by manufacturing an intentional opening. Against an aggressive opponent displaying wrestling intent, stand slightly more upright and extend your lead leg forward. Offering an apparent flaw funnels the threat's choice architecture down to a single deterministic action ($n = 1$): the shot on your lead leg. Because you baited the entry, your counter-response requires zero cognitive processing lag.
 
 The primary weapon is the **Crossface**. As the attacker commits their head into your hip, drive the rigid blade of your forearm across their philtrum or jawline. Cup their far triceps, and drive your shoulder forward, forcing their head to rotate away from the centerline.
 
@@ -5551,7 +5551,7 @@ Understanding how the body degrades under acute threat is only half the battle. 
 
 Discard fine motor techniques before violence starts; under sympathetic arousal, only gross skeletal mechanics survive. Section 18.1 exposed the sensory distortions of High-Stress Physiology: the sympathetic surge, tunnel vision, auditory exclusion, and tachypsychia. But sensory distortion is merely the opening shock. As heart rate surges past $145\text{--}175\ \text{BPM}$, biological wetware triggers a second failure mode: the destruction of motor coordination and executive cognitive function.
 
-When an ambush forces heart rate into Zone 2 and Zone 3, biological wetware refuses to execute intricate choreography. Engineering tactics around gross skeletal structure separates standing upright from collapsing under assault.
+When an ambush forces heart rate into Zone 2 and Zone 3, biological wetware refuses to execute intricate choreography. Structuring tactics around gross skeletal alignment separates standing upright from collapsing under assault.
 
 ---
 
@@ -5666,7 +5666,7 @@ Yet knowing these boundaries is meaningless without an empirical methodology to 
 
 Never collect techniques you cannot execute in the dark; mastery is depth of myelination, not breadth of catalog. Chapter 18 exposed the biological reality of high-stress combat: when lethal threat detonates, the sympathoadrenal surge triggers prefrontal hypofrontality, collapses fine motor control, and induces sensory distortion. In that biological furnace, conscious calculation dies. You do not rise to the occasion; you sink to the floor of your physiological habits.
 
-Personal defense requires engineering those habits into hardwired reflexes. This process is **Neural Conditioning**—the deliberate structural hardening of neuromuscular pathways to withstand catastrophic terror. If your training relies on memorizing an encyclopedic syllabus of moves, you build an illusion that shatters on asphalt. True combat capability demands rewiring the biological hardware itself.
+Personal defense requires forging those habits into hardwired reflexes. This process is **Neural Conditioning**—the deliberate structural hardening of neuromuscular pathways to withstand catastrophic terror. If your training relies on memorizing an encyclopedic syllabus of moves, you build an illusion that shatters on asphalt. True combat capability demands rewiring the biological hardware itself.
 
 ---
 
@@ -5764,7 +5764,7 @@ Speed is not muscle contraction; speed is the physical velocity of an electrical
 - **Time ($\Delta t$)**: Time is the ultimate metric of survival. Myelination drops axonal conduction latency from five hundred milliseconds to ten milliseconds; motor chunking eliminates hundreds of milliseconds of cognitive hesitation. Together, they compress response time to subcortical speeds.
 - **Power ($P$)**: Power requires simultaneous, coordinated motor unit recruitment. An unconditioned nervous system fires motor units asynchronously, producing weak, fragmented kinetic work. Densely myelinated engrams synchronize motor unit recruitment, delivering concentrated kinetic force through rigid skeletal frames.
 
-Understanding the biology of myelination and the unforgiving Law of Permanence solves only the first half of training engineering. If perfect practice creates permanent habits, how do we introduce high-stress reality into training without degrading our form into sloppy panic? In Wave 2, we tackle Sections 19.3 and 19.4: **Progressive Stress Inoculation and Drilling Decision Points Over Move Sequences**, examining how to condition the nervous system for controlled chaos.
+Understanding the biology of myelination and the unforgiving Law of Permanence solves only the first half of training doctrine. If perfect practice creates permanent habits, how do we introduce high-stress reality into training without degrading our form into sloppy panic? In Wave 2, we tackle Sections 19.3 and 19.4: **Progressive Stress Inoculation and Drilling Decision Points Over Move Sequences**, examining how to condition the nervous system for controlled chaos.
 
 ---
 
@@ -6223,7 +6223,7 @@ In Part I, we established the mechanical engine: ground reaction forces, pelvic 
 
 Part IV applied these laws across combat ranges: long-range Taekwondo kicks, medium-range Muay Thai clinch frames, Wrestling takedowns, and Brazilian Jiu-Jitsu ground survival. 
 
-Part V engineered the decision engine: cycling Detect, Frame, Disrupt, and Egress inside an attacker's reaction loop under sympathetic stress. 
+Part V mapped the decision engine: cycling Detect, Frame, Disrupt, and Egress inside an attacker's reaction loop under sympathetic stress. 
 
 Part VI forged the training doctrine: stress inoculation, weapon presentation counters, and the legal boundaries governing lethal power.
 
@@ -6236,7 +6236,7 @@ The Master Equation governs every millisecond of human combat:
 - **Time ($\Delta t$)**: Time is the velocity of neurological conduction and biomechanical execution. By myelinating motor engrams, drilling branching decision points, and reading pre-attack indicators, you compress reaction latency, dominating the temporal gap inside the adversary's loop.
 - **Power ($P$)**: Power is not reckless rage; it is the deliberate concentration of mechanical work into anatomical targets within minimum time, delivered through aligned skeletal structures and terminated immediately upon threat cessation.
 
-This establishes the **Unified Architecture** of our discipline. Combat is not a theatrical sport or an outlet for ego. It is an emergency life-safety engineering problem. The martial engineer trains with unyielding discipline so that when violence strikes, they preserve human life, neutralize aggression without hatred, and walk away with their physical integrity intact, their conscience clean, and their legal freedom secure.
+This establishes the **Unified Architecture** of our discipline. Combat is not a theatrical sport or an outlet for ego. It is an emergency survival problem governed by the laws of physics. The disciplined practitioner trains with unyielding resolve so that when violence strikes, they preserve human life, neutralize aggression without hatred, and walk away with their physical integrity intact, their conscience clean, and their legal freedom secure.
 
 ---
 

@@ -12,7 +12,7 @@ In military doctrine, U.S. Army Field Manual 3-0 (*Operations*) defines sustaine
 
 When an aggressor ambushes, they dump peak kinetic energy into the opening five to ten seconds. An untrained defender instinctively flails, backs up blindly, or cowers behind loose hands. Under acute adrenal surge, these panicked reactions cause immediate balance collapse on pavement.
 
-As an engineer and combatives coach, you enforce **Principle 9: Persistence to Resolution**. When geometry denies avoidance, you do not yield. You execute **Weathering the Storm** behind rigid skeletal frames.
+When geometry denies avoidance, you do not yield. **Principle 9: Persistence to Resolution** demands that you execute **Weathering the Storm** behind rigid skeletal frames.
 
 You drop your center of gravity, wedge your feet into the earth, tuck your chin to your sternum, and construct a tight structural helmet using your forearms and elbows. You do not reach out with muscle to swat at incoming fists. You align bones into triangular compressive trusses that transmit impact loads through your torso into the pavement. By rolling your shoulders and presenting angled surfaces, you deflect linear strikes, allowing the attacker's kinetic energy to glance off bone while their heart rate spikes and anaerobic fuel rapidly drains.
 
@@ -125,4 +125,4 @@ The first nine principles establish the complete strategic, physical, and psycho
 
 How do you ensure these principles function reliably under catastrophic adrenal dump? How do you prevent system paralysis when an ambush strikes in total darkness?
 
-To answer these questions, we turn to the final two principles: the engineering architecture that ensures absolute operational survivability: **Chapter 11: Principles 10–11: Simplicity / Redundancy and Speed / Decisiveness**.
+To answer these questions, we turn to the final two principles: the tactical architecture that ensures absolute operational survivability: **Chapter 11: Principles 10–11: Actions on Contact and Know the Situation**.

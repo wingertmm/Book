@@ -12,7 +12,7 @@ In physical self-defense, the absence of an immediate, defined purpose stands as
 
 If you do not consciously lock your **Primary Objective** before or at the moment of contact, survival stress makes the choice for you. Under the surge of survival adrenaline—when heart rates spike past 175 beats per minute and sensory channels narrow—the unconditioned human brain defaults to primitive, ego-driven urges. You lunge into an attritional brawl, trading punches out of pride or fear, blind to the legal, physical, and environmental traps multiplying around you.
 
-As a combatives instructor and engineer, you enforce the first law of personal combat: **Principle 1: Purpose First**. You never enter an engagement to brawl; you enter with an explicit, locked mission. You decide whether your objective is to create distance, break a grip, protect a dependent, or secure a doorway. That purpose governs every subsequent physical motion.
+The first law of personal combat is **Principle 1: Purpose First**. Never enter an engagement to brawl; enter with an explicit, locked mission. Decide whether your objective is to create distance, break a grip, protect a dependent, or secure a doorway. That purpose governs every subsequent physical motion.
 
 ```
 +------------------------------------------------------------------------+

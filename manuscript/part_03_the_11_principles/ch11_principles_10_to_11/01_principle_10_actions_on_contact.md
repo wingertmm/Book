@@ -14,7 +14,7 @@ In this crucible, conscious reasoning becomes a fatal liability. The human neoco
 
 That cognitive deliberation requires typical observed spans of 300 to 500 milliseconds. Under dynamic combat conditions, a committed strike or tackle covers terminal distance in 150 to 250 milliseconds. If you must consciously decide which technique to execute while incoming mass accelerates toward your jaw, you get hit before initiating physical movement.
 
-As an engineer and combatives coach, you enforce **Principle 10: Actions on Contact**. You never rely on conscious decision-making during the opening shock of violence. You survive by delegating immediate physical defense to pre-conditioned, subcortical reflexes.
+**Principle 10: Actions on Contact** mandates that you never rely on conscious decision-making during the opening shock of violence. Survive by delegating immediate physical defense to pre-conditioned, subcortical reflexes.
 
 ```
 +------------------------------------------------------------------------+
@@ -62,7 +62,7 @@ This is the living embodiment of the classic martial maxim: *"Beware the person 
 
 A battle drill is a launchpad, not a rigid script; use your drilled default to buy time for tactical reassessment.
 
-An essential engineering distinction separates an adaptive battle drill from a brittle choreographed sequence. Many traditional martial arts teach rigid open-loop scripts: *If the attacker punches with their right hand, block with your left forearm, step forward, strike with your right palm, and sweep their leg.*
+A vital operational distinction separates an adaptive battle drill from a brittle choreographed sequence. Many traditional martial arts teach rigid open-loop scripts: *If the attacker punches with their right hand, block with your left forearm, step forward, strike with your right palm, and sweep their leg.*
 
 On concrete, choreographed scripts fail immediately. Real violence is an open, high-entropy dynamic system. Predators do not throw compliant single strikes; they flail, tackle, pull weapons, or re-attack unpredictably. The moment an attacker deviates from the rehearsed script, the defender's conscious sequence short-circuits, causing total paralysis.
 

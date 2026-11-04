@@ -75,7 +75,7 @@ In Part I, we established the mechanical engine: ground reaction forces, pelvic 
 
 Part IV applied these laws across combat ranges: long-range Taekwondo kicks, medium-range Muay Thai clinch frames, Wrestling takedowns, and Brazilian Jiu-Jitsu ground survival. 
 
-Part V engineered the decision engine: cycling Detect, Frame, Disrupt, and Egress inside an attacker's reaction loop under sympathetic stress. 
+Part V mapped the decision engine: cycling Detect, Frame, Disrupt, and Egress inside an attacker's reaction loop under sympathetic stress. 
 
 Part VI forged the training doctrine: stress inoculation, weapon presentation counters, and the legal boundaries governing lethal power.
 
@@ -88,7 +88,7 @@ The Master Equation governs every millisecond of human combat:
 - **Time ($\Delta t$)**: Time is the velocity of neurological conduction and biomechanical execution. By myelinating motor engrams, drilling branching decision points, and reading pre-attack indicators, you compress reaction latency, dominating the temporal gap inside the adversary's loop.
 - **Power ($P$)**: Power is not reckless rage; it is the deliberate concentration of mechanical work into anatomical targets within minimum time, delivered through aligned skeletal structures and terminated immediately upon threat cessation.
 
-This establishes the **Unified Architecture** of our discipline. Combat is not a theatrical sport or an outlet for ego. It is an emergency life-safety engineering problem. The martial engineer trains with unyielding discipline so that when violence strikes, they preserve human life, neutralize aggression without hatred, and walk away with their physical integrity intact, their conscience clean, and their legal freedom secure.
+This establishes the **Unified Architecture** of our discipline. Combat is not a theatrical sport or an outlet for ego. It is an emergency survival problem governed by the laws of physics. The disciplined practitioner trains with unyielding resolve so that when violence strikes, they preserve human life, neutralize aggression without hatred, and walk away with their physical integrity intact, their conscience clean, and their legal freedom secure.
 
 ---
 

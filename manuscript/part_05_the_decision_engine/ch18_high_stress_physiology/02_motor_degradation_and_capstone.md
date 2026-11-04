@@ -4,7 +4,7 @@
 
 Discard fine motor techniques before violence starts; under sympathetic arousal, only gross skeletal mechanics survive. Section 18.1 exposed the sensory distortions of High-Stress Physiology: the sympathetic surge, tunnel vision, auditory exclusion, and tachypsychia. But sensory distortion is merely the opening shock. As heart rate surges past $145\text{--}175\ \text{BPM}$, biological wetware triggers a second failure mode: the destruction of motor coordination and executive cognitive function.
 
-When an ambush forces heart rate into Zone 2 and Zone 3, biological wetware refuses to execute intricate choreography. Engineering tactics around gross skeletal structure separates standing upright from collapsing under assault.
+When an ambush forces heart rate into Zone 2 and Zone 3, biological wetware refuses to execute intricate choreography. Structuring tactics around gross skeletal alignment separates standing upright from collapsing under assault.
 
 ---
 

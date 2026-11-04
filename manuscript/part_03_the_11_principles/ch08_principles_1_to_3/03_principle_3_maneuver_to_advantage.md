@@ -12,7 +12,7 @@ In personal combat on pavement, this operational reality is absolute. When an ag
 
 Linear collisions heavily favor the heavier, larger, and more aggressive combatant. If you weigh 160 pounds and contest a 220-pound assailant along their line of drive, Newtonian mechanics dictates that their greater forward momentum ($p = m v$) will overpower your stationary structure. Even if you block their initial blows, the kinetic shock rattles your skeletal frame, collapses your base, and forces your center of mass backward into an uncontrolled stumble.
 
-As an engineer and combatives coach, you treat linear force as an incoming locomotive: you never stand on the tracks. You enforce **Principle 3: Maneuver to Advantage**. The moment linear pressure accelerates toward you, you refuse the centerline, step offline, and redirect the encounter into an asymmetric geometry where the attacker's forward drive expends itself into empty space.
+Never stand on the tracks of an incoming locomotive. **Principle 3: Maneuver to Advantage** dictates that the moment linear pressure accelerates toward you, you refuse the centerline, step offline, and redirect the encounter into an asymmetric geometry where the attacker's forward drive expends itself into empty space.
 
 ```
 +------------------------------------------------------------------------+

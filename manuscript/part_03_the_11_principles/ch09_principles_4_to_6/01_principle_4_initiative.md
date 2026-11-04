@@ -12,7 +12,7 @@ In personal combat on asphalt, this doctrine is merciless. In consensual gym spa
 
 Passive defense is a mathematically losing strategy. Human reaction latency means that responding to an initiated attack takes longer than launching the attack itself. If you remain purely reactive, you remain permanently behind the attacker's tempo. Even a structurally sound guard degrades under repeated shock loads. 
 
-As an engineer and combatives coach, you reject the turn-taking myth. You enforce **Principle 4: Initiative**. Once physical conflict is joined, you do not wait to react; you drive the engagement relentlessly, forcing the attacker into a defensive posture until the threat is neutralized or an exit corridor opens.
+Reject the turn-taking myth. **Principle 4: Initiative** dictates that once physical conflict is joined, you do not wait to react; you drive the engagement relentlessly, forcing the attacker into a defensive posture until the threat is neutralized or an exit corridor opens.
 
 ```
 +------------------------------------------------------------------------+
@@ -39,7 +39,7 @@ Never pause after landing a strike to admire your work; an unmonitored opponent 
 
 When an untrained defender lands a solid blow or executes a successful off-balancing shove, their brain experiences a surge of relief. This relief triggers a dangerous cognitive hesitation known as **The Admiration Pause**. The novice freezes, drops their hands slightly, and stares at the attacker to evaluate whether the strike ended the fight.
 
-In violent close quarters, this hesitation typically spans 400 to 800 milliseconds under sympathetic nervous system stress. To an engineer assessing temporal dynamics, that pause represents an operational disaster:
+In violent close quarters, this hesitation typically spans 400 to 800 milliseconds under sympathetic nervous system stress. In tactical time dynamics, that pause represents an operational disaster:
 
 1. **Recovery Window for the Adversary**: A 400 to 800 millisecond gap grants a concussed or off-balance assailant sufficient time to regain footing, re-orient their visual field, and deploy concealed weapons.
 2. **Surrender of Tempo**: Halting your momentum resets the engagement to neutral. You surrender the tempo you just paid for in sweat and risk, forcing you to fight for the initiative all over again.
