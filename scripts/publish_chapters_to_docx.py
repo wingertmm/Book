@@ -516,6 +516,8 @@ def render_table(doc, table_lines):
                 parse_inlines_to_runs(p, val, default_color=COLOR_DARK_SLATE, font_size=9.5)
 
 def render_code_diagram(doc, code_lines):
+    if not code_lines:
+        return
     tbl = doc.add_table(rows=1, cols=1)
     tbl.alignment = WD_TABLE_ALIGNMENT.CENTER
     cell = tbl.cell(0, 0)
@@ -526,18 +528,20 @@ def render_code_diagram(doc, code_lines):
                      bottom={"sz": "6", "color": HEX_CODE_BORDER},
                      left={"sz": "18", "color": "718096"},
                      right={"sz": "6", "color": HEX_CODE_BORDER})
-    set_cell_margins(cell, top=120, bottom=120, left=160, right=160)
+    set_cell_margins(cell, top=100, bottom=100, left=160, right=160)
     
-    cp = cell.paragraphs[0]
-    cp.paragraph_format.space_before = Pt(0)
-    cp.paragraph_format.space_after = Pt(0)
-    cp.paragraph_format.line_spacing = 1.05
-    
-    full_code = "".join(code_lines).rstrip()
-    run = cp.add_run(full_code)
-    run.font.name = 'Consolas'
-    run.font.size = Pt(8.5)
-    run.font.color.rgb = COLOR_DARK_SLATE
+    # Render line-by-line in Consolas to preserve exact vertical ASCII alignment in Word
+    for idx, line in enumerate(code_lines):
+        line_clean = line.rstrip('\r\n')
+        cp = cell.paragraphs[0] if idx == 0 else cell.add_paragraph()
+        cp.paragraph_format.space_before = Pt(0)
+        cp.paragraph_format.space_after = Pt(0)
+        cp.paragraph_format.line_spacing = 1.0
+        
+        run = cp.add_run(line_clean if line_clean else " ")
+        run.font.name = 'Consolas'
+        run.font.size = Pt(8.5)
+        run.font.color.rgb = COLOR_DARK_SLATE
 
 def parse_markdown_to_docx(doc, md_text, is_first_section=True):
     lines = md_text.splitlines(keepends=True)
@@ -685,10 +689,17 @@ def parse_markdown_to_docx(doc, md_text, is_first_section=True):
             
         num_m = re.match(r'^(\d+)\.\s+(.*)$', stripped)
         if num_m:
-            lp = doc.add_paragraph(style='List Number')
+            lp = doc.add_paragraph()
+            lp.paragraph_format.left_indent = Inches(0.3)
+            lp.paragraph_format.first_line_indent = Inches(-0.3)
             lp.paragraph_format.space_before = Pt(1)
             lp.paragraph_format.space_after = Pt(3)
             lp.paragraph_format.line_spacing = 1.2
+            prefix_run = lp.add_run(f"{num_m.group(1)}.  ")
+            prefix_run.font.name = 'Calibri'
+            prefix_run.font.size = Pt(11.0)
+            prefix_run.font.color.rgb = COLOR_BODY_TEXT
+            prefix_run.bold = True
             parse_inlines_to_runs(lp, num_m.group(2).strip(), default_color=COLOR_BODY_TEXT, font_size=11.0)
             continue
             

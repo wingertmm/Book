@@ -305,11 +305,11 @@ Consider the mechanical execution of a foot sweep (*deashi harai*). A foot sweep
 Timing without power and mechanical structure produces fragile contact. Intercepting an incoming strike with a fast, off-balance flick often damages the defender more than the assailant. Striking dense bone without locked skeletal alignment, a planted base, and whole-body mass coupling fractures metacarpals and collapses wrists. Timing synchronizes opportunity, but structural alignment delivers the decisive effect.
 
 > [!IMPORTANT]
-> **The Law of Mutual Dependency & Systemic Efficiency**:  
+> **The Law of Mutual Dependency**:  
 > Power applied at the wrong time is wasted momentum.  
 > Distance maintained without offensive threat is temporary delay.  
 > Timing achieved without structural power is superficial contact.  
-> When the triad is synchronized, you achieve **systemic efficiency**. Efficient fighters are effective fighters: they eliminate wasted kinetic work, conserve metabolic reserves, and do not exhaust under pressure.
+> When the triad is synchronized, you stop burning energy on empty swings. Efficient fighters are effective fighters: they hit what they aim at, conserve their fuel tank, and never gas out under pressure.
 
 ---
 
@@ -387,15 +387,13 @@ In the next chapter, we examine the physical battle space itself—mapping dista
 
 ## 1.2 The Master Equation: How Distance Buys Time, and Time Directs Power
 
-If power, distance, and timing cannot survive as isolated attributes, how do you bind them into a reliable system when an altercation turns violent? 
-
-The answer is an operational sequence that governs every physical exchange between human bodies:
+Section 1.1 established the formula; Section 1.2 operationalizes it on the floor:
 
 $$\mathbf{Distance} \longrightarrow \mathbf{Time} \longrightarrow \mathbf{Power}$$
 
-This sequence is the **Master Equation** of personal defense. It is not an abstract theory; it is the physical chain of cause and effect that determines whether you dictate the terms of an ambush or absorb devastating blunt-force trauma. Distance creates the temporal window you need to think; that temporal window allows your nervous system to select a target; and targeted execution delivers decisive, fight-ending force.
+The **Master Equation** is the physical chain of cause and effect under ambush. Reverse the sequence—trying to generate power before establishing time, or hunting for time inside an adversary's reach—and your defense collapses. 
 
-When you reverse this sequence—attempting to generate power before establishing time, or hunting for time while trapped inside an attacker's reach—the mechanical structure of your defense collapses.
+To apply the equation under stress, you must convert distance into an operational weapon across four distinct tactical beats.
 
 ---
 
@@ -464,20 +462,20 @@ Power does not defeat violence. **Directed power** defeats violence. And the onl
 
 #### The Energetics of Combat: Efficiency as an Immunity to Exhaustion
 
-Why do untrained combatants exhaust themselves within thirty to sixty seconds? Combat exhaustion is rarely a deficit of cardiovascular stamina; it is the physiological tax of desynchronization.
+Untrained fighters gas out in thirty to sixty seconds because they keep swinging at air and fighting their own muscles. Combat exhaustion is rarely a deficit of cardiovascular stamina; it is the physical cost of desynchronization.
 
-When an untrained fighter operates with frantic power decoupled from distance control and timing, three metabolic traps trigger rapid failure:
-1. **Mechanical Work Dissipation**: Kinetic energy hurled into empty air must be braked by the striker's own musculoskeletal frame. Arresting a missed maximum-effort strike forces eccentric muscular contraction that expends more metabolic energy than landing an impact.
-2. **Antagonistic Co-Contraction**: Threat-induced panic causes agonist and antagonist muscle groups to contract simultaneously. The body fights against its own anatomy, burning adenosine triphosphate (ATP) at quadruple rates.
-3. **Anaerobic Glycolytic Collapse**: The explosive phosphagen system (ATP-CP) depletes in eight to ten seconds. Unregulated exertion forces the body over the anaerobic threshold, accumulating lactic acid and hydrogen ions until muscles lock into fatigue.
+When power is thrown without distance and timing, three metabolic leaks drain your fuel tank:
+1. **Swinging into the Void**: Missing a full-power strike forces your own tendons and opposing muscles to brake the limb. Catching empty air burns more metabolic energy than landing an impact.
+2. **Fighting Your Own Frame (Antagonistic Tension)**: Under panic, opposing muscle groups contract at the same time. You burn through muscular fuel just trying to move against your own stiffness.
+3. **The Anaerobic Cliff**: The body's explosive burst tank empties in eight to ten seconds. Frantic flailing spikes heart rates past the anaerobic threshold, flooding muscles with lactic acid until limbs turn to lead.
 
-When Distance, Time, and Power are synchronized, combat energetics invert:
+When Distance, Time, and Power align, combat energetics invert:
 
 $$\eta = \frac{E_{\text{delivered}}}{E_{\text{expended}}} \longrightarrow \mathbf{Maximum}$$
 
-The synchronized practitioner operates under the classical principle of *Seiryoku Zen'yo* (Maximum Efficiency with Minimum Effort). Distance eliminates unnecessary footwork; timing neutralizes the opponent's resistance by catching them during unweighted transitions; and power is discharged in explosive ballistic pulses rather than continuous muscular straining. 
+The synchronized fighter operates on maximum efficiency with minimum effort (*Seiryoku Zen'yo*). Distance eliminates wasted footwork; timing catches the opponent when they cannot resist; and power is delivered in short, explosive snaps rather than continuous straining.
 
-Efficient fighters are effective fighters. Because every joule of kinetic energy is delivered into structural vulnerability rather than bled into the void, the efficient fighter preserves physiological equilibrium and does not exhaust.
+Efficient fighters do not fight their own anatomy, and they do not waste force on braced targets. Every ounce of kinetic energy lands where it counts. Because they do not bleed fuel, they stay dangerous, calm, and unexhausted while the adversary breaks against the clock.
 
 ---
 
