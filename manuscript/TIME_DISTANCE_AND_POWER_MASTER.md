@@ -550,6 +550,10 @@ When the attacker charges, their weight does not compress your muscles. It trave
 
 This is the principle of **Economy of Force**: conserving finite biological energy while letting skeletal geometry carry the load.
 
+When you do recruit muscular effort to clamp, control, or break grips, follow an uncompromising biomechanical rule: **use big muscle groups against small muscle groups**. 
+
+Small muscles (biceps, triceps, forearm flexors, rotator cuffs) have small cross-sectional areas and fatigue rapidly under load. Large muscle groups (the posterior chain: gluteus maximus, hamstrings, latissimus dorsi, and core) generate massive structural torque. Never contest an adversary bicep-against-bicep or arm-against-arm. When you clamp a limb, drive an underhook, or break a collar tie, recruit your hips, lats, and legs against their isolated wrist, elbow, or shoulder. Pitting your body's locomotive engines against their vulnerable joint capsules guarantees overwhelming mechanical dominance.
+
 > [!NOTE]
 > **The Mechanics Behind It: Axial Compression vs. Bending Moments**  
 > In structural mechanics, materials withstand vastly higher loads along their long axis (**axial compression**) than when subjected to perpendicular forces that cause them to bend (**bending moments**, $\tau = F \cdot L$).  
@@ -1376,11 +1380,9 @@ To survive when the higher brain drops out, you must understand **The Offloading
 
 Do not try to think through a defense while under attack; drill mechanical movements until your subconscious executes them faster than thought.
 
-When you first learn a defensive maneuver—whether slipping a punch, sprawling against a takedown, or driving a forearm into a skeletal frame—your higher brain governs every millimeter. Your prefrontal cortex painstakingly calculates joint angles, monitors limb placement, and issues deliberate motor commands. This cognitive phase is slow, clumsy, and exhausts mental energy.
+When first learning a defensive maneuver—slipping a punch, sprawling, or setting a frame—your higher brain governs every millimeter, calculating joint angles and issuing deliberate motor commands. This cognitive phase is slow, clumsy, and exhausts mental energy. Leaving mechanics in the higher brain guarantees failure in real violence. 
 
-If you leave these mechanics in the higher brain, you will fail in real violence. 
-
-Mastery is the systematic migration of physical mechanics from the conscious neocortex down into the cerebellum and brainstem. Through rigorous, high-repetition stress training, your nervous system builds myelinated subcortical neural pathways. What began as a deliberate intellectual decision transforms into an autonomous sensorimotor program. 
+Mastery is the systematic migration of mechanics from the conscious neocortex down into the cerebellum and brainstem. Through high-repetition stress training, your nervous system builds myelinated subcortical neural pathways, transforming deliberate intellectual decisions into autonomous sensorimotor programs. 
 
 When an incoming threat triggers your visual or tactile sensors, the lower brain executes the mechanical response without consulting conscious thought. The sprawl fires the instant hip level drops; the frame snaps into place the instant distance collapses. The reaction bypasses the slow cortical loop entirely, executing in tens of milliseconds rather than hundreds.
 
@@ -1428,14 +1430,23 @@ Do not try to control the attacker's every twitch; lock their physical boundarie
 
 When a violent altercation collapses into close quarters, combatants enter what tactical professionals call the **vortex**: a turbulent scramble where balance, grips, strikes, and momentum collide in unpredictable chaos.
 
-In the vortex, an untrained fighter panics. They attempt to micromanage every moving extremity: swatting at hands, tracking wild punches, and flailing for grips. Trying to track and control every degree of freedom of a thrashing human being causes rapid sensory overload and physical exhaustion.
+In the vortex, an untrained fighter panics, swatting at hands and tracking wild punches. Trying to track every degree of freedom of a thrashing human causes sensory overload.
+
+When sudden violence overwhelms conscious processing and you are unsure what to do, deploy the definitive combative heuristic: **attack that which is attacking you**.
+
+Under acute shock, searching for complex combinations invites cognitive freeze (Hick's Law). The fallback heuristic cuts decision latency to zero. Whatever is currently attacking you is, by physical necessity, the closest threat ($d_{\text{min}}$), the most committed lever, and the least protected structure:
+- **If a punch flies at your head**: Attack the incoming arm—drive an elbow spike into their bicep or jam their shoulder.
+- **If hands clamp your throat**: Attack the choking lever—clamp their wrists, peel the thumbs, and strip the grip before attempting any other move.
+- **If an adversary presents a weapon**: Attack the weapon-bearing limb with a two-on-one clamp, neutralizing the threat vector immediately.
+
+Attacking the attacking lever eliminates hesitation, destroys weapon eligibility, and turns defense into an instantaneous counter-attack.
 
 An elite practitioner masters **Controlled Chaos** not by controlling every variable, but by establishing rigid **Boundary Conditions**.
 
-In mechanical physics, boundary conditions are external physical constraints that restrict the allowable movement of a dynamic system. Instead of fighting the attacker's muscular energy limb by limb, you establish geometric and structural barriers that systematically remove their spatial degrees of freedom:
-- **Axial Skeletal Wedges**: You set rigid forearm and shin frames against the adversary's pelvic line or clavicle, preventing them from closing space.
-- **Environmental Anchors**: You wedge the adversary’s hips or spine against an immovable boundary—the floor, a wall, a vehicle, or a doorway—eliminating their ability to retreat or generate rotational torque.
-- **Cervical Misalignment**: You control the head and jaw line; because the body cannot drive forward when the head turns perpendicular to the spine, turning their skull neutralizes their kinetic chain.
+In physics, boundary conditions are external constraints that restrict dynamic systems. Instead of fighting an attacker's muscular energy limb by limb, establish structural barriers that remove their degrees of freedom:
+- **Axial Skeletal Wedges**: Set rigid forearm and shin frames against pelvis or clavicle to prevent closing space.
+- **Environmental Anchors**: Wedge their hips or spine against an immovable boundary—floor, wall, or doorway—eliminating retreat and rotational torque.
+- **Cervical Misalignment**: Turn their head and jaw line; the human body cannot drive forward when the skull is twisted perpendicular to the spine.
 
 By setting immovable boundary conditions, you do not need to predict what the attacker will do next. Their chaotic thrashing becomes irrelevant. Every violent burst of muscular force expends their metabolic energy against rigid structural struts or immovable environmental surfaces, while your own body expends minimal caloric work to maintain position. You contain the chaos within physical walls until the adversary burns out.
 
@@ -1447,12 +1458,12 @@ When the adversary expects an orderly fight, inject rapid tempo shifts and angul
 
 Surviving combat requires damping the chaos that the adversary directs at you. Winning combat requires reversing the flow: projecting unmanageable disorder onto the adversary. This is **Weaponized Entropy**.
 
-In military doctrine, Colonel John Boyd demonstrated that victory belongs to the commander who can generate rapid, unexpected changes—**fast transients**—faster than the enemy can observe and adapt. When you force an adversary to process new physical realities faster than their nervous system can evaluate them, their decision loop shatters.
+In military doctrine, Colonel John Boyd demonstrated that victory belongs to the commander who generates **fast transients** faster than an opponent can evaluate and adapt. Forcing an adversary to process physical realities faster than their nervous system can evaluate them shatters their decision loop.
 
 You weaponize entropy through three non-prescriptive mechanical disruptions:
-1. **Level Shifts**: Suddenly dropping your hips beneath their field of vision, then driving upward into their posture.
-2. **Angular Cuts**: Refusing to remain on their linear attack channel; taking a sudden offline angle that forces them to pivot their foundation to re-acquire you.
-3. **Tempo Breaks**: Disrupting the rhythm of engagement. You freeze momentarily into a static frame, inducing the adversary to hesitate, then explode into an unexpected advance before they can reset their stance.
+1. **Level Shifts**: Dropping hips beneath their field of vision, then driving upward into their posture.
+2. **Angular Cuts**: Taking an offline angle that forces them to pivot their foundation to re-acquire you.
+3. **Tempo Breaks**: Freezing momentarily into a frame to induce hesitation, then exploding before they reset their stance.
 
 While you maintain internal dynamic stability through closed-loop posture, your sudden transients flood the adversary's senses with unresolvable data. Their conscious brain panics, their choice reaction time expands logarithmically, and their physical coordination unravels under the escalating entropy you dictate.
 

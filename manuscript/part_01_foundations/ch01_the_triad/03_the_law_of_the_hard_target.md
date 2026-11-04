@@ -48,6 +48,10 @@ When the attacker charges, their weight does not compress your muscles. It trave
 
 This is the principle of **Economy of Force**: conserving finite biological energy while letting skeletal geometry carry the load.
 
+When you do recruit muscular effort to clamp, control, or break grips, follow an uncompromising biomechanical rule: **use big muscle groups against small muscle groups**. 
+
+Small muscles (biceps, triceps, forearm flexors, rotator cuffs) have small cross-sectional areas and fatigue rapidly under load. Large muscle groups (the posterior chain: gluteus maximus, hamstrings, latissimus dorsi, and core) generate massive structural torque. Never contest an adversary bicep-against-bicep or arm-against-arm. When you clamp a limb, drive an underhook, or break a collar tie, recruit your hips, lats, and legs against their isolated wrist, elbow, or shoulder. Pitting your body's locomotive engines against their vulnerable joint capsules guarantees overwhelming mechanical dominance.
+
 > [!NOTE]
 > **The Mechanics Behind It: Axial Compression vs. Bending Moments**  
 > In structural mechanics, materials withstand vastly higher loads along their long axis (**axial compression**) than when subjected to perpendicular forces that cause them to bend (**bending moments**, $\tau = F \cdot L$).  
