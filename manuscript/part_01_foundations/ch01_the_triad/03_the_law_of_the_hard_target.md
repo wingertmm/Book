@@ -107,11 +107,11 @@ Allowing your frame to damp shock dissipates kinetic energy into the floor, keep
 Position is your first weapon and your final shield.
 
 In Chapter 01, we established the three structural pillars of personal combat:
-1. **The Triad**: Time, Distance, and Power as mutually dependent dimensions.
-2. **The Master Equation ($\text{Distance} \to \text{Time} \to \text{Power}$)**: Distance buys time; time directs power.
+1. **The Triad**: Timing, Distance, and Power as mutually dependent dimensions.
+2. **The Master Equation ($\text{Distance} \to \text{Time} \to \text{Timing} \to \text{Power}$)**: Distance buys time; time yields timing (the opportunity to make a move); timing directs power.
 3. **The Law of the Hard Target**: Positioning through skeletal framing, grounded base, and centerline protection.
 
-The Law of the Hard Target is the physical anchor that makes the Master Equation function. Without a stable base and rigid skeletal frames, you cannot maintain the distance needed to buy time; without time, power is wasted. 
+The Law of the Hard Target is the physical anchor that makes the Master Equation function. Without a stable base and rigid skeletal frames, you cannot maintain the distance needed to buy time; without time, you forfeit timing; without timing, power is wasted. 
 
 When you stand as a hard target, you do not hope for survival; you command it through position, mechanics, and structural integrity.
 

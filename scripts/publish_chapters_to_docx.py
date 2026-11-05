@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Publication Export Script: Time, Distance, and Power
+Publication Export Script: Timing, Distance, and Power
 Exports the manuscript to Microsoft Word (.docx) format for review and editing:
 1. Individual Chapter Documents (Chapters 01 - 21) in exports/docx/chapters/
 2. Front Matter Document in exports/docx/chapters/00_Front_Matter.docx
@@ -76,7 +76,7 @@ CHAPTER_METADATA = [
         "part_dir": "part_01_foundations",
         "chap_dir": "ch01_the_triad",
         "number_str": "Chapter 01",
-        "title": "The Triad: Time, Distance, and Power",
+        "title": "The Triad: Timing, Distance, and Power",
         "filename": "Chapter_01_The_Triad.docx",
     },
     {
@@ -358,7 +358,7 @@ def add_header_footer(doc, header_title, sub_title="Review & Editorial Draft"):
     hdr = sec.header
     hp = hdr.paragraphs[0]
     hp.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-    hrun = hp.add_run(f"Time, Distance, and Power  |  {header_title}")
+    hrun = hp.add_run(f"Timing, Distance, and Power  |  {header_title}")
     hrun.font.name = 'Calibri'
     hrun.font.size = Pt(8.5)
     hrun.font.color.rgb = COLOR_MUTED_GRAY
@@ -868,7 +868,7 @@ def export_complete_master_volume():
     set_cell_margins(cell, top=140, bottom=140, left=180, right=180)
     
     cp = cell.paragraphs[0]
-    r1 = cp.add_run("TIME, DISTANCE, AND POWER: THE MECHANICAL FOUNDATIONS OF FIGHTING\n")
+    r1 = cp.add_run("TIMING, DISTANCE, AND POWER: THE MECHANICAL FOUNDATIONS OF FIGHTING\n")
     r1.font.name = 'Calibri'
     r1.font.size = Pt(14)
     r1.bold = True

@@ -1,10 +1,10 @@
 ## 1.2 The Master Equation: How Distance Buys Time, and Time Directs Power
 
-$$\mathbf{Distance} \longrightarrow \mathbf{Time} \longrightarrow \mathbf{Power}$$
+$$\mathbf{Distance} \longrightarrow \mathbf{Time} \longrightarrow \mathbf{Timing} \longrightarrow \mathbf{Power}$$
 
-This sequence is the **Master Equation** of personal defense. Reverse the sequence and the defense collapses. Power without time is a flail. Time without distance is panic. 
+This sequence is the **Master Equation** of personal defense. Reverse the sequence and the defense collapses. Power without timing is a flail. Timing without time is panic. Time without distance is non-existent.
 
-Distance creates the window you need to see. That window lets your nervous system pick an opening. And targeted execution delivers decisive force. On the floor, you make this equation work through four tactical beats:
+Distance creates the temporal window you need to see. That window lets your nervous system recognize cues and generate timing—the decisive opportunity to make a move. And targeted execution delivers decisive force. On the floor, you make this equation work through four tactical beats:
 
 ---
 
@@ -60,7 +60,7 @@ Crashing to Zero Distance neutralizes strikes because kinetic force requires run
 
 ### Beat 4: Time Directs Power (Precision Over Panic)
 
-Time is what separates an engineered counter from a desperate flail. Power applied without time strikes armor; power directed by time strikes structural vulnerability.
+Time is what separates an engineered counter from a desperate flail. Time provides the reaction runway to recognize openings; that temporal runway unlocks **timing—the opportunity to make a move**. Power applied without timing strikes armor; power directed by timing strikes structural vulnerability.
 
 Watch an untrained brawler under adrenaline. Short on reaction time, they swing wildly into whatever appears in their field of view—battering forearms, collarbones, and frontal skull bone. Within thirty seconds, their knuckles fracture, shoulders exhaust from throwing wild kinetic mass into empty air, and balance disintegrates. They produced massive force, but lacking time to direct it, that power accomplished only their own exhaustion.
 
@@ -69,9 +69,9 @@ Now watch an experienced fighter operating with temporal control. Because they u
 - Their chin elevates for leverage.
 - Their trailing shoulder pulls backward, opening a wide vertical corridor along their centerline.
 
-Because the defender preserved their time window, they do not waste energy attacking the incoming fist. They wait for the attacker's kinetic energy to over-commit, side-step the line of force, and drive a compact counter directly into an exposed structural node: the jawline, the carotid triangle, or floating ribs. Or they execute an off-balancing foot sweep, letting the attacker's own uncontrolled momentum carry them into the floor.
+Because the defender preserved their time window, they do not waste energy attacking the incoming fist. They wait for the attacker's kinetic energy to over-commit, side-step the line of force, and achieve timing—striking during the adversary's transit. They drive a compact counter directly into an exposed structural node: the jawline, the carotid triangle, or floating ribs. Or they execute an off-balancing foot sweep, letting the attacker's own uncontrolled momentum carry them into the floor.
 
-Power does not defeat violence. **Directed power** defeats violence. And the only tool capable of directing power with surgical efficiency is the time you buy before collision occurs.
+Power does not defeat violence. **Directed power** defeats violence. And the primary instrument capable of directing power with surgical efficiency is timing, made possible by the time you purchase with distance.
 
 #### The Energetics of Combat: Efficiency as an Immunity to Exhaustion
 
@@ -91,7 +91,7 @@ Swing at air and throw your shoulders past your hips, and you gas out. Keep your
 
 ### Tactical Synthesis: The Engine of Combat
 
-Every encounter on the street or the mat evaluates this tripartite equation:
+Every encounter on the street or the mat evaluates this quadripartite sequence:
 
 ```
 [ DISTANCE ]  ───►  Enforces the Reactionary Gap & Filters Viable Threats
@@ -100,10 +100,13 @@ Every encounter on the street or the mat evaluates this tripartite equation:
    [ TIME ]    ───►  Expands the Decision Window & Eliminates Cognitive Panic
       │
       ▼
+  [ TIMING ]   ───►  Seizes the Opportunity to Make a Move at Transition Seams
+      │
+      ▼
   [ POWER ]    ───►  Drives Skeletal Force into Exposed Structural Flaws
 ```
 
-Distance gives you life; time gives you options; power delivers the conclusion. 
+Distance gives you life; time gives you options; timing seizes the opportunity to make a move; power delivers the conclusion. 
 
 Under violent pressure, do not search memory for a magic technique. Manage your distance with discipline. Protect your time window as if your life depends on it—because it does. When the moment arrives, drive your power with deliberate precision into the structural void your adversary creates.
 

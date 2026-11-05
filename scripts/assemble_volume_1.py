@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Assemble Volume 1 Manuscript: Time, Distance, and Power — The Combat Doctrine
+Assemble Volume 1 Manuscript: Timing, Distance, and Power — The Combat Doctrine
 Compiles:
 - Volume 1 Front Matter
 - Parts I through IV + Doctrinal Coda (32 section files)
@@ -70,7 +70,7 @@ def generate_vol1_toc():
 ---
 
 ### PART I: THE MECHANICAL ENGINE — Foundations of Combat Biomechanics
-- **Chapter 01: The Triad: Time, Distance, and Power**
+- **Chapter 01: The Triad: Timing, Distance, and Power**
 - **Chapter 02: The Four Ranges of Combat**
 - **Chapter 03: Timing and Windows of Opportunity**
 

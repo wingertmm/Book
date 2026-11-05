@@ -2,7 +2,7 @@
 """
 Publication Export Script: Two-Volume Editions
 Exports:
-1. Complete Volume 1: Time, Distance, and Power — The Combat Doctrine -> exports/docx/TIME_DISTANCE_AND_POWER_VOL1_DOCTRINE.docx
+1. Complete Volume 1: Timing, Distance, and Power — The Combat Doctrine -> exports/docx/TIME_DISTANCE_AND_POWER_VOL1_DOCTRINE.docx
 2. Complete Volume 2: The Machine Under Load — Stress, Conditioning, and Survival Realities -> exports/docx/TIME_DISTANCE_AND_POWER_VOL2_HUMAN_FACTOR.docx
 3. Volume 1 Individual Chapters in exports/docx/volume_1_chapters/
 4. Volume 2 Individual Chapters in exports/docx/volume_2_chapters/
@@ -57,7 +57,7 @@ VOL1_CHAPTERS = [
         "part_dir": "part_01_foundations",
         "chap_dir": "ch01_the_triad",
         "number_str": "Chapter 01",
-        "title": "The Triad: Time, Distance, and Power",
+        "title": "The Triad: Timing, Distance, and Power",
         "filename": "Chapter_01_The_Triad.docx",
     },
     {
@@ -295,7 +295,7 @@ def export_volume_1_complete():
     set_cell_margins(cell, top=140, bottom=140, left=180, right=180)
 
     cp = cell.paragraphs[0]
-    r1 = cp.add_run("TIME, DISTANCE, AND POWER: THE COMBAT DOCTRINE\n")
+    r1 = cp.add_run("TIMING, DISTANCE, AND POWER: THE COMBAT DOCTRINE\n")
     r1.font.name = 'Calibri'
     r1.font.size = Pt(14)
     r1.bold = True

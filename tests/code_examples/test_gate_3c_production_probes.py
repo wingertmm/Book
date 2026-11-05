@@ -60,7 +60,7 @@ def test_gate_3c_master_manuscript_assembled():
     assert "<!-- FRONT MATTER" in content, "Missing FRONT MATTER marker in master manuscript"
     assert "<!-- MANUSCRIPT BODY" in content, "Missing MANUSCRIPT BODY marker in master manuscript"
     assert "<!-- BACK MATTER" in content, "Missing BACK MATTER marker in master manuscript"
-    assert "# TIME, DISTANCE, AND POWER" in content, "Missing main title in master manuscript"
+    assert ("# TIMING, DISTANCE, AND POWER" in content or "# TIME, DISTANCE, AND POWER" in content), "Missing main title in master manuscript"
     assert "# MASTER GLOSSARY OF COMBATIVES ENGINEERING" in content, "Missing glossary in master manuscript"
     assert "# ABOUT THE AUTHOR" in content, "Missing author bio in master manuscript"
 

@@ -1,4 +1,4 @@
-# TIME, DISTANCE, AND POWER
+# TIMING, DISTANCE, AND POWER
 ## The Mechanical Foundations of Fighting
 
 ### An Engineer's Doctrine for Physical Conflict, Human Performance, and Tactical Survival

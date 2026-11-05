@@ -11,7 +11,7 @@
 ---
 
 ### PART I: THE MECHANICAL ENGINE — Foundations of Combat Biomechanics
-- **Chapter 01: The Triad: Time, Distance, and Power**
+- **Chapter 01: The Triad: Timing, Distance, and Power**
   - *1.1 Why Single-Attribute Tactics Fail: The Structural Flaw of Speed, Strength, and Toughness*
   - *1.2 The Master Equation: Distance Buys Time, Time Enables Power*
   - *1.3 The Law of the Hard Target: Structure vs. Soft Tissue*

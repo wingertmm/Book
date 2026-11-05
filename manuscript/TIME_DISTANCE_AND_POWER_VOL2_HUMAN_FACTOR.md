@@ -34,7 +34,7 @@ No part of this publication may be reproduced, distributed, or transmitted in an
 
 ## Why Flawless Tactics Collapse in Chaos
 
-In *Volume 1: The Combat Doctrine*, we treated hand-to-hand combat as an engineering problem governed by the invariant laws of physics and military maneuver: Time, Distance, and Power ($P = \frac{W}{\Delta t}$). We mapped the Four Ranges, applied the strategic lenses of Sun Tzu, John Boyd, and armored warfare, codified the 11 Unified Principles of War, and synthesized four foundational martial disciplines into an integrated operating system.
+In *Volume 1: The Combat Doctrine*, we treated hand-to-hand combat as an exact physical discipline governed by the invariant laws of physics and military maneuver: Timing, Distance, and Power ($P = \frac{W}{\Delta t}$). We mapped the Four Ranges, applied the strategic lenses of Sun Tzu, John Boyd, and armored warfare, codified the 11 Unified Principles of War, and synthesized four foundational martial disciplines into an integrated operating system.
 
 Those principles remain true under all conditions. An unbraced skeletal frame will always bear more compressive load than an isolated triceps muscle. A 2-on-1 asymmetric clamp will always generate mechanical advantage over a single threat lever. An offline angle will always disrupt an adversary's centerline.
 
@@ -1568,9 +1568,9 @@ As a civilian defender, protect yourself through **Cognitive Preservation**:
 
 ---
 
-### Book Capstone: The Unified Architecture of Time, Distance, and Power
+### Book Capstone: The Unified Architecture of Timing, Distance, and Power
 
-Combatives is not a collection of fragmented styles; it is an unyielding physics and biological framework governed by Time, Distance, and Power. Across twenty-one chapters, we engineered a comprehensive combat doctrine, dismantling martial superstition and anchoring every action in empirical physics and physiology.
+Combatives is not a collection of fragmented styles; it is an unyielding physics and biological framework governed by Timing, Distance, and Power. Across twenty-one chapters, we engineered a comprehensive combat doctrine, dismantling martial superstition and anchoring every action in empirical physics and physiology.
 
 In Part I, we established the mechanical engine: ground reaction forces, pelvic torque, and kinetic chaining. In Part II, striking became the concentrated transfer of kinetic energy; in Part III, grappling manipulated centers of mass, levers, and vascular chokes.
 

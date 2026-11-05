@@ -2,7 +2,7 @@
 <!-- FRONT MATTER                               -->
 <!-- ========================================== -->
 
-# TIME, DISTANCE, AND POWER
+# TIMING, DISTANCE, AND POWER
 ## The Mechanical Foundations of Fighting
 
 ### An Engineer's Doctrine for Physical Conflict, Human Performance, and Tactical Survival
@@ -72,7 +72,7 @@ For centuries, the martial arts world has operated under the fog of mysticism, e
 
 Then reality strikes on concrete. 
 
-Under the cold, unyielding glare of a violent street altercation, mysticism evaporates. When a two-hundred-pound aggressive adversary tackles you into a brick wall or drives a flurry of bare-knuckle hooks toward your jaw, ancient secrets cannot save you. In that terrifying crucible, the universe strips away all theater. You are left with only three physical entities: **Time, Distance, and Power**.
+Under the cold, unyielding glare of a violent street altercation, mysticism evaporates. When a two-hundred-pound aggressive adversary tackles you into a brick wall or drives a flurry of bare-knuckle hooks toward your jaw, ancient secrets cannot save you. In that terrifying crucible, the universe strips away all theater. You are left with only three physical entities: **Timing, Distance, and Power**.
 
 ---
 
@@ -105,7 +105,7 @@ We enforce an **Inverted Delivery Pyramid** in every chapter:
 
 ### How to Use This Book
 
-*Time, Distance, and Power* is engineered as a unified, cumulative curriculum across six distinct parts:
+*Timing, Distance, and Power* is engineered as a unified, cumulative curriculum across six distinct parts:
 - **Part I: The Mechanical Engine (Chapters 1–6)**: Deconstructs single-attribute fallacies, establishes the Master Equation ($P = \frac{W}{\Delta t}$), maps the four combat ranges, and reveals the neurobiology of the dual-brain command center.
 - **Part II: The Strategic Lenses (Chapters 7–9)**: Views physical conflict through the three greatest operational minds: Sun Tzu's deception, John Boyd's aerial dogfighting OODA loops, and ground maneuver warfare.
 - **Part III: The 11 Unified Principles (Chapters 10–11)**: Systematizes combat into eleven non-negotiable operational principles, from Purpose First and Security of Position to Actions on Contact.
@@ -135,7 +135,7 @@ When you strip away superstition, combat becomes a problem of engineering. Maste
 ---
 
 ### PART I: THE MECHANICAL ENGINE — Foundations of Combat Biomechanics
-- **Chapter 01: The Triad: Time, Distance, and Power**
+- **Chapter 01: The Triad: Timing, Distance, and Power**
   - *1.1 Why Single-Attribute Tactics Fail: The Structural Flaw of Speed, Strength, and Toughness*
   - *1.2 The Master Equation: Distance Buys Time, Time Enables Power*
   - *1.3 The Law of the Hard Target: Structure vs. Soft Tissue*
@@ -243,7 +243,7 @@ When you strip away superstition, combat becomes a problem of engineering. Maste
 <!-- MANUSCRIPT BODY (PARTS I - VI)             -->
 <!-- ========================================== -->
 
-# Chapter 1: The Triad — Integrating Time, Distance, and Power
+# Chapter 1: The Triad — Integrating Timing, Distance, and Power
 
 ## 1.1 Why Single-Attribute Tactics Fail & The Master Equation
 
@@ -255,89 +255,87 @@ They disintegrate because fear is the ultimate mind-killer. Under an unexpected 
 
 When survival is on the line, the human body defaults strictly to whatever motor pathways have been burned into lower brain structures through repetitive conditioning. If nothing is trained, you freeze. Violence is chaotic, high-entropy, and non-linear. It cannot be survived through scripted choreography—but it can be shaped by strategy. Because violence is governed by physical reality—mass, momentum, and human anatomy—it can be channeled and resolved by a disciplined combat doctrine.
 
-Every physical confrontation—from a scholastic wrestling duel to a sudden ambush in a parking structure—operates within an unyielding triad: **Time, Distance, and Power**.
+Every physical confrontation—from a scholastic wrestling duel to a sudden ambush in a parking structure—can be analyzed based on an unyielding triad: **Timing, Distance, and Power** (traditionally framed through the physical variables of Time, Distance, and Power).
 
 ---
 
 ### The Single-Attribute Fallacy
 
-Most martial arts systems over-index on a single physical attribute, building entire philosophies around raw force, excessive spatial evasion, or acute reflexes. In isolation, each attribute has value; in combat, treating any one as a standalone solution creates fatal systemic vulnerabilities.
+Most martial arts systems over-index on a single physical attribute, building entire philosophies around raw force, excessive spatial evasion, or acute reflexes. In isolation, each attribute has value; in combat, treating any one as a standalone solution creates fatal systemic vulnerabilities. What is needed is an integrated doctrine that outlines the strategy of thinking to fight efficiently.
 
 ```
        [ POWER ]
         /     \
        /       \
       /         \
-[ TIME ] ───── [ DISTANCE ]
+[ TIMING ] ─── [ DISTANCE ]
 ```
 
-#### 1. Power Without Timing: The Heavyweight Trap
-The most common intuitive response to violence is the pursuit of overwhelming power. Practitioners lift heavy weights, pound heavy bags, and hunt for a single fight-ending blow.
+#### 1. Power Without Timing: The Strength Trap
+The most common intuitive response to violence is hunting for a single fight-ending blow through overwhelming power.
 
 In mechanical physics, power is not static muscular strength. Power is the rate of performing work across a defined time span:
 
 $$P = \frac{W}{\Delta t} = \vec{F} \cdot \vec{v}$$
 
-Power is the vector product of applied force and the velocity of movement, dynamically modulated for the desired tactical effect. Generating force slowly produces a push; accelerating that same mass through high velocity produces a concussive shock wave.
+Power is the vector product of applied force and velocity. Generating force slowly produces a push; accelerating that same mass through high velocity produces a concussive shock wave.
 
 However, power without timing is an empty liability. Kinetic force requires an exact temporal window to transfer its energy into a target. If you launch maximum force too early, you strike a braced defense; if you launch it too late, your target has already moved off the line of force.
 
 Consider the classic bar-room haymaker. The striker commits full body mass to a sweeping punch. Lacking temporal precision, a slight step offline causes that energy to strike empty air. The puncher’s momentum drags their center of gravity forward, breaking posture and exposing the jaw and neck to counter-attack. Force applied into a vacuum punishes the generator.
 
-#### 2. Distance Without Velocity: The Evasion Trap
+#### 2. Distance Without Timing: The Evasion Trap
 A second failure mode treats distance as passive, linear retreat. Many instructors teach students to continuously back away with hands raised, hoping space will cause an altercation to dissolve.
 
 Distance is not passive avoidance; distance is active control. In a fight, you choose when to keep space and when to close it:
 - **Maintaining distance**: Stay just outside their longest reach. That gap preserves reaction time, keeps your balance, and keeps your exit open.
 - **Closing distance**: Step hard inside their reach when you choose to attack. You close space to strike, lock underhooks, control the neck, or pin their arms so they cannot hit.
 
-The attacker wants to collapse space to overwhelm you. You control space so you can exit or counter on your own terms.
-
-The elite counter-fighter embodies this active control. Instead of running in panic, the counter-fighter holds the edge of the threat radius, drawing the attacker into over-extension. The moment the attacker commits, the counter-fighter closes the gap with explosive speed to punish the opening. Running backward in a straight line compromises your base, narrows your vision, and inevitably ends when your back hits a wall, a curb, or a second assailant.
+The counter-fighter holds the edge of the threat radius, drawing the attacker into over-extension. The moment the attacker commits, the counter-fighter closes the gap to punish the opening. Backpedaling linearly compromises your base, narrows vision, and ends when your back hits a wall or curb.
 
 #### 3. Timing Without Structure: The Speed Trap
 The third failure mode confuses timing with raw speed and reflexive twitch reaction. The defender attempts to be faster than the attacker, trying to "beat them to the punch" without securing a stable base or structural alignment.
 
-Timing is fundamentally not speed. Raw speed is an athletic attribute that degrades with age, fatigue, and injury; timing is the synchronization of opportunity with physical movement. Timing is the weaponization of surprise—recognizing an opponent’s kinetic pattern, identifying their rhythmic commitment, and interrupting their cadence at the exact moment of maximum vulnerability.
+Timing is fundamentally not speed. Raw speed is an athletic attribute that degrades with age, fatigue, and injury; timing is the synchronization of opportunity with physical movement. **Timing is the opportunity to make a move.** Timing is the weaponization of surprise—recognizing an opponent’s kinetic pattern, identifying their rhythmic commitment, and interrupting their cadence at the exact moment of maximum vulnerability.
 
-Consider the mechanical execution of a foot sweep (*deashi harai*). A foot sweep is never forced through muscular speed or brute strength; attempting to sweep an opponent whose foot is firmly planted into the canvas will only sprain your own ankle. The sweep succeeds only when the opponent's advancing foot is light on the ground and unweighted—catching the foot while it is floating in mid-air during a step transition.
+Consider the mechanical execution of a foot sweep (*deashi harai*). A foot sweep is never forced through muscular speed or brute strength; attempting to sweep an opponent whose foot is firmly planted into the canvas will fail. The sweep succeeds only when the opponent's advancing foot is light on the ground and unweighted—catching the foot while it is floating in mid-air during a step transition.
 
-Transitions are the most vulnerable time in combat. In transit, an adversary cannot brace their frame, plant a base, or reverse momentum. That vulnerability creates your highest-percentage tactical opportunity for defense and attack: catch an opponent in the transition seam, and negligible force produces catastrophic mechanical tipping.
+Transitions are the most vulnerable time in combat. In transit, an adversary cannot brace their frame, plant a base, change attacks, or reverse momentum when they have already committed. That vulnerability creates your highest-percentage tactical opportunity for defense and attack: catch an opponent in the transition seam, and negligible force produces a catastrophic advantage.
 
 Timing without power and mechanical structure produces fragile contact. Intercepting an incoming strike with a fast, off-balance flick often damages the defender more than the assailant. Striking dense bone without locked skeletal alignment, a planted base, and whole-body mass coupling fractures metacarpals and collapses wrists. Timing synchronizes opportunity, but structural alignment delivers the decisive effect.
 
 > [!IMPORTANT]
 > **The Law of Mutual Dependency**:  
-> Power applied at the wrong time is wasted momentum.  
-> Distance maintained without offensive threat is temporary delay.  
+> Power applied without timing is wasted momentum.  
+> Distance maintained without timing is temporary delay.  
 > Timing achieved without structural power is superficial contact.  
 > When the triad is synchronized, you stop burning energy on empty swings. Efficient fighters are effective fighters: they hit what they aim at, conserve their fuel tank, and never gas out under pressure.
 
 ---
 
-### The Master Equation: How Distance Buys Time, and Time Directs Power
+### The Master Equation: How Distance Buys Time, and Time Enables Timing and Power
 
 To understand how physical self-defense functions under real-world conditions, you must view the triad not as three separate tools, but as an operational sequence:
 
-$$\mathbf{Distance} \longrightarrow \mathbf{Time} \longrightarrow \mathbf{Power}$$
+$$\mathbf{Distance} \longrightarrow \mathbf{Time} \longrightarrow \mathbf{Timing} \longrightarrow \mathbf{Power}$$
 
 This sequence is the Master Equation of personal combat.
 
 #### Distance Buys Time
 Distance is space, and space dictates reaction intervals ($t = d/v$).
 
-When an attacker stands two inches from your chest, the time required for their hand to reach your jaw is measured in fractions of a second—well below human visual reaction and neuromuscular initiation thresholds. At that range, you cannot observe a strike, decide on an evasion, and execute a block before the blow lands.
+When an attacker stands two inches from your chest, the time required for their hand to reach your jaw is fractions of a second—well below neuromuscular reaction thresholds. You cannot observe, decide, and block before the blow lands.
 
 When you maintain an extra three feet of distance, you force the attacker to physically step forward to close the gap. That additional step consumes three to four hundred milliseconds—the difference between unconscious panic and deliberate execution. By managing space, you purchase the cognitive and physical time needed to observe intent, orient your balance, and initiate a response.
 
 *(Chapter 2 maps space across the four combat ranges; Chapter 3 details the millisecond windows for intercepting commitments.)*
 
-#### Time Directs Power
+#### Time Directs Power: Decision-Making and Timing
 Having time allows you to apply kinetic energy where and when it produces decisive results. Untrained fighters throw punches blindly into whatever part of the opponent is closest, bruising their knuckles on shoulders, foreheads, and elbows.
 
-Time allows the defender to read the attacker’s vulnerabilities. When an attacker lunges forward, their forward momentum over-commits their weight onto their lead foot, locking their hips and temporarily blinding their peripheral vision. Because you used distance to buy the necessary time window, you can apply concentrated power into a high-value vulnerability—driving their balance off-center, taking their back, or striking through an open corridor to break their attack.
+Time allows the defender to read the attacker’s vulnerabilities, assess tactics, and identify tells. When an attacker lunges forward, their forward momentum over-commits their weight onto their lead foot, locking their hips and temporarily blinding their peripheral vision. Because you used distance to buy the necessary time window to assess, you achieve timing: the decisive opportunity to make a move. You apply concentrated power into a high-value vulnerability—driving their balance off-center, taking their back, or striking through an open corridor to break their attack.
 
-Power applied without time is a desperate flail; power directed by time is an engineered strike.
+Power applied without time is a desperate flail; power directed by timing is a decisive strike.
 
 ```
 +-----------------------------------------------------------+
@@ -348,6 +346,9 @@ Power applied without time is a desperate flail; power directed by time is an en
 |        │                                                  |
 |        ▼                                                  |
 |    [ TIME ]   ──► Expands the decision window             |
+|        │                                                  |
+|        ▼                                                  |
+|   [ TIMING ]  ──► Seizes the opportunity to make a move   |
 |        │                                                  |
 |        ▼                                                  |
 |   [ POWER ]   ──► Focuses kinetic force into weakness     |
@@ -361,7 +362,7 @@ Power applied without time is a desperate flail; power directed by time is an en
 
 Before force is exchanged, your initial position dictates whether you are vulnerable or fortified. This brings us to a foundational concept derived from military protective posture: **The Hard Target**.
 
-A soft target is physically and structurally unprepared: weight on heels, chin elevated, hands trapped in pockets or tethered to a phone, and awareness adrift. A predator seeks the soft target because the cost of attack is low and the probability of immediate success is high.
+A soft target is structurally unprepared: weight on heels, chin up, hands trapped in pockets, and awareness adrift. A predator seeks the soft target because the cost of attack is low and success probability is high.
 
 A hard target presents immediate structural resistance without adopting an aggressive stance that escalates an encounter. It is a subtle, disciplined posture:
 - **Base and Balance**: Feet positioned shoulder-width apart, knees slightly flexed, center of gravity lowered and distributed evenly. You cannot be knocked down by a casual shove.
@@ -378,9 +379,9 @@ A hard target presents immediate structural resistance without adopting an aggre
 
 Self-defense begins with an objective assessment of reality. You will not rise to the level of your fantasies under adrenaline; you will fall to the level of your trained fundamentals.
 
-Those fundamentals must rest upon the physics of the triad:
+Those fundamentals must rest upon the triad:
 1. **Distance** controls your safety margin and creates your reactionary space.
-2. **Time** provides the cognitive clarity to read intent and direct your response.
+2. **Time** provides the cognitive clarity to read intent, assess tactics, and achieve **Timing**—the opportunity to make a move.
 3. **Power** delivers the physical force necessary to resolve the threat and secure an exit.
 
 In the next chapter, we examine the physical battle space itself—mapping distance into **the Four Combat Ranges** and establishing how the rules of engagement shift as space collapses.
@@ -389,11 +390,11 @@ In the next chapter, we examine the physical battle space itself—mapping dista
 
 ## 1.2 The Master Equation: How Distance Buys Time, and Time Directs Power
 
-$$\mathbf{Distance} \longrightarrow \mathbf{Time} \longrightarrow \mathbf{Power}$$
+$$\mathbf{Distance} \longrightarrow \mathbf{Time} \longrightarrow \mathbf{Timing} \longrightarrow \mathbf{Power}$$
 
-This sequence is the **Master Equation** of personal defense. Reverse the sequence and the defense collapses. Power without time is a flail. Time without distance is panic. 
+This sequence is the **Master Equation** of personal defense. Reverse the sequence and the defense collapses. Power without timing is a flail. Timing without time is panic. Time without distance is non-existent.
 
-Distance creates the window you need to see. That window lets your nervous system pick an opening. And targeted execution delivers decisive force. On the floor, you make this equation work through four tactical beats:
+Distance creates the temporal window you need to see. That window lets your nervous system recognize cues and generate timing—the decisive opportunity to make a move. And targeted execution delivers decisive force. On the floor, you make this equation work through four tactical beats:
 
 ---
 
@@ -449,7 +450,7 @@ Crashing to Zero Distance neutralizes strikes because kinetic force requires run
 
 ### Beat 4: Time Directs Power (Precision Over Panic)
 
-Time is what separates an engineered counter from a desperate flail. Power applied without time strikes armor; power directed by time strikes structural vulnerability.
+Time is what separates an engineered counter from a desperate flail. Time provides the reaction runway to recognize openings; that temporal runway unlocks **timing—the opportunity to make a move**. Power applied without timing strikes armor; power directed by timing strikes structural vulnerability.
 
 Watch an untrained brawler under adrenaline. Short on reaction time, they swing wildly into whatever appears in their field of view—battering forearms, collarbones, and frontal skull bone. Within thirty seconds, their knuckles fracture, shoulders exhaust from throwing wild kinetic mass into empty air, and balance disintegrates. They produced massive force, but lacking time to direct it, that power accomplished only their own exhaustion.
 
@@ -458,9 +459,9 @@ Now watch an experienced fighter operating with temporal control. Because they u
 - Their chin elevates for leverage.
 - Their trailing shoulder pulls backward, opening a wide vertical corridor along their centerline.
 
-Because the defender preserved their time window, they do not waste energy attacking the incoming fist. They wait for the attacker's kinetic energy to over-commit, side-step the line of force, and drive a compact counter directly into an exposed structural node: the jawline, the carotid triangle, or floating ribs. Or they execute an off-balancing foot sweep, letting the attacker's own uncontrolled momentum carry them into the floor.
+Because the defender preserved their time window, they do not waste energy attacking the incoming fist. They wait for the attacker's kinetic energy to over-commit, side-step the line of force, and achieve timing—striking during the adversary's transit. They drive a compact counter directly into an exposed structural node: the jawline, the carotid triangle, or floating ribs. Or they execute an off-balancing foot sweep, letting the attacker's own uncontrolled momentum carry them into the floor.
 
-Power does not defeat violence. **Directed power** defeats violence. And the only tool capable of directing power with surgical efficiency is the time you buy before collision occurs.
+Power does not defeat violence. **Directed power** defeats violence. And the primary instrument capable of directing power with surgical efficiency is timing, made possible by the time you purchase with distance.
 
 #### The Energetics of Combat: Efficiency as an Immunity to Exhaustion
 
@@ -480,7 +481,7 @@ Swing at air and throw your shoulders past your hips, and you gas out. Keep your
 
 ### Tactical Synthesis: The Engine of Combat
 
-Every encounter on the street or the mat evaluates this tripartite equation:
+Every encounter on the street or the mat evaluates this quadripartite sequence:
 
 ```
 [ DISTANCE ]  ───►  Enforces the Reactionary Gap & Filters Viable Threats
@@ -489,10 +490,13 @@ Every encounter on the street or the mat evaluates this tripartite equation:
    [ TIME ]    ───►  Expands the Decision Window & Eliminates Cognitive Panic
       │
       ▼
+  [ TIMING ]   ───►  Seizes the Opportunity to Make a Move at Transition Seams
+      │
+      ▼
   [ POWER ]    ───►  Drives Skeletal Force into Exposed Structural Flaws
 ```
 
-Distance gives you life; time gives you options; power delivers the conclusion. 
+Distance gives you life; time gives you options; timing seizes the opportunity to make a move; power delivers the conclusion. 
 
 Under violent pressure, do not search memory for a magic technique. Manage your distance with discipline. Protect your time window as if your life depends on it—because it does. When the moment arrives, drive your power with deliberate precision into the structural void your adversary creates.
 
@@ -609,11 +613,11 @@ Allowing your frame to damp shock dissipates kinetic energy into the floor, keep
 Position is your first weapon and your final shield.
 
 In Chapter 01, we established the three structural pillars of personal combat:
-1. **The Triad**: Time, Distance, and Power as mutually dependent dimensions.
-2. **The Master Equation ($\text{Distance} \to \text{Time} \to \text{Power}$)**: Distance buys time; time directs power.
+1. **The Triad**: Timing, Distance, and Power as mutually dependent dimensions.
+2. **The Master Equation ($\text{Distance} \to \text{Time} \to \text{Timing} \to \text{Power}$)**: Distance buys time; time yields timing (the opportunity to make a move); timing directs power.
 3. **The Law of the Hard Target**: Positioning through skeletal framing, grounded base, and centerline protection.
 
-The Law of the Hard Target is the physical anchor that makes the Master Equation function. Without a stable base and rigid skeletal frames, you cannot maintain the distance needed to buy time; without time, power is wasted. 
+The Law of the Hard Target is the physical anchor that makes the Master Equation function. Without a stable base and rigid skeletal frames, you cannot maintain the distance needed to buy time; without time, you forfeit timing; without timing, power is wasted. 
 
 When you stand as a hard target, you do not hope for survival; you command it through position, mechanics, and structural integrity.
 
@@ -6215,9 +6219,9 @@ As a civilian defender, protect yourself through **Cognitive Preservation**:
 
 ---
 
-### Book Capstone: The Unified Architecture of Time, Distance, and Power
+### Book Capstone: The Unified Architecture of Timing, Distance, and Power
 
-Combatives is not a collection of fragmented styles; it is an unyielding physics and biological framework governed by Time, Distance, and Power. Across twenty-one chapters, we engineered a comprehensive combat doctrine, dismantling martial superstition and anchoring every action in empirical physics and physiology.
+Combatives is not a collection of fragmented styles; it is an unyielding physics and biological framework governed by Timing, Distance, and Power. Across twenty-one chapters, we engineered a comprehensive combat doctrine, dismantling martial superstition and anchoring every action in empirical physics and physiology.
 
 In Part I, we established the mechanical engine: ground reaction forces, pelvic torque, and kinetic chaining. In Part II, striking became the concentrated transfer of kinetic energy; in Part III, grappling manipulated centers of mass, levers, and vascular chokes.
 

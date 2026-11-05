@@ -5,7 +5,7 @@ For centuries, the martial arts world has operated under the fog of mysticism, e
 
 Then reality strikes on concrete. 
 
-Under the cold, unyielding glare of a violent street altercation, mysticism evaporates. When a two-hundred-pound aggressive adversary tackles you into a brick wall or drives a flurry of bare-knuckle hooks toward your jaw, ancient secrets cannot save you. In that terrifying crucible, the universe strips away all theater. You are left with only three physical entities: **Time, Distance, and Power**.
+Under the cold, unyielding glare of a violent street altercation, mysticism evaporates. When a two-hundred-pound aggressive adversary tackles you into a brick wall or drives a flurry of bare-knuckle hooks toward your jaw, ancient secrets cannot save you. In that terrifying crucible, the universe strips away all theater. You are left with only three physical entities: **Timing, Distance, and Power**.
 
 ---
 
@@ -38,7 +38,7 @@ We enforce an **Inverted Delivery Pyramid** in every chapter:
 
 ### How to Use This Book
 
-*Time, Distance, and Power* is engineered as a unified, cumulative curriculum across six distinct parts:
+*Timing, Distance, and Power* is engineered as a unified, cumulative curriculum across six distinct parts:
 - **Part I: The Mechanical Engine (Chapters 1–6)**: Deconstructs single-attribute fallacies, establishes the Master Equation ($P = \frac{W}{\Delta t}$), maps the four combat ranges, and reveals the neurobiology of the dual-brain command center.
 - **Part II: The Strategic Lenses (Chapters 7–9)**: Views physical conflict through the three greatest operational minds: Sun Tzu's deception, John Boyd's aerial dogfighting OODA loops, and ground maneuver warfare.
 - **Part III: The 11 Unified Principles (Chapters 10–11)**: Systematizes combat into eleven non-negotiable operational principles, from Purpose First and Security of Position to Actions on Contact.

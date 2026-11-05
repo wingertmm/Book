@@ -2,7 +2,7 @@
 
 ## The Five Invariant Laws of the Human Machine
 
-Volume 1 established combat as an exact physical discipline governed by the invariant laws of physics and military strategy: Time, Distance, and Power ($P = \frac{W}{\Delta t}$). We mapped the Four Ranges, applied the strategic lenses of Sun Tzu, John Boyd, and armored maneuver warfare, codified the 11 Unified Principles of War, and synthesized four foundational martial arts disciplines into a single operating system.
+Volume 1 established combat as an exact physical discipline governed by the invariant laws of physics and military strategy: Timing, Distance, and Power ($P = \frac{W}{\Delta t}$). We mapped the Four Ranges, applied the strategic lenses of Sun Tzu, John Boyd, and armored maneuver warfare, codified the 11 Unified Principles of War, and synthesized four foundational martial arts disciplines into a single operating system.
 
 Yet, an unyielding operational paradox remains: **flawless combat doctrine is useless if the human machine executing it collapses under the shock of violence.**
 

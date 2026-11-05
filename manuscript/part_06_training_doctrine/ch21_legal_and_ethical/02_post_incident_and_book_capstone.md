@@ -67,9 +67,9 @@ As a civilian defender, protect yourself through **Cognitive Preservation**:
 
 ---
 
-### Book Capstone: The Unified Architecture of Time, Distance, and Power
+### Book Capstone: The Unified Architecture of Timing, Distance, and Power
 
-Combatives is not a collection of fragmented styles; it is an unyielding physics and biological framework governed by Time, Distance, and Power. Across twenty-one chapters, we engineered a comprehensive combat doctrine, dismantling martial superstition and anchoring every action in empirical physics and physiology.
+Combatives is not a collection of fragmented styles; it is an unyielding physics and biological framework governed by Timing, Distance, and Power. Across twenty-one chapters, we engineered a comprehensive combat doctrine, dismantling martial superstition and anchoring every action in empirical physics and physiology.
 
 In Part I, we established the mechanical engine: ground reaction forces, pelvic torque, and kinetic chaining. In Part II, striking became the concentrated transfer of kinetic energy; in Part III, grappling manipulated centers of mass, levers, and vascular chokes.
 

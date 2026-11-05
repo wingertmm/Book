@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Assemble Master Manuscript Script for Time, Distance, and Power
+Assemble Master Manuscript Script for Timing, Distance, and Power
 Compiles:
 - 4 Front Matter files
 - 52 Section files across 6 Parts (in canonical order)
