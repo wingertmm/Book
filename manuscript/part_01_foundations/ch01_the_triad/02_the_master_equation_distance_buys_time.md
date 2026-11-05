@@ -12,11 +12,9 @@ Distance creates the temporal window you need to see. That window lets your nerv
 
 In a confrontation, distance is not empty air—it is time you can spend. Surrender it unintentionally, and you surrender your ability to react.
 
-Test this on a mat: stand twelve inches from a partner with hands down, and tell them to slap your chest on an unannounced signal. Even expecting the blow, your hands barely clear your belt before impact. Step back six feet, and you easily raise a guard, pivot offline, or post an intercepting frame. The difference is not reflex; it is space converted into reaction time.
+Test this on a mat: stand twelve inches from a partner with hands down and tell them to slap your chest. Even expecting the blow, your hands barely move before impact. Step back six feet, and you easily raise a guard or pivot offline. The difference is not reflex; it is space converted into reaction time.
 
-Every human operates under biological processing delays. Under ambush, the sensory circuit—visual capture, threat recognition, decision, and neuromuscular contraction—consumes 200 to 500 milliseconds.
-
-An attacker operates on an internal clock; a defender reacts to an external trigger. A punch thrown from twenty inches covers that distance in roughly 150 milliseconds—faster than human neurology can process. You cannot observe a strike and react before impact.
+Under ambush, the sensory circuit—visual capture, threat recognition, decision, and neuromuscular contraction—consumes 200 to 500 milliseconds. An attacker operates on an internal clock; a defender reacts to an external trigger. A punch thrown from twenty inches covers that distance in roughly 150 milliseconds—faster than human neurology can process. You cannot observe and react before impact.
 
 To survive an ambush, you must construct a **Reactionary Gap**. Enforcing physical separation forces the attacker to move their mass across the floor before weapons reach your vitals. A charging assailant requires several hundred milliseconds to close six feet. Those extra fractions of a second convert an unblockable ambush into an observable movement pattern, granting the temporal runway needed to set your base, align skeletal structure, and seize initiative.
 
@@ -31,7 +29,7 @@ When space collapses, an untrained mind freezes trying to defend against twenty 
 - **At Extended Range (6 to 10+ feet)**: Biological limbs cannot reach; the primary unarmed threats are lunging tackles or linear kicks that telegraph intent hundreds of milliseconds in advance. However, this is the primary deployment zone for asymmetric weapons—drawn knives, blunt impact tools (sticks, staffs), or flexible weapons (chains)—which artificially extend reach.
 - **At Medium Striking Range (3 to 5 feet)**: Clinch strikes and headbutts cannot reach. The threat narrows strictly to punches, kicks, and forward shoots.
 - **At Close Clinch Range (1 to 2 feet)**: Extended strikes lose clearance. The threat collapses to short hooks, upper-body ties, elbows, and inside knees.
-- **At Near Distance & Ground (0 to 1 foot)**: Operational clearance drops to zero. Striking power is smothered, and the threat shifts entirely to grips, positional control, takedowns, and ground-fighting mechanics.
+- **At Near Distance & Ground (0 to 1 foot)**: While linear punches lose extension, short-lever weapons become devastating. Standing, this is the domain of underhooks, body locks, and takedowns. On the ground, the threat polarizes: unless you actively smother the attacker chest-to-chest, an opponent in mount or top posture can drop brutal elbows, hammerfists, and ground-and-pound—amplified by gravity and the unyielding pavement behind your skull.
 
 Distance acts as an active physical filter, cutting theoretical threats down to one or two high-probability movements. Pruning the adversary's options keeps your head from spinning, kills panic, and lets you counter before the blow lands.
 
@@ -51,7 +49,7 @@ When an ambush detonates, you have two rational tactical choices:
 1. **Create Distance (Expand the Gap)**: Move outside their reach—using angles, barriers, or frames to buy the reaction runway needed to disengage or counter.
 2. **Collapse Distance (Crash to Zero Distance)**: Close the gap entirely to smother the attack, jamming their limbs and eliminating the runway required to accelerate force.
 
-Crashing to Zero Distance neutralizes strikes because kinetic force requires runway to accelerate. If you step deep inside their reach before a strike develops, you eliminate operational clearance—jamming their leverage, depriving them of reaction time, and leaving them unable to generate power.
+Crashing to Zero Distance neutralizes strikes because kinetic force requires runway to accelerate. If you step deep inside their reach before a strike develops, you eliminate operational clearance—jamming their leverage, depriving them of reaction time, and leaving them unable to generate power. On the ground, crashing to chest-to-chest Zero Distance is your primary defense against mounted strikes: by hugging their torso tight, you eliminate their posture and deny their elbows the drop height needed to do damage.
 
 > [!NOTE]
 > **The Mechanics Behind It: Kinetic Work ($W = F \times d$)**  
@@ -80,7 +78,7 @@ Power does not defeat violence. **Directed power** defeats violence. And the pri
 
 Untrained fighters gas out in thirty to sixty seconds because they swing at empty air and fight their own stiff muscles. Combat exhaustion is rarely a lack of cardio; it is the physical cost of being out of sync.
 
-When power is thrown without distance and timing, you bleed fuel three ways: missing a full-power strike forces your own tendons and opposing muscles to brake the limb; panic contracts opposing muscle groups simultaneously so you fight your own anatomy; and frantic flailing empties your burst tank in ten seconds, flooding muscles with acid until arms turn to lead.
+Without distance and timing, you bleed fuel rapidly: missing a full-power strike forces opposing muscles to brake the limb; panic contracts opposing muscle groups so you fight your own anatomy; and frantic flailing drains your tank in seconds, flooding muscles with acid.
 
 When Distance, Time, and Power align, you operate on maximum efficiency with minimum effort:
 
