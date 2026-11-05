@@ -57,7 +57,7 @@ Consider the mechanical execution of a foot sweep (*deashi harai*). A foot sweep
 
 Transitions are the most vulnerable time in combat. In transit, an adversary cannot brace their frame, plant a base, change attacks, or reverse momentum when they have already committed. That vulnerability creates your highest-percentage tactical opportunity for defense and attack: catch an opponent in the transition seam, and negligible force produces a catastrophic advantage.
 
-Timing without power and mechanical structure produces fragile contact. Intercepting an incoming strike with a fast, off-balance flick often damages the defender more than the assailant. Striking dense bone without locked skeletal alignment, a planted base, and whole-body mass coupling fractures metacarpals and collapses wrists. Timing synchronizes opportunity, but structural alignment delivers the decisive effect.
+Timing without power and mechanical structure produces ineffective contact. Intercepting an incoming strike with a fast, off-balance flick often damages the defender more than the assailant. Striking without a solid base and body alignment injures you as much as your opponent. Timing synchronizes with opportunity, but body alignment delivers the decisive effect.
 
 > [!IMPORTANT]
 > **The Law of Mutual Dependency**:  
@@ -88,9 +88,9 @@ When you maintain an extra three feet of distance, you force the attacker to phy
 #### Time Directs Power: Decision-Making and Timing
 Having time allows you to apply kinetic energy where and when it produces decisive results. Untrained fighters throw punches blindly into whatever part of the opponent is closest, bruising their knuckles on shoulders, foreheads, and elbows.
 
-Time allows the defender to read the attacker’s vulnerabilities, assess tactics, and identify tells. When an attacker lunges forward, their forward momentum over-commits their weight onto their lead foot, locking their hips and temporarily blinding their peripheral vision. Because you used distance to buy the necessary time window to assess, you achieve timing: the decisive opportunity to make a move. You apply concentrated power into a high-value vulnerability—driving their balance off-center, taking their back, or striking through an open corridor to break their attack.
+Time allows the defender to read the attacker’s vulnerabilities, assess tactics, and identify tells. When an attacker lunges forward, their forward momentum over-commits their weight onto their lead foot, locking their hips and temporarily blinding their peripheral vision. Because you used distance to buy the necessary time window to assess, you achieve timing: the decisive opportunity to select your move. You apply concentrated power into a high-value vulnerability—driving their balance off-center, taking their back, or parrying and countering to break their attack.
 
-Power applied without time is a desperate flail; power directed by timing is a decisive strike.
+Power applied without timing is inefficient and wasteful; power directed by timing is a decisive strike.
 
 ```
 +-----------------------------------------------------------+
@@ -117,7 +117,7 @@ Power applied without time is a desperate flail; power directed by timing is a d
 
 Before force is exchanged, your initial position dictates whether you are vulnerable or fortified. This brings us to a foundational concept derived from military protective posture: **The Hard Target**.
 
-A soft target is structurally unprepared: weight on heels, chin up, hands trapped in pockets, and awareness adrift. A predator seeks the soft target because the cost of attack is low and success probability is high.
+A soft target is structurally unprepared: weight on heels, chin up, hands trapped in pockets, knees straight, and poor awareness. A predator seeks the soft target because the cost of attack is low and success probability is high.
 
 A hard target presents immediate structural resistance without adopting an aggressive stance that escalates an encounter. It is a subtle, disciplined posture:
 - **Base and Balance**: Feet positioned shoulder-width apart, knees slightly flexed, center of gravity lowered and distributed evenly. You cannot be knocked down by a casual shove.

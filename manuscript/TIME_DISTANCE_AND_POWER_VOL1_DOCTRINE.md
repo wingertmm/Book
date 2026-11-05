@@ -243,7 +243,7 @@ Consider the mechanical execution of a foot sweep (*deashi harai*). A foot sweep
 
 Transitions are the most vulnerable time in combat. In transit, an adversary cannot brace their frame, plant a base, change attacks, or reverse momentum when they have already committed. That vulnerability creates your highest-percentage tactical opportunity for defense and attack: catch an opponent in the transition seam, and negligible force produces a catastrophic advantage.
 
-Timing without power and mechanical structure produces fragile contact. Intercepting an incoming strike with a fast, off-balance flick often damages the defender more than the assailant. Striking dense bone without locked skeletal alignment, a planted base, and whole-body mass coupling fractures metacarpals and collapses wrists. Timing synchronizes opportunity, but structural alignment delivers the decisive effect.
+Timing without power and mechanical structure produces ineffective contact. Intercepting an incoming strike with a fast, off-balance flick often damages the defender more than the assailant. Striking without a solid base and body alignment injures you as much as your opponent. Timing synchronizes with opportunity, but body alignment delivers the decisive effect.
 
 > [!IMPORTANT]
 > **The Law of Mutual Dependency**:  
@@ -274,9 +274,9 @@ When you maintain an extra three feet of distance, you force the attacker to phy
 #### Time Directs Power: Decision-Making and Timing
 Having time allows you to apply kinetic energy where and when it produces decisive results. Untrained fighters throw punches blindly into whatever part of the opponent is closest, bruising their knuckles on shoulders, foreheads, and elbows.
 
-Time allows the defender to read the attacker’s vulnerabilities, assess tactics, and identify tells. When an attacker lunges forward, their forward momentum over-commits their weight onto their lead foot, locking their hips and temporarily blinding their peripheral vision. Because you used distance to buy the necessary time window to assess, you achieve timing: the decisive opportunity to make a move. You apply concentrated power into a high-value vulnerability—driving their balance off-center, taking their back, or striking through an open corridor to break their attack.
+Time allows the defender to read the attacker’s vulnerabilities, assess tactics, and identify tells. When an attacker lunges forward, their forward momentum over-commits their weight onto their lead foot, locking their hips and temporarily blinding their peripheral vision. Because you used distance to buy the necessary time window to assess, you achieve timing: the decisive opportunity to select your move. You apply concentrated power into a high-value vulnerability—driving their balance off-center, taking their back, or parrying and countering to break their attack.
 
-Power applied without time is a desperate flail; power directed by timing is a decisive strike.
+Power applied without timing is inefficient and wasteful; power directed by timing is a decisive strike.
 
 ```
 +-----------------------------------------------------------+
@@ -303,7 +303,7 @@ Power applied without time is a desperate flail; power directed by timing is a d
 
 Before force is exchanged, your initial position dictates whether you are vulnerable or fortified. This brings us to a foundational concept derived from military protective posture: **The Hard Target**.
 
-A soft target is structurally unprepared: weight on heels, chin up, hands trapped in pockets, and awareness adrift. A predator seeks the soft target because the cost of attack is low and success probability is high.
+A soft target is structurally unprepared: weight on heels, chin up, hands trapped in pockets, knees straight, and poor awareness. A predator seeks the soft target because the cost of attack is low and success probability is high.
 
 A hard target presents immediate structural resistance without adopting an aggressive stance that escalates an encounter. It is a subtle, disciplined posture:
 - **Base and Balance**: Feet positioned shoulder-width apart, knees slightly flexed, center of gravity lowered and distributed evenly. You cannot be knocked down by a casual shove.
@@ -333,7 +333,7 @@ In the next chapter, we examine the physical battle space itself—mapping dista
 
 $$\mathbf{Distance} \longrightarrow \mathbf{Time} \longrightarrow \mathbf{Timing} \longrightarrow \mathbf{Power}$$
 
-This sequence is the **Master Equation** of personal defense. Reverse the sequence and the defense collapses. Power without timing is a flail. Timing without time is panic. Time without distance is non-existent.
+This sequence is the **Master Equation** of personal defense. Break the chain and your defense collapses: without distance, you have no time to react; without time, you have no opportunity to counter; and without timing, raw power is wasted.
 
 Distance creates the temporal window you need to see. That window lets your nervous system recognize cues and generate timing—the decisive opportunity to make a move. And targeted execution delivers decisive force. On the floor, you make this equation work through four tactical beats:
 
@@ -341,7 +341,7 @@ Distance creates the temporal window you need to see. That window lets your nerv
 
 ### Beat 1: The Currency of Combat (Distance as Time)
 
-In a confrontation, distance is not empty air—it is time you can spend. Surrender it without purpose, and you surrender your ability to react.
+In a confrontation, distance is not empty air—it is time you can spend. Surrender it unintentionally, and you surrender your ability to react.
 
 Test this on a mat: stand twelve inches from a partner with hands down, and tell them to slap your chest on an unannounced signal. Even expecting the blow, your hands barely clear your belt before impact. Step back six feet, and you easily raise a guard, pivot offline, or post an intercepting frame. The difference is not reflex; it is space converted into reaction time.
 
@@ -357,11 +357,12 @@ To survive an ambush, you must construct a **Reactionary Gap**. Enforcing physic
 
 Distance dictates what attacks are possible before they are thrown. Control distance, and you dictate what the adversary can do.
 
-When space collapses, an untrained mind freezes trying to defend against twenty attacks at once. Distance cuts through that panic. Every strike requires runway to build power; outside that runway, the strike is physically disqualified. This is the **Law of Weapon Eligibility**:
+When space collapses, an untrained mind freezes trying to defend against twenty attacks at once. Distance cuts through that panic. Every strike requires runway to build power; outside that runway, the strike is physically disqualified. This is the **Law of Weapon Eligibility**, which governs each of the four combat ranges:
 
-- **At Extended Range (6 to 10 feet)**: Striking limbs and collar ties cannot reach. The only viable threats are lunging tackles or linear kicks—both requiring big weight shifts that telegraph intent hundreds of milliseconds in advance.
-- **At Medium Striking Range (3 to 5 feet)**: Clinch strikes and headbutts cannot reach. The threat narrows strictly to punches and forward shoots.
+- **At Extended Range (6 to 10+ feet)**: Biological limbs cannot reach; the primary unarmed threats are lunging tackles or linear kicks that telegraph intent hundreds of milliseconds in advance. However, this is the primary deployment zone for asymmetric weapons—drawn knives, blunt impact tools (sticks, staffs), or flexible weapons (chains)—which artificially extend reach.
+- **At Medium Striking Range (3 to 5 feet)**: Clinch strikes and headbutts cannot reach. The threat narrows strictly to punches, kicks, and forward shoots.
 - **At Close Clinch Range (1 to 2 feet)**: Extended strikes lose clearance. The threat collapses to short hooks, upper-body ties, elbows, and inside knees.
+- **At Near Distance & Ground (0 to 1 foot)**: Operational clearance drops to zero. Striking power is smothered, and the threat shifts entirely to grips, positional control, takedowns, and ground-fighting mechanics.
 
 Distance acts as an active physical filter, cutting theoretical threats down to one or two high-probability movements. Pruning the adversary's options keeps your head from spinning, kills panic, and lets you counter before the blow lands.
 
@@ -373,13 +374,15 @@ Distance is an active control dial. Safety lives at the extremes—either comple
 
 Transitions are the most vulnerable time in combat. Whenever you move between ranges—shifting from outside reach into the pocket, or attempting to disengage—you are in transit. In transit, your base is dynamic, your center of mass is in motion, and your skeletal guard is open. That vulnerability cuts both ways: it creates grave danger if you hesitate, but it yields your best tactical opportunities when an adversary moves.
 
+Furthermore, range is never absolute—it is governed by reach disparity. A taller opponent's medium striking range may be your extended evasion zone. The difference between your reach and your opponent's reach defines who owns weapon eligibility at any given moment.
+
 The tactical rule is absolute: **never fight in transit**. Do not linger in the seam between distances. If you move, cross the threshold decisively.
 
 When an ambush detonates, you have two rational tactical choices:
-1. **Create Distance (Expand the Gap)**: Cut an immediate angle or drive backward, using stiff-arm frames or environmental barriers to push space beyond their reach, buying runway to disengage or access tools.
-2. **Collapse Distance (Crash to Zero Distance)**: Drive your chest into the attacker's ribcage, clamping triceps, establishing an overhook, and wedging your forehead under their chin.
+1. **Create Distance (Expand the Gap)**: Move outside their reach—using angles, barriers, or frames to buy the reaction runway needed to disengage or counter.
+2. **Collapse Distance (Crash to Zero Distance)**: Close the gap entirely to smother the attack, jamming their limbs and eliminating the runway required to accelerate force.
 
-Crashing to Zero Distance neutralizes strikes because kinetic force requires runway to accelerate. If you step deep inside the arc before a punch launches—pinning your shoulder against their collarbone and trapping their bicep—their limb cannot extend. You catch the adversary during their striking transition: as their arm coils or initiates forward drive, you eliminate operational clearance, converting a dangerous striker into a tangled grappler fighting for balance against your base.
+Crashing to Zero Distance neutralizes strikes because kinetic force requires runway to accelerate. If you step deep inside their reach before a strike develops, you eliminate operational clearance—jamming their leverage, depriving them of reaction time, and leaving them unable to generate power.
 
 > [!NOTE]
 > **The Mechanics Behind It: Kinetic Work ($W = F \times d$)**  
