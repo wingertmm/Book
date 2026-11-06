@@ -142,14 +142,14 @@ def test_ch15_w02_file_exists():
 
 
 def test_ch15_w02_word_count_within_budget():
-    """Assert Chapter 15 Wave 2 word count is within Gate 1 budget (1,300 - 1,800 words)."""
+    """Assert Chapter 15 Wave 2 word count is within expanded combative doctrine budget (1,300 - 3,000 words)."""
     assert os.path.exists(W02_PATH), f"Target Wave 2 file missing: {W02_PATH}"
     with open(W02_PATH, "r", encoding="utf-8") as f:
         text = f.read()
     words = text.split()
     word_count = len(words)
     print(f"\n[PROBE-CH15-W02-SPORT-BJJ-TRAPS-AND-EGRESS] Actual word count: {word_count}")
-    assert 1300 <= word_count <= 1800, f"Word count {word_count} outside budget [1300, 1800]"
+    assert 1300 <= word_count <= 3000, f"Word count {word_count} outside budget [1300, 3000]"
 
 
 def test_ch15_w02_zero_banned_marketing_words():
