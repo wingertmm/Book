@@ -18,29 +18,31 @@ Layer pressure systematically; inoculate the nervous system one physiological th
 
 Through this three-tier progression, **Controlled Chaos** becomes an instrument of calibration rather than an engine of panic.
 
+Traditional combat systems arrived at this exact empirical framework decades before cognitive sports science formalized stress inoculation. In early Korean Karate (*Korean Karate: The Art of Tae Kwon Do*, 1968), Grandmaster Duk Sung Son of the Chung Do Kwan codified this ladder through three-step sparring (*Sambo Matsogi*, isolating spatial metrics and structural alignment at Tier 1), advancing to semi-free one-step sparring (*Ilbo Matsogi*, testing high-velocity single-trigger evasion and counter-acceleration at Tier 2), and culminating in unscripted free sparring (*Jayu Matsogi*, Tier 3). Classical masters recognized that skipping directly to chaotic fighting without first myelinating structural alignment hardwires panic rather than proficiency.
+
 ---
 
 ### The Death Trap of Compliant Scripting and Training Scars
 
-Purge compliant partner drills from your gym; dead choreography builds fatal training scars. Walk into a conventional martial arts academy and you will witness cooperative partner choreography: an attacker steps forward with a telegraphed right punch and freezes like a bronze statue, waiting politely while the defender executes a four-part counter. This is **Compliant Scripting**, and it is lethally deceptive.
+Purge compliant partner drills from your gym; dead choreography builds fatal training scars. Conventional martial arts academies often drill cooperative choreography: an attacker steps forward with a telegraphed punch and freezes like a statue while the defender executes a multi-part counter. This is **Compliant Scripting**, and it is lethally deceptive.
 
-Compliant scripting teaches the central nervous system to expect an opponent who cooperates with your technique. When an actual predator attacks on concrete, they do not freeze; they drive forward with relentless violence, throwing wild follow-up strikes and grabbing clothing. An unconditioned brain trained on compliance stalls when the statue moves.
+Compliant scripting teaches the nervous system to expect an adversary who cooperates. When a predator attacks on concrete, they do not freeze; they drive forward with relentless violence. An unconditioned brain trained on compliance stalls when the statue moves.
 
-Even worse, compliant scripting creates catastrophic **Training Scars**—involuntary behavioral habits hardwired through sanitized training:
+Worse, compliant scripting creates catastrophic **Training Scars**—involuntary habits formed in sanitized gyms:
 
-- **The Single-Strike Pause**: Landing one punch on a pad or partner and immediately dropping hands to admire the impact. On the street, this hesitation invites an immediate counter-punch.
-- **The Whistle Reflex**: Dropping your base, lowering guards, and relaxing your posture the instant an exchange pauses or a round timer beeps. Predators attack during transitions and pauses.
-- **The Submission Release**: Releasing a dominant strangle or frame the instant a training partner taps, conditioning an involuntary release of mechanical control before safety is secured.
+- **The Single-Strike Pause**: Landing one punch and dropping hands to admire the impact, inviting an immediate counter-strike.
+- **The Whistle Reflex**: Dropping base and relaxing posture when an exchange pauses or a timer beeps. Predators attack during transitions.
+- **The Premature Release**: Releasing a frame or strangle the instant a partner taps, conditioning release before tactical safety is secure.
 
-You will fight exactly as you practice under fatigue. If your drills contain compliant pauses or artificial resets, you are actively embedding fatal training scars into your nervous system.
+You fight exactly as you practice under fatigue. If your drills contain compliant pauses or artificial resets, you actively embed fatal training scars into your nervous system.
 
 ---
 
 ## Section 19.4: Drilling Decision Points Over Move Sequences: Outcome Focus vs. Micro-Control
 
-Never drill moves in a sequence; drill decision points at the seams of contact. Choreographing long sequences of moves—*jab, cross, slip, hook, single-leg takedown, pass to mount, armbar*—is a staple of traditional curriculums. It is also completely unviable in real combat.
+Never drill moves in a sequence; drill decision points at the seams of contact. Choreographing extended sequences—*jab, cross, slip, hook, single-leg takedown*—is a staple of traditional gyms, but collapses in real combat.
 
-Violence is non-linear and chaotic. An adversary never responds predictably to moves three, four, and five. When an opponent alters their base or produces unexpected resistance, a sequenced combination collapses. The fighter enters the "Plan A" trap, freezing because their mental script ran out of instructions.
+Violence is non-linear. An adversary never responds predictably to subsequent strikes. When an opponent alters their base, sequenced combinations stall, trapping the fighter in cognitive freeze when scripts run out.
 
 To build combat reflexes, replace sequential choreography with **Decision Points**. A decision point is a critical spatial-temporal junction where tactile or visual feedback dictates an immediate branching action.
 
@@ -59,6 +61,8 @@ Focus on the physical outcome, not the internal mechanics; let the body self-org
 Motor learning research led by Dr. Gabriele Wulf (Wulf, 2007, 2013; Halperin et al., 2016) proves that internal focus of attention severely degrades motor execution. Focusing internally on muscle contractions forces the conscious prefrontal cortex to micromanage neuromuscular firing. This conscious interference causes antagonistic muscle co-contraction—your biceps actively resisting your triceps—which drains kinetic energy, slows strike velocity, and spikes reaction latency.
 
 In contrast, an external **Outcome Focus** directs attention toward the tactical objective outside the body: *"Drive your fist through the back wall," "slam his sternum into the pillar,"* or *"drive his chin past his heels."*
+
+This empirical dynamic validates Grandmaster Son’s historical striking doctrine of "Focus" (*Korean Karate*, 1968), which instructed fighters to direct their mental and physical intent through a point three to six inches behind the target rather than stopping at the surface.
 
 When your conscious intent locks onto an external outcome, the subconscious basal ganglia and spinal reflex networks automatically coordinate the hundreds of individual motor units required to achieve that goal. The nervous system self-organizes the kinetic chain with optimal biomechanical efficiency. Antagonistic muscle tension vanishes, kinetic energy transfer increases by thirty to fifty percent, and strikes detonate with clean, uninhibited velocity.
 

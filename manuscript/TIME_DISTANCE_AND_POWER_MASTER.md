@@ -4721,7 +4721,7 @@ On asphalt, trading blows is suicidal. Street violence has no rules, gloves, or 
 
 The primary defensive doctrine of personal defense is **Distance as Shield**. Space is your ultimate structural armor. An aggressor outside kicking perimeter cannot fracture your jaw without physically crossing intervening terrain ($\Delta x = v \cdot \Delta t$). That physical transit takes measurable time, telegraphs their hostile vector, and expands your reactive decision window.
 
-Kicking range ($d \approx d_{\text{kick}}$) is not sport acrobatics; it is perimeter defense. **Taekwondo**, codified in its foundational modern syllabus by General Choi Hong Hi (Choi, 1972) and stripped of Olympic point-scoring rules, is the martial art of outermost standoff control. It organizes defense around an asymmetric spatial reality: striking the adversary while keeping your vital command center outside their physical reach.
+Kicking range ($d \approx d_{\text{kick}}$) is not sport acrobatics; it is perimeter defense. **Taekwondo**, rooted in the combat-oriented civilian heritage of the Chung Do Kwan (Son & Clark, 1968) and the military codification of General Choi Hong Hi (Choi, 1972), is the martial art of outermost standoff control when stripped of modern Olympic point-scoring rules. It organizes defense around an asymmetric spatial reality: striking the adversary while keeping your vital command center outside their physical reach.
 
 ```text
 +------------------------------------------------------------------------+
@@ -6510,15 +6510,13 @@ Personal defense requires forging those habits into hardwired reflexes. This pro
 
 ### The Biology of Mastery: Myelination as Hardware Upgrading
 
-Transform leaky neural axons into high-speed transmission lines; repetitions lay down biological insulation. Martial arts folklore celebrates Bruce Lee's famous aphorism: *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."* For decades, coaches quoted this line as a motivational platitude. Modern neuroscience proves it is a literal description of human histology.
+Transform leaky neural axons into high-speed transmission lines; repetitions lay down biological insulation. Martial arts folklore celebrates Bruce Lee's aphorism: *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."* Modern neuroscience proves this is a literal description of human histology.
 
-Every time your brain commands a physical movement—stepping into an angle, rotating a hip, or locking a bilateral forearm frame—an electrical action potential fires along a specific circuit of neural axons. In an unconditioned practitioner, these axons resemble uninsulated copper wires submerged in water: electrical current leaks across cell membranes, signal transmission crawls at one to two meters per second, and neuromuscular execution stutters.
+Every time your brain commands a movement—stepping into an angle, rotating a hip, or locking a forearm frame—an action potential fires along neural axons. In an unconditioned novice, these axons resemble uninsulated wire: current leaks across membranes, signal transmission crawls at one to two meters per second, and execution stutters.
 
-When you repeat a movement with intense, deliberate focus, microscopic glial cells called oligodendrocytes detect repeated electrical firing. These cells respond by wrapping dense concentric layers of a lipid-protein membrane—**Myelin**—around the active axon. 
+When you repeat a movement with intense focus, oligodendrocytes detect repeated electrical firing and wrap concentric layers of a lipid-protein membrane—**Myelin**—around the active axon. 
 
-Myelin functions as bio-electrical insulation. It prevents ion leakage and forces the electrical impulse to jump between the Nodes of Ranvier in rapid saltatory conduction (Fields, 2008; Coyle, 2009). With each hundred repetitions of flawless mechanical execution, the myelin sheath thickens. Heavily myelinated motor tracts accelerate nerve conduction velocities from two meters per second up to one hundred and twenty meters per second—a sixty-fold increase in signal speed. 
-
-A fighter whose primary strikes and frames are densely myelinated does not react faster because their muscles contract quicker; they react faster because the command arrives at the motor endplate before an opponent's nervous system completes a sensory cycle.
+Myelin acts as bio-electrical insulation, forcing the impulse to jump between the Nodes of Ranvier via rapid saltatory conduction (Fields, 2008; Coyle, 2009). Flawless repetitions thicken the sheath, accelerating conduction velocities from two meters per second up to one hundred and twenty meters per second—a sixty-fold increase in signal speed. The heavily myelinated fighter reacts faster because the command arrives at the motor endplate before an adversary's nervous system completes a sensory cycle.
 
 ---
 
@@ -6554,7 +6552,9 @@ Practice never makes perfect—practice makes permanent; every sloppy repetition
 
 This physiological truth establishes the **Law of Permanence**: the body automatically hardwires whatever movement pattern you repeatedly execute. If you throw five hundred punches with flawless skeletal alignment, your brain dutifully myelinates that mechanical integrity. But if you throw five hundred punches while dropping your rear hand to your chest because you fatigue, your brain myelinates the dropped hand with identical permanence.
 
-In the gym, dropping your guard seems harmless when hitting heavy bags or kicking air. Under the terror of a real ambush, however, the cortex goes dark and the nervous system defaults to its most insulated motor engram. You will involuntarily drop your hand, opening an uncontested path for a catastrophic strike to your jaw. Lazy practice does not just waste time; it actively builds lethal vulnerabilities into your biological wetware.
+In the gym, dropping your guard seems harmless when hitting heavy bags or kicking air. Under the terror of a real ambush, however, the cortex goes dark and the nervous system defaults to its most insulated motor engram. You involuntarily drop your hand, opening an uncontested path for a catastrophic strike to your jaw. 
+
+Compliant foam targets and heavy bags routinely lie to the fighter by deforming and absorbing mechanical errors. In classical Korean Karate, Grandmaster Duk Sung Son (*Korean Karate: The Art of Tae Kwon Do*, 1968) treated power breaking (*Kyukpa*) of pine boards and cinder blocks not as theatrical exhibition, but as an unforgiving, non-compliant physical calibration of skeletal alignment. When striking unyielding matter, kinetic errors cannot be disguised: a two-degree deviation in carpal alignment or premature deceleration reflects energy back into the striker's wrist rather than fracturing the target. Rigid targets provide immediate, binary feedback—enforcing the Law of Permanence against self-deception.
 
 ---
 
@@ -6564,9 +6564,9 @@ Never train with compliant resistance; unlearning corrupted mechanics costs thre
 
 Worse, it creates corrupted motor pathways that are exceptionally difficult to eradicate. This challenge stems from the **Asymmetry of Unlearning**. 
 
-In neurobiology, established synaptic connections and myelinated sheaths cannot be physically erased or unbolted. Once a motor circuit forms, it remains permanently etched in brain tissue. To correct an entrenched bad habit—such as flinching backward on your heels instead of driving forward into a frame—you cannot delete the old circuit. You must construct a new, competing neural pathway from scratch and repeat it until its myelinated conductivity surpasses the old pathway.
+In neurobiology, established synaptic connections and myelinated sheaths cannot be erased. Once a motor circuit forms, it remains etched in brain tissue. To correct an entrenched error—such as flinching backward instead of driving forward into a frame—you cannot delete the old pathway. You must construct a competing neural tract from scratch until its conductivity dominates.
 
-Empirical motor learning research proves that overwriting a corrupted motor engram requires three to five times more clean repetitions than original acquisition. If you spend six months drilling a sloppy sprawl or a flawed wrist lock over two thousand repetitions, erasing that mistake requires up to ten thousand deliberate, corrective repetitions under vigilant supervision. Flawless biomechanical standards and realistic resistance are not optional luxuries for advanced fighters; they are biological imperatives from day one.
+Empirical motor learning research proves that overwriting a corrupted motor engram requires three to five times more clean repetitions than initial acquisition. Spending months drilling a sloppy sprawl over two thousand repetitions demands up to ten thousand deliberate, corrective repetitions to overwrite. Flawless biomechanical standards and realistic resistance are biological imperatives from day one.
 
 ---
 
@@ -6626,29 +6626,31 @@ Layer pressure systematically; inoculate the nervous system one physiological th
 
 Through this three-tier progression, **Controlled Chaos** becomes an instrument of calibration rather than an engine of panic.
 
+Traditional combat systems arrived at this exact empirical framework decades before cognitive sports science formalized stress inoculation. In early Korean Karate (*Korean Karate: The Art of Tae Kwon Do*, 1968), Grandmaster Duk Sung Son of the Chung Do Kwan codified this ladder through three-step sparring (*Sambo Matsogi*, isolating spatial metrics and structural alignment at Tier 1), advancing to semi-free one-step sparring (*Ilbo Matsogi*, testing high-velocity single-trigger evasion and counter-acceleration at Tier 2), and culminating in unscripted free sparring (*Jayu Matsogi*, Tier 3). Classical masters recognized that skipping directly to chaotic fighting without first myelinating structural alignment hardwires panic rather than proficiency.
+
 ---
 
 ### The Death Trap of Compliant Scripting and Training Scars
 
-Purge compliant partner drills from your gym; dead choreography builds fatal training scars. Walk into a conventional martial arts academy and you will witness cooperative partner choreography: an attacker steps forward with a telegraphed right punch and freezes like a bronze statue, waiting politely while the defender executes a four-part counter. This is **Compliant Scripting**, and it is lethally deceptive.
+Purge compliant partner drills from your gym; dead choreography builds fatal training scars. Conventional martial arts academies often drill cooperative choreography: an attacker steps forward with a telegraphed punch and freezes like a statue while the defender executes a multi-part counter. This is **Compliant Scripting**, and it is lethally deceptive.
 
-Compliant scripting teaches the central nervous system to expect an opponent who cooperates with your technique. When an actual predator attacks on concrete, they do not freeze; they drive forward with relentless violence, throwing wild follow-up strikes and grabbing clothing. An unconditioned brain trained on compliance stalls when the statue moves.
+Compliant scripting teaches the nervous system to expect an adversary who cooperates. When a predator attacks on concrete, they do not freeze; they drive forward with relentless violence. An unconditioned brain trained on compliance stalls when the statue moves.
 
-Even worse, compliant scripting creates catastrophic **Training Scars**—involuntary behavioral habits hardwired through sanitized training:
+Worse, compliant scripting creates catastrophic **Training Scars**—involuntary habits formed in sanitized gyms:
 
-- **The Single-Strike Pause**: Landing one punch on a pad or partner and immediately dropping hands to admire the impact. On the street, this hesitation invites an immediate counter-punch.
-- **The Whistle Reflex**: Dropping your base, lowering guards, and relaxing your posture the instant an exchange pauses or a round timer beeps. Predators attack during transitions and pauses.
-- **The Submission Release**: Releasing a dominant strangle or frame the instant a training partner taps, conditioning an involuntary release of mechanical control before safety is secured.
+- **The Single-Strike Pause**: Landing one punch and dropping hands to admire the impact, inviting an immediate counter-strike.
+- **The Whistle Reflex**: Dropping base and relaxing posture when an exchange pauses or a timer beeps. Predators attack during transitions.
+- **The Premature Release**: Releasing a frame or strangle the instant a partner taps, conditioning release before tactical safety is secure.
 
-You will fight exactly as you practice under fatigue. If your drills contain compliant pauses or artificial resets, you are actively embedding fatal training scars into your nervous system.
+You fight exactly as you practice under fatigue. If your drills contain compliant pauses or artificial resets, you actively embed fatal training scars into your nervous system.
 
 ---
 
 ## Section 19.4: Drilling Decision Points Over Move Sequences: Outcome Focus vs. Micro-Control
 
-Never drill moves in a sequence; drill decision points at the seams of contact. Choreographing long sequences of moves—*jab, cross, slip, hook, single-leg takedown, pass to mount, armbar*—is a staple of traditional curriculums. It is also completely unviable in real combat.
+Never drill moves in a sequence; drill decision points at the seams of contact. Choreographing extended sequences—*jab, cross, slip, hook, single-leg takedown*—is a staple of traditional gyms, but collapses in real combat.
 
-Violence is non-linear and chaotic. An adversary never responds predictably to moves three, four, and five. When an opponent alters their base or produces unexpected resistance, a sequenced combination collapses. The fighter enters the "Plan A" trap, freezing because their mental script ran out of instructions.
+Violence is non-linear. An adversary never responds predictably to subsequent strikes. When an opponent alters their base, sequenced combinations stall, trapping the fighter in cognitive freeze when scripts run out.
 
 To build combat reflexes, replace sequential choreography with **Decision Points**. A decision point is a critical spatial-temporal junction where tactile or visual feedback dictates an immediate branching action.
 
@@ -6667,6 +6669,8 @@ Focus on the physical outcome, not the internal mechanics; let the body self-org
 Motor learning research led by Dr. Gabriele Wulf (Wulf, 2007, 2013; Halperin et al., 2016) proves that internal focus of attention severely degrades motor execution. Focusing internally on muscle contractions forces the conscious prefrontal cortex to micromanage neuromuscular firing. This conscious interference causes antagonistic muscle co-contraction—your biceps actively resisting your triceps—which drains kinetic energy, slows strike velocity, and spikes reaction latency.
 
 In contrast, an external **Outcome Focus** directs attention toward the tactical objective outside the body: *"Drive your fist through the back wall," "slam his sternum into the pillar,"* or *"drive his chin past his heels."*
+
+This empirical dynamic validates Grandmaster Son’s historical striking doctrine of "Focus" (*Korean Karate*, 1968), which instructed fighters to direct their mental and physical intent through a point three to six inches behind the target rather than stopping at the surface.
 
 When your conscious intent locks onto an external outcome, the subconscious basal ganglia and spinal reflex networks automatically coordinate the hundreds of individual motor units required to achieve that goal. The nervous system self-organizes the kinetic chain with optimal biomechanical efficiency. Antagonistic muscle tension vanishes, kinetic energy transfer increases by thirty to fifty percent, and strikes detonate with clean, uninhibited velocity.
 
@@ -7545,6 +7549,8 @@ Authoritative references backing the strategy, military doctrine, martial arts l
   - *Context & Impact*: Details the foundational self-defense curriculum of Brazilian Jiu-Jitsu, emphasizing structural survival, cervical posture, and energy conservation against larger, stronger aggressors.
 - **Choi, Hong Hi (1972)**: *Taekwon-Do: The Art of Self-Defence* (ITF Encyclopedia). International Taekwon-Do Federation.
   - *Context & Impact*: Primary source for the biomechanical codification of long-range kicking levers (*ap chagi*, *yeop chagi*, *dollyo chagi*), linear trajectory, and hip rotation in Chapter 12.
+- **Son, Duk Sung, & Clark, Robert J. (1968)**: *Korean Karate: The Art of Tae Kwon Do*. Prentice-Hall. (LCCN: 68-21653; ISBN: 0-13-516815-5).
+  - *Context & Impact*: Landmark historical text by the second Kwanjang of the Chung Do Kwan ("School of the Blue Wave"). Informs the uncompromising striking doctrine of Chapter 12 and Chapter 19. Codifies power breaking (*kyukpa*) as an objective, non-compliant physical calibration of bone alignment and kinetic transmission, the tiered progression of sparring (*sambo* and *ilbo matsogi*) as an early martial precursor to stress inoculation ladders, and external outcome focus (*focus/kibaek*) projecting force through the target boundary.
 - **Gable, Dan (1999)**: *Coaching Wrestling Successfully*. Human Kinetics; and **USA Wrestling (2012)**: *Core Curriculum: Folkstyle and Freestyle Mechanics*.
   - *Context & Impact*: Codifies the foundational engineering of athletic base, cervical alignment (head position), underhook pummeling, and dynamic sprawl defense in Chapter 14.
 

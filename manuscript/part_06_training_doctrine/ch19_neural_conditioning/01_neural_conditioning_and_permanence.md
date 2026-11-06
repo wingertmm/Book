@@ -10,15 +10,13 @@ Personal defense requires forging those habits into hardwired reflexes. This pro
 
 ### The Biology of Mastery: Myelination as Hardware Upgrading
 
-Transform leaky neural axons into high-speed transmission lines; repetitions lay down biological insulation. Martial arts folklore celebrates Bruce Lee's famous aphorism: *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."* For decades, coaches quoted this line as a motivational platitude. Modern neuroscience proves it is a literal description of human histology.
+Transform leaky neural axons into high-speed transmission lines; repetitions lay down biological insulation. Martial arts folklore celebrates Bruce Lee's aphorism: *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."* Modern neuroscience proves this is a literal description of human histology.
 
-Every time your brain commands a physical movement—stepping into an angle, rotating a hip, or locking a bilateral forearm frame—an electrical action potential fires along a specific circuit of neural axons. In an unconditioned practitioner, these axons resemble uninsulated copper wires submerged in water: electrical current leaks across cell membranes, signal transmission crawls at one to two meters per second, and neuromuscular execution stutters.
+Every time your brain commands a movement—stepping into an angle, rotating a hip, or locking a forearm frame—an action potential fires along neural axons. In an unconditioned novice, these axons resemble uninsulated wire: current leaks across membranes, signal transmission crawls at one to two meters per second, and execution stutters.
 
-When you repeat a movement with intense, deliberate focus, microscopic glial cells called oligodendrocytes detect repeated electrical firing. These cells respond by wrapping dense concentric layers of a lipid-protein membrane—**Myelin**—around the active axon. 
+When you repeat a movement with intense focus, oligodendrocytes detect repeated electrical firing and wrap concentric layers of a lipid-protein membrane—**Myelin**—around the active axon. 
 
-Myelin functions as bio-electrical insulation. It prevents ion leakage and forces the electrical impulse to jump between the Nodes of Ranvier in rapid saltatory conduction (Fields, 2008; Coyle, 2009). With each hundred repetitions of flawless mechanical execution, the myelin sheath thickens. Heavily myelinated motor tracts accelerate nerve conduction velocities from two meters per second up to one hundred and twenty meters per second—a sixty-fold increase in signal speed. 
-
-A fighter whose primary strikes and frames are densely myelinated does not react faster because their muscles contract quicker; they react faster because the command arrives at the motor endplate before an opponent's nervous system completes a sensory cycle.
+Myelin acts as bio-electrical insulation, forcing the impulse to jump between the Nodes of Ranvier via rapid saltatory conduction (Fields, 2008; Coyle, 2009). Flawless repetitions thicken the sheath, accelerating conduction velocities from two meters per second up to one hundred and twenty meters per second—a sixty-fold increase in signal speed. The heavily myelinated fighter reacts faster because the command arrives at the motor endplate before an adversary's nervous system completes a sensory cycle.
 
 ---
 
@@ -54,7 +52,9 @@ Practice never makes perfect—practice makes permanent; every sloppy repetition
 
 This physiological truth establishes the **Law of Permanence**: the body automatically hardwires whatever movement pattern you repeatedly execute. If you throw five hundred punches with flawless skeletal alignment, your brain dutifully myelinates that mechanical integrity. But if you throw five hundred punches while dropping your rear hand to your chest because you fatigue, your brain myelinates the dropped hand with identical permanence.
 
-In the gym, dropping your guard seems harmless when hitting heavy bags or kicking air. Under the terror of a real ambush, however, the cortex goes dark and the nervous system defaults to its most insulated motor engram. You will involuntarily drop your hand, opening an uncontested path for a catastrophic strike to your jaw. Lazy practice does not just waste time; it actively builds lethal vulnerabilities into your biological wetware.
+In the gym, dropping your guard seems harmless when hitting heavy bags or kicking air. Under the terror of a real ambush, however, the cortex goes dark and the nervous system defaults to its most insulated motor engram. You involuntarily drop your hand, opening an uncontested path for a catastrophic strike to your jaw. 
+
+Compliant foam targets and heavy bags routinely lie to the fighter by deforming and absorbing mechanical errors. In classical Korean Karate, Grandmaster Duk Sung Son (*Korean Karate: The Art of Tae Kwon Do*, 1968) treated power breaking (*Kyukpa*) of pine boards and cinder blocks not as theatrical exhibition, but as an unforgiving, non-compliant physical calibration of skeletal alignment. When striking unyielding matter, kinetic errors cannot be disguised: a two-degree deviation in carpal alignment or premature deceleration reflects energy back into the striker's wrist rather than fracturing the target. Rigid targets provide immediate, binary feedback—enforcing the Law of Permanence against self-deception.
 
 ---
 
@@ -64,9 +64,9 @@ Never train with compliant resistance; unlearning corrupted mechanics costs thre
 
 Worse, it creates corrupted motor pathways that are exceptionally difficult to eradicate. This challenge stems from the **Asymmetry of Unlearning**. 
 
-In neurobiology, established synaptic connections and myelinated sheaths cannot be physically erased or unbolted. Once a motor circuit forms, it remains permanently etched in brain tissue. To correct an entrenched bad habit—such as flinching backward on your heels instead of driving forward into a frame—you cannot delete the old circuit. You must construct a new, competing neural pathway from scratch and repeat it until its myelinated conductivity surpasses the old pathway.
+In neurobiology, established synaptic connections and myelinated sheaths cannot be erased. Once a motor circuit forms, it remains etched in brain tissue. To correct an entrenched error—such as flinching backward instead of driving forward into a frame—you cannot delete the old pathway. You must construct a competing neural tract from scratch until its conductivity dominates.
 
-Empirical motor learning research proves that overwriting a corrupted motor engram requires three to five times more clean repetitions than original acquisition. If you spend six months drilling a sloppy sprawl or a flawed wrist lock over two thousand repetitions, erasing that mistake requires up to ten thousand deliberate, corrective repetitions under vigilant supervision. Flawless biomechanical standards and realistic resistance are not optional luxuries for advanced fighters; they are biological imperatives from day one.
+Empirical motor learning research proves that overwriting a corrupted motor engram requires three to five times more clean repetitions than initial acquisition. Spending months drilling a sloppy sprawl over two thousand repetitions demands up to ten thousand deliberate, corrective repetitions to overwrite. Flawless biomechanical standards and realistic resistance are biological imperatives from day one.
 
 ---
 

@@ -12,7 +12,7 @@ On asphalt, trading blows is suicidal. Street violence has no rules, gloves, or 
 
 The primary defensive doctrine of personal defense is **Distance as Shield**. Space is your ultimate structural armor. An aggressor outside kicking perimeter cannot fracture your jaw without physically crossing intervening terrain ($\Delta x = v \cdot \Delta t$). That physical transit takes measurable time, telegraphs their hostile vector, and expands your reactive decision window.
 
-Kicking range ($d \approx d_{\text{kick}}$) is not sport acrobatics; it is perimeter defense. **Taekwondo**, codified in its foundational modern syllabus by General Choi Hong Hi (Choi, 1972) and stripped of Olympic point-scoring rules, is the martial art of outermost standoff control. It organizes defense around an asymmetric spatial reality: striking the adversary while keeping your vital command center outside their physical reach.
+Kicking range ($d \approx d_{\text{kick}}$) is not sport acrobatics; it is perimeter defense. **Taekwondo**, rooted in the combat-oriented civilian heritage of the Chung Do Kwan (Son & Clark, 1968) and the military codification of General Choi Hong Hi (Choi, 1972), is the martial art of outermost standoff control when stripped of modern Olympic point-scoring rules. It organizes defense around an asymmetric spatial reality: striking the adversary while keeping your vital command center outside their physical reach.
 
 ```text
 +------------------------------------------------------------------------+

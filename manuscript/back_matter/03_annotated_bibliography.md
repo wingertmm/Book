@@ -59,6 +59,8 @@ Authoritative references backing the strategy, military doctrine, martial arts l
   - *Context & Impact*: Details the foundational self-defense curriculum of Brazilian Jiu-Jitsu, emphasizing structural survival, cervical posture, and energy conservation against larger, stronger aggressors.
 - **Choi, Hong Hi (1972)**: *Taekwon-Do: The Art of Self-Defence* (ITF Encyclopedia). International Taekwon-Do Federation.
   - *Context & Impact*: Primary source for the biomechanical codification of long-range kicking levers (*ap chagi*, *yeop chagi*, *dollyo chagi*), linear trajectory, and hip rotation in Chapter 12.
+- **Son, Duk Sung, & Clark, Robert J. (1968)**: *Korean Karate: The Art of Tae Kwon Do*. Prentice-Hall. (LCCN: 68-21653; ISBN: 0-13-516815-5).
+  - *Context & Impact*: Landmark historical text by the second Kwanjang of the Chung Do Kwan ("School of the Blue Wave"). Informs the uncompromising striking doctrine of Chapter 12 and Chapter 19. Codifies power breaking (*kyukpa*) as an objective, non-compliant physical calibration of bone alignment and kinetic transmission, the tiered progression of sparring (*sambo* and *ilbo matsogi*) as an early martial precursor to stress inoculation ladders, and external outcome focus (*focus/kibaek*) projecting force through the target boundary.
 - **Gable, Dan (1999)**: *Coaching Wrestling Successfully*. Human Kinetics; and **USA Wrestling (2012)**: *Core Curriculum: Folkstyle and Freestyle Mechanics*.
   - *Context & Impact*: Codifies the foundational engineering of athletic base, cervical alignment (head position), underhook pummeling, and dynamic sprawl defense in Chapter 14.
 
