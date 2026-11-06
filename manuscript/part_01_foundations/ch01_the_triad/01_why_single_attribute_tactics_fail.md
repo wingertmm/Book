@@ -59,16 +59,18 @@ Timing is fundamentally not speed. Raw speed is an athletic attribute that degra
 
 Consider the mechanical execution of a foot sweep (*deashi harai*). A foot sweep is never forced through muscular speed or brute strength; attempting to sweep an opponent whose foot is firmly planted into the canvas will fail. The sweep succeeds only when the opponent's advancing foot is light on the ground and unweighted—catching the foot while it is floating in mid-air during a step transition.
 
-Transitions are the most vulnerable time in combat. In transit, an adversary cannot brace their frame, plant a base, change attacks, or reverse momentum when they have already committed. That vulnerability creates your highest-percentage tactical opportunity for defense and attack: catch an opponent in the transition seam, and negligible force produces a catastrophic advantage.
+Transitions are the most vulnerable moment in combat. In transit, an adversary cannot brace their frame, plant a base, or reverse committed momentum. Catching an opponent in the transition seam allows negligible force to produce a catastrophic advantage.
 
-Yet timing without posture produces superficial or self-destructive contact. When you reach or lunge to beat an opponent to the mark, you tilt your head outside your base of support, breaking spinal alignment. Intercepting an incoming strike with broken posture damages the defender more than the assailant: striking without your head centered over your hips means kinetic energy cannot transmit from the ground, causing your own joints to buckle under the collision. Timing synchronizes with opportunity, but posture delivers the decisive effect.
+Yet timing without posture produces self-destructive contact. Lunging to beat an opponent tilts the head outside the base of support, breaking spinal alignment. Striking without the head centered over the hips prevents ground reaction force from transmitting, buckling your own joints under the collision. Timing synchronizes with opportunity, but posture delivers the decisive effect.
 
 > [!IMPORTANT]
 > **The Law of Mutual Dependency**:  
-> Power applied without timing is wasted momentum.  
-> Distance maintained without timing is temporary delay.  
-> Timing achieved without posture is superficial contact.  
-> When the triad is synchronized, the emergent result is total combat efficiency: an efficient fighter wins because they conserve their fuel tank, strike without resistance, and outlast the 20-second metabolic cliff.
+> Combat efficiency ($\eta$) is the ratio of decisive tactical work to metabolic energy expended. In isolation, every attribute wastes energy:  
+> - **Power without timing** is kinetic waste—maximum force expended into braced defenses.  
+> - **Distance without timing** is spatial waste—ground and seconds burned without creating an opening.  
+> - **Timing without posture** is structural waste—the seam is seized, but the frame buckles under collision.  
+> 
+> *True combat efficiency emerges only when the triad converges: distance preserves the decision window, timing bypasses resistance at the unweighted seam, and posture transmits unbroken force at minimal metabolic cost.*
 
 ---
 
