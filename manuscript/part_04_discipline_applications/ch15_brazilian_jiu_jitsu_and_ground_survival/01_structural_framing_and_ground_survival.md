@@ -2,39 +2,43 @@
 
 ## 15.1 Structural Framing, Asymmetric Limb Ratios, and the Zero-Distance Paradox: Surviving the Concrete Bottom
 
-### The Reality of the Asphalt Bottom: The Zero-Distance Paradox and Friction Traps
+### The Reality of the Asphalt Bottom: The Zero-Distance Paradox and Mobility Collapse
 
-When forced to the asphalt bottom, treat the ground as an unyielding anvil; eliminate dead space immediately or construct rigid skeletal frames to survive. In sport **Brazilian Jiu-Jitsu**, athletes roll on foam mats that absorb shock and permit frictionless spinning. On concrete, every strike an attacker drops carries whole-body mass aided by gravitational acceleration ($mg$). The defender's cranium cannot roll or dissipate force; it strikes stone.
+When forced to the asphalt bottom, treat the ground as an unyielding anvil; eliminate dead space immediately or construct rigid skeletal frames to survive. In sport **Brazilian Jiu-Jitsu**, athletes roll on shock-absorbing mats. On concrete, an attacker drops whole-body mass accelerated by gravity ($mg$), driving the cranium into stone without force dissipation.
 
-This geometry exposes the **Zero-Distance Paradox**. When standing, distance provides safety. On the ground, distance works against you. The intermediate gap—six to eighteen inches between your chest and the threat—is a slaughterhouse. In this pocket, the top assailant sits upright on your hips, maintains postural stability, and drives downward punches with maximum velocity. The pinned defender cannot generate reciprocal power because their back is glued to the pavement, eliminating hip torque.
+Grappling theorist John Danaher identifies the primary objective of ground combat as taking the adversary down. Grounding collapses roughly 80% of human mobility and shatters standing kinetic power. In military doctrine, takedowns execute **Principle 3: Maneuver to Advantage** and **Principle 6: Economy of Force**. But when forced onto your back on asphalt, the assailant imposes that catastrophic mobility collapse on your defense, stripping your base and striking torque.
+
+This geometry exposes the **Zero-Distance Paradox**. Standing, distance provides safety. Grounded, distance works against you. The intermediate gap—six to eighteen inches between chests—is a slaughterhouse. In this pocket, the top assailant sits upright, maintains postural stability, and drives downward punches with maximum velocity. The pinned defender cannot generate reciprocal power with their back glued to pavement.
 
 True **Ground Survival** dictates that safety on the bottom exists only at two extreme spatial states:
-1. **Absolute Zero Distance**: Pull the attacker down tightly to your chest, wrapping their head and clamping an overhook around their driving arm. Sternum-to-ribcage contact jams punching levers and extinguishes their striking cadence.
-2. **Framed Structural Distance**: Establish rigid skeletal barriers that prevent the attacker from collapsing your chest or posturing upward into punch range, preserving an exit buffer ($d_{\text{min}}$).
+1. **Absolute Zero Distance**: Pull the attacker down tightly to your chest, clamping an overhook around their driving arm. Sternum-to-ribcage contact jams punching levers and extinguishes striking cadence.
+2. **Framed Structural Distance**: Establish rigid skeletal barriers that prevent the attacker from posturing upward into punch range, preserving an exit buffer ($d_{\text{min}}$).
 
-Remaining in the intermediate zone is fatal. Compounding this danger are asphalt friction traps. Sport grapplers rely on slick mats to invert and slide hips. Concrete aggregate exhibits high friction ($\mu_s \approx 0.85\text{--}1.0$). Rough asphalt bites into clothing, tears bare skin, and locks your hips to the street.
-
----
-
-### Structural Framing: Skeletal Trusses vs. Muscular Exhaustion
-
-Never push a heavy opponent off with your muscles; construct rigid skeletal frames to bear compressive loads along bone axes, preserving energy and vital breathing room. Panic underneath an adversary produces the bench-press reaction: planting palms on the attacker's chest and shoving upward.
-
-Muscular pushing relies on isometric contraction of triceps, pecs, and anterior deltoids. Muscle tissue burns adenosine triphosphate (ATP) and accumulates lactic acid under load. Against a 200-pound attacker driving forward, pushing exhausts glycogen stores within twenty seconds. Arms buckle inward, and the attacker's mass collapses onto your chest, suffocating your breathing.
-
-The combative solution is **Structural Framing**. A frame is an architectural truss, not an active push. Instead of burning muscular fuel, align the dense cortical bones of your skeleton—the radius, ulna, and tibia—as rigid **Skeletal Struts**.
-
-To construct an upper-body frame, fold your lead forearm across the attacker's neck and clavicle, cupping their far shoulder while keeping your elbow pinned to your ribcage. Your second forearm reinforces your wrist or braces across their hip line. The threat's downward weight does not load muscle fibers; it transmits axially through forearm bones into your shoulder girdle, spine, and the ground.
-
-Skeletal frames establish an unyielding minimum distance buffer ($d_{\text{min}}$). This structural buffer preserves three mandatory survival functions: it protects your sternum from crushing to maintain breathing; it wedges a rigid barrier between the assailant's hands and your carotid triangle; and it blocks the threat from dropping their hips forward to generate kinetic ground-and-pound.
+Remaining in the intermediate zone is fatal. Compounding this danger are asphalt friction traps. Sport grapplers rely on slick mats to invert. Concrete aggregate exhibits high friction ($\mu_s \approx 0.85\text{--}1.0$). Rough asphalt bites into clothing, tears skin, and locks hips to the street.
 
 ---
 
-### Asymmetric Limb Ratios: The Multifunctional Control Law on the Ground
+### Structural Framing: Wedges and Levers vs. Muscular Exhaustion
+
+Never push an opponent off with muscle; construct rigid skeletal frames to bear compressive loads along bone axes, preserving energy and breathing room. Under an adversary, panic triggers the bench-press reaction: planting palms on the chest and shoving upward.
+
+Danaher codifies ground mechanics into two physical primitives: **Wedges and Levers**. A **wedge** occupies space adjacent to an opponent to eliminate degrees of freedom; a **lever** magnifies torque ($\tau = F \times r$) around an anatomical hinge. When pinned flat, panic tempts defenders to treat arms as flexible levers, burning ATP against a 200-pound load. Isometric pushing exhausts glycogen within twenty seconds; arms buckle inward and the attacker collapses onto your chest, suffocating respiration.
+
+The combative solution is **Structural Framing**, deploying forearm and shin bones as architectural bone wedges (**Principle 6: Economy of Force** and **Principle 2: Security of Position**). A frame is an architectural truss, not an active push. Align cortical bones—the radius, ulna, and tibia—as rigid **Skeletal Struts**.
+
+To construct an upper-body frame, fold your lead forearm across the attacker's clavicle, cupping their far shoulder while pinning your elbow to your ribcage. Your second forearm braces their hip line. Downward mass transmits axially through forearm bones into the skeleton and ground rather than loading muscle fibers.
+
+Skeletal frames establish an unyielding minimum distance buffer ($d_{\text{min}}$). This structural wedge preserves three mandatory survival functions: it protects your sternum from crushing; it shields your carotid triangle; and it blocks the threat from dropping hips forward into ground strikes.
+
+---
+
+### Asymmetric Limb Ratios: Controlling Levers through Mechanical Concentration
 
 Never fight limb-for-limb from underneath; deploy asymmetric limb ratios to control threat levers with compound mechanical advantage. Parrying punches one-for-one on your back is a losing game; the top fighter possesses gravity, mobility, and clear sightlines. 
 
-Survival requires **Asymmetric Limb Ratios** (TRIZ Principle 6), concentrating multiple limbs onto an isolated enemy lever. The primary ground tool is the 2-on-1 clamp: when the attacker strikes or posts, clamp both hands onto their single arm—inside hand controlling the wrist, outside arm wrapping the triceps to pin their elbow to your chest. Inserting a knee shield converts this into a 3-on-1 trap, immobilizing their primary weapon and disrupting their base.
+Danaher emphasizes that lever control must always precede positional advancement or escape. In combative survival, this law manifests through **Asymmetric Limb Ratios** (TRIZ Principle 6 and **Principle 5: Concentration**). Concentrating multiple limbs onto an isolated enemy lever replaces symmetric muscular struggle.
+
+The primary ground tool is the 2-on-1 clamp: when the attacker strikes or posts, clamp both hands onto their single arm—inside hand controlling the wrist, outside arm wrapping the triceps to pin their elbow to your chest. Inserting a knee shield converts this into a 3-on-1 trap, immobilizing their primary weapon. Controlling the lever arm ($r \approx 0.3\ \text{m}$) with compound grip force deprives them of rotational torque while protecting your centerline.
 
 ---
 
@@ -42,25 +46,24 @@ Survival requires **Asymmetric Limb Ratios** (TRIZ Principle 6), concentrating m
 
 Never push an opponent away; anchor skeletal frames and push your hips away to insert unyielding wedges. Trying to move a 200-pound attacker while pinned flat achieves only exhaustion. You do not push the threat; you move yourself.
 
-Under a skilled opponent's mount or side control, you are stuck: their mass, friction, and base eliminate all voids ($d \to 0$). Attempting to bridge or shrimp against a static pin is futile. Your escape window emerges from **The Attacker's Dilemma**: *an opponent cannot advance position or finish a submission without breaking their own pin*.
-
-To attack, the top player must sacrifice containment. To strike or choke from mount, they must posture up, elevating their center of mass. To hunt an armbar or advance from side control, they must release their crossface, commit limbs, or unweight a hip. The microsecond they transition to attack, they surrender spatial denial, opening a momentary space seam ($\Delta d > 0$).
+Under a skilled opponent's pin, you face complete spatial denial ($d \to 0$). Escapes emerge from **The Attacker's Dilemma**: *an opponent cannot advance position, strike with force, or finish a submission without breaking their own pin*. Total control demands unbroken surface contact. To strike or advance from mount or side control, the attacker must elevate their center of mass or unweight a hip. The microsecond they transition, they surrender spatial denial, opening a momentary seam ($\Delta d > 0$).
 
 #### The Ratchet Principle: Sequential Micro-Movements vs. The Ballistic Trap
-The greatest error in ground defense is attempting one massive, explosive heave to escape. A giant ballistic bridge demands peak anaerobic power ($P = W/\Delta t$), exhausts your phosphagen reserves in seconds, and fails against centered mass. Worse, a large movement requires severe over-extension, allowing a skilled opponent to ride your momentum directly into high mount or a back take.
+The greatest error in ground defense is attempting a giant, explosive heave. A ballistic bridge demands peak anaerobic power ($P = W/\Delta t$), exhausts phosphagen reserves, and allows an opponent to ride your momentum into high mount.
 
 Defense succeeds through **little sequential movements governed by the Ratchet Principle**:
-- **You do not need two feet of space; you need one single inch.**
-- **The One-Inch Rule**: Win one inch of space $\to$ immediately wedge a forearm or elbow into that void $\to$ **the bone frame acts as a mechanical ratchet (the space cannot be reclaimed)**. 
-- From that new structural stop, win the next single inch $\to$ slip the knee wedge in $\to$ lock the next tooth of the ratchet.
-- Little sequential movements require negligible caloric energy, preserve defensive integrity, and fly beneath the adversary's perceptual threshold until their pin has dissolved.
+- **The One-Inch Rule**: Win one inch of space $\to$ immediately insert a forearm or elbow wedge into that void $\to$ **the bone frame acts as a mechanical ratchet (the space cannot be reclaimed)**. 
+- From that structural stop, win the next single inch $\to$ slip the knee wedge in $\to$ lock the next tooth of the ratchet.
+- Sequential micro-movements require negligible caloric energy and fly beneath perceptual thresholds until the pin dissolves.
 
-Exploiting that seam requires a disciplined execution:
-- **Survival Posture Under Static Pressure**: While the pin is locked, do not burn fuel. Keep elbows welded to ribs, hands shielding the neck, and chin tucked.
+Inserting bone wedges at each incremental gain systematically strips the attacker's degrees of freedom while preserving **Principle 2: Security of Position** and seizing **Principle 4: Initiative**.
+
+Exploiting that seam requires disciplined execution:
+- **Survival Posture Under Static Pressure**: While pinned, keep elbows welded to ribs, hands shielding the neck, and chin tucked.
 - **The Ratcheted Hip Escape (Shrimp)**: The instant the attacker reaches or postures, steal space one inch at a time:
-  1. **Lateral Decoupling**: Plant one foot near your glute and rotate onto your lateral hip to slash frictional drag.
+  1. **Lateral Decoupling**: Plant one foot and rotate onto your lateral hip to slash frictional drag.
   2. **Anchoring the Frame**: Wedge forearms against their hip and collarbone as rigid ratchet stops.
-  3. **Pelvic Retraction**: Shoot hips backward one inch into an acute 'C' curve.
+  3. **Pelvic Retraction**: Shoot hips backward into an acute 'C' curve.
   4. **Wedge Insertion**: Drive your bottom knee through the seam, laying your shin diagonally across their sternum as a structural knee shield.
 
 ```text
@@ -106,10 +109,10 @@ That inserted shin is a structural knee-shield wedge. It functions as an interna
 
 ### Ground Survival Synthesis: The Master Equation and the Path to Egress
 
-Survive the bottom, set your frames, and treat all ground time as borrowed. Section 15.1 anchors ground survival directly into the **Master Equation** ($P = \frac{W}{\Delta t}$):
+Survive the bottom, set your frames, and treat all ground time as borrowed. Section 15.1 anchors ground survival directly into the **Master Equation** ($P = \frac{W}{\Delta t}$) and the 11 Unified Principles:
 
-- **Distance**: On concrete, distance is binary. Clamp tight at zero distance to jam punches, or erect skeletal frames maintaining a rigid minimum buffer ($d_{\text{min}}$).
-- **Time**: Time on asphalt is an accelerating hazard. The ratchet principle compresses transition latency, converting stolen inches into immediate escape angles.
-- **Power**: Power from the bottom is structural alignment, not muscular struggle. Skeletal struts bear load and asymmetric limb ratios control threat levers through mechanical advantage.
+- **Distance**: On concrete, distance is binary: clamp tight at zero distance or erect skeletal frames maintaining a rigid buffer ($d_{\text{min}}$). This geometric control enforces **Principle 2: Security of Position** and **Principle 3: Maneuver to Advantage**.
+- **Time**: Time on asphalt is an accelerating hazard. The ratchet principle compresses transition latency, converting stolen inches into immediate escape angles. Securing sequential skeletal wedges seizes **Principle 4: Initiative** while exhausting the adversary.
+- **Power**: Power from the bottom is structural alignment, not muscular struggle. Skeletal struts bear load axially and asymmetric limb ratios control threat levers through compound mechanical advantage, operationalizing **Principle 5: Concentration** and **Principle 6: Economy of Force**.
 
-Framing and ratcheting solve the initial crisis of bottom survival. But stabilizing is only an operational pause. In Section 15.2, we deconstruct sport grappling traps on asphalt, apply vascular strangleholds when egress is blocked, and execute the Technical Stand-Up to regain our feet.
+Framing and ratcheting solve the initial crisis of bottom survival. But stabilizing is only an operational pause. In Section 15.2, we deconstruct sport grappling traps on asphalt, examine Danaher's four-step progression against street survival reality, apply vascular strangles when egress is blocked, and execute the Technical Stand-Up to regain our feet.
