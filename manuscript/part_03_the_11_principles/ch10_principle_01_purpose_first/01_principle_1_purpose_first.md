@@ -126,4 +126,4 @@ Purpose First tells you where to steer the fight; it serves as the directional v
 
 $$\text{Distance} \longrightarrow \text{Time} \longrightarrow \text{Power}$$
 
-Yet a clear purpose cannot succeed if your physical structure collapses under impact. A strategic compass is useless if the ship's keel breaks on the first wave. To execute your objective on concrete, you must anchor your physical platform: **8.2 Principle 2: Security of Position: Defending the Anchor Under Pressure**.
+Yet a clear purpose cannot succeed if your physical structure collapses under impact. A strategic compass is useless if the ship's keel breaks on the first wave. To execute your objective on concrete, you must anchor your physical platform: **Chapter 11: Principle 2 — Security of Position: Defending the Anchor Under Pressure**.

@@ -128,4 +128,4 @@ $$\text{Distance} \longrightarrow \text{Time} \longrightarrow \text{Power}$$
 
 The unified principles are complete. But principles without physical application remain abstractions. How do these eleven principles manifest when tested against real martial disciplines across the Four Ranges? How do they function inside the kicking range of Taekwondo, the clinch of Muay Thai, the scrambles of Wrestling, or ground survival in Brazilian Jiu-Jitsu?
 
-To test physics and strategy against reality, we transition from principle to application: **Part IV: Discipline Applications Across the Ranges (Chapters 12–16)**.
+To test physics and strategy against reality, we transition from principle to application: **Part IV: Discipline Applications Across the Ranges (Chapters 21–25)**.
