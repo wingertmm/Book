@@ -587,6 +587,97 @@ def render_code_diagram(doc, code_lines):
         run.font.size = Pt(8.5)
         run.font.color.rgb = COLOR_DARK_SLATE
 
+def clean_latex_math(text):
+    t = text.strip('$').strip()
+    # Replace \mathbf{...}, \text{...}, \mathit{...}
+    t = re.sub(r'\\(mathbf|text|mathit|mathrm)\{([^}]+)\}', r'\2', t)
+    # Replace arrows
+    t = re.sub(r'\\(longrightarrow|rightarrow|to)\b', ' ➔ ', t)
+    # Replace \frac{A}{B} with (A / B)
+    t = re.sub(r'\\frac\{([^}]+)\}\{([^}]+)\}', r'(\1 / \2)', t)
+    # Replace \vec{F} with F
+    t = re.sub(r'\\vec\{([^}]+)\}', r'\1', t)
+    # Replace \cdot with ·
+    t = re.sub(r'\\cdot\b', '·', t)
+    # Greek letters
+    t = t.replace(r'\Delta', 'Δ').replace(r'\eta', 'η').replace(r'\tau', 'τ')
+    t = t.replace(r'\alpha', 'α').replace(r'\beta', 'β').replace(r'\sigma', 'σ')
+    # Math symbols
+    t = t.replace(r'\approx', '≈').replace(r'\times', '×')
+    t = t.replace(r'\le', '≤').replace(r'\ge', '≥')
+    # Remove stray backslashes before words
+    t = re.sub(r'\\([a-zA-Z]+)', r'\1', t)
+    # Clean up double spaces
+    t = re.sub(r'\s+', ' ', t).strip()
+    return t
+
+def render_equation_block(doc, raw_text):
+    text = raw_text.strip('$').strip()
+    norm = text.lower()
+    
+    # 1. Check for graphical banner matching
+    if "distance" in norm and "time" in norm and "timing" in norm and "power" in norm:
+        banner = REPO_ROOT / "exports" / "figures" / "banner_master_equation.png"
+        if banner.exists():
+            p_img = doc.add_paragraph()
+            p_img.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p_img.paragraph_format.space_before = Pt(8)
+            p_img.paragraph_format.space_after = Pt(8)
+            r = p_img.add_run()
+            r.add_picture(str(banner), width=Inches(6.2))
+            return True
+            
+    if "distance" in norm and "time" in norm and "power" in norm and "timing" not in norm:
+        banner = REPO_ROOT / "exports" / "figures" / "banner_triad_principles.png"
+        if banner.exists():
+            p_img = doc.add_paragraph()
+            p_img.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p_img.paragraph_format.space_before = Pt(8)
+            p_img.paragraph_format.space_after = Pt(8)
+            r = p_img.add_run()
+            r.add_picture(str(banner), width=Inches(5.6))
+            return True
+
+    if "recognize" in norm and "prioritize" in norm and "choose" in norm:
+        banner = REPO_ROOT / "exports" / "figures" / "banner_4_step_cycle.png"
+        if banner.exists():
+            p_img = doc.add_paragraph()
+            p_img.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p_img.paragraph_format.space_before = Pt(8)
+            p_img.paragraph_format.space_after = Pt(8)
+            r = p_img.add_run()
+            r.add_picture(str(banner), width=Inches(6.2))
+            return True
+
+    # 2. Render as clean, centered formula card
+    clean_eq = clean_latex_math(text)
+    tbl = doc.add_table(rows=1, cols=1)
+    tbl.alignment = WD_TABLE_ALIGNMENT.CENTER
+    cell = tbl.cell(0, 0)
+    set_cell_background(cell, "F8FAFC")
+    set_cell_borders(cell, 
+                     top={"sz": "4", "color": "E2E8F0"},
+                     bottom={"sz": "4", "color": "E2E8F0"},
+                     left={"sz": "18", "color": "2B6CB0"},
+                     right={"sz": "4", "color": "E2E8F0"})
+    set_cell_margins(cell, top=70, bottom=70, left=140, right=140)
+    
+    cp = cell.paragraphs[0]
+    cp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    cp.paragraph_format.space_before = Pt(2)
+    cp.paragraph_format.space_after = Pt(2)
+    
+    run = cp.add_run(clean_eq)
+    run.font.name = 'Georgia'
+    run.font.size = Pt(11.5)
+    run.font.italic = True
+    run.font.color.rgb = COLOR_PRIMARY_NAVY
+    
+    sp = doc.add_paragraph()
+    sp.paragraph_format.space_before = Pt(0)
+    sp.paragraph_format.space_after = Pt(4)
+    return True
+
 def parse_markdown_to_docx(doc, md_text, is_first_section=True):
     lines = md_text.splitlines(keepends=True)
     
@@ -602,6 +693,11 @@ def parse_markdown_to_docx(doc, md_text, is_first_section=True):
     
     for l in lines:
         stripped = l.strip()
+        
+        # Display Math / Equation handling
+        if stripped.startswith("$$") and stripped.endswith("$$") and len(stripped) >= 4:
+            render_equation_block(doc, stripped)
+            continue
         
         # Fenced code block handling
         if stripped.startswith("```"):

@@ -277,8 +277,8 @@ Distance is not passive avoidance; distance is active control. In a fight, you c
 
 The counter-fighter holds the edge of the threat radius, drawing the attacker into over-extension. The moment the attacker commits, the counter-fighter closes the gap to punish the opening. Backpedaling linearly compromises your base, narrows vision, and ends when your back hits a wall or curb.
 
-#### 3. Timing Without Structure: The Speed Trap
-The third failure mode confuses timing with raw speed and reflexive twitch reaction. The defender attempts to be faster than the attacker, trying to "beat them to the punch" without securing a stable base or structural alignment.
+#### 3. Timing Without Posture: The Speed Trap
+The third failure mode confuses timing with raw speed and reflexive twitch reaction. The defender attempts to be faster than the attacker, trying to "beat them to the punch" by lunging forward without securing an upright, aligned posture.
 
 Timing is fundamentally not speed. Raw speed is an athletic attribute that degrades with age, fatigue, and injury; timing is the synchronization of opportunity with physical movement. **Timing is the opportunity to make a move.** Timing is the weaponization of surprise—recognizing an opponent’s kinetic pattern, identifying their rhythmic commitment, and interrupting their cadence at the exact moment of maximum vulnerability.
 
@@ -286,13 +286,13 @@ Consider the mechanical execution of a foot sweep (*deashi harai*). A foot sweep
 
 Transitions are the most vulnerable time in combat. In transit, an adversary cannot brace their frame, plant a base, change attacks, or reverse momentum when they have already committed. That vulnerability creates your highest-percentage tactical opportunity for defense and attack: catch an opponent in the transition seam, and negligible force produces a catastrophic advantage.
 
-Timing without power and mechanical structure produces ineffective contact. Intercepting an incoming strike with a fast, off-balance flick often damages the defender more than the assailant. Striking without a solid base and body alignment injures you as much as your opponent. Timing synchronizes with opportunity, but body alignment delivers the decisive effect.
+Yet timing without posture produces superficial or self-destructive contact. When you reach or lunge to beat an opponent to the mark, you tilt your head outside your base of support, breaking spinal alignment. Intercepting an incoming strike with broken posture damages the defender more than the assailant: striking without your head centered over your hips means kinetic energy cannot transmit from the ground, causing your own joints to buckle under the collision. Timing synchronizes with opportunity, but posture delivers the decisive effect.
 
 > [!IMPORTANT]
 > **The Law of Mutual Dependency**:  
 > Power applied without timing is wasted momentum.  
 > Distance maintained without timing is temporary delay.  
-> Timing achieved without structural power is superficial contact.  
+> Timing achieved without posture is superficial contact.  
 > When the triad is synchronized, the emergent result is total combat efficiency: an efficient fighter wins because they conserve their fuel tank, strike without resistance, and outlast the 20-second metabolic cliff.
 
 ---
@@ -308,9 +308,9 @@ This sequence is the Master Equation of personal combat.
 #### Distance Buys Time
 Distance is space, and space dictates reaction intervals ($t = d/v$).
 
-When an attacker stands two inches from your chest, the time required for their hand to reach your jaw is fractions of a second—well below neuromuscular reaction thresholds. You cannot observe, decide, and block before the blow lands.
+When an attacker stands inches from your chest, strike transit takes fractions of a second—well below reaction thresholds. You cannot observe, decide, and block before impact lands.
 
-When you maintain an extra three feet of distance, you force the attacker to physically step forward to close the gap. That additional step consumes three to four hundred milliseconds—the difference between unconscious panic and deliberate execution. By managing space, you purchase the cognitive and physical time needed to observe intent, orient your balance, and initiate a response.
+Maintaining three feet of distance forces the attacker to step forward to close the gap. That transit consumes three to four hundred milliseconds—the difference between panic and deliberate execution. Managing space purchases the cognitive and physical time needed to read intent, orient balance, and initiate response.
 
 *(Chapter 2 maps space across the four combat ranges; Chapter 3 details the millisecond windows for intercepting commitments.)*
 

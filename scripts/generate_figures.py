@@ -665,6 +665,323 @@ def get_figure_12_1_html():
 </html>
 """
 
+def get_banner_master_equation_html():
+    """Banner: Distance -> Time -> Timing -> Power."""
+    return """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800&family=JetBrains+Mono:wght@700&display=swap');
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    width: 1050px;
+    height: 160px;
+    background: transparent;
+    font-family: 'Inter', -apple-system, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .card {
+    width: 1020px;
+    height: 140px;
+    background: #FFFFFF;
+    border: 1.5px solid #CBD5E1;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 24px;
+    position: relative;
+    border-left: 6px solid #2B6CB0;
+  }
+  .node {
+    flex: 1;
+    height: 86px;
+    background: #F8FAFC;
+    border: 1px solid #E2E8F0;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    text-align: center;
+  }
+  .node.final {
+    background: #FFF5F5;
+    border-color: #FEB2B2;
+  }
+  .node-title {
+    font-size: 15px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    color: #1A365D;
+    margin-bottom: 4px;
+  }
+  .node.final .node-title { color: #9B2C2C; }
+  .node-sub {
+    font-size: 11px;
+    font-weight: 600;
+    color: #64748B;
+  }
+  .node.final .node-sub { color: #C53030; }
+  .arrow {
+    width: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .arrow svg { width: 24px; height: 24px; }
+  .pipeline-tag {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    background: #1A365D;
+    color: #FFFFFF;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 2px 10px;
+    border-radius: 4px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="pipeline-tag">Operational Master Equation</div>
+  <div class="node">
+    <div class="node-title">DISTANCE</div>
+    <div class="node-sub">Enforces Reactionary Gap</div>
+  </div>
+  <div class="arrow">
+    <svg viewBox="0 0 24 24" fill="none"><path d="M5 12H19M19 12L13 6M19 12L13 18" stroke="#3182CE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+  <div class="node">
+    <div class="node-title">TIME</div>
+    <div class="node-sub">Expands Decision Window</div>
+  </div>
+  <div class="arrow">
+    <svg viewBox="0 0 24 24" fill="none"><path d="M5 12H19M19 12L13 6M19 12L13 18" stroke="#3182CE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+  <div class="node">
+    <div class="node-title">TIMING</div>
+    <div class="node-sub">Seizes Vulnerable Seam</div>
+  </div>
+  <div class="arrow">
+    <svg viewBox="0 0 24 24" fill="none"><path d="M5 12H19M19 12L13 6M19 12L13 18" stroke="#C53030" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+  <div class="node final">
+    <div class="node-title">POWER</div>
+    <div class="node-sub">Delivers Kinetic Work</div>
+  </div>
+</div>
+</body>
+</html>
+"""
+
+def get_banner_triad_principles_html():
+    """Banner: Distance -> Time -> Power."""
+    return """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800&family=JetBrains+Mono:wght@700&display=swap');
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    width: 900px;
+    height: 150px;
+    background: transparent;
+    font-family: 'Inter', -apple-system, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .card {
+    width: 860px;
+    height: 125px;
+    background: #FFFFFF;
+    border: 1.5px solid #CBD5E1;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 28px;
+    position: relative;
+    border-left: 6px solid #2B6CB0;
+  }
+  .node {
+    flex: 1;
+    height: 76px;
+    background: #F8FAFC;
+    border: 1px solid #E2E8F0;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 6px;
+    text-align: center;
+  }
+  .node.final { background: #FFF5F5; border-color: #FEB2B2; }
+  .node-title { font-size: 15px; font-weight: 800; letter-spacing: 0.5px; color: #1A365D; margin-bottom: 2px; }
+  .node.final .node-title { color: #9B2C2C; }
+  .node-sub { font-size: 11px; font-weight: 600; color: #64748B; }
+  .node.final .node-sub { color: #C53030; }
+  .arrow { width: 44px; display: flex; align-items: center; justify-content: center; }
+  .arrow svg { width: 26px; height: 26px; }
+  .pipeline-tag {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    background: #1A365D;
+    color: #FFFFFF;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 2px 10px;
+    border-radius: 4px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="pipeline-tag">Strategic Invariant Cascade</div>
+  <div class="node">
+    <div class="node-title">DISTANCE</div>
+    <div class="node-sub">Spatial Defense &amp; Standoff</div>
+  </div>
+  <div class="arrow">
+    <svg viewBox="0 0 24 24" fill="none"><path d="M5 12H19M19 12L13 6M19 12L13 18" stroke="#3182CE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+  <div class="node">
+    <div class="node-title">TIME</div>
+    <div class="node-sub">Temporal Decision Window</div>
+  </div>
+  <div class="arrow">
+    <svg viewBox="0 0 24 24" fill="none"><path d="M5 12H19M19 12L13 6M19 12L13 18" stroke="#C53030" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+  <div class="node final">
+    <div class="node-title">POWER</div>
+    <div class="node-sub">Concentrated Kinetic Impact</div>
+  </div>
+</div>
+</body>
+</html>
+"""
+
+def get_banner_4_step_cycle_html():
+    """Banner: Recognize -> Prioritize -> Choose -> Act & Reassess."""
+    return """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800&family=JetBrains+Mono:wght@700&display=swap');
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    width: 1050px;
+    height: 160px;
+    background: transparent;
+    font-family: 'Inter', -apple-system, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .card {
+    width: 1020px;
+    height: 140px;
+    background: #FFFFFF;
+    border: 1.5px solid #CBD5E1;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    position: relative;
+    border-left: 6px solid #2B6CB0;
+  }
+  .node {
+    flex: 1;
+    height: 86px;
+    background: #F8FAFC;
+    border: 1px solid #E2E8F0;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 6px;
+    text-align: center;
+  }
+  .node.final { background: #F0FFF4; border-color: #9AE6B4; }
+  .node-title { font-size: 14px; font-weight: 800; letter-spacing: 0.5px; color: #1A365D; margin-bottom: 4px; }
+  .node.final .node-title { color: #22543D; }
+  .node-sub { font-size: 10.5px; font-weight: 600; color: #64748B; }
+  .node.final .node-sub { color: #2F855A; }
+  .arrow { width: 34px; display: flex; align-items: center; justify-content: center; }
+  .arrow svg { width: 22px; height: 22px; }
+  .pipeline-tag {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    background: #1A365D;
+    color: #FFFFFF;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 2px 10px;
+    border-radius: 4px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="pipeline-tag">The Tactical Decision Engine (Chapter 17)</div>
+  <div class="node">
+    <div class="node-title">1. RECOGNIZE</div>
+    <div class="node-sub">Sensory Threat Cues</div>
+  </div>
+  <div class="arrow">
+    <svg viewBox="0 0 24 24" fill="none"><path d="M5 12H19M19 12L13 6M19 12L13 18" stroke="#3182CE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+  <div class="node">
+    <div class="node-title">2. PRIORITIZE</div>
+    <div class="node-sub">Filter Lethal Vectors</div>
+  </div>
+  <div class="arrow">
+    <svg viewBox="0 0 24 24" fill="none"><path d="M5 12H19M19 12L13 6M19 12L13 18" stroke="#3182CE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+  <div class="node">
+    <div class="node-title">3. CHOOSE</div>
+    <div class="node-sub">Binary Engram Selection</div>
+  </div>
+  <div class="arrow">
+    <svg viewBox="0 0 24 24" fill="none"><path d="M5 12H19M19 12L13 6M19 12L13 18" stroke="#38A169" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+  <div class="node final">
+    <div class="node-title">4. ACT &amp; REASSESS</div>
+    <div class="node-sub">Execute &amp; Close Loop</div>
+  </div>
+</div>
+</body>
+</html>
+"""
+
 # ---------------------------------------------------------------------------
 # Generator Runner
 # ---------------------------------------------------------------------------
@@ -692,6 +1009,30 @@ FIGURES_TO_RENDER = [
         "html_fn": get_figure_12_1_html,
         "width": 1200,
         "height": 750,
+        "scale": 2,
+    },
+    {
+        "id": "banner_master_equation",
+        "title": "Banner: Operational Master Equation (Distance -> Time -> Timing -> Power)",
+        "html_fn": get_banner_master_equation_html,
+        "width": 1050,
+        "height": 160,
+        "scale": 2,
+    },
+    {
+        "id": "banner_triad_principles",
+        "title": "Banner: Strategic Invariant Cascade (Distance -> Time -> Power)",
+        "html_fn": get_banner_triad_principles_html,
+        "width": 900,
+        "height": 150,
+        "scale": 2,
+    },
+    {
+        "id": "banner_4_step_cycle",
+        "title": "Banner: The 4-Step Cycle (Recognize -> Prioritize -> Choose -> Act)",
+        "html_fn": get_banner_4_step_cycle_html,
+        "width": 1050,
+        "height": 160,
         "scale": 2,
     }
 ]
