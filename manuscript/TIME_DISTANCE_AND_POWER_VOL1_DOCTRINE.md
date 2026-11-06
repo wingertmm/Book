@@ -452,18 +452,36 @@ $$\eta_{\text{combat}} = \frac{W_{\text{effective}}}{E_{\text{expended}}} \longr
 
 In mechanical physics, efficiency ($\eta$) measures the ratio of decisive work achieved ($W_{\text{effective}}$: collapsing an adversary's posture, neutralizing incoming force, or opening an escape corridor) relative to the biological energy expended ($E_{\text{expended}}$). An inefficient fighter fights both the adversary and their own anatomy, bleeding finite resources with every passing second.
 
-##### The 20-Second Metabolic Cliff
-Under acute sympathetic nervous system activation—when heart rates surge beyond 175 beats per minute under predatory threat—the human body operates as a strictly bounded metabolic engine. At this intensity, the musculoskeletal system relies almost exclusively on two finite anaerobic reservoirs:
+##### The Capillary Occlusion Threshold and the Metabolic Cliff
+Under acute sympathetic nervous system activation—when heart rates surge beyond 175 beats per minute under predatory threat—the human body operates as a strictly bounded metabolic engine. At this intensity, the musculoskeletal system relies on two finite anaerobic energy pathways:
 1. **The Phosphagen Reservoir (ATP-CP)**: Supplies immediate explosive contractions, exhausting its chemical fuel within 5 to 10 seconds.
-2. **Fast Anaerobic Glycolysis**: Generates rapid cellular energy without oxygen, lasting roughly 20 to 30 seconds before cellular acidosis causes metabolic failure.
+2. **Fast Anaerobic Glycolysis**: Generates rapid cellular energy without oxygen, lasting roughly 20 to 30 seconds in untrained combatants before cellular acidosis causes metabolic failure.
 
-Untrained combatants who thrash in panic, lock into isometric death-grips, and heave full-body haymakers into empty space hit the **20-Second Metabolic Cliff**. At that physiological wall, lactic acid saturates the muscle fibers:
+Why does an untrained combatant gas out so rapidly? The primary culprit is the **Capillary Occlusion Threshold**.
+
+When skeletal muscle contracts at greater than **20 to 30 percent of Maximum Voluntary Contraction (MVC)**, the swelling muscle bellies physically compress intramuscular arterioles and capillaries. Blood flow stops completely (acute local ischemia). Untrained fighters fight with frantic, 100 percent isometric death-grips, pushing and flexing with their arms, shoulders, and chest. Because their capillaries are pinched shut, oxygen cannot reach the muscle fibers, and metabolic waste (hydrogen ions, inorganic phosphate) cannot escape. They suffocate their own muscles from within.
+
+Within twenty to thirty seconds, they hit the **Metabolic Cliff**:
 - Forearm grip strength collapses by over 60 percent.
 - Striking acceleration drops by half as opposing muscle groups lock in fatigue.
 - Neuromotor reaction latency doubles under cognitive and metabolic exhaustion.
-- Postural stability disintegrates, making balance disruption almost effortless for an alert opponent.
+- Postural stability disintegrates, making balance disruption effortless for an alert opponent.
 
-Combat exhaustion is rarely a failure of cardiovascular conditioning; it is the physical penalty of biomechanical inefficiency. When a fighter misses a full-power strike, antagonistic muscles must expend equal energy braking the limb in mid-air. When they tense every muscle in terror, they burn fuel fighting their own skeletal structure. Within twenty seconds, the inefficient combatant is physically spent, defenseless against counter-attack.
+Athletic conditioning, high lactate buffering, and mitochondrial density can push this physiological boundary out to forty-five or sixty seconds—but no human engine can outrun the laws of cellular respiration under continuous isometric strain. Combat exhaustion is rarely a failure of cardiovascular endurance; it is the physical penalty of biomechanical inefficiency.
+
+##### The Two-Gear Bioenergetic Engine: Skeletal Cruise and Alactic Bursts
+This physiological reality explains an apparent paradox: how can an experienced combatant—such as a skilled Brazilian Jiu-Jitsu practitioner or wrestler—spar under constant pressure for ten or fifteen consecutive minutes without exhaustion, while a muscular brawler collapses in thirty seconds?
+
+The skilled practitioner survives and dominates because they operate across a disciplined **two-gear bioenergetic engine**:
+
+1. **The Skeletal Cruise (85 to 90 Percent of the Engagement)**:
+   Instead of pushing with active muscle, the defender constructs skeletal frames—deploying the radius, ulna, tibia, and collarbone under axial compressive loads. Because bone carries weight for free, the supporting musculature contracts at only **5 to 15 percent of MVC**—well below the capillary occlusion threshold. Capillary beds remain open, arterial blood circulates freely, and the aerobic oxidative system powers the structure without generating lactic debt. The practitioner breathes steadily, letting the adversary exhaust themselves carrying weight and pushing against bone.
+2. **The Alactic Burst (3 to 5 Seconds)**:
+   The defender saves dynamic muscular power strictly for short, surgical explosive efforts—a sudden hip sweep, an off-axis angle step, a guard pass, or a rapid level change. Because these dynamic efforts last only three to five seconds, they draw purely on the **ATP-CP (phosphagen) reservoir**, bypassing anaerobic glycolysis and avoiding the buildup of lactic acid.
+3. **The Immediate Skeletal Recharge**:
+   The millisecond the dynamic transition finishes, the defender does not continue thrashing; they immediately lock into their new skeletal frame or anchored base. Returning to the low-intensity Skeletal Cruise permits oxidative phosphorylation to restore depleted phosphagen stores within fifteen to thirty seconds. 
+
+By cycling between the Skeletal Cruise and short Alactic Bursts, an efficient combatant can sustain technical dominance indefinitely.
 
 ##### How the Triad Manufactures Maximum Efficiency
 The trained fighter outlasts and overcomes the adversary because the Master Equation systematically eliminates wasted energy across three physical dimensions:
@@ -480,13 +498,15 @@ Centuries of combat science converge on this exact law:
 - **Naval Special Warfare (NSW)** distilled the principle into operational cadence: *"Slow is smooth, smooth is fast."* Eliminating erratic neuromotor noise produces the most economical and devastating physical output.
 
 ##### Tactical Efficiency vs. Passivity: The Violence of Action Mandate
-A vital operational boundary separates tactical efficiency from passive hesitation. In civilian self-defense on concrete, efficiency is never measured by tentative sparring or prolonged exchanges. Every additional second spent in contact multiplies exposure to secondary attackers, concealed blades, and environmental hazards.
+A vital operational boundary separates tactical efficiency from passive hesitation. On the training mat, an efficient practitioner can afford to cycle frames for ten minutes to secure a submission. In civilian self-defense on concrete, that luxury vanishes. Every additional second spent in contact multiplies exposure to secondary attackers, concealed blades, and environmental hazards.
 
 True combat efficiency minimizes **Total Mission Cost**:
 
 $$\text{Cost}_{\text{mission}} = \text{Metabolic Work} + \text{Exposure Time} + \text{Asymmetric Risk}$$
 
-Under this calculus, an explosive, two-second application of **Violence of Action (VoA)**—driving a rigid forearm wedge directly into the threat's centerline, collapsing their posture, and sprinting through an illuminated exit—is exponentially more efficient than a sixty-second technical exchange. The efficient fighter expends whatever burst energy is required to resolve the threat in minimum time, preserving life, legal safety, and the physical capacity to escape.
+Under this calculus, framing is not an end state; it is an operational shock absorber that survives the opening assault without incurring metabolic debt. Once the threat's momentum is checked, the defender unleashes a single, two-second explosion of **Violence of Action (VoA)**—driving a rigid forearm wedge directly into the threat's centerline, collapsing their posture, and sprinting through an illuminated exit. 
+
+**Conditioning buys seconds; efficiency buys minutes; purpose takes the exit.** The efficient fighter expends whatever burst energy is required to resolve the threat in minimum time, preserving life, legal safety, and the physical capacity to escape.
 
 ---
 
