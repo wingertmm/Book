@@ -107,4 +107,6 @@ With the Grand Predecessor Matrix established, the intellectual journey of Part 
 
 We have explored the classical wisdom of Sun Tzu, the supersonic airpower equations of John Boyd, the crushing mobility of mechanized armored warfare, the brutal close-quarters survivability of Army Rangers, Navy SEALs, and SOCP, and the analytical grappling geometry of John Danaher.
 
+This convergence explains why the doctrine applies far beyond the boundaries of martial arts. As illustrated in the Foreword, personal combat shares its mathematical bones with classical operational systems like chess: space control dictates tempo, tempo creates concentrated influence, and mutual framing prevents catastrophic positional collapse. Whether on sixty-four wooden squares, in aerial dogfights, or on asphalt, the operational sequence never varies.
+
 We now leave theory behind. In **Part III: The 11 Unified Principles of Combat**, we examine each of these 11 invariant laws in forensic detail, providing the exact biomechanical models, kinematic derivations, and tactical executions that allow a trained defender to master time, distance, and power on concrete.

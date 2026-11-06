@@ -65,6 +65,49 @@ The post-incident protocols outlined in Section 21.2 (including the 24-Hour Rule
 
 ---
 
+# FOREWORD
+## The Game of Kings at the Kitchen Table
+
+Last winter, my eleven-year-old son and I sat across from each other at the kitchen table with an old wooden chessboard between us. I had not played seriously in years, but on that quiet Sunday afternoon, we set the pieces and began.
+
+He opened with a disciplined pawn push toward the center. I mirrored him. After a few opening moves, I swung my knight to an outpost on the fourth rank. 
+
+He stopped with his hand poised over his bishop, tilted his head, and studied the board. Then he looked up at me.
+
+“Why did you move that knight there?”
+
+I almost gave him the standard tactical textbook answer about controlling outposts. Instead, I heard myself speak the exact doctrine I had spent months writing for this book.
+
+“Because it controls the center. The center is distance. If I own that space, I buy time. And time lets me put power where it matters.”
+
+He frowned, his fingers tapping the table. “Power? It’s just a game. Pieces don’t have power.”
+
+I pointed at the board. “Every piece has a defined maneuver envelope and a fixed range. A knight leaps in an $L$; a bishop commands the open diagonal; a rook controls the infinite file. In this game, power is not abstract. Power is calculated board influence—how many squares you dominate, how many lines you deny, and whether you can bring more than one piece to bear on the exact same square. Look at that square in front of your king. My knight hits it. My bishop hits it. Your pawn cannot defend both. That is concentration of mass.”
+
+He looked closely at the geometry of the pieces, then pushed a pawn forward to blunt my bishop’s diagonal. It was a subtle move. It was also completely correct.
+
+A few moves later, I swung a heavy rook onto an open file. That single rook performed two duties at once: it staked an offensive corridor into his back ranks, and it locked down the lateral square my knight needed for retreat. One piece, multiple purposes. When he attempted to drive my knight away, my structure held because the pieces framed one another. An attack on the knight was simultaneously an attack on the rook defending it.
+
+Later in the match, he returned the lesson with brutal clarity. He slipped his knight past my guard and placed it on a square that attacked my rook and threatened my queen simultaneously. A fork. I could save the queen, or I could save the rook, but I could not save both. He had forced an Attacker’s Dilemma. The outcome was no longer a matter of opinion or effort; it was an operational calculation he had already solved.
+
+I realized I had done the same thing two turns earlier without consciously naming it. I had slid my dark-squared bishop into position long before the center opened. At the time, it attacked nothing. But when the pawns finally broke, the bishop was already aligned on the kill vector. I had prepositioned the piece in time. When the moment of contact arrived, the timing had already been paid for.
+
+We played for another hour until the board was quiet and the tea had gone cold. Neither of us won; the game dissolved into a draw of bare kings. But throughout that match, every time one of us gained a tempo, the other felt the operational pressure. Every time a piece stood unanchored without mutual support, the vulnerability became fatal. 
+
+The exact same constraints that govern survival on wet pavement governed those sixty-four wooden squares: **Distance created time. Time directed power.** The player who understood structural position before acting dictated the tempo of the engagement.
+
+Chess has survived for centuries and was cultivated as the Game of Kings for a reason. It is not entertainment. It is compressed operational theory. Rulers and commanders studied it because it trained the mind to evaluate position, calculate range, manage tempo, mass force at decisive points, and engineer dilemmas an opponent could not escape—all without the bloody, irreversible attrition of a real battlefield.
+
+The doctrine detailed in these pages is not limited to physical violence. It is a universal theory of decision-making under constraint. The medium may change—from knuckles, elbows, and concrete to wooden pieces, aerial dogfights, or corporate maneuvering. 
+
+The pieces change. The physics do not.
+
+That is why this book exists.
+
+**Position first. Time second. Concentrated effect third. Everything else is detail.**
+
+---
+
 # PREFACE
 ## The Genesis of the Martial Engineer
 
@@ -90,7 +133,7 @@ Fighting is fundamentally physics performed with human tissue under mortal terro
 
 ### The Mat Test: Fighter-First, Engineer-Backed
 
-Throughout this volume, you will encounter rigorous engineering concepts: torque vectors ($\tau = r \times F$), work integrals ($W = \int F \, dx$), centripetal acceleration ($a_c = \frac{v^2}{r}$), Euler buckling loads, and Boyd’s Energy-Maneuverability theory. 
+Throughout this work, you will encounter rigorous engineering concepts: torque vectors ($\tau = r \times F$), work integrals ($W = \int F \, dx$), centripetal acceleration ($a_c = \frac{v^2}{r}$), Euler buckling loads, and Boyd’s Energy-Maneuverability theory. 
 
 However, we establish a non-negotiable standard from the first page to the last: **The Mat Test**.
 
@@ -103,15 +146,13 @@ We enforce an **Inverted Delivery Pyramid** in every chapter:
 
 ---
 
-### How to Use This Book
+### The Trilogy Architecture
 
-*Timing, Distance, and Power* is engineered as a unified, cumulative curriculum across six distinct parts:
-- **Part I: The Mechanical Engine (Chapters 1–6)**: Deconstructs single-attribute fallacies, establishes the Master Equation ($P = \frac{W}{\Delta t}$), maps the four combat ranges, and reveals the neurobiology of the dual-brain command center.
-- **Part II: The Strategic Lenses (Chapters 7–9)**: Views physical conflict through the three greatest operational minds: Sun Tzu's deception, John Boyd's aerial dogfighting OODA loops, and ground maneuver warfare.
-- **Part III: The 11 Unified Principles (Chapters 10–11)**: Systematizes combat into eleven non-negotiable operational principles, from Purpose First and Security of Position to Actions on Contact.
-- **Part IV: Discipline Applications Across the Ranges (Chapters 12–16)**: Extracts the purest mechanical primitives from four primary combat disciplines—Taekwondo (Long Range), Muay Thai (Medium Range Clinch), Wrestling (Clinch to Takedown), and Brazilian Jiu-Jitsu (Ground Survival)—and shows you how to chain across them with zero switching latency.
-- **Part V: The Tactical Decision Engine (Chapters 17–18)**: Builds the four-step decision loop (Detect, Frame, Disrupt, Egress) and inoculates your mind against the autonomic sensory cascade of Zone 3 hypofrontality.
-- **Part VI: Training Doctrine & Survival Realities (Chapters 19–21)**: Explains neural myelination, stress inoculation, immediate action drills against knives and firearms, and the constitutional and post-incident legal frameworks that preserve your freedom.
+*Timing, Distance, and Power* is engineered as a three-volume master doctrine:
+
+- **Volume 1: The Combat Doctrine (Foundations, Strategic Lenses, and the 11 Invariant Principles)**: Deconstructs single-attribute fallacies, establishes the Master Equation ($P = \frac{W}{\Delta t}$), maps the four combat ranges, synthesizes five operational traditions (Sun Tzu, Boyd, Armored Warfare, Special Operations Forces, and John Danaher), and derives the 11 Unified Principles across 20 dedicated doctrine chapters.
+- **Volume 2: Discipline Applications (Biomechanical Synthesis Across the Ranges)**: Applies the 11 Principles to four primary disciplines—Taekwondo (Long Range), Muay Thai (Medium Range Clinch), Wrestling (Close Range Tie-ups), and Brazilian Jiu-Jitsu / SOCP (Ground Survival)—and reveals how to transition across ranges with zero switching latency.
+- **Volume 3: The Machine Under Load (Stress Physiology, Neural Conditioning, and Survival Realities)**: Builds the four-step tactical decision engine, inoculates the nervous system against the autonomic cascade, hardens immediate action drills against blades and firearms, and establishes the constitutional boundaries that preserve your freedom.
 
 Do not merely read this book. Take it to the gym. Test its levers against resisting training partners. Measure its timing windows with a stopwatch. Verify its stability polygons on the canvas. 
 
@@ -2731,6 +2772,8 @@ ight) \quad 	ext{(Maximize Contact Impulse in Near Ambush)}$$
 With the Grand Predecessor Matrix established, the intellectual journey of Part II reaches its culmination. 
 
 We have explored the classical wisdom of Sun Tzu, the supersonic airpower equations of John Boyd, the crushing mobility of mechanized armored warfare, the brutal close-quarters survivability of Army Rangers, Navy SEALs, and SOCP, and the analytical grappling geometry of John Danaher.
+
+This convergence explains why the doctrine applies far beyond the boundaries of martial arts. As illustrated in the Foreword, personal combat shares its mathematical bones with classical operational systems like chess: space control dictates tempo, tempo creates concentrated influence, and mutual framing prevents catastrophic positional collapse. Whether on sixty-four wooden squares, in aerial dogfights, or on asphalt, the operational sequence never varies.
 
 We now leave theory behind. In **Part III: The 11 Unified Principles of Combat**, we examine each of these 11 invariant laws in forensic detail, providing the exact biomechanical models, kinematic derivations, and tactical executions that allow a trained defender to master time, distance, and power on concrete.
 
