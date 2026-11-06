@@ -308,12 +308,16 @@ Every physical confrontation—from a scholastic wrestling duel to a sudden ambu
 
 Most martial arts systems over-index on a single physical attribute, building entire philosophies around raw force, excessive spatial evasion, or acute reflexes. In isolation, each attribute has value; in combat, treating any one as a standalone solution creates fatal systemic vulnerabilities. What is needed is an integrated doctrine that outlines the strategy of thinking to fight efficiently.
 
-```
-       [ POWER ]
-        /     \
-       /       \
-      /         \
-[ TIMING ] ─── [ DISTANCE ]
+```text
+               ▲
+              / \
+             /   \
+  [ TIMING ]/     \[ DISTANCE ]
+           /   ★   \
+          / [EFFICIENCY]\
+         /               \
+        ───────────────────
+             [ POWER ]
 ```
 
 #### 1. Power Without Timing: The Strength Trap

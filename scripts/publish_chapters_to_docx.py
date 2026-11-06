@@ -515,9 +515,53 @@ def render_table(doc, table_lines):
             else:
                 parse_inlines_to_runs(p, val, default_color=COLOR_DARK_SLATE, font_size=9.5)
 
+def get_matching_figure(code_lines):
+    combined = "".join(code_lines)
+    # Figure 1.1: The Triad & Efficiency
+    if ("EFFICIENCY" in combined and "TIMING" in combined and "POWER" in combined) or ("[ POWER ]" in combined and "[ TIMING ]" in combined):
+        fig_path = REPO_ROOT / "exports" / "figures" / "fig_01_the_triad.png"
+        if fig_path.exists():
+            return fig_path, "Figure 1.1: The Mechanical Triad of Combatives (Timing, Distance, and Power Converging on Peak Efficiency)"
+            
+    # Figure 1.2: The Master Equation
+    if "THE MASTER EQUATION" in combined and ("reactionary gap" in combined.lower() or "stage 01" in combined.lower() or "creates the reactionary" in combined.lower()):
+        fig_path = REPO_ROOT / "exports" / "figures" / "fig_02_master_equation.png"
+        if fig_path.exists():
+            return fig_path, "Figure 1.2: The Master Equation Kinetic Cascade (Sequential Causal Pipeline from Spatial Buffer to Terminal Power)"
+
+    # Figure 12.1: The Range Matrix
+    if "THE RANGE MATRIX" in combined or ("STANDOFF DEFENSE VS. CHAOS ZONE" in combined):
+        fig_path = REPO_ROOT / "exports" / "figures" / "fig_12_01_range_matrix.png"
+        if fig_path.exists():
+            return fig_path, "Figure 12.1: The Range Matrix: Standoff Defense vs. Chaos Zone"
+
+    return None, None
+
 def render_code_diagram(doc, code_lines):
     if not code_lines:
         return
+        
+    fig_path, caption = get_matching_figure(code_lines)
+    if fig_path and fig_path.exists():
+        # Render high-resolution figure with caption
+        p_img = doc.add_paragraph()
+        p_img.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p_img.paragraph_format.space_before = Pt(8)
+        p_img.paragraph_format.space_after = Pt(2)
+        run_img = p_img.add_run()
+        run_img.add_picture(str(fig_path), width=Inches(6.2))
+        
+        p_cap = doc.add_paragraph()
+        p_cap.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p_cap.paragraph_format.space_before = Pt(2)
+        p_cap.paragraph_format.space_after = Pt(12)
+        run_cap = p_cap.add_run(caption)
+        run_cap.font.name = 'Calibri'
+        run_cap.font.size = Pt(9.0)
+        run_cap.font.italic = True
+        run_cap.font.color.rgb = COLOR_DARK_SLATE
+        return
+        
     tbl = doc.add_table(rows=1, cols=1)
     tbl.alignment = WD_TABLE_ALIGNMENT.CENTER
     cell = tbl.cell(0, 0)
