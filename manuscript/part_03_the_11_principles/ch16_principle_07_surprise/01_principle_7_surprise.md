@@ -1,6 +1,6 @@
-# Chapter 10: Principles 7–9: Surprise, Avoidance When Superior, and Persistence to Resolution
+# Chapter 16: Principle 7 — Surprise: Exploiting Rhythm Shifts, Deception, and Sun Tzu's Baiting Doctrine
 
-## 10.1 Principle 7: Surprise / Unpreparedness: Exploiting Rhythm Shifts, Deception, and Sun Tzu's Baiting Doctrine
+## 16.1 Cognitive Shock: The Asymmetry of Broken Cadence
 
 ### The Myth of the Sucker Punch: Why Surprise Is a Calculated Tactical Weapon
 

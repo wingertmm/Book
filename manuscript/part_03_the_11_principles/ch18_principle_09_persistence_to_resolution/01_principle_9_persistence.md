@@ -1,6 +1,6 @@
-# Chapter 10: Principles 7–9: Surprise, Avoidance When Superior, and Persistence to Resolution
+# Chapter 18: Principle 9 — Persistence to Resolution: Weathering Storms, Relentless Pressure, and the Chapter 10 Capstone
 
-## 10.3 Principle 9: Persistence to Resolution: Weathering Storms, Relentless Pressure, and the Chapter 10 Capstone
+## 18.1 Operational Completion: The Unyielding Vector
 
 ### When Avoidance Is Denied: Weathering the Storm Behind Structural Frames
 

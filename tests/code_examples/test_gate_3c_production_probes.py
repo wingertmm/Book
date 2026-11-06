@@ -103,8 +103,8 @@ def test_gate_3c_table_of_contents_matches_all_52_sections():
     for part_num in ["PART I", "PART II", "PART III", "PART IV", "PART V", "PART VI"]:
         assert part_num in toc_text, f"Missing {part_num} in Table of Contents"
 
-    # Check 24 Chapters
-    for i in range(1, 25):
+    # Check 31 Chapters
+    for i in range(1, 32):
         chap_str = f"Chapter {i:02d}:"
         assert chap_str in toc_text, f"Missing {chap_str} in Table of Contents"
 

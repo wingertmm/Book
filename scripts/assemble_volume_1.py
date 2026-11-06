@@ -30,10 +30,17 @@ VOL1_BODY_DIRS = [
     MANUSCRIPT_DIR / "part_02_strategic_lenses" / "ch07b_the_special_operations_lens",
     MANUSCRIPT_DIR / "part_02_strategic_lenses" / "ch07c_the_algorithmic_combatives_lens",
     MANUSCRIPT_DIR / "part_02_strategic_lenses" / "ch07d_the_predecessor_synthesis",
-    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch08_principles_1_to_3",
-    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch09_principles_4_to_6",
-    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch10_principles_7_to_9",
-    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch11_principles_10_to_11",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch10_principle_01_purpose_first",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch11_principle_02_security_of_position",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch12_principle_03_maneuver_to_advantage",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch13_principle_04_initiative",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch14_principle_05_concentration",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch15_principle_06_economy_of_force",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch16_principle_07_surprise",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch17_principle_08_avoidance_when_superior",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch18_principle_09_persistence_to_resolution",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch19_principle_10_actions_on_contact",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch20_principle_11_know_the_situation",
     MANUSCRIPT_DIR / "volume_1_coda",
 ]
 
@@ -84,10 +91,17 @@ def generate_vol1_toc():
 ---
 
 ### PART III: THE 11 UNIFIED PRINCIPLES — Invariant Operational Laws
-- **Chapter 10: Principles 1–3: Purpose, Security, and Maneuver**
-- **Chapter 11: Principles 4–6: Initiative, Concentration, and Economy**
-- **Chapter 12: Principles 7–9: Surprise, Avoidance, and Persistence**
-- **Chapter 13: Principles 10–11: Actions on Contact and Situational Knowledge**
+- **Chapter 10: Principle 1: Purpose First**
+- **Chapter 11: Principle 2: Security of Position**
+- **Chapter 12: Principle 3: Maneuver to Advantage**
+- **Chapter 13: Principle 4: Initiative**
+- **Chapter 14: Principle 5: Concentration**
+- **Chapter 15: Principle 6: Economy of Force**
+- **Chapter 16: Principle 7: Surprise**
+- **Chapter 17: Principle 8: Avoidance When Superior**
+- **Chapter 18: Principle 9: Persistence to Resolution**
+- **Chapter 19: Principle 10: Actions on Contact**
+- **Chapter 20: Principle 11: Know the Situation**
 
 ---
 

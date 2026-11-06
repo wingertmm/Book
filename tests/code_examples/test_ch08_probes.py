@@ -25,7 +25,7 @@ W01_PATH = os.path.join(
     "..",
     "manuscript",
     "part_03_the_11_principles",
-    "ch08_principles_1_to_3",
+    "ch10_principle_01_purpose_first",
     "01_principle_1_purpose_first.md",
 )
 
@@ -91,8 +91,8 @@ W02_PATH = os.path.join(
     "..",
     "manuscript",
     "part_03_the_11_principles",
-    "ch08_principles_1_to_3",
-    "02_principle_2_security_of_position.md",
+    "ch11_principle_02_security_of_position",
+    "01_principle_2_security_of_position.md",
 )
 
 W02_MANDATORY_CONCEPTS = [
@@ -157,8 +157,8 @@ W03_PATH = os.path.join(
     "..",
     "manuscript",
     "part_03_the_11_principles",
-    "ch08_principles_1_to_3",
-    "03_principle_3_maneuver_to_advantage.md",
+    "ch12_principle_03_maneuver_to_advantage",
+    "01_principle_3_maneuver_to_advantage.md",
 )
 
 W03_MANDATORY_CONCEPTS = [

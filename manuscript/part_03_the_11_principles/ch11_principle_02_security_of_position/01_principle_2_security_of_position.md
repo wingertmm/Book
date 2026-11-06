@@ -1,6 +1,6 @@
-# Chapter 08: Principles 1–3: Purpose First, Security of Position, and Maneuver to Advantage
+# Chapter 11: Principle 2 — Security of Position: Defending the Anchor Under Pressure
 
-## 8.2 Principle 2: Security of Position: Defending the Anchor Under Pressure
+## 11.1 Positional Integrity: The Structural Anchor
 
 ### The Anchor: Why Position Precedes All Action
 

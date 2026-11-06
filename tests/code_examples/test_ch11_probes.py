@@ -25,7 +25,7 @@ W01_PATH = os.path.join(
     "..",
     "manuscript",
     "part_03_the_11_principles",
-    "ch11_principles_10_to_11",
+    "ch19_principle_10_actions_on_contact",
     "01_principle_10_actions_on_contact.md",
 )
 
@@ -91,8 +91,8 @@ W02_PATH = os.path.join(
     "..",
     "manuscript",
     "part_03_the_11_principles",
-    "ch11_principles_10_to_11",
-    "02_principle_11_know_the_situation.md",
+    "ch20_principle_11_know_the_situation",
+    "01_principle_11_know_the_situation.md",
 )
 
 W02_MANDATORY_CONCEPTS = [

@@ -1,6 +1,6 @@
-# Chapter 10: Principles 7–9: Surprise, Avoidance When Superior, and Persistence to Resolution
+# Chapter 17: Principle 8 — Avoidance When Superior: The Clean Exit and Strategic Security
 
-## 10.2 Principle 8: Avoidance When Superior: The Clean Exit and Strategic Security
+## 17.1 Strategic Pruning: The Clean Disengagement
 
 ### The Brawler’s Pride Fallacy: Why Walking Away Is the Ultimate Victory
 

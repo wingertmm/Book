@@ -1,6 +1,6 @@
-# Chapter 08: Principles 1–3: Purpose First, Security of Position, and Maneuver to Advantage
+# Chapter 12: Principle 3 — Maneuver to Advantage: Offline Angles and Asymmetric Envelopment
 
-## 8.3 Principle 3: Maneuver to Advantage: Offline Angles and Asymmetric Envelopment
+## 12.1 Angular Dominance: Geometric Flanking on Foot
 
 ### The Linear Trap: Why Centerline Collisions Fail
 

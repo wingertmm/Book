@@ -1,6 +1,6 @@
-# Chapter 11: Dynamic Principles — Actions on Contact and Situational Knowledge
+# Chapter 20: Principle 11 — Know the Situation: Continuous Dynamic Threat Audit and the Part III Grand Capstone
 
-## 11.2 Principle 11: Know the Situation: Continuous Dynamic Threat Audit and the Part III Grand Capstone
+## 20.1 Continuous Situational Awareness: The Multi-Vector Audit
 
 ### The Multi-Vector Threat Matrix: Beyond the One-on-One Illusion
 

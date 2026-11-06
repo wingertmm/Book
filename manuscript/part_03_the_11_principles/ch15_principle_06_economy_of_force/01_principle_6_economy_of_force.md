@@ -1,6 +1,6 @@
-# Chapter 09: Principles 4–6: Initiative, Concentration, and Economy of Force
+# Chapter 15: Principle 6 — Economy of Force: The Asymmetric Limb Ratio and Resource Preservation
 
-## 9.3 Principle 6: Economy of Force: The Asymmetric Limb Ratio and Resource Preservation
+## 15.1 Metabolic Efficiency: Structural Preservation vs. Attrition
 
 ### The Attrition Trap: Muscular Actuation vs. Skeletal Framing
 

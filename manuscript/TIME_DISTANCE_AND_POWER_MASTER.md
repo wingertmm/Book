@@ -175,67 +175,63 @@ When you strip away superstition, combat becomes a problem of engineering. Maste
 ---
 
 ### PART III: THE 11 UNIFIED PRINCIPLES — Invariant Operational Laws
-- **Chapter 10: Principles 1–3: Purpose, Security, and Maneuver**
-  - *10.1 Principle 1: Purpose First (The Strategic Compass and Mission Command on Concrete)*
-  - *10.2 Principle 2: Security of Position (Defending the Anchor Under Pressure)*
-  - *10.3 Principle 3: Maneuver to Advantage (Offline Angles and Asymmetric Envelopment)*
-- **Chapter 11: Principles 4–6: Initiative, Concentration, and Economy**
-  - *11.1 Principle 4: Initiative (Driving the Action and Compressing the Decision Cycle)*
-  - *11.2 Principle 5: Concentration (Massing Force at the Decisive Point)*
-  - *11.3 Principle 6: Economy of Force (The Asymmetric Limb Ratio and Resource Preservation)*
-- **Chapter 12: Principles 7–9: Surprise, Avoidance, and Persistence**
-  - *12.1 Principle 7: Surprise (Exploiting Rhythm Shifts, Deception, and Sun Tzu's Baiting Doctrine)*
-  - *12.2 Principle 8: Avoidance When Superior (The Clean Exit and Strategic Security)*
-  - *12.3 Principle 9: Persistence to Resolution (Relentless Pressure and Operational Completion)*
-- **Chapter 13: Principles 10–11: Actions on Contact and Situational Knowledge**
-  - *13.1 Principle 10: Actions on Contact (Immediate Drilled Response to Ambush)*
-  - *13.2 Principle 11: Know the Situation (Continuous Dynamic Threat Audit)*
+- **Chapter 10: Principle 1: Purpose First (The Strategic Compass and Mission Command on Concrete)**
+- **Chapter 11: Principle 2: Security of Position (Defending the Anchor Under Pressure)**
+- **Chapter 12: Principle 3: Maneuver to Advantage (Offline Angles and Asymmetric Envelopment)**
+- **Chapter 13: Principle 4: Initiative (Driving the Action and Compressing the Decision Cycle)**
+- **Chapter 14: Principle 5: Concentration (Massing Force at the Decisive Point)**
+- **Chapter 15: Principle 6: Economy of Force (The Asymmetric Limb Ratio and Resource Preservation)**
+- **Chapter 16: Principle 7: Surprise (Exploiting Rhythm Shifts, Deception, and Sun Tzu's Baiting Doctrine)**
+- **Chapter 17: Principle 8: Avoidance When Superior (The Clean Exit and Strategic Security)**
+- **Chapter 18: Principle 9: Persistence to Resolution (Relentless Pressure and Operational Completion)**
+- **Chapter 19: Principle 10: Actions on Contact (Immediate Drilled Response to Ambush)**
+- **Chapter 20: Principle 11: Know the Situation (Continuous Dynamic Threat Audit and the Part III Grand Capstone)**
 
 ---
 
 ### PART IV: DISCIPLINE APPLICATIONS ACROSS THE RANGES — Style Synthesis
-- **Chapter 14: Taekwondo: The Long Range and Longest Lever**
-  - *14.1 Distance as Shield and the Mechanics of the Longest Lever*
-  - *14.2 Timing Windows, Interception, and Sport Traps*
-- **Chapter 15: Muay Thai: Medium Range, Clinch, and Short Levers**
-  - *15.1 Space Control and Short-Lever Kinetic Shock*
-  - *15.2 The Thai Clinch and Cervical Spine Manipulation*
-- **Chapter 16: Wrestling: Close Range, Tie-Ups, and Level Changes**
-  - *16.1 Posture, Base, and Anti-Takedown Defense*
-  - *16.2 Tie-Ups, Pummeling, and Sport Traps*
-- **Chapter 17: Brazilian Jiu-Jitsu & SOCP: Ground Survival and Structural Framing**
-  - *17.1 Structural Framing and Ground Survival*
-  - *17.2 Sport Traps, Strangles, and Tactical Egress*
-- **Chapter 18: Range Transitions and Fluid Synthesis**
-  - *18.1 Range Chaining and Structural Bridges*
-  - *18.2 Real-Time Dynamic Range Switching and System Integration*
+- **Chapter 21: Taekwondo: The Long Range and Longest Lever**
+  - *21.1 Distance as Shield and the Mechanics of the Longest Lever*
+  - *21.2 Timing Windows, Interception, and Sport Traps*
+- **Chapter 22: Muay Thai: Medium Range, Clinch, and Short Levers**
+  - *22.1 Space Control and Short-Lever Kinetic Shock*
+  - *22.2 The Thai Clinch and Cervical Spine Manipulation*
+- **Chapter 23: Wrestling: Close Range, Tie-Ups, and Level Changes**
+  - *23.1 Posture, Base, and Anti-Takedown Defense*
+  - *23.2 Tie-Ups, Pummeling, and Sport Traps*
+- **Chapter 24: Brazilian Jiu-Jitsu & SOCP: Ground Survival and Structural Framing**
+  - *24.1 Structural Framing and Ground Survival*
+  - *24.2 Sport Traps, Strangles, and Tactical Egress*
+- **Chapter 25: Range Transitions and Fluid Synthesis**
+  - *25.1 Range Chaining and Structural Bridges*
+  - *25.2 Real-Time Dynamic Range Switching and System Integration*
 
 ---
 
 ### PART V: THE TACTICAL DECISION ENGINE — High-Stress Processing
-- **Chapter 19: The Command Center: Neurological Reality Under Fire**
-  - *19.1 The Mind as Primary Weapon and the Dual-Brain Paradox*
-  - *19.2 Offloading to the Lizard Brain: Developing Subconscious Reflexes*
-  - *19.3 The Iron Law: Decision Quality Under Severe Physical Stress*
-- **Chapter 20: The 4-Step Cycle: Recognize, Prioritize, Choose, Act**
-  - *20.1 Recognize and Prioritize: Threat Classification Under Pressure*
-  - *20.2 Choose, Act, and Reassess: Executing Inside the Opponent's Loop*
-- **Chapter 21: High-Stress Physiology: Surviving the Autonomic Cascade**
-  - *21.1 The Autonomic Cascade and Sensory Distortions*
-  - *21.2 Motor Degradation, Recovery Protocols, and Operator Resilience*
+- **Chapter 26: The Command Center: Neurological Reality Under Fire**
+  - *26.1 The Mind as Primary Weapon and the Dual-Brain Paradox*
+  - *26.2 Offloading to the Lizard Brain: Developing Subconscious Reflexes*
+  - *26.3 The Iron Law: Decision Quality Under Severe Physical Stress*
+- **Chapter 27: The 4-Step Cycle: Recognize, Prioritize, Choose, Act**
+  - *27.1 Recognize and Prioritize: Threat Classification Under Pressure*
+  - *27.2 Choose, Act, and Reassess: Executing Inside the Opponent's Loop*
+- **Chapter 28: High-Stress Physiology: Surviving the Autonomic Cascade**
+  - *28.1 The Autonomic Cascade and Sensory Distortions*
+  - *28.2 Motor Degradation, Recovery Protocols, and Operator Resilience*
 
 ---
 
 ### PART VI: TRAINING DOCTRINE & SURVIVAL REALITIES — Neural Conditioning & Survival
-- **Chapter 22: Train Like You Fight: The Law of Neural Conditioning**
-  - *22.1 Neural Conditioning, Myelination, and the Law of Permanence*
-  - *22.2 Progressive Stress Inoculation and Decision Drilling*
-- **Chapter 23: Asymmetric Threats: Blades, Weapons, and Multiple Attackers**
-  - *23.1 Edged Weapons, Reactionary Deficits, and Flanking*
-  - *23.2 Immediate Action Drills on Weapon Presentation and Asymmetric Survival*
-- **Chapter 24: The Ethical and Legal Boundaries of Power**
-  - *24.1 Proportionality, Objective Reasonableness, and the Continuum of Force*
-  - *24.2 Post-Incident Procedures: Medical, Exit, and Legal Preservation*
+- **Chapter 29: Train Like You Fight: The Law of Neural Conditioning**
+  - *29.1 Neural Conditioning, Myelination, and the Law of Permanence*
+  - *29.2 Progressive Stress Inoculation and Decision Drilling*
+- **Chapter 30: Asymmetric Threats: Blades, Weapons, and Multiple Attackers**
+  - *30.1 Edged Weapons, Reactionary Deficits, and Flanking*
+  - *30.2 Immediate Action Drills on Weapon Presentation and Asymmetric Survival*
+- **Chapter 31: The Ethical and Legal Boundaries of Power**
+  - *31.1 Proportionality, Objective Reasonableness, and the Continuum of Force*
+  - *31.2 Post-Incident Procedures: Medical, Exit, and Legal Preservation*
 
 ---
 
@@ -3194,9 +3190,9 @@ We now leave theory behind. In **Part III: The 11 Unified Principles of Combat**
 
 ---
 
-# Chapter 08: Principles 1–3: Purpose First, Security of Position, and Maneuver to Advantage
+# Chapter 10: Principle 1 — Purpose First: The Strategic Compass and Mission Command on Concrete
 
-## 8.1 Principle 1: Purpose First: The Strategic Compass and Mission Command on Concrete
+## 10.1 The Master Operational Governor: Purpose Directs Form
 
 ### The First Law: The Tyranny of the Unclear Objective
 
@@ -3326,9 +3322,9 @@ Yet a clear purpose cannot succeed if your physical structure collapses under im
 
 ---
 
-# Chapter 08: Principles 1–3: Purpose First, Security of Position, and Maneuver to Advantage
+# Chapter 11: Principle 2 — Security of Position: Defending the Anchor Under Pressure
 
-## 8.2 Principle 2: Security of Position: Defending the Anchor Under Pressure
+## 11.1 Positional Integrity: The Structural Anchor
 
 ### The Anchor: Why Position Precedes All Action
 
@@ -3460,9 +3456,9 @@ Yet an anchored position is not a permanent campsite. An anchor that never moves
 
 ---
 
-# Chapter 08: Principles 1–3: Purpose First, Security of Position, and Maneuver to Advantage
+# Chapter 12: Principle 3 — Maneuver to Advantage: Offline Angles and Asymmetric Envelopment
 
-## 8.3 Principle 3: Maneuver to Advantage: Offline Angles and Asymmetric Envelopment
+## 12.1 Angular Dominance: Geometric Flanking on Foot
 
 ### The Linear Trap: Why Centerline Collisions Fail
 
@@ -3593,9 +3589,9 @@ Once your purpose is locked, your platform is anchored, and your angles are secu
 
 ---
 
-# Chapter 09: Principles 4–6: Initiative, Concentration, and Economy of Force
+# Chapter 13: Principle 4 — Initiative: Driving the Action and Compressing the Decision Cycle
 
-## 9.1 Principle 4: Initiative: Driving the Action and Compressing the Decision Cycle
+## 13.1 Temporal Seizure: Compressing the Combat Cycle
 
 ### The Fallacy of Turn-Taking: Why Passive Defense Fails
 
@@ -3723,9 +3719,9 @@ Yet driving the initiative requires precision. Driving forward with scattered, w
 
 ---
 
-# Chapter 09: Principles 4–6: Initiative, Concentration, and Economy of Force
+# Chapter 14: Principle 5 — Concentration: Massing Force at the Decisive Point
 
-## 9.2 Principle 5: Concentration: Massing Force at the Decisive Point
+## 14.1 Focal Mass: Overwhelming the Decisive Target
 
 ### The Peppering Fallacy: Why Volumetric Striking Fails on the Street
 
@@ -3845,9 +3841,9 @@ Yet applying maximum force requires strategic discipline. If you expend all your
 
 ---
 
-# Chapter 09: Principles 4–6: Initiative, Concentration, and Economy of Force
+# Chapter 15: Principle 6 — Economy of Force: The Asymmetric Limb Ratio and Resource Preservation
 
-## 9.3 Principle 6: Economy of Force: The Asymmetric Limb Ratio and Resource Preservation
+## 15.1 Metabolic Efficiency: Structural Preservation vs. Attrition
 
 ### The Attrition Trap: Muscular Actuation vs. Skeletal Framing
 
@@ -3964,9 +3960,9 @@ With the Foundational Trinity and the Execution Triad locked into your operation
 
 ---
 
-# Chapter 10: Principles 7–9: Surprise, Avoidance When Superior, and Persistence to Resolution
+# Chapter 16: Principle 7 — Surprise: Exploiting Rhythm Shifts, Deception, and Sun Tzu's Baiting Doctrine
 
-## 10.1 Principle 7: Surprise / Unpreparedness: Exploiting Rhythm Shifts, Deception, and Sun Tzu's Baiting Doctrine
+## 16.1 Cognitive Shock: The Asymmetry of Broken Cadence
 
 ### The Myth of the Sucker Punch: Why Surprise Is a Calculated Tactical Weapon
 
@@ -4084,9 +4080,9 @@ Yet tactical deception is never an excuse to prolong combat. Feints, setups, and
 
 ---
 
-# Chapter 10: Principles 7–9: Surprise, Avoidance When Superior, and Persistence to Resolution
+# Chapter 17: Principle 8 — Avoidance When Superior: The Clean Exit and Strategic Security
 
-## 10.2 Principle 8: Avoidance When Superior: The Clean Exit and Strategic Security
+## 17.1 Strategic Pruning: The Clean Disengagement
 
 ### The Brawler’s Pride Fallacy: Why Walking Away Is the Ultimate Victory
 
@@ -4212,9 +4208,9 @@ Yet what happens when an exit corridor does not open? What happens when you are 
 
 ---
 
-# Chapter 10: Principles 7–9: Surprise, Avoidance When Superior, and Persistence to Resolution
+# Chapter 18: Principle 9 — Persistence to Resolution: Weathering Storms, Relentless Pressure, and the Chapter 10 Capstone
 
-## 10.3 Principle 9: Persistence to Resolution: Weathering Storms, Relentless Pressure, and the Chapter 10 Capstone
+## 18.1 Operational Completion: The Unyielding Vector
 
 ### When Avoidance Is Denied: Weathering the Storm Behind Structural Frames
 
@@ -4343,9 +4339,9 @@ To answer these questions, we turn to the final two principles: the tactical arc
 
 ---
 
-# Chapter 11: Dynamic Principles — Actions on Contact and Situational Knowledge
+# Chapter 19: Principle 10 — Actions on Contact: Immediate Subconscious Drilled Response
 
-## 11.1 Principle 10: Actions on Contact: Immediate Subconscious Drilled Response
+## 19.1 Contact Reflexes: The Zero-Hesitation Response
 
 ### The Contact Crucible: Why Conscious Reasoning Freezes on Impact
 
@@ -4484,9 +4480,9 @@ To govern that continuous threat audit, we turn to the final principle of person
 
 ---
 
-# Chapter 11: Dynamic Principles — Actions on Contact and Situational Knowledge
+# Chapter 20: Principle 11 — Know the Situation: Continuous Dynamic Threat Audit and the Part III Grand Capstone
 
-## 11.2 Principle 11: Know the Situation: Continuous Dynamic Threat Audit and the Part III Grand Capstone
+## 20.1 Continuous Situational Awareness: The Multi-Vector Audit
 
 ### The Multi-Vector Threat Matrix: Beyond the One-on-One Illusion
 

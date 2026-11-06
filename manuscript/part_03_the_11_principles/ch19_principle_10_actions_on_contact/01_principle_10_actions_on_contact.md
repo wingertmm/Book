@@ -1,6 +1,6 @@
-# Chapter 11: Dynamic Principles — Actions on Contact and Situational Knowledge
+# Chapter 19: Principle 10 — Actions on Contact: Immediate Subconscious Drilled Response
 
-## 11.1 Principle 10: Actions on Contact: Immediate Subconscious Drilled Response
+## 19.1 Contact Reflexes: The Zero-Hesitation Response
 
 ### The Contact Crucible: Why Conscious Reasoning Freezes on Impact
 

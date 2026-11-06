@@ -1,6 +1,6 @@
-# Chapter 09: Principles 4–6: Initiative, Concentration, and Economy of Force
+# Chapter 14: Principle 5 — Concentration: Massing Force at the Decisive Point
 
-## 9.2 Principle 5: Concentration: Massing Force at the Decisive Point
+## 14.1 Focal Mass: Overwhelming the Decisive Target
 
 ### The Peppering Fallacy: Why Volumetric Striking Fails on the Street
 

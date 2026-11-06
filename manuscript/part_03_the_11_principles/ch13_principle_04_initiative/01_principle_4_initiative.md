@@ -1,6 +1,6 @@
-# Chapter 09: Principles 4–6: Initiative, Concentration, and Economy of Force
+# Chapter 13: Principle 4 — Initiative: Driving the Action and Compressing the Decision Cycle
 
-## 9.1 Principle 4: Initiative: Driving the Action and Compressing the Decision Cycle
+## 13.1 Temporal Seizure: Compressing the Combat Cycle
 
 ### The Fallacy of Turn-Taking: Why Passive Defense Fails
 

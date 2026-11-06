@@ -25,7 +25,7 @@ W01_PATH = os.path.join(
     "..",
     "manuscript",
     "part_03_the_11_principles",
-    "ch09_principles_4_to_6",
+    "ch13_principle_04_initiative",
     "01_principle_4_initiative.md",
 )
 
@@ -91,8 +91,8 @@ W02_PATH = os.path.join(
     "..",
     "manuscript",
     "part_03_the_11_principles",
-    "ch09_principles_4_to_6",
-    "02_principle_5_concentration.md",
+    "ch14_principle_05_concentration",
+    "01_principle_5_concentration.md",
 )
 
 W02_MANDATORY_CONCEPTS = [
@@ -157,8 +157,8 @@ W03_PATH = os.path.join(
     "..",
     "manuscript",
     "part_03_the_11_principles",
-    "ch09_principles_4_to_6",
-    "03_principle_6_economy_of_force.md",
+    "ch15_principle_06_economy_of_force",
+    "01_principle_6_economy_of_force.md",
 )
 
 W03_MANDATORY_CONCEPTS = [

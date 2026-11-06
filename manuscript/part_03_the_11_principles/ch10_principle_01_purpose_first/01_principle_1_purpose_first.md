@@ -1,6 +1,6 @@
-# Chapter 08: Principles 1–3: Purpose First, Security of Position, and Maneuver to Advantage
+# Chapter 10: Principle 1 — Purpose First: The Strategic Compass and Mission Command on Concrete
 
-## 8.1 Principle 1: Purpose First: The Strategic Compass and Mission Command on Concrete
+## 10.1 The Master Operational Governor: Purpose Directs Form
 
 ### The First Law: The Tyranny of the Unclear Objective
 

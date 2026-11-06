@@ -129,6 +129,6 @@ def test_three_volume_chapter_docx_directories_and_pruning():
     v2_chapters = {f.name.replace("_updated.docx", ".docx") for f in vol2_chap_dir.glob("*.docx") if not f.name.startswith("~$")}
     v3_chapters = {f.name.replace("_updated.docx", ".docx") for f in vol3_chap_dir.glob("*.docx") if not f.name.startswith("~$")}
 
-    assert len(v1_chapters) == 16, f"Expected 16 Volume 1 chapter docx files, found {len(v1_chapters)}"
+    assert len(v1_chapters) == 23, f"Expected 23 Volume 1 chapter docx files, found {len(v1_chapters)}"
     assert len(v2_chapters) == 8, f"Expected 8 Volume 2 chapter docx files, found {len(v2_chapters)}"
     assert len(v3_chapters) == 8, f"Expected 8 Volume 3 chapter docx files, found {len(v3_chapters)}"

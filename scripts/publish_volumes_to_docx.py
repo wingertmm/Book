@@ -142,37 +142,100 @@ VOL1_CHAPTERS = [
         "id": 10,
         "part_name": "Part III: The 11 Unified Principles — Invariant Operational Laws",
         "part_dir": "part_03_the_11_principles",
-        "chap_dir": "ch08_principles_1_to_3",
+        "chap_dir": "ch10_principle_01_purpose_first",
         "number_str": "Chapter 10",
-        "title": "Principles 1–3: Purpose, Security, and Maneuver",
-        "filename": "Chapter_10_Principles_1_to_3.docx",
+        "title": "Principle 1: Purpose First",
+        "filename": "Chapter_10_Principle_01_Purpose_First.docx",
     },
     {
         "id": 11,
         "part_name": "Part III: The 11 Unified Principles — Invariant Operational Laws",
         "part_dir": "part_03_the_11_principles",
-        "chap_dir": "ch09_principles_4_to_6",
+        "chap_dir": "ch11_principle_02_security_of_position",
         "number_str": "Chapter 11",
-        "title": "Principles 4–6: Initiative, Concentration, and Economy",
-        "filename": "Chapter_11_Principles_4_to_6.docx",
+        "title": "Principle 2: Security of Position",
+        "filename": "Chapter_11_Principle_02_Security_of_Position.docx",
     },
     {
         "id": 12,
         "part_name": "Part III: The 11 Unified Principles — Invariant Operational Laws",
         "part_dir": "part_03_the_11_principles",
-        "chap_dir": "ch10_principles_7_to_9",
+        "chap_dir": "ch12_principle_03_maneuver_to_advantage",
         "number_str": "Chapter 12",
-        "title": "Principles 7–9: Surprise, Avoidance, and Persistence",
-        "filename": "Chapter_12_Principles_7_to_9.docx",
+        "title": "Principle 3: Maneuver to Advantage",
+        "filename": "Chapter_12_Principle_03_Maneuver_to_Advantage.docx",
     },
     {
         "id": 13,
         "part_name": "Part III: The 11 Unified Principles — Invariant Operational Laws",
         "part_dir": "part_03_the_11_principles",
-        "chap_dir": "ch11_principles_10_to_11",
+        "chap_dir": "ch13_principle_04_initiative",
         "number_str": "Chapter 13",
-        "title": "Principles 10–11: Actions on Contact and Situational Knowledge",
-        "filename": "Chapter_13_Principles_10_to_11.docx",
+        "title": "Principle 4: Initiative",
+        "filename": "Chapter_13_Principle_04_Initiative.docx",
+    },
+    {
+        "id": 14,
+        "part_name": "Part III: The 11 Unified Principles — Invariant Operational Laws",
+        "part_dir": "part_03_the_11_principles",
+        "chap_dir": "ch14_principle_05_concentration",
+        "number_str": "Chapter 14",
+        "title": "Principle 5: Concentration",
+        "filename": "Chapter_14_Principle_05_Concentration.docx",
+    },
+    {
+        "id": 15,
+        "part_name": "Part III: The 11 Unified Principles — Invariant Operational Laws",
+        "part_dir": "part_03_the_11_principles",
+        "chap_dir": "ch15_principle_06_economy_of_force",
+        "number_str": "Chapter 15",
+        "title": "Principle 6: Economy of Force",
+        "filename": "Chapter_15_Principle_06_Economy_of_Force.docx",
+    },
+    {
+        "id": 16,
+        "part_name": "Part III: The 11 Unified Principles — Invariant Operational Laws",
+        "part_dir": "part_03_the_11_principles",
+        "chap_dir": "ch16_principle_07_surprise",
+        "number_str": "Chapter 16",
+        "title": "Principle 7: Surprise",
+        "filename": "Chapter_16_Principle_07_Surprise.docx",
+    },
+    {
+        "id": 17,
+        "part_name": "Part III: The 11 Unified Principles — Invariant Operational Laws",
+        "part_dir": "part_03_the_11_principles",
+        "chap_dir": "ch17_principle_08_avoidance_when_superior",
+        "number_str": "Chapter 17",
+        "title": "Principle 8: Avoidance When Superior",
+        "filename": "Chapter_17_Principle_08_Avoidance_When_Superior.docx",
+    },
+    {
+        "id": 18,
+        "part_name": "Part III: The 11 Unified Principles — Invariant Operational Laws",
+        "part_dir": "part_03_the_11_principles",
+        "chap_dir": "ch18_principle_09_persistence_to_resolution",
+        "number_str": "Chapter 18",
+        "title": "Principle 9: Persistence to Resolution",
+        "filename": "Chapter_18_Principle_09_Persistence_to_Resolution.docx",
+    },
+    {
+        "id": 19,
+        "part_name": "Part III: The 11 Unified Principles — Invariant Operational Laws",
+        "part_dir": "part_03_the_11_principles",
+        "chap_dir": "ch19_principle_10_actions_on_contact",
+        "number_str": "Chapter 19",
+        "title": "Principle 10: Actions on Contact",
+        "filename": "Chapter_19_Principle_10_Actions_on_Contact.docx",
+    },
+    {
+        "id": 20,
+        "part_name": "Part III: The 11 Unified Principles — Invariant Operational Laws",
+        "part_dir": "part_03_the_11_principles",
+        "chap_dir": "ch20_principle_11_know_the_situation",
+        "number_str": "Chapter 20",
+        "title": "Principle 11: Know the Situation",
+        "filename": "Chapter_20_Principle_11_Know_the_Situation.docx",
     },
 ]
 
@@ -312,8 +375,8 @@ def prune_legacy_exports():
     # Prune stale chapter exports from earlier layouts
     valid_vol1 = {c["filename"] for c in VOL1_CHAPTERS} | {
         "00_Front_Matter_Vol1.docx",
-        "14_Doctrinal_Coda_and_Bridge.docx",
-        "15_Back_Matter_Vol1.docx",
+        "21_Doctrinal_Coda_and_Bridge.docx",
+        "22_Back_Matter_Vol1.docx",
     }
     if VOL1_CHAPTERS_DIR.exists():
         for f in VOL1_CHAPTERS_DIR.glob("*.docx"):
@@ -574,7 +637,7 @@ def export_vol1_coda_and_matters():
         txt = coda_file.read_text(encoding="utf-8")
         words = len(txt.split())
         parse_markdown_to_docx(doc, txt)
-        out_path = VOL1_CHAPTERS_DIR / "14_Doctrinal_Coda_and_Bridge.docx"
+        out_path = VOL1_CHAPTERS_DIR / "21_Doctrinal_Coda_and_Bridge.docx"
         saved = save_docx_safely(doc, out_path)
         size_kb = saved.stat().st_size / 1024 if saved and saved.exists() else 0
         print(f"  [OK] Volume 1 Coda -> {saved.name} ({words:,} words, {size_kb:.1f} KB)")
@@ -608,7 +671,7 @@ def export_vol1_coda_and_matters():
     bm_texts = [f.read_text(encoding="utf-8") for f in bm_files if f.exists()]
     words_bm = sum(len(t.split()) for t in bm_texts)
     parse_markdown_to_docx(doc_bm, "\n\n---\n\n".join(bm_texts))
-    out_bm = VOL1_CHAPTERS_DIR / "15_Back_Matter_Vol1.docx"
+    out_bm = VOL1_CHAPTERS_DIR / "22_Back_Matter_Vol1.docx"
     saved_bm = save_docx_safely(doc_bm, out_bm)
     size_bm = saved_bm.stat().st_size / 1024 if saved_bm and saved_bm.exists() else 0
     print(f"  [OK] Volume 1 Back Matter -> {saved_bm.name} ({words_bm:,} words, {size_bm:.1f} KB)")
@@ -719,7 +782,7 @@ def main():
     print("\n" + "=" * 70)
     print("THREE-VOLUME PUBLICATION EXPORT COMPLETE!")
     print(f"  - Complete Volumes:  3 documents in {EXPORTS_DIR}")
-    print(f"  - Volume 1 Chapters: 16 documents in {VOL1_CHAPTERS_DIR.name}")
+    print(f"  - Volume 1 Chapters: 23 documents in {VOL1_CHAPTERS_DIR.name}")
     print(f"  - Volume 2 Chapters: 8 documents in {VOL2_CHAPTERS_DIR.name}")
     print(f"  - Volume 3 Chapters: 8 documents in {VOL3_CHAPTERS_DIR.name}")
     print("=" * 70)
