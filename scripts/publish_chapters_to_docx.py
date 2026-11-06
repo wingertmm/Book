@@ -518,7 +518,7 @@ def render_table(doc, table_lines):
 def get_matching_figure(code_lines):
     combined = "".join(code_lines)
     # Figure 1.1: The Triad & Efficiency
-    if ("EFFICIENCY" in combined and "TIMING" in combined and "POWER" in combined) or ("[ POWER ]" in combined and "[ TIMING ]" in combined):
+    if "EFFICIENCY" in combined and "TIMING" in combined and "POWER" in combined:
         fig_path = REPO_ROOT / "exports" / "figures" / "fig_01_the_triad.png"
         if fig_path.exists():
             return fig_path, "Figure 1.1: The Mechanical Triad of Combatives (Timing, Distance, and Power Converging on Peak Efficiency)"
