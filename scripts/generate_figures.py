@@ -296,80 +296,143 @@ def get_figure_1_2_html():
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
     width: 1200px;
-    height: 700px;
+    height: 580px;
     background-color: #F8FAFC;
     font-family: 'Inter', -apple-system, sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 30px;
+    padding: 24px 30px;
   }
   .card {
     width: 1140px;
-    height: 640px;
+    height: 532px;
     background: #FFFFFF;
-    border: 1px solid #E2E8F0;
+    border: 1px solid #CBD5E1;
     border-radius: 16px;
     box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05);
-    padding: 30px 40px;
+    padding: 24px 32px;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
   }
   .header {
     border-bottom: 2px solid #EDF2F7;
-    padding-bottom: 14px;
-    margin-bottom: 24px;
+    padding-bottom: 12px;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
   }
-  .header h1 { font-size: 22px; font-weight: 800; color: #1A365D; text-transform: uppercase; }
-  .header p { font-size: 13.5px; color: #4A5568; font-weight: 500; }
-  .badge { background: #EBF8FF; color: #2B6CB0; padding: 5px 12px; border-radius: 9999px; font-size: 11px; font-weight: 700; font-family: 'JetBrains Mono', monospace; }
+  .header h1 { font-size: 21px; font-weight: 800; color: #1A365D; text-transform: uppercase; letter-spacing: -0.3px; }
+  .header p { font-size: 13px; color: #4A5568; font-weight: 500; margin-top: 3px; }
+  .badge { background: #EBF8FF; color: #2B6CB0; border: 1px solid #BEE3F8; padding: 5px 12px; border-radius: 9999px; font-size: 11px; font-weight: 700; font-family: 'JetBrains Mono', monospace; }
   
   .flow-row {
-    flex: 1;
     display: flex;
-    align-items: center;
+    align-items: stretch;
     justify-content: space-between;
-    padding: 10px 0;
+    margin: 16px 0;
+    gap: 8px;
   }
   .step-node {
-    width: 220px;
-    height: 380px;
+    flex: 1;
     background: #F8FAFC;
     border: 1px solid #E2E8F0;
     border-radius: 12px;
     display: flex;
     flex-direction: column;
-    padding: 20px 16px;
+    padding: 16px 14px;
     position: relative;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
   }
-  .step-node.active { border-top: 5px solid #2B6CB0; }
-  .step-node.highlight { border-top: 5px solid #C53030; }
-  .step-num { font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 700; color: #718096; margin-bottom: 6px; }
-  .step-title { font-size: 16px; font-weight: 800; color: #1A365D; margin-bottom: 8px; }
-  .step-eq { font-family: 'JetBrains Mono', monospace; font-size: 12px; background: #EDF2F7; padding: 4px 8px; border-radius: 6px; color: #2B6CB0; margin-bottom: 12px; font-weight: 700; }
-  .step-desc { font-size: 12px; color: #4A5568; line-height: 1.45; flex: 1; }
-  .step-bottom { border-top: 1px dashed #CBD5E1; padding-top: 10px; font-size: 11px; font-weight: 600; color: #2D3748; }
+  .step-node.active { border-top: 4px solid #2B6CB0; }
+  .step-node.highlight { border-top: 4px solid #C53030; }
+  
+  .step-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 4px;
+  }
+  .step-num { font-family: 'JetBrains Mono', monospace; font-size: 10.5px; font-weight: 700; color: #718096; }
+  .step-title { font-size: 16px; font-weight: 800; color: #1A365D; letter-spacing: -0.2px; }
+  
+  .role-badge {
+    display: inline-block;
+    align-self: flex-start;
+    font-size: 10px;
+    font-weight: 700;
+    font-family: 'JetBrains Mono', monospace;
+    padding: 3px 8px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+  .role-blue { background: #EBF8FF; color: #2B6CB0; border: 1px solid #BEE3F8; }
+  .role-crimson { background: #FFF5F5; color: #C53030; border: 1px solid #FED7D7; }
+  
+  .step-desc {
+    font-size: 11.5px;
+    color: #334155;
+    line-height: 1.45;
+    flex: 1;
+  }
+  .step-desc strong { color: #0F172A; }
+  
+  .breakdown-box {
+    margin-top: 10px;
+    background: #FFF5F5;
+    border-left: 3px solid #E53E3E;
+    border-radius: 0 4px 4px 0;
+    padding: 6px 8px;
+  }
+  .breakdown-label {
+    font-size: 9px;
+    font-weight: 800;
+    color: #9B2C2C;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    margin-bottom: 2px;
+  }
+  .breakdown-text {
+    font-size: 10.5px;
+    color: #742A2A;
+    line-height: 1.35;
+  }
+  
+  .step-bottom {
+    border-top: 1px dashed #CBD5E1;
+    padding-top: 8px;
+    margin-top: 10px;
+    font-size: 10.5px;
+    font-weight: 700;
+    color: #475569;
+    font-family: 'JetBrains Mono', monospace;
+    letter-spacing: 0.3px;
+    text-align: center;
+  }
   
   .arrow {
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 50px;
+    width: 28px;
+    align-self: center;
   }
-  .arrow svg { width: 36px; height: 36px; }
+  .arrow svg { width: 24px; height: 24px; }
   
   .footer {
     border-top: 1px solid #EDF2F7;
-    padding-top: 12px;
+    padding-top: 10px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     font-size: 11.5px;
-    color: #718096;
+    color: #64748B;
   }
+  .footer strong { color: #1E293B; }
+  .footer-right { font-family: 'JetBrains Mono', monospace; font-size: 10.5px; font-weight: 600; color: #475569; }
 </style>
 </head>
 <body>
@@ -379,19 +442,25 @@ def get_figure_1_2_html():
       <h1>Figure 1.2: The Master Equation Kinetic Cascade</h1>
       <p>Sequential Causal Pipeline: How Spatial Buffer Cascades into Decisive Kinetic Transfer</p>
     </div>
-    <div class="badge">Kinetic Pipeline</div>
+    <div class="badge">OPERATIONAL PIPELINE</div>
   </div>
   
   <div class="flow-row">
     <!-- Step 1: Distance -->
     <div class="step-node active">
-      <div class="step-num">STAGE 01</div>
-      <div class="step-title">DISTANCE</div>
-      <div class="step-eq">d &gt; d_critical</div>
-      <div class="step-desc">
-        Enforces the <strong>Reactionary Gap</strong>. Space denies immediate hostile contact, physically forcing the attacker to commit forward mass to close the gap.
+      <div class="step-header">
+        <div class="step-title">DISTANCE</div>
+        <div class="step-num">STAGE 01</div>
       </div>
-      <div class="step-bottom">PHYSICAL SHIELD</div>
+      <div class="role-badge role-blue">Spatial Buffer</div>
+      <div class="step-desc">
+        Enforces the <strong>Reactionary Gap</strong>. Physical space denies immediate hostile contact, forcing the attacker to commit forward mass across visible terrain.
+      </div>
+      <div class="breakdown-box">
+        <div class="breakdown-label">System Breakdown If Lost</div>
+        <div class="breakdown-text">Zero reaction window; defender is trapped in involuntary flinch response.</div>
+      </div>
+      <div class="step-bottom">REACTIONARY GAP</div>
     </div>
     
     <div class="arrow">
@@ -400,13 +469,19 @@ def get_figure_1_2_html():
     
     <!-- Step 2: Time -->
     <div class="step-node active">
-      <div class="step-num">STAGE 02</div>
-      <div class="step-title">TIME</div>
-      <div class="step-eq">Δt = d / v_rush</div>
-      <div class="step-desc">
-        Expands the <strong>Decision Window</strong>. Traversal of distance takes measurable milliseconds, telegraphing vector intent and avoiding cognitive freeze.
+      <div class="step-header">
+        <div class="step-title">TIME</div>
+        <div class="step-num">STAGE 02</div>
       </div>
-      <div class="step-bottom">COGNITIVE RUNWAY</div>
+      <div class="role-badge role-blue">Cognitive Runway</div>
+      <div class="step-desc">
+        Expands the <strong>Decision Window</strong>. Closing distance requires measurable transit time (&gt;300 ms), enabling visual telemetry to read intent and choose response.
+      </div>
+      <div class="breakdown-box">
+        <div class="breakdown-label">System Breakdown If Lost</div>
+        <div class="breakdown-text">Cognitive freeze; sensory overload and panic lockup override motor pathways.</div>
+      </div>
+      <div class="step-bottom">DECISION WINDOW</div>
     </div>
     
     <div class="arrow">
@@ -415,11 +490,17 @@ def get_figure_1_2_html():
     
     <!-- Step 3: Timing -->
     <div class="step-node active">
-      <div class="step-num">STAGE 03</div>
-      <div class="step-title">TIMING</div>
-      <div class="step-eq">t_trigger = t_overcommit</div>
+      <div class="step-header">
+        <div class="step-title">TIMING</div>
+        <div class="step-num">STAGE 03</div>
+      </div>
+      <div class="role-badge role-blue">Transition Seam</div>
       <div class="step-desc">
-        Seizes the <strong>Window of Opportunity</strong>. Intercepts the attacker precisely when their hips are locked and balance is unrecoverable.
+        Seizes the <strong>Window of Opportunity</strong>. Intercepts the adversary at peak vulnerability—precisely when forward weight is committed and balance is unrecoverable.
+      </div>
+      <div class="breakdown-box">
+        <div class="breakdown-label">System Breakdown If Lost</div>
+        <div class="breakdown-text">Braced collision; striking into a guarded line or hitting empty air.</div>
       </div>
       <div class="step-bottom">TACTICAL TRIGGER</div>
     </div>
@@ -430,19 +511,25 @@ def get_figure_1_2_html():
     
     <!-- Step 4: Power -->
     <div class="step-node highlight">
-      <div class="step-num">STAGE 04</div>
-      <div class="step-title">POWER</div>
-      <div class="step-eq">P = W / Δt = F · v</div>
+      <div class="step-header">
+        <div class="step-title">POWER</div>
+        <div class="step-num">STAGE 04</div>
+      </div>
+      <div class="role-badge role-crimson">Kinetic Transfer</div>
       <div class="step-desc">
-        Delivers <strong>Decisive Kinetic Work</strong>. Directs concentrated skeletal mass into an exposed vulnerability with zero wasted motion.
+        Delivers <strong>Decisive Work</strong>. Directs unified skeletal mass into exposed structural flaws with concentrated acceleration and zero dissipated motion.
+      </div>
+      <div class="breakdown-box">
+        <div class="breakdown-label">System Breakdown If Lost</div>
+        <div class="breakdown-text">Dissipated force; superficial impact fails to neutralize adversary momentum.</div>
       </div>
       <div class="step-bottom" style="color: #C53030;">TERMINAL RESOLUTION</div>
     </div>
   </div>
   
   <div class="footer">
-    <div><strong>Causal Chain:</strong> Distance buys Time; Time enables Timing; Timing directs Power. Strip any link and the system collapses.</div>
-    <div>Master Equation: P = (F · d) / Δt</div>
+    <div><strong>Doctrinal Invariant:</strong> Distance buys Time; Time enables Timing; Timing directs Power. If any stage is severed, the cascade collapses.</div>
+    <div class="footer-right">Space ➔ Perception ➔ Interception ➔ Resolution</div>
   </div>
 </div>
 </body>
@@ -1000,7 +1087,7 @@ FIGURES_TO_RENDER = [
         "title": "Figure 1.2: The Master Equation Kinetic Cascade",
         "html_fn": get_figure_1_2_html,
         "width": 1200,
-        "height": 700,
+        "height": 580,
         "scale": 2,
     },
     {
