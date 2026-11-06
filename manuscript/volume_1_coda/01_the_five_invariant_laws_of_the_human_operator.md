@@ -7,7 +7,7 @@ Volume 1 has established combat as an exact, deterministic science governed by t
 We did not begin with techniques; we began with first principles:
 - **Part I: Foundations** mapped the core triad of combat, classified the Four Combat Ranges, and formulated the geometry of opportunity windows.
 - **Part II: Strategic Lenses** deconstructed the five great predecessor traditions—Sun Tzu's ancient asymmetry, John Boyd's supersonic OODA decision cycles, armored mechanized maneuver warfare, the lethal close-quarters survivability of Army Rangers, Navy SEALs, and SOCP, and John Danaher's mechanical grappling geometry. In Chapter 9, we synthesized these streams into the Grand Predecessor Matrix, proving that our laws are the inevitable mathematical convergence of centuries of combat experience.
-- **Part III: The 11 Unified Principles** codified these insights into invariant operational laws: Purpose First, Security of Position, Maneuver to Advantage, Initiative, Concentration, Economy of Force, Surprise, Avoidance When Superior, Persistence to Resolution, Actions on Contact, and Know the Situation.
+- **Part III: The 11 Unified Principles** codified these insights into invariant operational laws: Purpose First, Security of Position, Maneuver to Advantage, Initiative, Concentration, Economy of Force, Surprise, Avoidance When Superior, Persistence to Resolution, Immediate Action, and Situational Awareness.
 
 This complete theoretical architecture forms the bedrock of our doctrine. But strategy on paper is only the beginning of combat mastery.
 

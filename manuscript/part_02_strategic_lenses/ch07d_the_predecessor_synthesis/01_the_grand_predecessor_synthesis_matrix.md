@@ -44,8 +44,8 @@ The matrix below provides the foundational lineage of every principle in our doc
 | **7. Surprise** | Qi unorthodox maneuver | Fast transient shift | Unexpected breakthrough | Ambush shock velocity | Dilemma transition trap |
 | **8. Avoidance When Superior** | Supreme victory is escape | High-energy disengage | Bypass fortified cities | Ranger kill-zone egress | Technical stand-up exit |
 | **9. Persistence to Resolution** | Relentless exploitation | Continuous OODA pressure | Deep pursuit to defeat | SEAL micro-goal chunking | The Ratchet Principle |
-| **10. Actions on Contact** | Immediate response to void | Instinctive dogfight reflex | Battle Drill execution | Ranger Battle Drill 4 near | Universal wedge default |
-| **11. Know the Situation** | Know self, know enemy | Continuous Orientation | Reconnaissance in force | 360-deg sector audit / SOCP | Constant limb audit |
+| **10. Immediate Action** | Immediate response to void | Instinctive dogfight reflex | Battle Drill execution | Ranger Battle Drill 4 near | Universal wedge default |
+| **11. Situational Awareness** | Know self, know enemy | Continuous Orientation | Reconnaissance in force | 360-deg sector audit / SOCP | Constant limb audit |
 
 ---
 
@@ -57,7 +57,7 @@ Notice the structural harmony across this matrix. No principle exists in isolati
 These principles govern the strategic envelope of conflict:
 - **Principle 1: Purpose First** directly mirrors Sun Tzu's declaration that the supreme victory is breaking the enemy's resistance without fighting, echoed by Danaher's rule that positional advances are meaningless if they violate the terminal objective.
 - **Principle 8: Avoidance When Superior** operationalizes Boyd's energy-maneuverability: when tactical victory is pyrrhic or secondary threats emerge, disengage to open standoff.
-- **Principle 11: Know the Situation** operationalizes Boyd's Orientation phase and modern CQB 360-degree sector clearance: maintain continuous awareness of secondary attackers, concealed blades, and terrain barriers.
+- **Principle 11: Situational Awareness** operationalizes Boyd's Orientation phase and modern CQB 360-degree sector clearance: maintain continuous awareness of secondary attackers, concealed blades, and terrain barriers.
 
 #### 2. Structural Principles (Principles 2, 5, 6)
 These principles govern the physics of the human skeleton and force generation:
@@ -71,7 +71,7 @@ These principles govern movement, momentum, and time compression:
 - **Principle 4: Initiative** unifies Boyd's OODA tempo, the 75th Ranger Regiment's Violence of Action (VoA), and Danaher's Attacker's Dilemma: dictate terms relentlessly, presenting simultaneous threats that overwhelm the adversary's cognitive bandwidth.
 - **Principle 7: Surprise** operationalizes Sun Tzu's *Qi* maneuvers and Boyd's fast transients: manipulate timing and attack angle so the strike connects inside the adversary's sensory lag window.
 - **Principle 9: Persistence to Resolution** marries armored pursuit doctrine with Navy SEAL micro-goal chunking and Danaher's Ratchet Principle: advance monotonically, locking in each gained millimeter so the enemy can never reset their base.
-- **Principle 10: Actions on Contact** translates Ranger Battle Drill 4 and Air Force emergency procedures into an unyielding combative law: under unexpected kinetic contact in a near ambush, deliberate thinking is fatal; immediately assault into the threat centerline with a pre-programmed structural wedge.
+- **Principle 10: Immediate Action** translates Ranger Battle Drill 4 and Air Force emergency procedures into an unyielding combative law: under unexpected kinetic contact in a near ambush, deliberate thinking is fatal; immediately assault into the threat centerline with a pre-programmed structural wedge.
 
 ---
 

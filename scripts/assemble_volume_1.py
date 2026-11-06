@@ -39,8 +39,8 @@ VOL1_BODY_DIRS = [
     MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch16_principle_07_surprise",
     MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch17_principle_08_avoidance_when_superior",
     MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch18_principle_09_persistence_to_resolution",
-    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch19_principle_10_actions_on_contact",
-    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch20_principle_11_know_the_situation",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch19_principle_10_immediate_action",
+    MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch20_principle_11_situational_awareness",
     MANUSCRIPT_DIR / "volume_1_coda",
 ]
 
@@ -100,8 +100,8 @@ def generate_vol1_toc():
 - **Chapter 16: Principle 7: Surprise**
 - **Chapter 17: Principle 8: Avoidance When Superior**
 - **Chapter 18: Principle 9: Persistence to Resolution**
-- **Chapter 19: Principle 10: Actions on Contact**
-- **Chapter 20: Principle 11: Know the Situation**
+- **Chapter 19: Principle 10: Immediate Action**
+- **Chapter 20: Principle 11: Situational Awareness**
 
 ---
 

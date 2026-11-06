@@ -125,4 +125,4 @@ The first nine principles establish the complete strategic, physical, and psycho
 
 How do you ensure these principles function reliably under catastrophic adrenal dump? How do you prevent system paralysis when an ambush strikes in total darkness?
 
-To answer these questions, we turn to the final two principles: the tactical architecture that ensures absolute operational survivability: **Chapter 11: Principles 10–11: Actions on Contact and Know the Situation**.
+To answer these questions, we turn to the final two principles: the tactical architecture that ensures absolute operational survivability: **Chapter 19: Principle 10 — Immediate Action** and **Chapter 20: Principle 11 — Situational Awareness**.

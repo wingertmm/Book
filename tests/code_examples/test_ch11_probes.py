@@ -16,7 +16,7 @@ BANNED_WORDS = [
 ]
 
 # ---------------------------------------------------------------------------
-# Wave 1 Probe Suite: Section 11.1 (Principle 10: Actions on Contact)
+# Wave 1 Probe Suite: Section 11.1 (Principle 10: Immediate Action)
 # ---------------------------------------------------------------------------
 
 W01_PATH = os.path.join(
@@ -25,12 +25,12 @@ W01_PATH = os.path.join(
     "..",
     "manuscript",
     "part_03_the_11_principles",
-    "ch19_principle_10_actions_on_contact",
-    "01_principle_10_actions_on_contact.md",
+    "ch19_principle_10_immediate_action",
+    "01_principle_10_immediate_action.md",
 )
 
 W01_MANDATORY_CONCEPTS = [
-    "Actions on Contact",
+    "Immediate Action",
     "Subconscious Drilled Response",
     "Battle Drill",
     "Hick's Law",
@@ -51,7 +51,7 @@ def test_ch11_w01_word_count_within_budget():
         text = f.read()
     words = text.split()
     word_count = len(words)
-    print(f"\n[PROBE-CH11-W01-ACTIONS-ON-CONTACT] Actual word count: {word_count}")
+    print(f"\n[PROBE-CH11-W01-IMMEDIATE-ACTION] Actual word count: {word_count}")
     assert 1300 <= word_count <= 2600, f"Word count {word_count} outside budget [1300, 2600]"
 
 
@@ -82,7 +82,7 @@ def test_ch11_w01_mandatory_concepts_present():
 
 
 # ---------------------------------------------------------------------------
-# Wave 2 Probe Suite: Section 11.2 (Principle 11: Know the Situation & Capstone)
+# Wave 2 Probe Suite: Section 11.2 (Principle 11: Situational Awareness & Capstone)
 # ---------------------------------------------------------------------------
 
 W02_PATH = os.path.join(
@@ -91,12 +91,12 @@ W02_PATH = os.path.join(
     "..",
     "manuscript",
     "part_03_the_11_principles",
-    "ch20_principle_11_know_the_situation",
-    "01_principle_11_know_the_situation.md",
+    "ch20_principle_11_situational_awareness",
+    "01_principle_11_situational_awareness.md",
 )
 
 W02_MANDATORY_CONCEPTS = [
-    "Know the Situation",
+    "Situational Awareness",
     "Dynamic Threat Audit",
     "Skill Disparity",
     "Tunnel Vision",

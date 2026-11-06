@@ -60,8 +60,8 @@
 - **Chapter 16: Principle 7: Surprise (Exploiting Rhythm Shifts, Deception, and Sun Tzu's Baiting Doctrine)**
 - **Chapter 17: Principle 8: Avoidance When Superior (The Clean Exit and Strategic Security)**
 - **Chapter 18: Principle 9: Persistence to Resolution (Relentless Pressure and Operational Completion)**
-- **Chapter 19: Principle 10: Actions on Contact (Immediate Drilled Response to Ambush)**
-- **Chapter 20: Principle 11: Know the Situation (Continuous Dynamic Threat Audit and the Part III Grand Capstone)**
+- **Chapter 19: Principle 10: Immediate Action (Zero-Hesitation Response and Ambush Survival)**
+- **Chapter 20: Principle 11: Situational Awareness (Continuous Dynamic Threat Audit and the Part III Grand Capstone)**
 
 ---
 

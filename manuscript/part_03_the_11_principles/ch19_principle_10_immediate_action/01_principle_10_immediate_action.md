@@ -1,4 +1,4 @@
-# Chapter 19: Principle 10 — Actions on Contact: Immediate Subconscious Drilled Response
+# Chapter 19: Principle 10 — Immediate Action: Zero-Hesitation Response and Ambush Survival
 
 ## 19.1 Contact Reflexes: The Zero-Hesitation Response
 
@@ -14,11 +14,11 @@ In this crucible, conscious reasoning becomes a fatal liability. The human neoco
 
 That cognitive deliberation requires typical observed spans of 300 to 500 milliseconds. Under dynamic combat conditions, a committed strike or tackle covers terminal distance in 150 to 250 milliseconds. If you must consciously decide which technique to execute while incoming mass accelerates toward your jaw, you get hit before initiating physical movement.
 
-**Principle 10: Actions on Contact** mandates that you never rely on conscious decision-making during the opening shock of violence. Survive by delegating immediate physical defense to pre-conditioned, subcortical reflexes.
+**Principle 10: Immediate Action** mandates that you never rely on conscious decision-making during the opening shock of violence. Survive by delegating immediate physical defense to pre-conditioned, subcortical reflexes.
 
 ```
 +------------------------------------------------------------------------+
-|           CONSCIOUS DELIBERATION VS. PRINCIPLE 10 ACTION ON CONTACT    |
+|           CONSCIOUS DELIBERATION VS. PRINCIPLE 10 IMMEDIATE ACTION     |
 |                                                                        |
 |      CONSCIOUS DELIBERATION (Untrained)   PRINCIPLE 10 BATTLE DRILL    |
 |                                                                        |
@@ -42,7 +42,7 @@ That cognitive deliberation requires typical observed spans of 300 to 500 millis
 
 Train one response a thousand times rather than a thousand responses once; simplicity under stress is absolute.
 
-In military doctrine, U.S. Army Field Manual 3-0 (*Operations*) establishes the concept of **Actions on Contact**. When an infantry squad makes sudden contact with an enemy force, soldiers do not convene a tactical planning conference. 
+In military and tactical doctrine, the principle of **Immediate Action** (historically codified in U.S. Army Field Manual 3-0 *Operations* under **Actions on Contact**) establishes that when an infantry squad makes sudden contact with an enemy force, soldiers do not convene a tactical planning conference. 
 
 Instead, every soldier instantly executes a non-deliberative **Battle Drill**: returning suppression fire, taking cover, and establishing local security. Only after the battle drill blunts the ambush does the commander develop the fight and issue deliberate orders. In combat aviation, Department of the Air Force Doctrine Publication 1 (*Airpower Operations*) enforces the same doctrine: pilots drill emergency procedures until muscle memory executes them instantly, ensuring aircraft survival before adjusting flight strategy.
 
@@ -122,17 +122,17 @@ Let your drilled reflexes survive the contact; let your strategic mind direct th
 
 In personal defense on concrete, violence moves faster than conscious thought. An individual attempting to reason through an unexpected ambush suffers knockout before thoughts take physical shape. True mastery does not mean thinking faster; it means constructing reflexes that make thinking unnecessary during the opening moments of contact.
 
-Principle 10: Actions on Contact serves as the vital temporal bridge across **The Master Equation**:
+Principle 10: Immediate Action serves as the vital temporal bridge across **The Master Equation**:
 
 $$\text{Distance} \longrightarrow \text{Time} \longrightarrow \text{Power}$$
 
 When a predatory ambush strikes, distance unexpectedly collapses to near-zero. At zero distance, conscious cognition has zero time. If you pause to deliberate, the attacker's power impacts an unbraced structure with devastating effect.
 
-Actions on Contact rescues the defender from this trap:
+Immediate Action rescues the defender from this trap:
 - **Instantaneous Time Creation**: Delegating initial defense to a subcortical battle drill bypasses cortical lag, establishing rigid skeletal frames within 100 to 150 milliseconds.
 - **Power Absorption and Redirection**: Rigid forearm trusses and an anchored base absorb the attacker's initial impulse, protecting neurological centers and preventing balance collapse.
 - **Restoring Strategic Command**: The temporal window purchased by your battle drill brings the conscious Command Center online, allowing your strategic mind to direct power toward decisive neutralization or an immediate exit corridor.
 
 Your drilled battle drill survives the contact. But survival alone does not secure safety. Once the initial shockwave is absorbed and your Command Center comes online, you must continuously audit the evolving environment: Are there secondary attackers? Has a weapon appeared? Where is the illuminated exit?
 
-To govern that continuous threat audit, we turn to the final principle of personal defense: **11.2 Principle 11: Know the Situation**.
+To govern that continuous threat audit, we turn to the final principle of personal defense: **Chapter 20: Principle 11 — Situational Awareness: Continuous Dynamic Threat Audit and the Part III Grand Capstone**.

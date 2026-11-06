@@ -97,7 +97,7 @@ When an attacker charges into a low tackle, the front-headlock guillotine provid
 
 ### The Technical Stand-Up, Ground Egress, and the Continuous Threat Audit
 
-The ground is a kill zone; manufacture space, shield vitals, and stand back up immediately. Ground fighting must always operate under **Principle 11: Know the Situation**. Maintain an unceasing Dynamic Threat Audit: scanning for incoming secondary assailants, assessing asphalt terrain hazards like curbs and broken glass, and checking for concealed weapons drawn from the waistband during the grapple.
+The ground is a kill zone; manufacture space, shield vitals, and stand back up immediately. Ground fighting must always operate under **Principle 11: Situational Awareness**. Maintain an unceasing Dynamic Threat Audit: scanning for incoming secondary assailants, assessing asphalt terrain hazards like curbs and broken glass, and checking for concealed weapons drawn from the waistband during the grapple.
 
 The moment you break an attacker's posture or lock in a frame, your sole objective is **Ground Egress**. Combative egress operationalizes **Principle 8: Avoidance When Superior** through the disciplined architecture of the **Technical Stand-Up**:
 
@@ -150,7 +150,7 @@ The moment you break an attacker's posture or lock in a frame, your sole objecti
 Survive the bottom, dominate through upright posture or standing limb control, and execute decisive egress: the ground is a transit corridor, never an end state. Section 15.2 completes the ground survival discipline, binding Brazilian Jiu-Jitsu directly to the **Master Equation** ($P = \frac{W}{\Delta t}$) and the 11 Unified Principles:
 
 - **Distance**: Ground combat operates at absolute zero distance or minimal framed distance ($d_{\text{min}}$). The purpose of space on the ground is to manufacture the clearance required for the Technical Stand-Up or establish upright Knee on Belly, operationalizing **Principle 8: Avoidance When Superior**.
-- **Time**: Time on asphalt is an accelerating liability. Continuous dynamic scanning under **Principle 11: Know the Situation** detects emerging hazards, while standing limb destruction and vascular strangles resolve threats without prolonged ground tenure.
+- **Time**: Time on asphalt is an accelerating liability. Continuous dynamic scanning under **Principle 11: Situational Awareness** detects emerging hazards, while standing limb destruction and vascular strangles resolve threats without prolonged ground tenure.
 - **Power**: Power from the bottom is pure mechanical advantage. Bone struts bear load, asymmetric limb ratios control threat levers, Knee on Belly amplifies thoracic pressure, and bilateral carotid compression bypasses muscular strength entirely (**Principle 5: Concentration** and **Principle 6: Economy of Force**).
 
 This completes the **Brazilian Jiu-Jitsu Capstone** and concludes Part IV's discipline applications:

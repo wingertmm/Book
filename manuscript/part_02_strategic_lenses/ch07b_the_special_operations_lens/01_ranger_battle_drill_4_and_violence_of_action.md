@@ -73,9 +73,9 @@ The combative solution to a predatory near ambush is the ruthless application of
 
 In special operations doctrine, Violence of Action is defined as the unrestricted, explosive application of speed, strength, momentum, and aggression to dominate the enemy's decision cycle and overwhelm their capacity to resist. Violence of Action is not unhinged anger; it is an engineered tactical surge.
 
-When unexpected kinetic contact occurs inside the contact envelope, Principle 10 mandates that you do not take a single backward step. You execute the Ranger mandate: **assault directly into the threat's centerline**.
+When unexpected kinetic contact occurs inside the contact envelope, Principle 10 (Immediate Action) mandates that you do not take a single backward step. You execute the Ranger mandate: **assault directly into the threat's centerline**.
 
-``| Factor | Linear Retreat (Untrained) | Violence of Action (Principle 10) |
+``| Factor | Linear Retreat (Untrained) | Violence of Action (Principle 10: Immediate Action) |
 | :--- | :--- | :--- |
 | **Distance Dynamic** | Concedes forward drive; gets caught | Collapses distance into pocket (< 1 ft) |
 | **Striking Levers** | Attacker punches reach max velocity | Punches smothered before acceleration |

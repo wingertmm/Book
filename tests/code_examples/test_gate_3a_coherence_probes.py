@@ -123,8 +123,8 @@ def test_gate_3a_11_principles_representation_in_manuscript():
         "Surprise",
         "Avoidance",
         "Persistence",
-        "Actions on Contact",
-        "Know the Situation",
+        "Immediate Action",
+        "Situational Awareness",
     ]
     for p in real_principles:
         cnt = len(re.findall(re.escape(p), all_text, re.IGNORECASE))

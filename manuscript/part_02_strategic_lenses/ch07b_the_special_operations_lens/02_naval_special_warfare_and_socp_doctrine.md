@@ -140,4 +140,4 @@ Naval Special Warfare and SOCP doctrine elevate combat from physical scrambling 
 - Obey the motor law: "Slow is smooth, smooth is fast"—eliminate neuromotor noise to achieve the fastest physical execution.
 - Maintain the weapon audit: Never fight *with* a weapon when you must first fight *for* it; dominate the adversary's limbs before accessing your tools, and crush any reaching hand with decisive joint destruction.
 
-These special operations realities directly feed Part III's 11 Unified Principles, anchoring Principle 2 (Security of Position), Principle 6 (Economy of Force), Principle 10 (Actions on Contact), and Principle 11 (Know the Situation) in empirical modern warfare.
+These special operations realities directly feed Part III's 11 Unified Principles, anchoring Principle 2 (Security of Position), Principle 6 (Economy of Force), Principle 10 (Immediate Action), and Principle 11 (Situational Awareness) in empirical modern warfare.

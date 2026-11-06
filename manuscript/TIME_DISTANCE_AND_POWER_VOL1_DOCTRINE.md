@@ -199,8 +199,8 @@ When you strip away superstition, combat becomes a problem of engineering. Maste
 - **Chapter 16: Principle 7: Surprise**
 - **Chapter 17: Principle 8: Avoidance When Superior**
 - **Chapter 18: Principle 9: Persistence to Resolution**
-- **Chapter 19: Principle 10: Actions on Contact**
-- **Chapter 20: Principle 11: Know the Situation**
+- **Chapter 19: Principle 10: Immediate Action**
+- **Chapter 20: Principle 11: Situational Awareness**
 
 ---
 
@@ -2208,9 +2208,9 @@ The combative solution to a predatory near ambush is the ruthless application of
 
 In special operations doctrine, Violence of Action is defined as the unrestricted, explosive application of speed, strength, momentum, and aggression to dominate the enemy's decision cycle and overwhelm their capacity to resist. Violence of Action is not unhinged anger; it is an engineered tactical surge.
 
-When unexpected kinetic contact occurs inside the contact envelope, Principle 10 mandates that you do not take a single backward step. You execute the Ranger mandate: **assault directly into the threat's centerline**.
+When unexpected kinetic contact occurs inside the contact envelope, Principle 10 (Immediate Action) mandates that you do not take a single backward step. You execute the Ranger mandate: **assault directly into the threat's centerline**.
 
-``| Factor | Linear Retreat (Untrained) | Violence of Action (Principle 10) |
+``| Factor | Linear Retreat (Untrained) | Violence of Action (Principle 10: Immediate Action) |
 | :--- | :--- | :--- |
 | **Distance Dynamic** | Concedes forward drive; gets caught | Collapses distance into pocket (< 1 ft) |
 | **Striking Levers** | Attacker punches reach max velocity | Punches smothered before acceleration |
@@ -2416,7 +2416,7 @@ Naval Special Warfare and SOCP doctrine elevate combat from physical scrambling 
 - Obey the motor law: "Slow is smooth, smooth is fast"—eliminate neuromotor noise to achieve the fastest physical execution.
 - Maintain the weapon audit: Never fight *with* a weapon when you must first fight *for* it; dominate the adversary's limbs before accessing your tools, and crush any reaching hand with decisive joint destruction.
 
-These special operations realities directly feed Part III's 11 Unified Principles, anchoring Principle 2 (Security of Position), Principle 6 (Economy of Force), Principle 10 (Actions on Contact), and Principle 11 (Know the Situation) in empirical modern warfare.
+These special operations realities directly feed Part III's 11 Unified Principles, anchoring Principle 2 (Security of Position), Principle 6 (Economy of Force), Principle 10 (Immediate Action), and Principle 11 (Situational Awareness) in empirical modern warfare.
 
 ---
 
@@ -2710,8 +2710,8 @@ The matrix below provides the foundational lineage of every principle in our doc
 | **7. Surprise** | Qi unorthodox maneuver | Fast transient shift | Unexpected breakthrough | Ambush shock velocity | Dilemma transition trap |
 | **8. Avoidance When Superior** | Supreme victory is escape | High-energy disengage | Bypass fortified cities | Ranger kill-zone egress | Technical stand-up exit |
 | **9. Persistence to Resolution** | Relentless exploitation | Continuous OODA pressure | Deep pursuit to defeat | SEAL micro-goal chunking | The Ratchet Principle |
-| **10. Actions on Contact** | Immediate response to void | Instinctive dogfight reflex | Battle Drill execution | Ranger Battle Drill 4 near | Universal wedge default |
-| **11. Know the Situation** | Know self, know enemy | Continuous Orientation | Reconnaissance in force | 360-deg sector audit / SOCP | Constant limb audit |
+| **10. Immediate Action** | Immediate response to void | Instinctive dogfight reflex | Battle Drill execution | Ranger Battle Drill 4 near | Universal wedge default |
+| **11. Situational Awareness** | Know self, know enemy | Continuous Orientation | Reconnaissance in force | 360-deg sector audit / SOCP | Constant limb audit |
 
 ---
 
@@ -2723,7 +2723,7 @@ Notice the structural harmony across this matrix. No principle exists in isolati
 These principles govern the strategic envelope of conflict:
 - **Principle 1: Purpose First** directly mirrors Sun Tzu's declaration that the supreme victory is breaking the enemy's resistance without fighting, echoed by Danaher's rule that positional advances are meaningless if they violate the terminal objective.
 - **Principle 8: Avoidance When Superior** operationalizes Boyd's energy-maneuverability: when tactical victory is pyrrhic or secondary threats emerge, disengage to open standoff.
-- **Principle 11: Know the Situation** operationalizes Boyd's Orientation phase and modern CQB 360-degree sector clearance: maintain continuous awareness of secondary attackers, concealed blades, and terrain barriers.
+- **Principle 11: Situational Awareness** operationalizes Boyd's Orientation phase and modern CQB 360-degree sector clearance: maintain continuous awareness of secondary attackers, concealed blades, and terrain barriers.
 
 #### 2. Structural Principles (Principles 2, 5, 6)
 These principles govern the physics of the human skeleton and force generation:
@@ -2737,7 +2737,7 @@ These principles govern movement, momentum, and time compression:
 - **Principle 4: Initiative** unifies Boyd's OODA tempo, the 75th Ranger Regiment's Violence of Action (VoA), and Danaher's Attacker's Dilemma: dictate terms relentlessly, presenting simultaneous threats that overwhelm the adversary's cognitive bandwidth.
 - **Principle 7: Surprise** operationalizes Sun Tzu's *Qi* maneuvers and Boyd's fast transients: manipulate timing and attack angle so the strike connects inside the adversary's sensory lag window.
 - **Principle 9: Persistence to Resolution** marries armored pursuit doctrine with Navy SEAL micro-goal chunking and Danaher's Ratchet Principle: advance monotonically, locking in each gained millimeter so the enemy can never reset their base.
-- **Principle 10: Actions on Contact** translates Ranger Battle Drill 4 and Air Force emergency procedures into an unyielding combative law: under unexpected kinetic contact in a near ambush, deliberate thinking is fatal; immediately assault into the threat centerline with a pre-programmed structural wedge.
+- **Principle 10: Immediate Action** translates Ranger Battle Drill 4 and Air Force emergency procedures into an unyielding combative law: under unexpected kinetic contact in a near ambush, deliberate thinking is fatal; immediately assault into the threat centerline with a pre-programmed structural wedge.
 
 ---
 
@@ -2907,7 +2907,7 @@ Purpose First tells you where to steer the fight; it serves as the directional v
 
 $$\text{Distance} \longrightarrow \text{Time} \longrightarrow \text{Power}$$
 
-Yet a clear purpose cannot succeed if your physical structure collapses under impact. A strategic compass is useless if the ship's keel breaks on the first wave. To execute your objective on concrete, you must anchor your physical platform: **8.2 Principle 2: Security of Position: Defending the Anchor Under Pressure**.
+Yet a clear purpose cannot succeed if your physical structure collapses under impact. A strategic compass is useless if the ship's keel breaks on the first wave. To execute your objective on concrete, you must anchor your physical platform: **Chapter 11: Principle 2 — Security of Position: Defending the Anchor Under Pressure**.
 
 ---
 
@@ -3924,11 +3924,11 @@ The first nine principles establish the complete strategic, physical, and psycho
 
 How do you ensure these principles function reliably under catastrophic adrenal dump? How do you prevent system paralysis when an ambush strikes in total darkness?
 
-To answer these questions, we turn to the final two principles: the tactical architecture that ensures absolute operational survivability: **Chapter 11: Principles 10–11: Actions on Contact and Know the Situation**.
+To answer these questions, we turn to the final two principles: the tactical architecture that ensures absolute operational survivability: **Chapter 19: Principle 10 — Immediate Action** and **Chapter 20: Principle 11 — Situational Awareness**.
 
 ---
 
-# Chapter 19: Principle 10 — Actions on Contact: Immediate Subconscious Drilled Response
+# Chapter 19: Principle 10 — Immediate Action: Zero-Hesitation Response and Ambush Survival
 
 ## 19.1 Contact Reflexes: The Zero-Hesitation Response
 
@@ -3944,11 +3944,11 @@ In this crucible, conscious reasoning becomes a fatal liability. The human neoco
 
 That cognitive deliberation requires typical observed spans of 300 to 500 milliseconds. Under dynamic combat conditions, a committed strike or tackle covers terminal distance in 150 to 250 milliseconds. If you must consciously decide which technique to execute while incoming mass accelerates toward your jaw, you get hit before initiating physical movement.
 
-**Principle 10: Actions on Contact** mandates that you never rely on conscious decision-making during the opening shock of violence. Survive by delegating immediate physical defense to pre-conditioned, subcortical reflexes.
+**Principle 10: Immediate Action** mandates that you never rely on conscious decision-making during the opening shock of violence. Survive by delegating immediate physical defense to pre-conditioned, subcortical reflexes.
 
 ```
 +------------------------------------------------------------------------+
-|           CONSCIOUS DELIBERATION VS. PRINCIPLE 10 ACTION ON CONTACT    |
+|           CONSCIOUS DELIBERATION VS. PRINCIPLE 10 IMMEDIATE ACTION     |
 |                                                                        |
 |      CONSCIOUS DELIBERATION (Untrained)   PRINCIPLE 10 BATTLE DRILL    |
 |                                                                        |
@@ -3972,7 +3972,7 @@ That cognitive deliberation requires typical observed spans of 300 to 500 millis
 
 Train one response a thousand times rather than a thousand responses once; simplicity under stress is absolute.
 
-In military doctrine, U.S. Army Field Manual 3-0 (*Operations*) establishes the concept of **Actions on Contact**. When an infantry squad makes sudden contact with an enemy force, soldiers do not convene a tactical planning conference. 
+In military and tactical doctrine, the principle of **Immediate Action** (historically codified in U.S. Army Field Manual 3-0 *Operations* under **Actions on Contact**) establishes that when an infantry squad makes sudden contact with an enemy force, soldiers do not convene a tactical planning conference. 
 
 Instead, every soldier instantly executes a non-deliberative **Battle Drill**: returning suppression fire, taking cover, and establishing local security. Only after the battle drill blunts the ambush does the commander develop the fight and issue deliberate orders. In combat aviation, Department of the Air Force Doctrine Publication 1 (*Airpower Operations*) enforces the same doctrine: pilots drill emergency procedures until muscle memory executes them instantly, ensuring aircraft survival before adjusting flight strategy.
 
@@ -4052,24 +4052,24 @@ Let your drilled reflexes survive the contact; let your strategic mind direct th
 
 In personal defense on concrete, violence moves faster than conscious thought. An individual attempting to reason through an unexpected ambush suffers knockout before thoughts take physical shape. True mastery does not mean thinking faster; it means constructing reflexes that make thinking unnecessary during the opening moments of contact.
 
-Principle 10: Actions on Contact serves as the vital temporal bridge across **The Master Equation**:
+Principle 10: Immediate Action serves as the vital temporal bridge across **The Master Equation**:
 
 $$\text{Distance} \longrightarrow \text{Time} \longrightarrow \text{Power}$$
 
 When a predatory ambush strikes, distance unexpectedly collapses to near-zero. At zero distance, conscious cognition has zero time. If you pause to deliberate, the attacker's power impacts an unbraced structure with devastating effect.
 
-Actions on Contact rescues the defender from this trap:
+Immediate Action rescues the defender from this trap:
 - **Instantaneous Time Creation**: Delegating initial defense to a subcortical battle drill bypasses cortical lag, establishing rigid skeletal frames within 100 to 150 milliseconds.
 - **Power Absorption and Redirection**: Rigid forearm trusses and an anchored base absorb the attacker's initial impulse, protecting neurological centers and preventing balance collapse.
 - **Restoring Strategic Command**: The temporal window purchased by your battle drill brings the conscious Command Center online, allowing your strategic mind to direct power toward decisive neutralization or an immediate exit corridor.
 
 Your drilled battle drill survives the contact. But survival alone does not secure safety. Once the initial shockwave is absorbed and your Command Center comes online, you must continuously audit the evolving environment: Are there secondary attackers? Has a weapon appeared? Where is the illuminated exit?
 
-To govern that continuous threat audit, we turn to the final principle of personal defense: **11.2 Principle 11: Know the Situation**.
+To govern that continuous threat audit, we turn to the final principle of personal defense: **Chapter 20: Principle 11 — Situational Awareness: Continuous Dynamic Threat Audit and the Part III Grand Capstone**.
 
 ---
 
-# Chapter 20: Principle 11 — Know the Situation: Continuous Dynamic Threat Audit and the Part III Grand Capstone
+# Chapter 20: Principle 11 — Situational Awareness: Continuous Dynamic Threat Audit and the Part III Grand Capstone
 
 ## 20.1 Continuous Situational Awareness: The Multi-Vector Audit
 
@@ -4083,7 +4083,7 @@ On concrete, the duel assumption is fatal. Violence is an open, non-linear cruci
 
 Military doctrine formalizes this imperative. Sun Tzu wrote in *The Art of War*: *"Know the enemy and know yourself; in a hundred battles you will never be in peril."* U.S. Army Field Manual 3-0 (*Operations*) reinforces continuous reconnaissance: combat power applied without intelligence is blind force wasted. Air Force Doctrine Publication 1 (*Airpower Operations*) and John Boyd’s *Observe* phase state the same reality: the fighter who perceives environmental changes fastest dictates engagement tempo.
 
-Reject the duel illusion. **Principle 11: Know the Situation** demands maintaining a continuous, real-time **Dynamic Threat Audit** across four operational vectors:
+Reject the duel illusion. **Principle 11: Situational Awareness** demands maintaining a continuous, real-time **Dynamic Threat Audit** across four operational vectors:
 
 1. **Self**: Monitor base, skeletal posture, fatigue, and injuries. When protecting family, maintain position between the threat and protected parties.
 2. **Threat**: Track primary and secondary assailants. Watch intent shifts, pre-attack cues, and hands. Hands deploy weapons; hands strike. If you cannot see hands, treat them as armed.
@@ -4177,7 +4177,7 @@ The eleven principles organize into four interlocking operational pillars:
 1. **The Foundational Trinity (Principles 1–3)**: Establishes structural anchor. **Purpose First** defines the non-negotiable objective (survival and egress). **Security of Position** preserves base, posture, and balance. **Maneuver to Advantage** uses offline geometry to command the **Distance Domain**.
 2. **The Execution Triad (Principles 4–6)**: Governs kinetic force. **Initiative** seizes the **Time Domain**, compressing decision cycles. **Concentration** focuses mass into decisive biological vulnerabilities, dominating the **Power Domain**. **Economy of Force** acts as resource governor, replacing muscular fatigue with skeletal trusses.
 3. **The Adaptation Triad (Principles 7–9)**: Navigates asymmetric violence. **Surprise / Unpreparedness** acts as the force multiplier against unbraced targets. **Avoidance When Superior** serves as supreme risk governor, enforcing the Clean Exit. **Persistence to Resolution** sustains relentless drive when avoidance is geometrically denied.
-4. **The Dynamic Principles (Principles 10–11)**: Drives real-time execution in chaos. **Actions on Contact** delivers an immediate subcortical battle drill to survive opening ambushes. **Know the Situation** maintains continuous environmental intelligence across Self, Threat, Terrain, and Egress.
+4. **The Dynamic Principles (Principles 10–11)**: Drives real-time execution in chaos. **Immediate Action** delivers an immediate subcortical battle drill to survive opening ambushes. **Situational Awareness** maintains continuous environmental intelligence across Self, Threat, Terrain, and Egress.
 
 Together, all eleven principles integrate across **The Master Equation**:
 
@@ -4194,12 +4194,12 @@ $$\text{Distance} \longrightarrow \text{Time} \longrightarrow \text{Power}$$
 | **Adaptation Triad** | **7. Surprise / Unpreparedness** | Exploits unbraced states and broken cadence | Universal Force Multiplier |
 | | **8. Avoidance When Superior** | Enforces the Clean Exit and denies engagement | Strategic Risk Governor |
 | | **9. Persistence to Resolution** | Weathers ambush storms and drives forward | Sustaining Engine |
-| **Dynamic Principles** | **10. Actions on Contact** | Subcortical battle drill survives opening shock | Neural Execution Engine |
-| | **11. Know the Situation** | Continuous dynamic audit of battlespace | Environmental Intelligence |
+| **Dynamic Principles** | **10. Immediate Action** | Subcortical battle drill survives opening shock | Neural Execution Engine |
+| | **11. Situational Awareness** | Continuous dynamic audit of battlespace | Environmental Intelligence |
 
 The unified principles are complete. But principles without physical application remain abstractions. How do these eleven principles manifest when tested against real martial disciplines across the Four Ranges? How do they function inside the kicking range of Taekwondo, the clinch of Muay Thai, the scrambles of Wrestling, or ground survival in Brazilian Jiu-Jitsu?
 
-To test physics and strategy against reality, we transition from principle to application: **Part IV: Discipline Applications Across the Ranges (Chapters 12–16)**.
+To test physics and strategy against reality, we transition from principle to application: **Part IV: Discipline Applications Across the Ranges (Chapters 21–25)**.
 
 ---
 
@@ -4212,7 +4212,7 @@ Volume 1 has established combat as an exact, deterministic science governed by t
 We did not begin with techniques; we began with first principles:
 - **Part I: Foundations** mapped the core triad of combat, classified the Four Combat Ranges, and formulated the geometry of opportunity windows.
 - **Part II: Strategic Lenses** deconstructed the five great predecessor traditions—Sun Tzu's ancient asymmetry, John Boyd's supersonic OODA decision cycles, armored mechanized maneuver warfare, the lethal close-quarters survivability of Army Rangers, Navy SEALs, and SOCP, and John Danaher's mechanical grappling geometry. In Chapter 9, we synthesized these streams into the Grand Predecessor Matrix, proving that our laws are the inevitable mathematical convergence of centuries of combat experience.
-- **Part III: The 11 Unified Principles** codified these insights into invariant operational laws: Purpose First, Security of Position, Maneuver to Advantage, Initiative, Concentration, Economy of Force, Surprise, Avoidance When Superior, Persistence to Resolution, Actions on Contact, and Know the Situation.
+- **Part III: The 11 Unified Principles** codified these insights into invariant operational laws: Purpose First, Security of Position, Maneuver to Advantage, Initiative, Concentration, Economy of Force, Surprise, Avoidance When Superior, Persistence to Resolution, Immediate Action, and Situational Awareness.
 
 This complete theoretical architecture forms the bedrock of our doctrine. But strategy on paper is only the beginning of combat mastery.
 
@@ -4495,10 +4495,10 @@ If a safe exit or de-escalation corridor exists, it is the preferred resolution.
 ### Principle 9: Persistence to Resolution
 Continue tactical pressure until the primary objective is met or a superior disengagement option appears. Do not stop at the first partial hit if the attacker can still continue. Reassess continuously, but do not abandon effective control prematurely.
 
-### Principle 10: Actions on Contact
+### Principle 10: Immediate Action
 At the moment of contact, execute a pre-trained sequence without pause: recognize $\rightarrow$ lock purpose $\rightarrow$ choose $\rightarrow$ act $\rightarrow$ reassess. The sequence must be drilled until it executes automatically under stress. Beware the practitioner who has trained one fundamental action a thousand times.
 
-### Principle 11: Know the Situation
+### Principle 11: Situational Awareness
 Continuously update situational awareness regarding yourself, the adversary, concealed weapons, third-party threats, and the physical terrain. Accurate assessment of an adversary's skill level and commitment directly determines the required timing precision.
 
 ---

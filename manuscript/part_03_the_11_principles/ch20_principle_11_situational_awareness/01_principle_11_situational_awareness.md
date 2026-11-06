@@ -1,4 +1,4 @@
-# Chapter 20: Principle 11 — Know the Situation: Continuous Dynamic Threat Audit and the Part III Grand Capstone
+# Chapter 20: Principle 11 — Situational Awareness: Continuous Dynamic Threat Audit and the Part III Grand Capstone
 
 ## 20.1 Continuous Situational Awareness: The Multi-Vector Audit
 
@@ -12,7 +12,7 @@ On concrete, the duel assumption is fatal. Violence is an open, non-linear cruci
 
 Military doctrine formalizes this imperative. Sun Tzu wrote in *The Art of War*: *"Know the enemy and know yourself; in a hundred battles you will never be in peril."* U.S. Army Field Manual 3-0 (*Operations*) reinforces continuous reconnaissance: combat power applied without intelligence is blind force wasted. Air Force Doctrine Publication 1 (*Airpower Operations*) and John Boyd’s *Observe* phase state the same reality: the fighter who perceives environmental changes fastest dictates engagement tempo.
 
-Reject the duel illusion. **Principle 11: Know the Situation** demands maintaining a continuous, real-time **Dynamic Threat Audit** across four operational vectors:
+Reject the duel illusion. **Principle 11: Situational Awareness** demands maintaining a continuous, real-time **Dynamic Threat Audit** across four operational vectors:
 
 1. **Self**: Monitor base, skeletal posture, fatigue, and injuries. When protecting family, maintain position between the threat and protected parties.
 2. **Threat**: Track primary and secondary assailants. Watch intent shifts, pre-attack cues, and hands. Hands deploy weapons; hands strike. If you cannot see hands, treat them as armed.
@@ -106,7 +106,7 @@ The eleven principles organize into four interlocking operational pillars:
 1. **The Foundational Trinity (Principles 1–3)**: Establishes structural anchor. **Purpose First** defines the non-negotiable objective (survival and egress). **Security of Position** preserves base, posture, and balance. **Maneuver to Advantage** uses offline geometry to command the **Distance Domain**.
 2. **The Execution Triad (Principles 4–6)**: Governs kinetic force. **Initiative** seizes the **Time Domain**, compressing decision cycles. **Concentration** focuses mass into decisive biological vulnerabilities, dominating the **Power Domain**. **Economy of Force** acts as resource governor, replacing muscular fatigue with skeletal trusses.
 3. **The Adaptation Triad (Principles 7–9)**: Navigates asymmetric violence. **Surprise / Unpreparedness** acts as the force multiplier against unbraced targets. **Avoidance When Superior** serves as supreme risk governor, enforcing the Clean Exit. **Persistence to Resolution** sustains relentless drive when avoidance is geometrically denied.
-4. **The Dynamic Principles (Principles 10–11)**: Drives real-time execution in chaos. **Actions on Contact** delivers an immediate subcortical battle drill to survive opening ambushes. **Know the Situation** maintains continuous environmental intelligence across Self, Threat, Terrain, and Egress.
+4. **The Dynamic Principles (Principles 10–11)**: Drives real-time execution in chaos. **Immediate Action** delivers an immediate subcortical battle drill to survive opening ambushes. **Situational Awareness** maintains continuous environmental intelligence across Self, Threat, Terrain, and Egress.
 
 Together, all eleven principles integrate across **The Master Equation**:
 
@@ -123,8 +123,8 @@ $$\text{Distance} \longrightarrow \text{Time} \longrightarrow \text{Power}$$
 | **Adaptation Triad** | **7. Surprise / Unpreparedness** | Exploits unbraced states and broken cadence | Universal Force Multiplier |
 | | **8. Avoidance When Superior** | Enforces the Clean Exit and denies engagement | Strategic Risk Governor |
 | | **9. Persistence to Resolution** | Weathers ambush storms and drives forward | Sustaining Engine |
-| **Dynamic Principles** | **10. Actions on Contact** | Subcortical battle drill survives opening shock | Neural Execution Engine |
-| | **11. Know the Situation** | Continuous dynamic audit of battlespace | Environmental Intelligence |
+| **Dynamic Principles** | **10. Immediate Action** | Subcortical battle drill survives opening shock | Neural Execution Engine |
+| | **11. Situational Awareness** | Continuous dynamic audit of battlespace | Environmental Intelligence |
 
 The unified principles are complete. But principles without physical application remain abstractions. How do these eleven principles manifest when tested against real martial disciplines across the Four Ranges? How do they function inside the kicking range of Taekwondo, the clinch of Muay Thai, the scrambles of Wrestling, or ground survival in Brazilian Jiu-Jitsu?
 

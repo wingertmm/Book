@@ -98,10 +98,10 @@ If a safe exit or de-escalation corridor exists, it is the preferred resolution.
 ### Principle 9: Persistence to Resolution
 Continue tactical pressure until the primary objective is met or a superior disengagement option appears. Do not stop at the first partial hit if the attacker can still continue. Reassess continuously, but do not abandon effective control prematurely.
 
-### Principle 10: Actions on Contact
+### Principle 10: Immediate Action
 At the moment of contact, execute a pre-trained sequence without pause: recognize $\rightarrow$ lock purpose $\rightarrow$ choose $\rightarrow$ act $\rightarrow$ reassess. The sequence must be drilled until it executes automatically under stress. Beware the practitioner who has trained one fundamental action a thousand times.
 
-### Principle 11: Know the Situation
+### Principle 11: Situational Awareness
 Continuously update situational awareness regarding yourself, the adversary, concealed weapons, third-party threats, and the physical terrain. Accurate assessment of an adversary's skill level and commitment directly determines the required timing precision.
 
 ---
