@@ -92,11 +92,11 @@ Engaging beyond the minimum essential threshold is a failure of command discipli
 >    $$\eta = \frac{E_{\text{effective\_impact}}}{E_{\text{metabolic\_expended}}}$$
 >    Typical observed relationships under adrenal stress show that diffuse flurries and active muscular pushing yield near-zero efficiency ($\eta \to 0$), causing rapid exhaustion. Rigid skeletal framing and concentrated strikes maximize operational efficiency ($\eta \to 1$), delivering decisive survival outcomes with minimal energy expenditure.
 
-### Chapter 09 Capstone: The Execution Triad and the Master Equation
+### The Execution Triad and the Master Equation
 
 Govern your time with initiative, your power with concentration, and your resources with economy; victory without preservation is failure.
 
-Chapter 09 completes the second triad of unified combatives principles: **The Execution Triad**. Where the Foundational Trinity established your strategic intent and geometric platform, the Execution Triad drives the physical engagement to its conclusion:
+This section completes the second triad of unified combatives principles: **The Execution Triad**. Where the Foundational Trinity established your strategic intent and geometric platform, the Execution Triad drives the physical engagement to its conclusion:
 
 - **Principle 4: Initiative** acts as the **Temporal Engine**. It rejects passive turn-taking, eliminates the admiration pause, and compresses the adversary's decision cycle through relentless forward drive. Initiative governs **Time**.
 - **Principle 5: Concentration** acts as the **Kinetic Engine**. It rejects volumetric peppering, aligns the entire kinetic chain, and focuses maximum mass and impact pressure into unshieldable biomechanical choke points. Concentration governs **Power**.
@@ -113,4 +113,4 @@ $$\text{Distance} \longrightarrow \text{Time} \longrightarrow \text{Power}$$
 5. **Concentration (Principle 5)** unleashes **Power**, focusing mass and pressure into the decisive point.
 6. **Economy of Force (Principle 6)** preserves your physical resources and limbs across all three domains, ensuring you survive the fight with the energy required to escape.
 
-With the Foundational Trinity and the Execution Triad locked into your operational doctrine, you possess both the geometric architecture and the kinetic engine of combat. Yet violent encounters are rarely static exchanges between compliant opponents; adversaries resist, adapt, and attempt to ambush your flanks. To maintain your dominance against unpredictable chaos, you must master the principles of tactical adaptation: **Chapter 10: Principles 7–9: Surprise, Avoidance When Superior, and Persistence to Resolution**.
+With the Foundational Trinity and the Execution Triad locked into your operational doctrine, you possess both the geometric architecture and the kinetic engine of combat. Yet violent encounters are rarely static exchanges between compliant opponents; adversaries resist, adapt, and attempt to ambush your flanks. To maintain your dominance against unpredictable chaos, we transition to the principles of tactical adaptation: **Chapter 16: Principle 7 — Surprise**, **Chapter 17: Principle 8 — Avoidance When Superior**, and **Chapter 18: Principle 9 — Persistence to Resolution**.

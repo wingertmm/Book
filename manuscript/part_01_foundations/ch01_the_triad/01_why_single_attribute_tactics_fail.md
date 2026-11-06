@@ -64,7 +64,7 @@ Timing without power and mechanical structure produces ineffective contact. Inte
 > Power applied without timing is wasted momentum.  
 > Distance maintained without timing is temporary delay.  
 > Timing achieved without structural power is superficial contact.  
-> When the triad is synchronized, you stop burning energy on empty swings. Efficient fighters are effective fighters: they hit what they aim at, conserve their fuel tank, and never gas out under pressure.
+> When the triad is synchronized, the emergent result is total combat efficiency: an efficient fighter wins because they conserve their fuel tank, strike without resistance, and outlast the 20-second metabolic cliff.
 
 ---
 

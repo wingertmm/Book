@@ -166,7 +166,7 @@ W03_MANDATORY_CONCEPTS = [
     "Asymmetric Limb Ratio",
     "Skeletal Framing",
     "Metabolic Work",
-    "Chapter 09 Capstone",
+    "Execution Triad",
     "Master Equation",
 ]
 
