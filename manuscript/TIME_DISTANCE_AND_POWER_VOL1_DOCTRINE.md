@@ -260,7 +260,7 @@ The most common intuitive response to violence is hunting for a single fight-end
 
 In mechanical physics, power is not static muscular strength. Power is the rate of performing work across a defined time span:
 
-$$P = \frac{W}{\Delta t} = \vec{F} \cdot \vec{v}$$
+$$\mathbf{Power} = \frac{\mathbf{Work}}{\mathbf{Time}} = \mathbf{Force} \times \mathbf{Velocity}$$
 
 Power is the vector product of applied force and velocity. Generating force slowly produces a push; accelerating that same mass through high velocity produces a concussive shock wave.
 
@@ -308,7 +308,7 @@ $$\mathbf{Distance} \longrightarrow \mathbf{Time} \longrightarrow \mathbf{Timing
 This sequence is the Master Equation of personal combat.
 
 #### Distance Buys Time
-Distance is space, and space dictates reaction intervals ($t = d/v$).
+Distance is space, and space dictates reaction intervals ($\text{Time} = \text{Distance} / \text{Velocity}$).
 
 When an attacker stands inches from your chest, strike transit takes fractions of a second—well below reaction thresholds. You cannot observe, decide, and block before impact lands.
 
