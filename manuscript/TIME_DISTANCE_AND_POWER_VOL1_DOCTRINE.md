@@ -289,7 +289,7 @@ Transitions are the most vulnerable moment in combat. In transit, an adversary c
 Yet timing without posture produces self-destructive contact. Lunging to beat an opponent tilts the head outside the base of support, breaking spinal alignment. Striking without the head centered over the hips prevents ground reaction force from transmitting, buckling your own joints under the collision. Timing synchronizes with opportunity, but posture delivers the decisive effect.
 
 > [!IMPORTANT]
-> **The Law of Mutual Dependency**:  
+> **The Law of Combat Efficiency**:  
 > Combat efficiency ($\eta$) is the ratio of decisive tactical work to metabolic energy expended. In isolation, every attribute wastes energy:  
 > - **Power without timing** is kinetic waste—maximum force expended into braced defenses.  
 > - **Distance without timing** is spatial waste—ground and seconds burned without creating an opening.  
