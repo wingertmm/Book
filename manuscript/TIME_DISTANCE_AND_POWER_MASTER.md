@@ -518,13 +518,13 @@ $$\eta_{\text{combat}} = \frac{W_{\text{effective}}}{E_{\text{expended}}} \longr
 In mechanical physics, efficiency ($\eta$) measures the ratio of decisive work achieved ($W_{\text{effective}}$: collapsing an adversary's posture, neutralizing incoming force, or opening an escape corridor) relative to the biological energy expended ($E_{\text{expended}}$). An inefficient fighter fights both the adversary and their own anatomy, bleeding finite resources with every passing second.
 
 ##### The Capillary Occlusion Threshold and the Metabolic Cliff
-Under acute sympathetic nervous system activation—when heart rates surge beyond 175 beats per minute under predatory threat—the human body operates as a strictly bounded metabolic engine. At this intensity, the musculoskeletal system relies on two finite anaerobic energy pathways:
+Under acute sympathetic nervous system activation—when heart rates surge beyond 175 beats per minute under predatory threat—the human body operates as a strictly bounded metabolic engine (Brooks et al., 2005). At this intensity, the musculoskeletal system relies on two finite anaerobic energy pathways:
 1. **The Phosphagen Reservoir (ATP-CP)**: Supplies immediate explosive contractions, exhausting its chemical fuel within 5 to 10 seconds.
 2. **Fast Anaerobic Glycolysis**: Generates rapid cellular energy without oxygen, lasting roughly 20 to 30 seconds in untrained combatants before cellular acidosis causes metabolic failure.
 
 Why does an untrained combatant gas out so rapidly? The primary culprit is the **Capillary Occlusion Threshold**.
 
-When skeletal muscle contracts at greater than **20 to 30 percent of Maximum Voluntary Contraction (MVC)**, the swelling muscle bellies physically compress intramuscular arterioles and capillaries. Blood flow stops completely (acute local ischemia). Untrained fighters fight with frantic, 100 percent isometric death-grips, pushing and flexing with their arms, shoulders, and chest. Because their capillaries are pinched shut, oxygen cannot reach the muscle fibers, and metabolic waste (hydrogen ions, inorganic phosphate) cannot escape. They suffocate their own muscles from within.
+When skeletal muscle contracts at greater than **20 to 30 percent of Maximum Voluntary Contraction (MVC)**, the swelling muscle bellies physically compress intramuscular arterioles and capillaries (Lind & McNicol, 1967; Sjøgaard et al., 1988). Blood flow stops completely (acute local ischemia). Untrained fighters fight with frantic, 100 percent isometric death-grips, pushing and flexing with their arms, shoulders, and chest. Because their capillaries are pinched shut, oxygen cannot reach the muscle fibers, and metabolic waste (hydrogen ions, inorganic phosphate) cannot escape. They suffocate their own muscles from within.
 
 Within twenty to thirty seconds, they hit the **Metabolic Cliff**:
 - Forearm grip strength collapses by over 60 percent.
@@ -1301,7 +1301,7 @@ The defensive payoff is profound. Because *you* chose the attack vector before t
 
 > [!NOTE]
 > **The Mechanics Behind It: Hick's Law Inversion ($T = b \cdot \log_2(n + 1)$) and Deterministic Threat Collapsing**  
-> In cognitive psychology, Hick's Law states that the time ($T$) required to make a decision increases logarithmically with the number of potential stimulus choices ($n$):  
+> In cognitive psychology, the Hick-Hyman Law (Hick, 1952; Hyman, 1953) states that the time ($T$) required to make a decision increases logarithmically with the number of potential stimulus choices ($n$):  
 > 
 > $$T = b \cdot \log_2(n + 1)$$  
 > 
@@ -2438,7 +2438,7 @@ Simultaneously, your cervical spine flexes forward, turning your skull into an e
 
 In real-world violence, select techniques with negligible cost of failure and decisive upside; never choose high-downside gambles.
 
-To preserve Security of Position under life-or-death pressure, evaluate combat actions through Decision Theory and asymmetric risk. A *convex payoff* represents an asymmetric condition where downside risks remain tightly bounded while upside rewards remain open and decisive. Conversely, a *concave payoff* represents a catastrophe trap: modest potential gains coupled with unbounded, ruinous downside.
+To preserve Security of Position under life-or-death pressure, evaluate combat actions through Decision Theory and asymmetric risk (von Neumann & Morgenstern, 1944; Taleb, 2012). A *convex payoff* represents an asymmetric condition where downside risks remain tightly bounded while upside rewards remain open and decisive. Conversely, a *concave payoff* represents a catastrophe trap: modest potential gains coupled with unbounded, ruinous downside.
 
 Combat doctrine demands that you execute **Convex Tactics**. Select maneuvers that cost you almost nothing if they fail, but yield immediate structural dominance if they succeed. Reject concave gambles that offer a flashy victory at the risk of catastrophic positional failure.
 
@@ -2655,7 +2655,7 @@ To solve this lethal problem, martial arts systems cannot rely on sporting assum
 
 ### Ranger Battle Drill 4: The Geometry of Near vs. Far Ambush
 
-In U.S. Army Infantry doctrine and Ranger Handbook field directives, **Battle Drill 4: React to Ambush** categorizes hostile contacts into two distinct spatial and kinematic profiles: the **Far Ambush** and the **Near Ambush**.
+In U.S. Army Infantry doctrine and Ranger Handbook field directives (TC 3-21.76 / SH 21-76), **Battle Drill 4: React to Ambush** categorizes hostile contacts into two distinct spatial and kinematic profiles: the **Far Ambush** and the **Near Ambush**.
 
 ``| Tactical Factor | Far Ambush (> 25–50 meters) | Near Ambush (0–15 meters / Contact) |
 | :--- | :--- | :--- |
@@ -2798,7 +2798,7 @@ Naval Special Warfare operators and SOCP combatives instructors operate in the m
 
 For decades, the Navy SEAL selection pipeline (Basic Underwater Demolition/SEAL - BUD/S) suffered attrition rates exceeding seventy to eighty percent. Psychological and physiological research revealed that trainees did not fail because of weak muscles; they failed because novel, catastrophic stress overwhelmed their prefrontal cortex, triggering panic-induced hyperventilation and cognitive surrender.
 
-To counter this wetware failure, Naval Special Warfare instituted the **"Big Four" Mental Toughness Doctrine**. These four techniques are not motivational slogans; they are deliberate neuromuscular interventions designed to maintain executive cognitive control under acute adrenal surge:
+To counter this wetware failure, Naval Special Warfare instituted the **"Big Four" Mental Toughness Doctrine** (Naval Special Warfare Command, 2014). These four techniques are not motivational slogans; they are deliberate neuromuscular interventions designed to maintain executive cognitive control under acute adrenal surge:
 
 | Mechanism | Neurological Intervention | Combative Combat Application |
 | :--- | :--- | :--- |
@@ -2859,7 +2859,7 @@ This error-correction cycle adds typical observed delays of 300 to 600 milliseco
 
 In civilian martial arts schools, practitioners train in lightweight cotton gis or shorts on padded vinyl mats. In this pristine environment, rolling, pulling guard, or entangling limbs in complicated sweeps feels effective.
 
-The **Special Operations Combatives Program (SOCP)**, founded by Greg Thompson, demolished these sport assumptions. SOCP was created because modern operators do not fight naked on canvas; they fight in heavy combat boots, duty trousers, load-bearing plate carriers, helmets, and communications gear, carrying service rifles, holstered sidearms, fixed blades, and tourniquets.
+The **Special Operations Combatives Program (SOCP)**, founded by Greg Thompson (Thompson, 2010), demolished these sport assumptions. SOCP was created because modern operators do not fight naked on canvas; they fight in heavy combat boots, duty trousers, load-bearing plate carriers, helmets, and communications gear, carrying service rifles, holstered sidearms, fixed blades, and tourniquets.
 
 In this severe operational context, sport grappling is suicidal:
 - **Restricted Articulation**: Plate carriers and combat gear prevent deep spinal flexion and hip mobility, rendering sport inversions and guard retentions impossible.
@@ -2936,7 +2936,7 @@ For over a century, traditional martial arts and combat sports operated on intui
 
 This paradigm was shattered by **John Danaher**, a New Zealand philosopher and Brazilian Jiu-Jitsu professor at Renzo Gracie Academy in New York City. Danaher approached combat not as a traditional martial artist, but as an analytical epistemologist and mechanical engineer. 
 
-Danaher recognized that violence, stripped of mythology, is a deterministic physical system governed by classical mechanics, geometry, and human anatomy. Rather than memorizing thousands of isolated techniques, Danaher organized the entire discipline of human fighting into an **axiomatic problem-solving algorithm**. 
+Danaher recognized that violence, stripped of mythology, is a deterministic physical system governed by classical mechanics, geometry, and human anatomy. Rather than memorizing thousands of isolated techniques, Danaher organized the entire discipline of human fighting into an **axiomatic problem-solving algorithm** (Gracie & Danaher, 2001; Danaher, 2018). 
 
 To survive on concrete, we must strip away the sport-specific assumptions of Brazilian Jiu-Jitsu (points, time limits, soft mats) and translate Danaher's foundational four-step algorithm into an unyielding combative doctrine.
 
@@ -3820,7 +3820,7 @@ Yet driving the initiative requires precision. Driving forward with scattered, w
 
 Never scatter weak strikes across an attacker's armor; diffuse volume wastes energy and invites a lethal counter.
 
-In military doctrine, U.S. Army Field Manual 3-0 (*Operations*) and Army Doctrine Publication 3-0 establish the Principle of War: *Mass*: concentrate combat power at the decisive place and time. Department of the Air Force Doctrine Publication 1 (*Airpower Operations*) reinforces this mandate through *Concentration of Effects*: scattering air assets across peripheral targets burns fuel while leaving the enemy center of gravity intact. Sun Tzu stated the identical truth in *The Art of War*: concentrate your force against divided weakness to achieve overwhelming superiority.
+In military doctrine, U.S. Army Field Manual 3-0 (*Operations*) and Army Doctrine Publication 3-0 establish the Principle of War: *Mass*: concentrate combat power at the decisive place and time. Department of the Air Force Doctrine Publication 1 (*Airpower Operations*) reinforces this mandate through *Concentration of Effects*: scattering air assets across peripheral targets burns fuel while leaving the enemy center of gravity intact. Sun Tzu stated the identical truth in *The Art of War*: concentrate your force against divided weakness to achieve overwhelming superiority, while Lanchester's Square Law (Lanchester, 1916) proves mathematically that combat power scales with the square of concentrated force ($P \propto N^2$).
 
 In street self-defense on concrete, this reality is absolute. Consensual combat sports with weight classes, padded gloves, and rounds encourage high-volume combinations. Ring fighters rely on volumetric "peppering"—throwing five or six light punches to score points or disrupt rhythm. When a strike glances off a guard, the fighter resets behind gloves with minimal penalty.
 
@@ -3930,7 +3930,7 @@ Each principle builds the platform for the next:
 
 When these principles unite, you avoid attritional exchanges. You step offline, compress time, and deliver overwhelming force into a biomechanical failure point. The threat collapses, and your exit corridor opens.
 
-Yet applying maximum force requires strategic discipline. If you expend all your energy driving concentrated strikes against secondary targets or chasing a retreating adversary, you exhaust your physical reserves. To sustain your operational survivability across multiple threats and prolonged scrambles, you must govern your energy expenditure through **9.3 Principle 6: Economy of Force: The Asymmetric Limb Ratio and Resource Preservation**.
+Yet applying maximum force requires strategic discipline. If you expend all your energy driving concentrated strikes against secondary targets or chasing a retreating adversary, you exhaust your physical reserves. To sustain your operational survivability across multiple threats and prolonged scrambles, you must govern your energy expenditure through **Chapter 15: Principle 6 — Economy of Force: The Asymmetric Limb Ratio and Resource Preservation**.
 
 ---
 
@@ -4721,7 +4721,7 @@ On asphalt, trading blows is suicidal. Street violence has no rules, gloves, or 
 
 The primary defensive doctrine of personal defense is **Distance as Shield**. Space is your ultimate structural armor. An aggressor outside kicking perimeter cannot fracture your jaw without physically crossing intervening terrain ($\Delta x = v \cdot \Delta t$). That physical transit takes measurable time, telegraphs their hostile vector, and expands your reactive decision window.
 
-Kicking range ($d \approx d_{\text{kick}}$) is not sport acrobatics; it is perimeter defense. **Taekwondo**, stripped of Olympic point-scoring rules, is the martial art of outermost standoff control. It organizes defense around an asymmetric spatial reality: striking the adversary while keeping your vital command center outside their physical reach.
+Kicking range ($d \approx d_{\text{kick}}$) is not sport acrobatics; it is perimeter defense. **Taekwondo**, codified in its foundational modern syllabus by General Choi Hong Hi (Choi, 1972) and stripped of Olympic point-scoring rules, is the martial art of outermost standoff control. It organizes defense around an asymmetric spatial reality: striking the adversary while keeping your vital command center outside their physical reach.
 
 ```text
 +------------------------------------------------------------------------+
@@ -5246,7 +5246,7 @@ When an adversary drops below your waist, striking must yield to grappling lever
 
 Refuse to surrender posture or base for a cheap offensive shot; in upright combat, structural alignment is your primary weapon. When kicking distance collapses and intermediate frames fail, defense degenerates into a violent collision. Striking space evaporates. Untrained fighters respond by bending forward at the waist, reaching out, and dropping their eyes. That error surrenders the fight. Bending at the waist projects your center of gravity outside your footprint, disengaging hip musculature and exposing your cervical spine.
 
-Combative **Wrestling** is the physical science of maintaining an unyielding personal base while systematically dismantling the opponent's foundation. Inside tie-up range, stability rests on three structural pillars: center of gravity, base of support, and cervical spinal alignment.
+Combative **Wrestling**, rooted in the biomechanical fundamentals of scholastic and freestyle engineering (Gable, 1999; USA Wrestling, 2012), is the physical science of maintaining an unyielding personal base while systematically dismantling the opponent's foundation. Inside tie-up range, stability rests on three structural pillars: center of gravity, base of support, and cervical spinal alignment.
 
 ```text
 +------------------------------------------------------------------------+
@@ -6257,7 +6257,7 @@ Expect your pulse to surge instantly; design your tactics around autonomic arous
 
 Real violence removes every safety rail. When a predator blocks your path, the amygdala bypasses the prefrontal cortex, signaling the hypothalamus to activate the sympathoadrenal axis. Epinephrine, norepinephrine, and cortisol flood the bloodstream. Within heartbeats, vasoconstriction clamps peripheral capillaries, shunting blood away from fingers toward locomotive core muscles. Hands turn cold and numb; the core tightens.
 
-Human performance under this biological surge maps across four distinct heart-rate arousal zones, formulated through empirical studies by Bruce Siddle and combat researchers:
+Human performance under this biological surge maps across four distinct heart-rate arousal zones, formulated through empirical studies by Bruce Siddle and combat researchers (Siddle, 1995):
 
 - **Baseline Envelope ($60\text{--}80\ \text{BPM}$)**: Normal resting physiology. The prefrontal cortex retains analytical capacity, fine motor dexterity is effortless, and sensory bandwidth operates at baseline fidelity.
 - **Zone 1: Optimal Combat Performance ($115\text{--}145\ \text{BPM}$)**: The peak operational window. Elevated cardiac output increases muscle contractility without degrading coordination. Visual tracking remains sharp, reaction latency drops to minimum, and the cognitive Command Center processes threat vectors with peak efficiency.
@@ -6334,7 +6334,7 @@ To survive the Autonomic Cascade, you must operationalize three fundamental coun
 > ### The Mechanics Behind It: Heart Rate Performance Functions, Visual Field Attenuation, and Tachypsychic Frame Density
 >
 > 1. **Sympathetic Arousal & Cognitive Performance Modeling**:  
->    Human performance under autonomic arousal follows an asymmetric inverted-U function (Siddle-Yerkes-Dodson relationship):
+>    Human performance under autonomic arousal follows an asymmetric inverted-U function (Siddle-Yerkes-Dodson relationship; Yerkes & Dodson, 1908; Siddle, 1995):
 >    $$P(HR) = P_{\text{baseline}} + (P_{\text{peak}} - P_{\text{baseline}}) \cdot \exp\left(-\frac{(HR - HR_{\text{opt}})^2}{2\sigma^2}\right)$$
 >    Where $HR_{\text{opt}} \approx 115\text{--}145\ \text{BPM}$. As heart rate exceeds $145\ \text{BPM}$, vasoconstriction and neural shunting degrade motor processing. Above $175\ \text{BPM}$, executive prefrontal capability drops precipitously ($P_{\text{cognitive}} \to 0.15$), inducing functional hypofrontality.
 >
@@ -6516,7 +6516,7 @@ Every time your brain commands a physical movement—stepping into an angle, rot
 
 When you repeat a movement with intense, deliberate focus, microscopic glial cells called oligodendrocytes detect repeated electrical firing. These cells respond by wrapping dense concentric layers of a lipid-protein membrane—**Myelin**—around the active axon. 
 
-Myelin functions as bio-electrical insulation. It prevents ion leakage and forces the electrical impulse to jump between the Nodes of Ranvier in rapid saltatory conduction. With each hundred repetitions of flawless mechanical execution, the myelin sheath thickens. Heavily myelinated motor tracts accelerate nerve conduction velocities from two meters per second up to one hundred and twenty meters per second—a sixty-fold increase in signal speed. 
+Myelin functions as bio-electrical insulation. It prevents ion leakage and forces the electrical impulse to jump between the Nodes of Ranvier in rapid saltatory conduction (Fields, 2008; Coyle, 2009). With each hundred repetitions of flawless mechanical execution, the myelin sheath thickens. Heavily myelinated motor tracts accelerate nerve conduction velocities from two meters per second up to one hundred and twenty meters per second—a sixty-fold increase in signal speed. 
 
 A fighter whose primary strikes and frames are densely myelinated does not react faster because their muscles contract quicker; they react faster because the command arrives at the motor endplate before an opponent's nervous system completes a sensory cycle.
 
@@ -6528,7 +6528,7 @@ Automate gross mechanics into single-signal motor engrams; under survival terror
 
 Under the acute sympathetic surge analyzed in Chapter 18, prefrontal hypofrontality starves the executive cortex of oxygen and glucose. If a technique requires conscious assembly of separate parts, the system crashes. The fighter freezes mid-motion or flails wildly.
 
-Through rigorous **Deliberate Practice**, the nervous system solves this bottleneck via **Cognitive Chunking**. The brain consolidates the entire sequence into a unified **Motor Engram**—a consolidated neuro-synaptic program stored in the basal ganglia and cerebellum. 
+Through rigorous **Deliberate Practice** (Ericsson et al., 1993), the nervous system solves this bottleneck via **Cognitive Chunking** (Miller, 1956). The brain consolidates the entire sequence into a unified **Motor Engram**—a consolidated neuro-synaptic program stored in the basal ganglia and cerebellum (Schmidt, 1975). 
 
 Once an engram consolidates, the conscious mind no longer supervises individual muscle fibers. The prefrontal cortex issues a single high-level operational intent: *Frame and Drive*. The subcortical engine executes the entire kinetic chain automatically. This transition from conscious computation to **Subconscious Automation** reduces decision latency from nearly a second down to milliseconds, preserving precious cognitive bandwidth to assess escape corridors and flanking threats.
 
@@ -6612,7 +6612,7 @@ Understanding the biology of myelination and the unforgiving Law of Permanence s
 
 Never introduce chaos before structure; stress inoculates clean technique, but premature chaos cements panic. Section 19.1 and Section 19.2 established the biological reality of motor learning: the brain permanently insulates whatever neural pathway repeatedly fires. This establishes the central paradox of combatives: if practice makes permanent, how do you train for the terror of violent combat without degrading your form into panicked flailing?
 
-The answer is **Stress Inoculation**—the methodical, tiered application of pressure to expand your performance envelope without triggering neurological collapse. Throwing an unconditioned novice into full-contact chaos does not forge a warrior; it forces heart rate into Zone 3 hypofrontality, destroying motor control and permanently myelinating panic. To build reflexes that survive violence, you must climb a structured inoculation ladder.
+The answer is **Stress Inoculation** (Meichenbaum, 1985)—the methodical, tiered application of pressure to expand your performance envelope without triggering neurological collapse. Throwing an unconditioned novice into full-contact chaos does not forge a warrior; it forces heart rate into Zone 3 hypofrontality, destroying motor control and permanently myelinating panic. To build reflexes that survive violence, you must climb a structured inoculation ladder.
 
 ---
 
@@ -6664,7 +6664,7 @@ You never deliberate. The decision point funnels all tactical possibilities into
 
 Focus on the physical outcome, not the internal mechanics; let the body self-organize the strike. When coaches instruct fighters, they often overload them with internal mechanical commands: *"Keep your elbow tucked at 35 degrees, contract your abdominal wall, rotate your heel 90 degrees, and tighten your grip."*
 
-Motor learning research led by Dr. Gabriele Wulf proves that internal focus of attention severely degrades motor execution. Focusing internally on muscle contractions forces the conscious prefrontal cortex to micromanage neuromuscular firing. This conscious interference causes antagonistic muscle co-contraction—your biceps actively resisting your triceps—which drains kinetic energy, slows strike velocity, and spikes reaction latency.
+Motor learning research led by Dr. Gabriele Wulf (Wulf, 2007, 2013; Halperin et al., 2016) proves that internal focus of attention severely degrades motor execution. Focusing internally on muscle contractions forces the conscious prefrontal cortex to micromanage neuromuscular firing. This conscious interference causes antagonistic muscle co-contraction—your biceps actively resisting your triceps—which drains kinetic energy, slows strike velocity, and spikes reaction latency.
 
 In contrast, an external **Outcome Focus** directs attention toward the tactical objective outside the body: *"Drive your fist through the back wall," "slam his sternum into the pillar,"* or *"drive his chin past his heels."*
 
@@ -6744,7 +6744,7 @@ Inside grappling range, accept that you will sustain cuts. Gross-motor 2-on-1 co
 
 Never fight two attackers at once; flank the lead threat and use their body as a physical shield against the second. In sport combat, rules enforce a boundary: one athlete faces one opponent under referee supervision. On the street, predators hunt in packs. Asymmetric violence frequently presents coordinated assailants. In a duel, trading strikes or accepting a temporary setback can be managed. Against multiple adversaries, a single misstep is fatal.
 
-The physics of multi-attacker violence is defined by **Lanchester's Law**—specifically, Lanchester's Square Law. Where forces concentrate simultaneously, systemic combat power scales with the square of operational numbers ($P \propto N^2$). In a two-on-one altercation ($N = 2, M = 1$), the attackers' collective combat effectiveness is four times greater ($2^2 / 1^2 = 4$). The secondary attacker delivers strikes from your blind spot while your frames and cognitive bandwidth are fully occupied. If a third attacker joins ($N = 3$), the asymmetric ratio explodes to nine-to-one.
+The physics of multi-attacker violence is defined by **Lanchester's Law**—specifically, Lanchester's Square Law (Lanchester, 1916). Where forces concentrate simultaneously, systemic combat power scales with the square of operational numbers ($P \propto N^2$). In a two-on-one altercation ($N = 2, M = 1$), the attackers' collective combat effectiveness is four times greater ($2^2 / 1^2 = 4$). The secondary attacker delivers strikes from your blind spot while your frames and cognitive bandwidth are fully occupied. If a third attacker joins ($N = 3$), the asymmetric ratio explodes to nine-to-one.
 
 The primary tactic of predatory groups is **The Encirclement Trap**. Assailants instinctively fan out into a flanking pincer arc. One advances along your centerline to capture visual attention, while their accomplice drifts around your flank into your blind spot. Remaining stationary or backpedaling linearly feeds the trap, allowing the pincer to close behind your shoulders. The instant an adversary establishes position outside your peripheral vision, reactionary capability evaporates. You will be blindsided by a strike to the mastoid or tackled before you can orient.
 
@@ -6935,6 +6935,15 @@ Objective reasonableness rests on three non-negotiable legal prongs:
 3. **Active Resistance or Flight**: Was the subject aggressively driving an attack, or were they retreating, submitting, or already incapacitated?
 
 If your defensive response cannot satisfy these three prongs under objective scrutiny, the law strips your self-defense immunity, recasting your martial prowess as felonious violence.
+
+Beyond constitutional reasonableness, civilian self-defense law requires satisfying five cumulative statutory elements (Branca, 2016; Model Penal Code § 3.04):
+- **Innocence**: You cannot have initiated, provoked, or escalated the confrontation.
+- **Imminence**: The threat must be active or immediately impending; prospective or past harm cannot justify force.
+- **Proportionality**: Force must match the threat gradient, deploying non-deadly force against non-deadly threats and lethal force only against imminent death or grave bodily harm.
+- **Avoidance**: You must exhaust safe retreat if mandated by statutory jurisdiction.
+- **Reasonableness**: Your threat perception and physical response must be objectively sound.
+
+If the prosecution invalidates even one of these five elements, your self-defense claim collapses entirely.
 
 ---
 
@@ -7477,16 +7486,22 @@ Every physical action must withstand post-incident legal scrutiny across all fiv
 
 # ANNOTATED BIBLIOGRAPHY & CITATIONS
 
-Authoritative references backing the strategy, military doctrine, martial arts lineage, empirical neuroscience, biomechanics, forensics, and legal principles in *Time, Distance, and Power*.
+Authoritative references backing the strategy, military doctrine, martial arts lineage, empirical neuroscience, biomechanics, forensics, operations research, and legal principles in *Time, Distance, and Power*.
 
 ---
 
-## 1. Classical Military Strategy & Sun Tzu
+## 1. Classical Military Strategy & Maneuver Warfare
 
 - **Sun Tzu (trans. Griffith, S.B., 1963)**: *The Art of War*. Oxford University Press.
   - *Context & Impact*: Foundational strategic doctrine for Chapter 05. Specifically informs Chapter 1 (Estimates / Pre-calculation of combat parameters), Chapter 3 (Offensive Strategy / Resolving conflict without physical collision; avoiding what is strong and striking what is weak), and Chapter 6 (Vulnerability Targeting and Deception).
 - **Clausewitz, Carl von (1832)**: *On War* (ed. & trans. Howard, M. & Paret, P., 1976). Princeton University Press.
-  - *Context & Impact*: Establishes the concepts of friction in combat, the center of gravity, and the principle of economy of force, which serve as foundational pillars for Chapters 07 and 09.
+  - *Context & Impact*: Establishes the concepts of friction in combat, the center of gravity (*Schwerpunkt*), and the principle of economy of force, serving as foundational pillars for Chapters 07 and 09.
+- **Guderian, Heinz (1937)**: *Achtung - Panzer! The Development of Armoured Forces, Their Tactics and Operational Potential* (trans. Christopher Duffy, 1992). Arms and Armour Press.
+  - *Context & Impact*: Codifies modern mechanized maneuver doctrine, focusing mass (*Schwerpunkt*) at a single decisive breakthrough point, bypassing fortified strongpoints, and maintaining continuous operational momentum. Directly informs Chapter 07 and Principle 5.
+- **Fuller, J. F. C. (1932)**: *Lectures on F.S.R. III: Operations Between Mechanized Forces*. Sifton Praed & Co.
+  - *Context & Impact*: Theoretical pioneer of armored penetration and paralysis of enemy command-and-control rather than attritional destruction. Anchors the Ground Maneuver Lens in Chapter 07.
+- **Liddell Hart, B. H. (1954)**: *Strategy: The Indirect Approach*. Faber & Faber.
+  - *Context & Impact*: Details the operational necessity of avoiding frontal collisions and seeking the line of least resistance and least expectation, serving as an intellectual bridge between Sun Tzu and modern tactical movement.
 
 ---
 
@@ -7496,61 +7511,124 @@ Authoritative references backing the strategy, military doctrine, martial arts l
   - *Context & Impact*: Directly informs the strategic frameworks of Part II and Part III, specifically the operational principles of Speed, Range, Flexibility, Versatility, Concentration of Effects, Priority, and Synergistic Balance.
 - **Boyd, John R. (1987)**: *A Discourse on Winning and Losing*. Air University Press.
   - *Context & Impact*: Primary theoretical foundation for Chapter 06. Establishes the Observe-Orient-Decide-Act (OODA) loop, fast-transient mental maneuvers, and the doctrine of collapsing an opponent's decision cycle through unexpected tempo and geometry.
+- **Boyd, John R., & Christie, Thomas (1964)**: *Air-to-Air Energy-Maneuverability Performance*. Eglin AFB: Air Proving Ground Center.
+  - *Context & Impact*: The foundational physics treatise establishing Energy-Maneuverability (E-M) theory, quantifying specific excess power ($P_s$) and maneuver trade-offs. Translated in Chapter 06 to terrestrial footwork and energy retention in combatives.
 - **Warden, John A. III (1995)**: *The Enemy as a System*. Airpower Journal, 9(1), 40–55.
   - *Context & Impact*: Informs the systems-level targeting framework of Chapter 06, analyzing an adversary as an interconnected physiological and mechanical system with distinct centers of gravity.
 
 ---
 
-## 3. Ground Maneuver & Military Combatives
+## 3. Ground Maneuver, Special Operations & Tactical Combatives
 
 - **Headquarters, Department of the Army (2017)**: *Field Manual 3-0 (FM 3-0): Operations*. Department of the Army.
   - *Context & Impact*: Informs Chapter 07 and Chapter 11. Anchors the operational doctrines of Maneuver, Security, Mass, Economy of Force, and Actions on Contact.
 - **Headquarters, Department of the Army (2012)**: *Training Circular 3-25.150 (TC 3-25.150): Combatives*. Department of the Army.
-  - *Context & Impact*: Informs the close-quarters tactical rules across Chapters 02, 14, and 20, establishing that a combatant must either close distance to negate striking leverage or create distance to disengage and deploy intermediate tools.
+  - *Context & Impact*: Informs close-quarters tactical rules across Chapters 02, 14, and 20, establishing that a combatant must either close distance to negate striking leverage or create distance to disengage and deploy intermediate tools.
+- **Headquarters, Department of the Army (2017/2021)**: *Training Circular 3-21.76 (TC 3-21.76 / SH 21-76): Ranger Handbook*. U.S. Army Infantry School, Fort Benning.
+  - *Context & Impact*: Codifies Battle Drill 4 (React to Ambush: Near vs. Far Ambush) and the doctrine of Violence of Action (VoA). Provides the primary operational blueprint for Chapter 07B and Principle 10 (Immediate Action), proving that aggressive forward assault through the kill zone is the sole mathematical escape from a near ambush.
+- **Thompson, Greg (2010)**: *H2H: Hand to Hand Combat*. Special Operations Combatives Program (SOCP) / USASOC.
+  - *Context & Impact*: Authoritative doctrine for close-quarters fighting in tactical kit and encumbered gear. Informs Chapter 07B, Chapter 15, and Chapter 20 on the critical distinction between "fighting for the weapon" versus "fighting with the weapon," two-on-one limb ties, upright Knee on Belly, and weapon-access auditing.
+- **Naval Special Warfare Command (2014)**: *Naval Special Warfare Physical Training and Mental Toughness Protocols*. Naval Special Warfare Center, Coronado.
+  - *Context & Impact*: Codifies the "Big Four" mental conditioning doctrine (Arousal Control via 4x4 Box Breathing, Mental Rehearsal, Directive Self-Talk, Micro-Goal Chunking) and the operational maxim "Slow is Smooth, Smooth is Fast." Anchors Section 7B.2 and Section 19.3.
 
 ---
 
-## 4. Martial Arts & Tactical Philosophy
+## 4. Martial Arts Traditions & Grappling Lineages
 
 - **Lee, Bruce (1975)**: *Tao of Jeet Kune Do*. Ohara Publications.
   - *Context & Impact*: Foundational tactical source for Chapters 01, 12, and 16. Informs principles of non-telegraphic movement, the intercepting fist (*Jeet*), economy of motion, and the profound efficiency of mastering one fundamental action ten thousand times.
 - **Kano, Jigoro (1932)**: *Mind Over Muscle: Writings from the Founder of Judo*. Kodansha International.
-  - *Context & Impact*: Informs the mechanical efficiency principles of Chapters 08 and 14, specifically *Seiryoku Zenyo* (maximum efficiency with minimum effort) and using an adversary's committed momentum to effect their structural collapse.
-- **Grossman, Dave & Christensen, Loren W. (2004)**: *On Combat: The Psychology and Physiology of Deadly Conflict in War and in Peace*. PPCT Research Publications.
-  - *Context & Impact*: Primary empirical reference for the physiological stress models in Chapters 04 and 18, detailing heart-rate arousal thresholds, vasoconstriction, auditory exclusion, and fine-motor degradation.
-- **De Becker, Gavin (1997)**: *The Gift of Fear: Survival Signals That Protect Us from Violence*. Little, Brown and Company.
-  - *Context & Impact*: Informs the pre-incident threat assessment and intuitive cue recognition frameworks in Chapters 03 and 17.
+  - *Context & Impact*: Informs the mechanical efficiency principles of Chapters 01, 08, and 14, specifically *Seiryoku Zen'yo* (maximum efficiency with minimum effort) and using an adversary's committed momentum to effect their structural collapse.
+- **Gracie, Renzo, & Danaher, John (2001)**: *Mastering Jujitsu*. Human Kinetics.
+  - *Context & Impact*: Landmark theoretical treatise on the history, mechanical phases, and conceptual evolution of Brazilian Jiu-Jitsu. Analyzes the four phases of combat, closing distance, taking down the opponent, and applying positional dominance before terminal submission.
+- **Gracie, Helio (2005)**: *Gracie Jiu-Jitsu*. Gracie Publications.
+  - *Context & Impact*: Details the foundational self-defense curriculum of Brazilian Jiu-Jitsu, emphasizing structural survival, cervical posture, and energy conservation against larger, stronger aggressors.
+- **Choi, Hong Hi (1972)**: *Taekwon-Do: The Art of Self-Defence* (ITF Encyclopedia). International Taekwon-Do Federation.
+  - *Context & Impact*: Primary source for the biomechanical codification of long-range kicking levers (*ap chagi*, *yeop chagi*, *dollyo chagi*), linear trajectory, and hip rotation in Chapter 12.
+- **Gable, Dan (1999)**: *Coaching Wrestling Successfully*. Human Kinetics; and **USA Wrestling (2012)**: *Core Curriculum: Folkstyle and Freestyle Mechanics*.
+  - *Context & Impact*: Codifies the foundational engineering of athletic base, cervical alignment (head position), underhook pummeling, and dynamic sprawl defense in Chapter 14.
 
 ---
 
-## 5. Empirical Neuroscience, Motor Learning & Tactical Stress
+## 5. Algorithmic Combatives & Mechanical Geometry
 
-### Automaticity & Cortical-Subcortical Shift
+- **Danaher, John (2018–2020)**: *The Danaher System: Instructional Series* (including *Enter the System*, *Go Further Faster*, and *Feet to Floor*). BJJ Fanatics.
+  - *Context & Impact*: Foundational theoretical architecture for Chapter 08 (Chapter 07C), Chapter 15, and the Grand Predecessor Matrix. Systematizes combat into an axiomatic problem-solving algorithm: 4-step progression, static spatial wedges versus dynamic rotational levers, the Attacker's Dilemma, and the Combative Ratchet.
+
+---
+
+## 6. Combat Bioenergetics & Exercise Physiology
+
+- **Lind, A. R., & McNicol, G. W. (1967)**: *Local and central circulatory responses to sustained contractions*. **The Journal of Physiology**, 192(3), 575–593. [DOI: 10.1113/jphysiol.1967.sp008318](https://doi.org/10.1113/jphysiol.1967.sp008318).
+  - *Context & Impact*: Landmark physiological investigation demonstrating that intramuscular tissue pressure occludes arterial blood flow during sustained isometric contractions exceeding 15–20% of Maximum Voluntary Contraction (MVC). Anchors the Capillary Occlusion Threshold and metabolic cliff model in Section 1.2.
+- **Sjøgaard, G., Savard, G., & Juel, C. (1988)**: *Muscle blood flow during isometric contractions*. **Acta Physiologica Scandinavica**, 134(4), 545–552. [DOI: 10.1111/j.1748-1716.1988.tb08532.x](https://doi.org/10.1111/j.1748-1716.1988.tb08532.x).
+  - *Context & Impact*: Confirms localized muscle ischemia, rapid intracellular lactate and proton accumulation, and progressive motor unit failure under sustained isometric contraction. Validates why skeletal framing (<15% MVC) preserves combat endurance.
+- **Brooks, G. A., Fahey, T. D., & Baldwin, K. M. (2005)**: *Exercise Physiology: Human Bioenergetics and Its Applications* (4th ed.). McGraw-Hill.
+  - *Context & Impact*: Comprehensive authority on the three human bioenergetic systems: the immediate phosphagen reservoir (ATP-CP, 5–10s), fast anaerobic glycolysis (20–30s), and oxidative phosphorylation. Informs the Two-Gear Bioenergetic Engine (Skeletal Cruise + Alactic Bursts) in Section 1.2.
+
+---
+
+## 7. Empirical Neuroscience, Motor Learning & Skill Acquisition
+
+- **Schmidt, R. A. (1975)**: *A schema theory of discrete motor skill learning*. **Psychological Review**, 82(4), 225–260. [DOI: 10.1037/h0076770](https://doi.org/10.1037/h0076770); and **Schmidt, R. A., & Lee, T. D. (2011)**: *Motor Control and Learning: A Behavioral Emphasis* (5th ed.). Human Kinetics.
+  - *Context & Impact*: Foundational architecture for motor programs and generalized motor schemas. Explains how the central nervous system retrieves and parameterizes invariant movement commands under stress, directly informing Chapter 04, Chapter 17, and Chapter 19.
+- **Wulf, G. (2007)**: *Attention and Motor Skill Learning*. Human Kinetics; and **Wulf, G. (2013)**: *Attentional focus and motor learning: A review of 15 years*. **International Review of Sport and Exercise Psychology**, 6(1), 77–104. [DOI: 10.1080/1750984X.2012.723728](https://doi.org/10.1080/1750984X.2012.723728).
+  - *Context & Impact*: Establishes the Constrained Action Hypothesis and the profound superiority of an external outcome focus over internal conscious limb control. Formally anchors "The Wulf Effect" in Section 19.4.
+- **Halperin, I., Chapman, D. W., Martin, D. T., Lewthwaite, R., & Wulf, G. (2016)**: *Attentional focus effects on punch impact force and velocity in elite boxers*. **Journal of Sports Sciences**, 34(14), 1364–1372. [DOI: 10.1080/02640414.2015.1123282](https://doi.org/10.1080/02640414.2015.1123282).
+  - *Context & Impact*: Demonstrates that an external focus (driving force through a target) yields significantly higher impact velocity and kinetic force than an internal focus (conscious micromanagement of limbs). Validates the Outcome Focus doctrine in Chapter 04 and Chapter 19.
+- **Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993)**: *The role of deliberate practice in the acquisition of expert performance*. **Psychological Review**, 100(3), 363–406. [DOI: 10.1037/0033-295X.100.3.363](https://doi.org/10.1037/0033-295X.100.3.363).
+  - *Context & Impact*: Proves that high-level operational skill is not a product of unstructured gym hours, but of deliberate, highly structured practice targeted at immediate corrective feedback. Anchors Chapter 04 and Chapter 19.
+- **Fields, R. D. (2008)**: *White matter in learning and cognitive disorders*. **Trends in Neurosciences**, 31(7), 361–370. [DOI: 10.1016/j.tins.2008.04.001](https://doi.org/10.1016/j.tins.2008.04.001); and **Coyle, D. (2009)**: *The Talent Code: Greatness Isn't Born. It's Grown. Here's How*. Bantam Books.
+  - *Context & Impact*: Details the cellular mechanisms of oligodendrocyte activation, concentric myelin wrapping around heavily stimulated neural axons, and saltatory conduction across Nodes of Ranvier, explaining the sixty-fold speed gain in motor conduction. Anchors Section 19.1.
 - **Sanchez-Lopez, A., Silva-Pereyra, J., & Fernandez, T. (2014)**: *Differences in visuo-motor control in skilled vs. novice martial arts athletes during sustained and transient attention tasks: A motor-related cortical potential study*. **PLOS ONE**, 9(3), e91112. [DOI: 10.1371/journal.pone.0091112](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091112).
   - *Context & Impact*: Proves skilled combat athletes exhibit reduced prefrontal activation and faster, cue-facilitated motor automaticity. Directly supports the Command Center versus Lizard Brain operational architecture in Chapter 04.
 - **Ashby, F. G., Turner, B. O., & Horvitz, J. C. (2010)**: *Cortical and basal ganglia contributions to habit learning and automaticity*. **Trends in Cognitive Sciences**, 14(5), 208–215. [DOI: 10.1016/j.tics.2010.02.001](https://doi.org/10.1016/j.tics.2010.02.001).
   - *Context & Impact*: Details the neuroanatomical transition from attention-demanding prefrontal cortical loops early in skill acquisition to automated sensorimotor loops (basal ganglia, motor cortex, cerebellum) after extensive repetition. Anchors Chapter 04 and Chapter 19.
 - **Du, Y., Krakauer, J. W., & Haith, A. M. (2022)**: *The relationship between habits and motor skills in humans*. **Trends in Cognitive Sciences**, 26(5), 371–387. [DOI: 10.1016/j.tics.2022.02.002](https://doi.org/10.1016/j.tics.2022.02.002).
   - *Context & Impact*: Establishes that deliberate practice progressively refines automatic motor components, freeing conscious cognitive capacity for high-level tactical and spatial decisions.
-
-### Expert Kinematic Cue-Reading & Attentional Focus
 - **Russo, G., & Ottoboni, G. (2019)**: *The perceptual-cognitive skills of combat sports athletes: A systematic review*. **Psychology of Sport and Exercise**, 44, 60–72. [DOI: 10.1016/j.psychsport.2019.05.004](https://doi.org/10.1016/j.psychsport.2019.05.004).
   - *Context & Impact*: Demonstrates that elite combat athletes extract kinematic cues (weight distribution, hip rotation, eye line) earlier and more accurately from realistic stimuli, anchoring Section 3.3 and Chapter 17.
-- **Halperin, I., Chapman, D. W., Martin, D. T., Lewthwaite, R., & Wulf, G. (2016)**: *Attentional focus effects on punch impact force and velocity in elite boxers*. **Journal of Sports Sciences**, 34(14), 1364–1372. [DOI: 10.1080/02640414.2015.1123282](https://doi.org/10.1080/02640414.2015.1123282).
-  - *Context & Impact*: Demonstrates that an external focus (driving force through a target) yields significantly higher impact velocity and kinetic force than an internal focus (conscious micromanagement of limbs). Validates the Outcome Focus doctrine in Chapter 04 and Chapter 19.
-
-### High-Stress Physiology & Cognitive Breakdown
-- **Lieberman, H. R., Bathalon, G. P., Falco, C. M., Georgelis, J. H., Morgan, C. A., Niro, P., & Tharion, W. J. (2005)**: *Severe decrements in cognition functioning and mood induced by sleep-loss, heat, dehydration, and combat-simulation stress (The Fog of War)*. **US Army Research Institute of Environmental Medicine (USARIEM)**, Technical Report ADA454957.
-  - *Context & Impact*: Quantifies the severe breakdown of working memory, logical deduction, reaction speed, and situational vigilance under acute combat stress, proving that complex conscious problem-solving fails under adrenaline.
-- **Force Science Institute & Siddle, B. K. (1995/2020)**: *Sharpening the Warrior's Edge: The Physiology of High-Stress Performance and Heart-Rate Arousal Thresholds*. PPCT Research Publications / Force Science News.
-  - *Context & Impact*: Establishes the three operational physiological zones: fine motor deterioration above ~115 BPM (Zone 1), complex motor/analytical degradation above ~145 BPM (Zone 2), and sensory narrowing/tunnel vision above ~175 BPM (Zone 3). Anchors Chapter 18.
-- **Staal, M. A. (2004)**: *Stress, cognition, and human performance: A literature review and conceptual framework*. **NASA / Ames Research Center Technical Memorandum**, NASA/TM-2004-212824.
-  - *Context & Impact*: Details the neurochemical shift from prefrontal cognitive governance toward habitual subcortical responses under threat, demonstrating how Stress Inoculation Training (SIT) preserves performance. Anchors Chapters 18 and 19.
 
 ---
 
-## 6. Newtonian Biomechanics & Striking Physics
+## 8. Cognitive Science, Decision Latency & Information Theory
 
+- **Hick, W. E. (1952)**: *On the rate of gain of information*. **Quarterly Journal of Experimental Psychology**, 4(1), 11–26. [DOI: 10.1080/17470215208416600](https://doi.org/10.1080/17470215208416600); and **Hyman, R. (1953)**: *Stimulus information as a determinant of reaction time*. **Journal of Experimental Psychology**, 45(3), 188–196. [DOI: 10.1037/h0056940](https://doi.org/10.1037/h0056940).
+  - *Context & Impact*: Primary scientific formulation of the Hick-Hyman Law: choice reaction time increases logarithmically with the number of stimulus-response alternatives ($T = b \log_2(n+1)$). Anchors the decision-tree pruning doctrine in Chapter 03, Chapter 10, Chapter 17, and Chapter 19, and validates "Hick's Law Inversion" ($n \to 1$).
+- **Shannon, Claude E. (1948)**: *A Mathematical Theory of Communication*. **Bell System Technical Journal**, 27(3), 379–423. [DOI: 10.1002/j.1538-7305.1948.tb01338.x](https://doi.org/10.1002/j.1538-7305.1948.tb01338.x).
+  - *Context & Impact*: Establishes mathematical information theory and information entropy ($H = -\sum p_i \log_2 p_i$). Utilized in Chapter 05 and Chapter 17 to quantify threat uncertainty, deceptive feints, and tactical entropy reduction under stress.
+- **Miller, George A. (1956)**: *The magical number seven, plus or minus two: Some limits on our capacity for processing information*. **Psychological Review**, 63(2), 81–97. [DOI: 10.1037/h0043158](https://doi.org/10.1037/h0043158); and **Sweller, J. (1988)**: *Cognitive load during problem solving: Effects on learning*. **Cognitive Science**, 12(2), 257–285.
+  - *Context & Impact*: Formulates working memory capacity limits and cognitive chunking. Explains why complex multi-step techniques fail under cognitive load and validates the reduction of combat choices to binary decision points in Chapter 19.
+- **Klein, Gary (1998)**: *Sources of Power: How People Make Decisions*. MIT Press.
+  - *Context & Impact*: Foundational treatise for the Recognition-Primed Decision (RPD) model. Proves that experts operating under high stakes and severe time pressure do not compare options; they recognize prototypical situational patterns and immediately execute the first workable action. Anchors Chapter 04 and Chapter 17.
+- **Kahneman, Daniel (2011)**: *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
+  - *Context & Impact*: Establishes the dual-system cognitive framework: System 1 (fast, automatic, associative) and System 2 (slow, deliberative, effortful). Directly corresponds to the Lizard Brain versus Command Center operational architecture.
+
+---
+
+## 9. High-Stress Tactical Physiology & Performance
+
+- **Grossman, Dave & Christensen, Loren W. (2004)**: *On Combat: The Psychology and Physiology of Deadly Conflict in War and in Peace*. PPCT Research Publications.
+  - *Context & Impact*: Primary empirical reference for the physiological stress models in Chapters 04 and 18, detailing heart-rate arousal thresholds, vasoconstriction, auditory exclusion, and fine-motor degradation.
+- **De Becker, Gavin (1997)**: *The Gift of Fear: Survival Signals That Protect Us from Violence*. Little, Brown and Company.
+  - *Context & Impact*: Informs the pre-incident threat assessment and intuitive cue recognition frameworks in Chapters 03 and 17.
+- **Force Science Institute & Siddle, B. K. (1995/2020)**: *Sharpening the Warrior's Edge: The Physiology of High-Stress Performance and Heart-Rate Arousal Thresholds*. PPCT Research Publications / Force Science News.
+  - *Context & Impact*: Establishes the three operational physiological zones: fine motor deterioration above ~115 BPM (Zone 1), complex motor/analytical degradation above ~145 BPM (Zone 2), and sensory narrowing/tunnel vision above ~175 BPM (Zone 3). Anchors Chapter 18.
+- **Yerkes, R. M., & Dodson, J. D. (1908)**: *The relation of strength of stimulus to rapidity of habit-formation*. **Journal of Comparative Neurology and Psychology**, 18(5), 459–482. [DOI: 10.1002/cne.920180503](https://doi.org/10.1002/cne.920180503).
+  - *Context & Impact*: Foundational physiological principle establishing the inverted-U relationship between autonomic arousal and task performance, synthesized in Section 18.1 with Siddle's combative heart-rate zones.
+- **Lieberman, H. R., Bathalon, G. P., Falco, C. M., Georgelis, J. H., Morgan, C. A., Niro, P., & Tharion, W. J. (2005)**: *Severe decrements in cognition functioning and mood induced by sleep-loss, heat, dehydration, and combat-simulation stress (The Fog of War)*. **US Army Research Institute of Environmental Medicine (USARIEM)**, Technical Report ADA454957.
+  - *Context & Impact*: Quantifies the severe breakdown of working memory, logical deduction, reaction speed, and situational vigilance under acute combat stress, proving that complex conscious problem-solving fails under adrenaline.
+- **Staal, M. A. (2004)**: *Stress, cognition, and human performance: A literature review and conceptual framework*. **NASA / Ames Research Center Technical Memorandum**, NASA/TM-2004-212824.
+  - *Context & Impact*: Details the neurochemical shift from prefrontal cognitive governance toward habitual subcortical responses under threat, demonstrating how Stress Inoculation Training (SIT) preserves performance. Anchors Chapters 18 and 19.
+- **Meichenbaum, Donald (1985)**: *Stress Inoculation Training*. Pergamon Press.
+  - *Context & Impact*: The foundational psychological framework establishing tiered, progressive exposure to controlled stressors to condition cognitive and behavioral stability without panic. Informs the 3-tier Inoculation Ladder in Section 19.3.
+
+---
+
+## 10. Operations Research, Newtonian Biomechanics & Striking Physics
+
+- **Lanchester, F. W. (1916)**: *Aircraft in Warfare: The Dawn of the Fourth Arm*. Constable and Company.
+  - *Context & Impact*: Establishes Lanchester's Power Laws, specifically Lanchester's Square Law ($P \propto N^2$), quantifying how combat power scales quadratically in unconstrained multi-combatant engagements. Foundational operational research reference for Principle 5 (Concentration, Chapter 14), Asymmetric Threats (Chapter 20), Disparity of Force (Chapter 21), and Volume 3.
 - **Thalken, Jason (2015)**: *Fight Like a Physicist: The Incredible Science Behind Martial Arts*. YMAA Publication Center.
   - *Context & Impact*: Foundational mechanics text covering momentum transfer ($p = mv$), kinetic energy ($E_k = \frac{1}{2}mv^2$), effective mass coupling through kinetic chain stiffening, center-of-mass dynamics, and mechanical leverage. Anchors Chapters 01, 02, and 13.
 - **Neto, O. P., Magini, M., & Saba, M. M. F. (2007)**: *Kinematic analysis of strikes in martial arts*. **Journal of Sports Science and Medicine**, 6(CSSI-2), 23–26.
@@ -7558,7 +7636,14 @@ Authoritative references backing the strategy, military doctrine, martial arts l
 
 ---
 
-## 7. Reactionary Gap & Action-Reaction Dynamics
+## 11. Decision Theory & Tactical Convexity
+
+- **Taleb, Nassim Nicholas (2012)**: *Antifragile: Things That Gain from Disorder*. Random House; and **von Neumann, J., & Morgenstern, O. (1944)**: *Theory of Games and Economic Behavior*. Princeton University Press.
+  - *Context & Impact*: Mathematical formulation of asymmetric payoff distributions under radical uncertainty. Informs Section 7.2 on "Convex Tactics"—selecting combative maneuvers with strictly bounded downside risks upon failure coupled with decisive, unconstrained upside upon success (e.g., the ankle pick versus the double leg failure trap).
+
+---
+
+## 12. Reactionary Gap & Action-Reaction Dynamics
 
 - **Tueller, Dennis (March 1983)**: *How Close is Too Close?* **SWAT Magazine**, 1(2), 52–55.
   - *Context & Impact*: The landmark tactical study demonstrating that an adult male charging forward can cover 21 feet in approximately 1.5 seconds. Used in Chapters 01, 02, and 20 to demonstrate reactionary lag and the absolute necessity of creating distance or stepping offline.
@@ -7567,16 +7652,7 @@ Authoritative references backing the strategy, military doctrine, martial arts l
 
 ---
 
-## 8. Recognition-Primed Decisions (RPD) & Naturalistic Cognition
-
-- **Klein, Gary (1998)**: *Sources of Power: How People Make Decisions*. MIT Press.
-  - *Context & Impact*: Foundational treatise for the Recognition-Primed Decision (RPD) model. Proves that experts operating under high stakes and severe time pressure do not compare options; they recognize prototypical situational patterns and immediately execute the first workable action. Anchors Chapter 04 and Chapter 17.
-- **Kahneman, Daniel (2011)**: *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
-  - *Context & Impact*: Establishes the dual-system cognitive framework: System 1 (fast, automatic, associative) and System 2 (slow, deliberative, effortful). Directly corresponds to the Lizard Brain versus Command Center operational architecture.
-
----
-
-## 9. Edged-Weapon Dynamics & Forensic Assault Realities
+## 13. Edged-Weapon Dynamics & Forensic Assault Realities
 
 - **Bleetman, A., Watson, C. H., Horsfall, I., & Champion, S. M. (2003)**: *Wounding patterns and mechanics of knife attacks in civilian life*. **Emergency Medicine Journal**, 20(6), 519–521. [DOI: 10.1136/emj.20.6.519](https://doi.org/10.1136/emj.20.6.519).
   - *Context & Impact*: Analyzes clinical trauma data and mechanical kinematics of real-world civilian knife assaults, documenting that edged-weapon attacks involve rapid, close-range reciprocating thrusts and slashes rather than telegraphed dueling strikes. Anchors Chapter 20.
@@ -7585,7 +7661,7 @@ Authoritative references backing the strategy, military doctrine, martial arts l
 
 ---
 
-## 10. Ground-Fighting Prevalence & Tactical Realities
+## 14. Ground-Fighting Prevalence & Tactical Realities
 
 - **Dossey, Greg (Sgt., LAPD) (1988/1992)**: *LAPD Use of Force Study*. Los Angeles Police Department Tactical Research Bureau.
   - *Context & Impact*: The original empirical law enforcement study often misquoted as "90% of all fights go to the ground." Documented that approximately 62% of physical arrest encounters involving LAPD officers ended with suspects on the ground during restraint procedures. Used in Chapters 14 and 15 to establish that while law enforcement seeks ground control for handcuffing, civilian survival mandates immediate recovery to the feet.
@@ -7594,7 +7670,7 @@ Authoritative references backing the strategy, military doctrine, martial arts l
 
 ---
 
-## 11. Legal Framework of Self-Defense Force
+## 15. Legal Framework of Self-Defense Force
 
 > [!CAUTION]
 > **Mandatory Legal Disclaimer**:  
@@ -7609,7 +7685,7 @@ Authoritative references backing the strategy, military doctrine, martial arts l
 
 ---
 
-## 12. Systems Engineering, Problem-Solving & TRIZ
+## 16. Systems Engineering, Problem-Solving & TRIZ
 
 - **Altshuller, Genrich (1984)**: *Creativity as an Exact Science: The Theory of the Solution of Inventive Problems (TRIZ)*. Gordon and Breach Science Publishers.
   - *Context & Impact*: The foundational treatise introducing the 40 Inventive Principles for systematically resolving physical contradictions without compromise. Cited across Chapters 06, 09, and 15 for **Principle 6 (Universality / Multifunctionality: making one component perform multiple functions to eliminate redundant parts)**, anchoring the Asymmetric Limb Ratio and multifunctional pinning geometry in combat.

@@ -10,7 +10,7 @@ For over a century, traditional martial arts and combat sports operated on intui
 
 This paradigm was shattered by **John Danaher**, a New Zealand philosopher and Brazilian Jiu-Jitsu professor at Renzo Gracie Academy in New York City. Danaher approached combat not as a traditional martial artist, but as an analytical epistemologist and mechanical engineer. 
 
-Danaher recognized that violence, stripped of mythology, is a deterministic physical system governed by classical mechanics, geometry, and human anatomy. Rather than memorizing thousands of isolated techniques, Danaher organized the entire discipline of human fighting into an **axiomatic problem-solving algorithm**. 
+Danaher recognized that violence, stripped of mythology, is a deterministic physical system governed by classical mechanics, geometry, and human anatomy. Rather than memorizing thousands of isolated techniques, Danaher organized the entire discipline of human fighting into an **axiomatic problem-solving algorithm** (Gracie & Danaher, 2001; Danaher, 2018). 
 
 To survive on concrete, we must strip away the sport-specific assumptions of Brazilian Jiu-Jitsu (points, time limits, soft mats) and translate Danaher's foundational four-step algorithm into an unyielding combative doctrine.
 

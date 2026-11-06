@@ -4,7 +4,7 @@
 
 Never introduce chaos before structure; stress inoculates clean technique, but premature chaos cements panic. Section 19.1 and Section 19.2 established the biological reality of motor learning: the brain permanently insulates whatever neural pathway repeatedly fires. This establishes the central paradox of combatives: if practice makes permanent, how do you train for the terror of violent combat without degrading your form into panicked flailing?
 
-The answer is **Stress Inoculation**—the methodical, tiered application of pressure to expand your performance envelope without triggering neurological collapse. Throwing an unconditioned novice into full-contact chaos does not forge a warrior; it forces heart rate into Zone 3 hypofrontality, destroying motor control and permanently myelinating panic. To build reflexes that survive violence, you must climb a structured inoculation ladder.
+The answer is **Stress Inoculation** (Meichenbaum, 1985)—the methodical, tiered application of pressure to expand your performance envelope without triggering neurological collapse. Throwing an unconditioned novice into full-contact chaos does not forge a warrior; it forces heart rate into Zone 3 hypofrontality, destroying motor control and permanently myelinating panic. To build reflexes that survive violence, you must climb a structured inoculation ladder.
 
 ---
 
@@ -56,7 +56,7 @@ You never deliberate. The decision point funnels all tactical possibilities into
 
 Focus on the physical outcome, not the internal mechanics; let the body self-organize the strike. When coaches instruct fighters, they often overload them with internal mechanical commands: *"Keep your elbow tucked at 35 degrees, contract your abdominal wall, rotate your heel 90 degrees, and tighten your grip."*
 
-Motor learning research led by Dr. Gabriele Wulf proves that internal focus of attention severely degrades motor execution. Focusing internally on muscle contractions forces the conscious prefrontal cortex to micromanage neuromuscular firing. This conscious interference causes antagonistic muscle co-contraction—your biceps actively resisting your triceps—which drains kinetic energy, slows strike velocity, and spikes reaction latency.
+Motor learning research led by Dr. Gabriele Wulf (Wulf, 2007, 2013; Halperin et al., 2016) proves that internal focus of attention severely degrades motor execution. Focusing internally on muscle contractions forces the conscious prefrontal cortex to micromanage neuromuscular firing. This conscious interference causes antagonistic muscle co-contraction—your biceps actively resisting your triceps—which drains kinetic energy, slows strike velocity, and spikes reaction latency.
 
 In contrast, an external **Outcome Focus** directs attention toward the tactical objective outside the body: *"Drive your fist through the back wall," "slam his sternum into the pillar,"* or *"drive his chin past his heels."*
 

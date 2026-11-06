@@ -18,7 +18,7 @@ Expect your pulse to surge instantly; design your tactics around autonomic arous
 
 Real violence removes every safety rail. When a predator blocks your path, the amygdala bypasses the prefrontal cortex, signaling the hypothalamus to activate the sympathoadrenal axis. Epinephrine, norepinephrine, and cortisol flood the bloodstream. Within heartbeats, vasoconstriction clamps peripheral capillaries, shunting blood away from fingers toward locomotive core muscles. Hands turn cold and numb; the core tightens.
 
-Human performance under this biological surge maps across four distinct heart-rate arousal zones, formulated through empirical studies by Bruce Siddle and combat researchers:
+Human performance under this biological surge maps across four distinct heart-rate arousal zones, formulated through empirical studies by Bruce Siddle and combat researchers (Siddle, 1995):
 
 - **Baseline Envelope ($60\text{--}80\ \text{BPM}$)**: Normal resting physiology. The prefrontal cortex retains analytical capacity, fine motor dexterity is effortless, and sensory bandwidth operates at baseline fidelity.
 - **Zone 1: Optimal Combat Performance ($115\text{--}145\ \text{BPM}$)**: The peak operational window. Elevated cardiac output increases muscle contractility without degrading coordination. Visual tracking remains sharp, reaction latency drops to minimum, and the cognitive Command Center processes threat vectors with peak efficiency.
@@ -95,7 +95,7 @@ To survive the Autonomic Cascade, you must operationalize three fundamental coun
 > ### The Mechanics Behind It: Heart Rate Performance Functions, Visual Field Attenuation, and Tachypsychic Frame Density
 >
 > 1. **Sympathetic Arousal & Cognitive Performance Modeling**:  
->    Human performance under autonomic arousal follows an asymmetric inverted-U function (Siddle-Yerkes-Dodson relationship):
+>    Human performance under autonomic arousal follows an asymmetric inverted-U function (Siddle-Yerkes-Dodson relationship; Yerkes & Dodson, 1908; Siddle, 1995):
 >    $$P(HR) = P_{\text{baseline}} + (P_{\text{peak}} - P_{\text{baseline}}) \cdot \exp\left(-\frac{(HR - HR_{\text{opt}})^2}{2\sigma^2}\right)$$
 >    Where $HR_{\text{opt}} \approx 115\text{--}145\ \text{BPM}$. As heart rate exceeds $145\ \text{BPM}$, vasoconstriction and neural shunting degrade motor processing. Above $175\ \text{BPM}$, executive prefrontal capability drops precipitously ($P_{\text{cognitive}} \to 0.15$), inducing functional hypofrontality.
 >

@@ -16,7 +16,7 @@ To solve this lethal problem, martial arts systems cannot rely on sporting assum
 
 ### Ranger Battle Drill 4: The Geometry of Near vs. Far Ambush
 
-In U.S. Army Infantry doctrine and Ranger Handbook field directives, **Battle Drill 4: React to Ambush** categorizes hostile contacts into two distinct spatial and kinematic profiles: the **Far Ambush** and the **Near Ambush**.
+In U.S. Army Infantry doctrine and Ranger Handbook field directives (TC 3-21.76 / SH 21-76), **Battle Drill 4: React to Ambush** categorizes hostile contacts into two distinct spatial and kinematic profiles: the **Far Ambush** and the **Near Ambush**.
 
 ``| Tactical Factor | Far Ambush (> 25–50 meters) | Near Ambush (0–15 meters / Contact) |
 | :--- | :--- | :--- |

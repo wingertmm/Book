@@ -17,6 +17,15 @@ Objective reasonableness rests on three non-negotiable legal prongs:
 
 If your defensive response cannot satisfy these three prongs under objective scrutiny, the law strips your self-defense immunity, recasting your martial prowess as felonious violence.
 
+Beyond constitutional reasonableness, civilian self-defense law requires satisfying five cumulative statutory elements (Branca, 2016; Model Penal Code § 3.04):
+- **Innocence**: You cannot have initiated, provoked, or escalated the confrontation.
+- **Imminence**: The threat must be active or immediately impending; prospective or past harm cannot justify force.
+- **Proportionality**: Force must match the threat gradient, deploying non-deadly force against non-deadly threats and lethal force only against imminent death or grave bodily harm.
+- **Avoidance**: You must exhaust safe retreat if mandated by statutory jurisdiction.
+- **Reasonableness**: Your threat perception and physical response must be objectively sound.
+
+If the prosecution invalidates even one of these five elements, your self-defense claim collapses entirely.
+
 ---
 
 ### The Continuum of Force and The Proportionality Invariant

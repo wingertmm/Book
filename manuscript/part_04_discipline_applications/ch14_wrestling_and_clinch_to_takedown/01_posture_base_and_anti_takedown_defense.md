@@ -6,7 +6,7 @@
 
 Refuse to surrender posture or base for a cheap offensive shot; in upright combat, structural alignment is your primary weapon. When kicking distance collapses and intermediate frames fail, defense degenerates into a violent collision. Striking space evaporates. Untrained fighters respond by bending forward at the waist, reaching out, and dropping their eyes. That error surrenders the fight. Bending at the waist projects your center of gravity outside your footprint, disengaging hip musculature and exposing your cervical spine.
 
-Combative **Wrestling** is the physical science of maintaining an unyielding personal base while systematically dismantling the opponent's foundation. Inside tie-up range, stability rests on three structural pillars: center of gravity, base of support, and cervical spinal alignment.
+Combative **Wrestling**, rooted in the biomechanical fundamentals of scholastic and freestyle engineering (Gable, 1999; USA Wrestling, 2012), is the physical science of maintaining an unyielding personal base while systematically dismantling the opponent's foundation. Inside tie-up range, stability rests on three structural pillars: center of gravity, base of support, and cervical spinal alignment.
 
 ```text
 +------------------------------------------------------------------------+

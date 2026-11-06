@@ -16,7 +16,7 @@ Every time your brain commands a physical movement—stepping into an angle, rot
 
 When you repeat a movement with intense, deliberate focus, microscopic glial cells called oligodendrocytes detect repeated electrical firing. These cells respond by wrapping dense concentric layers of a lipid-protein membrane—**Myelin**—around the active axon. 
 
-Myelin functions as bio-electrical insulation. It prevents ion leakage and forces the electrical impulse to jump between the Nodes of Ranvier in rapid saltatory conduction. With each hundred repetitions of flawless mechanical execution, the myelin sheath thickens. Heavily myelinated motor tracts accelerate nerve conduction velocities from two meters per second up to one hundred and twenty meters per second—a sixty-fold increase in signal speed. 
+Myelin functions as bio-electrical insulation. It prevents ion leakage and forces the electrical impulse to jump between the Nodes of Ranvier in rapid saltatory conduction (Fields, 2008; Coyle, 2009). With each hundred repetitions of flawless mechanical execution, the myelin sheath thickens. Heavily myelinated motor tracts accelerate nerve conduction velocities from two meters per second up to one hundred and twenty meters per second—a sixty-fold increase in signal speed. 
 
 A fighter whose primary strikes and frames are densely myelinated does not react faster because their muscles contract quicker; they react faster because the command arrives at the motor endplate before an opponent's nervous system completes a sensory cycle.
 
@@ -28,7 +28,7 @@ Automate gross mechanics into single-signal motor engrams; under survival terror
 
 Under the acute sympathetic surge analyzed in Chapter 18, prefrontal hypofrontality starves the executive cortex of oxygen and glucose. If a technique requires conscious assembly of separate parts, the system crashes. The fighter freezes mid-motion or flails wildly.
 
-Through rigorous **Deliberate Practice**, the nervous system solves this bottleneck via **Cognitive Chunking**. The brain consolidates the entire sequence into a unified **Motor Engram**—a consolidated neuro-synaptic program stored in the basal ganglia and cerebellum. 
+Through rigorous **Deliberate Practice** (Ericsson et al., 1993), the nervous system solves this bottleneck via **Cognitive Chunking** (Miller, 1956). The brain consolidates the entire sequence into a unified **Motor Engram**—a consolidated neuro-synaptic program stored in the basal ganglia and cerebellum (Schmidt, 1975). 
 
 Once an engram consolidates, the conscious mind no longer supervises individual muscle fibers. The prefrontal cortex issues a single high-level operational intent: *Frame and Drive*. The subcortical engine executes the entire kinetic chain automatically. This transition from conscious computation to **Subconscious Automation** reduces decision latency from nearly a second down to milliseconds, preserving precious cognitive bandwidth to assess escape corridors and flanking threats.
 

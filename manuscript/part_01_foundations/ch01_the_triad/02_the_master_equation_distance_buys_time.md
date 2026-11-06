@@ -83,13 +83,13 @@ $$\eta_{\text{combat}} = \frac{W_{\text{effective}}}{E_{\text{expended}}} \longr
 In mechanical physics, efficiency ($\eta$) measures the ratio of decisive work achieved ($W_{\text{effective}}$: collapsing an adversary's posture, neutralizing incoming force, or opening an escape corridor) relative to the biological energy expended ($E_{\text{expended}}$). An inefficient fighter fights both the adversary and their own anatomy, bleeding finite resources with every passing second.
 
 ##### The Capillary Occlusion Threshold and the Metabolic Cliff
-Under acute sympathetic nervous system activation—when heart rates surge beyond 175 beats per minute under predatory threat—the human body operates as a strictly bounded metabolic engine. At this intensity, the musculoskeletal system relies on two finite anaerobic energy pathways:
+Under acute sympathetic nervous system activation—when heart rates surge beyond 175 beats per minute under predatory threat—the human body operates as a strictly bounded metabolic engine (Brooks et al., 2005). At this intensity, the musculoskeletal system relies on two finite anaerobic energy pathways:
 1. **The Phosphagen Reservoir (ATP-CP)**: Supplies immediate explosive contractions, exhausting its chemical fuel within 5 to 10 seconds.
 2. **Fast Anaerobic Glycolysis**: Generates rapid cellular energy without oxygen, lasting roughly 20 to 30 seconds in untrained combatants before cellular acidosis causes metabolic failure.
 
 Why does an untrained combatant gas out so rapidly? The primary culprit is the **Capillary Occlusion Threshold**.
 
-When skeletal muscle contracts at greater than **20 to 30 percent of Maximum Voluntary Contraction (MVC)**, the swelling muscle bellies physically compress intramuscular arterioles and capillaries. Blood flow stops completely (acute local ischemia). Untrained fighters fight with frantic, 100 percent isometric death-grips, pushing and flexing with their arms, shoulders, and chest. Because their capillaries are pinched shut, oxygen cannot reach the muscle fibers, and metabolic waste (hydrogen ions, inorganic phosphate) cannot escape. They suffocate their own muscles from within.
+When skeletal muscle contracts at greater than **20 to 30 percent of Maximum Voluntary Contraction (MVC)**, the swelling muscle bellies physically compress intramuscular arterioles and capillaries (Lind & McNicol, 1967; Sjøgaard et al., 1988). Blood flow stops completely (acute local ischemia). Untrained fighters fight with frantic, 100 percent isometric death-grips, pushing and flexing with their arms, shoulders, and chest. Because their capillaries are pinched shut, oxygen cannot reach the muscle fibers, and metabolic waste (hydrogen ions, inorganic phosphate) cannot escape. They suffocate their own muscles from within.
 
 Within twenty to thirty seconds, they hit the **Metabolic Cliff**:
 - Forearm grip strength collapses by over 60 percent.

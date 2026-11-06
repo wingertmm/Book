@@ -30,7 +30,7 @@ Simultaneously, your cervical spine flexes forward, turning your skull into an e
 
 In real-world violence, select techniques with negligible cost of failure and decisive upside; never choose high-downside gambles.
 
-To preserve Security of Position under life-or-death pressure, evaluate combat actions through Decision Theory and asymmetric risk. A *convex payoff* represents an asymmetric condition where downside risks remain tightly bounded while upside rewards remain open and decisive. Conversely, a *concave payoff* represents a catastrophe trap: modest potential gains coupled with unbounded, ruinous downside.
+To preserve Security of Position under life-or-death pressure, evaluate combat actions through Decision Theory and asymmetric risk (von Neumann & Morgenstern, 1944; Taleb, 2012). A *convex payoff* represents an asymmetric condition where downside risks remain tightly bounded while upside rewards remain open and decisive. Conversely, a *concave payoff* represents a catastrophe trap: modest potential gains coupled with unbounded, ruinous downside.
 
 Combat doctrine demands that you execute **Convex Tactics**. Select maneuvers that cost you almost nothing if they fail, but yield immediate structural dominance if they succeed. Reject concave gambles that offer a flashy victory at the risk of catastrophic positional failure.
 

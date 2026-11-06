@@ -49,7 +49,7 @@ The defensive payoff is profound. Because *you* chose the attack vector before t
 
 > [!NOTE]
 > **The Mechanics Behind It: Hick's Law Inversion ($T = b \cdot \log_2(n + 1)$) and Deterministic Threat Collapsing**  
-> In cognitive psychology, Hick's Law states that the time ($T$) required to make a decision increases logarithmically with the number of potential stimulus choices ($n$):  
+> In cognitive psychology, the Hick-Hyman Law (Hick, 1952; Hyman, 1953) states that the time ($T$) required to make a decision increases logarithmically with the number of potential stimulus choices ($n$):  
 > 
 > $$T = b \cdot \log_2(n + 1)$$  
 > 

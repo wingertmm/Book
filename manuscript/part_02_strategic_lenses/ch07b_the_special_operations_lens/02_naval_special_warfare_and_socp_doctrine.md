@@ -18,7 +18,7 @@ Naval Special Warfare operators and SOCP combatives instructors operate in the m
 
 For decades, the Navy SEAL selection pipeline (Basic Underwater Demolition/SEAL - BUD/S) suffered attrition rates exceeding seventy to eighty percent. Psychological and physiological research revealed that trainees did not fail because of weak muscles; they failed because novel, catastrophic stress overwhelmed their prefrontal cortex, triggering panic-induced hyperventilation and cognitive surrender.
 
-To counter this wetware failure, Naval Special Warfare instituted the **"Big Four" Mental Toughness Doctrine**. These four techniques are not motivational slogans; they are deliberate neuromuscular interventions designed to maintain executive cognitive control under acute adrenal surge:
+To counter this wetware failure, Naval Special Warfare instituted the **"Big Four" Mental Toughness Doctrine** (Naval Special Warfare Command, 2014). These four techniques are not motivational slogans; they are deliberate neuromuscular interventions designed to maintain executive cognitive control under acute adrenal surge:
 
 | Mechanism | Neurological Intervention | Combative Combat Application |
 | :--- | :--- | :--- |
@@ -79,7 +79,7 @@ This error-correction cycle adds typical observed delays of 300 to 600 milliseco
 
 In civilian martial arts schools, practitioners train in lightweight cotton gis or shorts on padded vinyl mats. In this pristine environment, rolling, pulling guard, or entangling limbs in complicated sweeps feels effective.
 
-The **Special Operations Combatives Program (SOCP)**, founded by Greg Thompson, demolished these sport assumptions. SOCP was created because modern operators do not fight naked on canvas; they fight in heavy combat boots, duty trousers, load-bearing plate carriers, helmets, and communications gear, carrying service rifles, holstered sidearms, fixed blades, and tourniquets.
+The **Special Operations Combatives Program (SOCP)**, founded by Greg Thompson (Thompson, 2010), demolished these sport assumptions. SOCP was created because modern operators do not fight naked on canvas; they fight in heavy combat boots, duty trousers, load-bearing plate carriers, helmets, and communications gear, carrying service rifles, holstered sidearms, fixed blades, and tourniquets.
 
 In this severe operational context, sport grappling is suicidal:
 - **Restricted Articulation**: Plate carriers and combat gear prevent deep spinal flexion and hip mobility, rendering sport inversions and guard retentions impossible.
