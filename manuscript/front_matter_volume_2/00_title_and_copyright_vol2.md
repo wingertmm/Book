@@ -1,6 +1,6 @@
-# THE MACHINE UNDER LOAD: STRESS, CONDITIONING, AND SURVIVAL REALITIES
+# DISCIPLINE APPLICATIONS: BIOMECHANICAL RANGE SYNTHESIS AND SYSTEM DIAGNOSTICS
 
-## Volume 2: Human Factors Engineering in Close Combat
+## Volume 2: The Physical Implementation of the 11 Principles
 
 **By Michael M. Wingert**
 
@@ -17,9 +17,9 @@ No part of this publication may be reproduced, distributed, or transmitted in an
 ### SAFETY, MEDICAL, AND LEGAL DISCLAIMERS
 
 > [!WARNING]
-> ### Rigorous Training Safety & Medical Clearance
-> The training methodologies described in Volume 2—specifically high-intensity stress inoculation ladders, asphyxiation mechanisms (vascular strangles), impact weapon entries, and edge-weapon defenses—involve substantial physical hazard. Consult a licensed physician before undertaking the high-arousal conditioning described in these pages. All partner training must occur under qualified, vigilant supervision on appropriate impact surfaces with verified protective gear.
+> ### Physical Training Safety & Contact Precautions
+> The combat disciplines analyzed in Volume 2—specifically full-contact kicking, Thai clinch manipulation, explosive wrestling takedowns, standing joint breaks, and ground submissions—involve inherent risks of acute musculoskeletal injury. Practitioners must train under qualified, experienced supervision on appropriate impact-absorbing mats with verified safety gear. Never execute uncontrolled hyperextension of joints or full-force cervical cranks during partner drills.
 
 > [!CAUTION]
-> ### Legal Boundaries and Proportional Use of Force
-> The techniques and tactical decision frameworks in this volume are intended strictly for lawful self-defense under conditions of imminent, unlawful threat to life or great bodily harm. Laws governing the use of force, lethal force, and the duty to retreat vary significantly across jurisdictions. Nothing in this text constitutes legal counsel. The practitioner bears sole legal, moral, and civil responsibility for any application of physical force.
+> ### Real-World Application and Legal Constraints
+> The technical adaptations presented in this volume deconstruct sport-specific rules to prepare practitioners for real-world defensive survival on unyielding surfaces (concrete and asphalt). The application of kinetic force outside the training hall must strictly adhere to the legal standards of proportional self-defense. The practitioner bears full legal and ethical responsibility for any physical engagement.

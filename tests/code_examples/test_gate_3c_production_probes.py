@@ -66,13 +66,13 @@ def test_gate_3c_master_manuscript_assembled():
 
 
 def test_gate_3c_master_manuscript_word_count_and_integrity():
-    """Verify master manuscript total word count is within publication range (92,000 - 105,000 words), zero banned words, and all 52 callouts."""
+    """Verify master manuscript total word count is within publication range (95,000 - 120,000 words), zero banned words, and all 57 callouts."""
     with open(MASTER_FILE, "r", encoding="utf-8") as f:
         content = f.read()
 
     words = len(content.split())
     print(f"\n[GATE-3C] Compiled master manuscript word count: {words:,}")
-    assert 92000 <= words <= 105000, f"Master manuscript word count {words:,} outside target range [92000, 105000]"
+    assert 95000 <= words <= 120000, f"Master manuscript word count {words:,} outside target range [95000, 120000]"
 
     # Verify zero banned marketing words in master manuscript
     banned_patterns = [
@@ -90,11 +90,11 @@ def test_gate_3c_master_manuscript_word_count_and_integrity():
 
     # Verify callouts count
     callouts = re.findall(r"^> \[!NOTE\]", content, re.MULTILINE)
-    assert len(callouts) == 52, f"Expected 52 callouts in compiled master manuscript, found {len(callouts)}"
+    assert len(callouts) == 57, f"Expected 57 callouts in compiled master manuscript, found {len(callouts)}"
 
 
 def test_gate_3c_table_of_contents_matches_all_52_sections():
-    """Verify Table of Contents lists all 6 Parts, all 21 Chapters, and all 52 sections."""
+    """Verify Table of Contents lists all 6 Parts, all 24 Chapters, and all 57 sections."""
     toc_path = os.path.join(FRONT_MATTER_DIR, "03_table_of_contents.md")
     with open(toc_path, "r", encoding="utf-8") as f:
         toc_text = f.read()
@@ -103,8 +103,8 @@ def test_gate_3c_table_of_contents_matches_all_52_sections():
     for part_num in ["PART I", "PART II", "PART III", "PART IV", "PART V", "PART VI"]:
         assert part_num in toc_text, f"Missing {part_num} in Table of Contents"
 
-    # Check 21 Chapters
-    for i in range(1, 22):
+    # Check 24 Chapters
+    for i in range(1, 25):
         chap_str = f"Chapter {i:02d}:"
         assert chap_str in toc_text, f"Missing {chap_str} in Table of Contents"
 
@@ -117,7 +117,7 @@ def test_gate_3c_table_of_contents_matches_all_52_sections():
                 if not sf.endswith("README.md"):
                     section_files.append(sf)
 
-    assert len(section_files) == 52, f"Expected 52 section files, found {len(section_files)}"
+    assert len(section_files) == 57, f"Expected 57 section files, found {len(section_files)}"
 
 
 def test_gate_3c_legal_disclaimer_incorporates_flags():

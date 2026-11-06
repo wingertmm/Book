@@ -20,8 +20,8 @@ def get_section_files():
     return [f for f in all_files if "part_" in f and not f.endswith("README.md")]
 
 
-def test_gate_3b_all_52_callouts_present_and_formatted():
-    """Verify that all 52 sections contain exactly one properly formatted '> [!NOTE]' callout block."""
+def test_gate_3b_all_callouts_present_and_formatted():
+    """Verify that all 57 sections contain exactly one properly formatted '> [!NOTE]' callout block."""
     files = get_section_files()
     total_callouts = 0
     for f in files:
@@ -31,7 +31,7 @@ def test_gate_3b_all_52_callouts_present_and_formatted():
         assert len(callouts) == 1, f"Section {f} has {len(callouts)} callouts (expected exactly 1)"
         total_callouts += len(callouts)
     print(f"\n[GATE-3B] Total callouts verified: {total_callouts}")
-    assert total_callouts == 52, f"Expected exactly 52 callouts, found {total_callouts}"
+    assert total_callouts == 57, f"Expected exactly 57 callouts, found {total_callouts}"
 
 
 def test_gate_3b_diagram_inventory_count_and_syntax():

@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
 """
-Assemble Volume 2 Manuscript: The Machine Under Load — Stress, Conditioning, and Survival Realities
+Assemble Volume 2 Manuscript: Timing, Distance, and Power — Discipline Applications
 Compiles:
-- Volume 2 Front Matter (Title, Copyright, Preface, TOC)
-- Parts I through IV (13 section files across human systems, decision engine, training doctrine, weapons, law)
+- Volume 2 Front Matter
+- Part IV (Discipline Applications Across the Ranges) + Doctrinal Coda (11 section files)
 - Volume 2 Back Matter
-into manuscript/TIME_DISTANCE_AND_POWER_VOL2_HUMAN_FACTOR.md
+into manuscript/TIME_DISTANCE_AND_POWER_VOL2_DISCIPLINE_APPLICATIONS.md
 """
 
 from pathlib import Path
 
 REPO_ROOT = Path("C:/Book")
 MANUSCRIPT_DIR = REPO_ROOT / "manuscript"
-OUTPUT_FILE = MANUSCRIPT_DIR / "TIME_DISTANCE_AND_POWER_VOL2_HUMAN_FACTOR.md"
+OUTPUT_FILE = MANUSCRIPT_DIR / "TIME_DISTANCE_AND_POWER_VOL2_DISCIPLINE_APPLICATIONS.md"
 
 FRONT_MATTER_FILES = [
     MANUSCRIPT_DIR / "front_matter_volume_2" / "00_title_and_copyright_vol2.md",
@@ -20,19 +20,21 @@ FRONT_MATTER_FILES = [
 ]
 
 VOL2_BODY_DIRS = [
-    MANUSCRIPT_DIR / "part_01_foundations" / "ch04_the_command_center",
-    MANUSCRIPT_DIR / "part_05_the_decision_engine" / "ch17_the_4_step_cycle",
-    MANUSCRIPT_DIR / "part_05_the_decision_engine" / "ch18_high_stress_physiology",
-    MANUSCRIPT_DIR / "part_06_training_doctrine" / "ch19_neural_conditioning",
-    MANUSCRIPT_DIR / "part_06_training_doctrine" / "ch20_asymmetric_threats",
-    MANUSCRIPT_DIR / "part_06_training_doctrine" / "ch21_legal_and_ethical",
+    MANUSCRIPT_DIR / "part_04_discipline_applications" / "ch12_taekwondo_and_long_range",
+    MANUSCRIPT_DIR / "part_04_discipline_applications" / "ch13_muay_thai_and_medium_range",
+    MANUSCRIPT_DIR / "part_04_discipline_applications" / "ch14_wrestling_and_clinch_to_takedown",
+    MANUSCRIPT_DIR / "part_04_discipline_applications" / "ch15_brazilian_jiu_jitsu_and_ground_survival",
+    MANUSCRIPT_DIR / "part_04_discipline_applications" / "ch16_range_transitions_and_fluid_synthesis",
+    MANUSCRIPT_DIR / "volume_2_coda",
 ]
 
 BACK_MATTER_FILES = [
     MANUSCRIPT_DIR / "back_matter" / "01_glossary.md",
+    MANUSCRIPT_DIR / "back_matter" / "02_concept_register.md",
     MANUSCRIPT_DIR / "back_matter" / "03_annotated_bibliography.md",
     MANUSCRIPT_DIR / "back_matter" / "04_about_the_author.md",
 ]
+
 
 def get_section_files():
     section_files = []
@@ -44,63 +46,53 @@ def get_section_files():
             section_files.append(sec_file)
     return section_files
 
-def generate_vol2_toc():
-    return """# TABLE OF CONTENTS — VOLUME 2: THE MACHINE UNDER LOAD
 
----
+def generate_vol2_toc():
+    return """# TABLE OF CONTENTS — VOLUME 2: DISCIPLINE APPLICATIONS
 
 ### FRONT MATTER
-- **Title Page & Copyright Notice**
-- **Safety, Medical, and Legal Disclaimers**
-- **Preface: The Meat and the Machine — Why Flawless Tactics Collapse in Chaos**
+- **Title, Copyright & Disclaimers**
+- **Preface: The Crucible of Physical Application**
 
 ---
 
-### PART I: THE BIOLOGICAL COMMAND CENTER — Neurological Reality Under Fire
-- **Chapter 01: The Command Center: Neurological Reality Under Fire**
-  - *1.1 The Mind as Primary Weapon and the Dual-Brain Paradox*
-  - *1.2 Offloading to the Lizard Brain: Developing Subconscious Reflexes*
-  - *1.3 The Iron Law: Decision Quality Under Severe Physical Stress*
-- **Chapter 02: The 4-Step Cycle: Recognize, Prioritize, Choose, Act**
-  - *2.1 Recognize and Prioritize: Threat Classification Under Pressure*
-  - *2.2 Choose, Act, and Reassess: Executing Inside the Opponent's Loop*
+### PART I: DISCIPLINE APPLICATIONS ACROSS THE COMBAT RANGES
+- **Chapter 01: Taekwondo: The Long Range and Longest Lever**
+  - 1.1 Distance as Active Shield and Mechanics of the Longest Lever
+  - 1.2 Timing Windows, Interception, and Sport Traps on Concrete
+- **Chapter 02: Muay Thai: Medium Range, Clinch, and Short Levers**
+  - 2.1 Space Control, Framing, and Short-Lever Kinetic Shock
+  - 2.2 The Thai Clinch, Cervical Manipulation, and Disengagement
+- **Chapter 03: Wrestling: Close Range, Tie-Ups, and Level Changes**
+  - 3.1 Posture, Dynamic Base, and Anti-Takedown Sprawl Architecture
+  - 3.2 Upper-Body Tie-Ups, Pummeling, and Sport Traps
+- **Chapter 04: Brazilian Jiu-Jitsu & SOCP: Ground Survival and Structural Framing**
+  - 4.1 Structural Framing, Asymmetric Limb Control, and Danaher's Algorithm
+  - 4.2 Beyond Blind Flight: Knee on Belly, Standing Joint Breaks, and SOCP Weapon Auditing
+- **Chapter 05: Range Transitions and Fluid Synthesis**
+  - 5.1 Range Chaining, Dynamic Bridges, and Penetration Flanks
+  - 5.2 Dynamic Switching and Discipline Synthesis Capstone
 
 ---
 
-### PART II: HIGH-STRESS PHYSIOLOGY — Surviving the Autonomic Surge
-- **Chapter 03: High-Stress Physiology: Surviving the Autonomic Cascade**
-  - *3.1 The Autonomic Cascade and Sensory Distortions*
-  - *3.2 Motor Degradation, Recovery Protocols, and Part II Capstone*
-
----
-
-### PART III: THE SCIENCE OF NEURAL CONDITIONING — Training Doctrine
-- **Chapter 04: Train Like You Fight: The Law of Neural Conditioning**
-  - *4.1 Neural Conditioning, Myelination, and the Law of Permanence*
-  - *4.2 Progressive Stress Inoculation, Decision Drilling, and Chapter 4 Capstone*
-
----
-
-### PART IV: SURVIVAL REALITIES & ASYMMETRIC THREATS — Weapons, Blades, and Law
-- **Chapter 05: Asymmetric Threats: Blades, Weapons, and Multiple Attackers**
-  - *5.1 Edged Weapons, Reactionary Deficits, and Flanking*
-  - *5.2 Immediate Action Drills on Weapon Presentation and Survival Capstone*
-- **Chapter 06: The Ethical and Legal Boundaries of Power**
-  - *6.1 Proportionality, Objective Reasonableness, and the Continuum of Force*
-  - *6.2 Post-Incident Procedures: Medical, Exit, Legal Preservations, and Complete Capstone*
+### DOCTRINAL CODA & BRIDGE
+- **The Invariant Principles and the Human Operator: The Five Invariant Laws**
+- **Bridge to Volume 3: The Machine Under Load**
 
 ---
 
 ### BACK MATTER
-- **Master Glossary of Combatives & Human Performance Engineering**
-- **Annotated Scientific & Legal Bibliography**
+- **Master Glossary of Combatives Engineering**
+- **Concept Register & Cross-Index**
+- **Annotated Military Bibliography**
 - **About the Author**
 """
+
 
 def assemble():
     section_files = get_section_files()
     print(f"[VOL 2] Discovered {len(section_files)} body section files.")
-    assert len(section_files) == 13, f"Expected 13 section files, found {len(section_files)}"
+    assert len(section_files) == 11, f"Expected 11 section files, found {len(section_files)}"
 
     for f in FRONT_MATTER_FILES:
         assert f.exists(), f"Missing front matter: {f}"
@@ -125,7 +117,7 @@ def assemble():
 
     # Body Sections
     parts_content.append("<!-- ========================================== -->\n")
-    parts_content.append("<!-- VOLUME 2: MANUSCRIPT BODY (PARTS I - IV)   -->\n")
+    parts_content.append("<!-- VOLUME 2: MANUSCRIPT BODY (PART IV)        -->\n")
     parts_content.append("<!-- ========================================== -->\n\n")
     for f in section_files:
         content = f.read_text(encoding="utf-8").strip()
@@ -154,6 +146,7 @@ def assemble():
     print(f"  - Lines: {lines:,}")
     print(f"  - Bytes: {bytes_count:,}")
     print(f"  - Section Files: {len(section_files)}")
+
 
 if __name__ == "__main__":
     assemble()

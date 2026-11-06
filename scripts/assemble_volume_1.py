@@ -3,7 +3,7 @@
 Assemble Volume 1 Manuscript: Timing, Distance, and Power — The Combat Doctrine
 Compiles:
 - Volume 1 Front Matter
-- Parts I through IV + Doctrinal Coda (32 section files)
+- Parts I through III + Doctrinal Coda (35 section files)
 - Volume 1 Back Matter
 into manuscript/TIME_DISTANCE_AND_POWER_VOL1_DOCTRINE.md
 """
@@ -27,15 +27,13 @@ VOL1_BODY_DIRS = [
     MANUSCRIPT_DIR / "part_02_strategic_lenses" / "ch05_the_sun_tzu_lens",
     MANUSCRIPT_DIR / "part_02_strategic_lenses" / "ch06_the_airpower_lens",
     MANUSCRIPT_DIR / "part_02_strategic_lenses" / "ch07_the_ground_maneuver_lens",
+    MANUSCRIPT_DIR / "part_02_strategic_lenses" / "ch07b_the_special_operations_lens",
+    MANUSCRIPT_DIR / "part_02_strategic_lenses" / "ch07c_the_algorithmic_combatives_lens",
+    MANUSCRIPT_DIR / "part_02_strategic_lenses" / "ch07d_the_predecessor_synthesis",
     MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch08_principles_1_to_3",
     MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch09_principles_4_to_6",
     MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch10_principles_7_to_9",
     MANUSCRIPT_DIR / "part_03_the_11_principles" / "ch11_principles_10_to_11",
-    MANUSCRIPT_DIR / "part_04_discipline_applications" / "ch12_taekwondo_and_long_range",
-    MANUSCRIPT_DIR / "part_04_discipline_applications" / "ch13_muay_thai_and_medium_range",
-    MANUSCRIPT_DIR / "part_04_discipline_applications" / "ch14_wrestling_and_clinch_to_takedown",
-    MANUSCRIPT_DIR / "part_04_discipline_applications" / "ch15_brazilian_jiu_jitsu_and_ground_survival",
-    MANUSCRIPT_DIR / "part_04_discipline_applications" / "ch16_range_transitions_and_fluid_synthesis",
     MANUSCRIPT_DIR / "volume_1_coda",
 ]
 
@@ -45,6 +43,7 @@ BACK_MATTER_FILES = [
     MANUSCRIPT_DIR / "back_matter" / "03_annotated_bibliography.md",
     MANUSCRIPT_DIR / "back_matter" / "04_about_the_author.md",
 ]
+
 
 def get_section_files():
     section_files = []
@@ -56,53 +55,45 @@ def get_section_files():
             section_files.append(sec_file)
     return section_files
 
+
 def generate_vol1_toc():
     return """# TABLE OF CONTENTS — VOLUME 1: THE COMBAT DOCTRINE
 
----
-
 ### FRONT MATTER
-- **Title Page & Copyright Notice**
-- **Safety, Medical, and Legal Disclaimers**
+- **Title, Copyright & Disclaimers**
 - **Dedication**
-- **Preface: The Genesis of the Martial Engineer**
+- **Foreword & Preface**
 
 ---
 
-### PART I: THE MECHANICAL ENGINE — Foundations of Combat Biomechanics
+### PART I: FOUNDATIONS OF CLOSE COMBAT — The Master Equation
 - **Chapter 01: The Triad: Timing, Distance, and Power**
 - **Chapter 02: The Four Ranges of Combat**
 - **Chapter 03: Timing and Windows of Opportunity**
 
 ---
 
-### PART II: STRATEGIC LENSES ON VIOLENCE — Military Doctrine Applied to Close Combat
-- **Chapter 04: The Sun Tzu Lens: Asymmetric Strategy**
-- **Chapter 05: The Airpower Lens: Boyd's OODA Loop on Concrete**
-- **Chapter 06: The Ground Maneuver Lens: Armored Warfare Principles**
+### PART II: THE FIVE STRATEGIC LENSES — Historical & Doctrinal Predecessors
+- **Chapter 04: The Classical Asymmetric Lens: Sun Tzu's Philosophy of Violence**
+- **Chapter 05: The Airpower Lens: Boyd's Energy-Maneuverability and OODA on Concrete**
+- **Chapter 06: The Ground Maneuver Lens: Armored Warfare, Flanking, and Structural Security**
+- **Chapter 07: The Special Operations Lens: 75th Rangers, Navy SEALs, and SOCP Doctrine**
+- **Chapter 08: The Algorithmic Combatives Lens: John Danaher & Mechanical Geometry**
+- **Chapter 09: The Strategic Predecessor Synthesis: How the 11 Principles Emerge**
 
 ---
 
 ### PART III: THE 11 UNIFIED PRINCIPLES — Invariant Operational Laws
-- **Chapter 07: Principles 1–3: Purpose, Security, and Maneuver**
-- **Chapter 08: Principles 4–6: Initiative, Concentration, and Economy**
-- **Chapter 09: Principles 7–9: Surprise, Avoidance, and Persistence**
-- **Chapter 10: Principles 10–11: Dynamic Reflexes and Situational Knowledge**
+- **Chapter 10: Principles 1–3: Purpose, Security, and Maneuver**
+- **Chapter 11: Principles 4–6: Initiative, Concentration, and Economy**
+- **Chapter 12: Principles 7–9: Surprise, Avoidance, and Persistence**
+- **Chapter 13: Principles 10–11: Actions on Contact and Situational Knowledge**
 
 ---
 
-### PART IV: DISCIPLINE APPLICATIONS ACROSS THE RANGES — Style Synthesis
-- **Chapter 11: Taekwondo: The Long Range and Longest Lever**
-- **Chapter 12: Muay Thai: Medium Range, Clinch, and Short Levers**
-- **Chapter 13: Wrestling: Close Range, Tie-Ups, and Level Changes**
-- **Chapter 14: Brazilian Jiu-Jitsu: Ground Survival and Structural Framing**
-- **Chapter 15: Range Transitions and Fluid Synthesis**
-
----
-
-### DOCTRINAL CODA & BRIDGE
-- **The Invariant Principles and the Human Operator: The Five Invariant Laws**
-- **Bridge to Volume 2: The Machine Under Load**
+### DOCTRINAL CODA & TRILOGY BRIDGE
+- **The Invariant Principles and the Trilogy Road Ahead**
+- **Bridge to Volume 2 (Discipline Applications) and Volume 3 (The Machine Under Load)**
 
 ---
 
@@ -113,10 +104,11 @@ def generate_vol1_toc():
 - **About the Author**
 """
 
+
 def assemble():
     section_files = get_section_files()
     print(f"[VOL 1] Discovered {len(section_files)} body section files.")
-    assert len(section_files) == 40, f"Expected 40 section files, found {len(section_files)}"
+    assert len(section_files) == 35, f"Expected 35 section files, found {len(section_files)}"
 
     for f in FRONT_MATTER_FILES:
         assert f.exists(), f"Missing front matter: {f}"
@@ -130,7 +122,6 @@ def assemble():
     parts_content.append("<!-- VOLUME 1: FRONT MATTER                     -->\n")
     parts_content.append("<!-- ========================================== -->\n\n")
 
-    # Title & Legal
     for f in FRONT_MATTER_FILES:
         content = f.read_text(encoding="utf-8").strip()
         parts_content.append(content)
@@ -142,7 +133,7 @@ def assemble():
 
     # Body Sections
     parts_content.append("<!-- ========================================== -->\n")
-    parts_content.append("<!-- VOLUME 1: MANUSCRIPT BODY (PARTS I - IV)   -->\n")
+    parts_content.append("<!-- VOLUME 1: MANUSCRIPT BODY (PARTS I - III)  -->\n")
     parts_content.append("<!-- ========================================== -->\n\n")
     for f in section_files:
         content = f.read_text(encoding="utf-8").strip()
@@ -171,6 +162,7 @@ def assemble():
     print(f"  - Lines: {lines:,}")
     print(f"  - Bytes: {bytes_count:,}")
     print(f"  - Section Files: {len(section_files)}")
+
 
 if __name__ == "__main__":
     assemble()

@@ -23,87 +23,95 @@
   - *3.1 The Geometry of Mistakes: Exploiting Enemy Spatial Errors*
   - *3.2 Skill Disparity and Opportunity Windows*
   - *3.3 Setups, Predictive Funneling, and Engineered Openings*
-- **Chapter 04: The Command Center: Neurological Reality Under Fire**
-  - *4.1 The Mind as Primary Weapon and the Dual-Brain Paradox*
-  - *4.2 Offloading to the Lizard Brain: Developing Subconscious Reflexes*
-  - *4.3 The Iron Law: Decision Quality Under Severe Physical Stress*
 
 ---
 
-### PART II: STRATEGIC LENSES ON VIOLENCE — Military Doctrine Applied to Close Combat
-- **Chapter 05: The Sun Tzu Lens: Asymmetric Strategy**
-  - *5.1 Subduing Without Fighting: Threat De-escalation and Positioning*
-  - *5.2 Avoid What Is Strong, Strike What Is Weak: Vulnerability Targeting*
-  - *5.3 The Tao of Deception: Feints, Distractions, and Broken Rhythm*
-- **Chapter 06: The Airpower Lens: Boyd's OODA Loop on Concrete**
-  - *6.1 Boyd's Dogfight on Concrete: Energy-Maneuverability in Hand-to-Hand Combat*
-  - *6.2 The OODA Loop in Microseconds: Compressing the Combat Cycle*
-  - *6.3 The 3D Battlespace: Height, Angles, and Environmental Vectors*
-- **Chapter 07: The Ground Maneuver Lens: Armored Warfare Principles**
-  - *7.1 Maneuver to Advantage: Flanking and Angle Dominance*
-  - *7.2 Security of Position: Defending the Anchor*
-  - *7.3 Economy of Force and Terrain Mastery*
+### PART II: STRATEGIC LENSES ON VIOLENCE — Military & Tactical Doctrine
+- **Chapter 04: The Classical Asymmetric Lens: Sun Tzu's Strategic Maneuver**
+  - *4.1 Subduing Without Fighting: Threat De-escalation and Positioning*
+  - *4.2 Avoid What Is Strong, Strike What Is Weak: Vulnerability Targeting*
+  - *4.3 The Tao of Deception: Feints, Distractions, and Broken Rhythm*
+- **Chapter 05: The Airpower Lens: Boyd's Energy-Maneuverability and the OODA Loop**
+  - *5.1 Boyd's Dogfight on Concrete: Energy-Maneuverability in Hand-to-Hand Combat*
+  - *5.2 The OODA Loop in Microseconds: Compressing the Combat Cycle*
+  - *5.3 The 3D Battlespace: Height, Angles, and Environmental Vectors*
+- **Chapter 06: The Ground Maneuver Lens: Armored Warfare Principles on Foot**
+  - *6.1 Maneuver to Advantage: Flanking and Angle Dominance*
+  - *6.2 Security of Position: Defending the Anchor Under Load*
+  - *6.3 Economy of Force and Terrain Mastery: The Kinetic Architecture of Ground Combat*
+- **Chapter 07: The Special Operations Lens: Rangers, NSW, and SOCP Doctrine**
+  - *7.1 Ranger Battle Drill 4, Violence of Action, and Breaking the Ambush*
+  - *7.2 Naval Special Warfare and SOCP: The Big Four and Weapon Retention*
+- **Chapter 08: The Algorithmic Combatives Lens: John Danaher's Problem-Solving Architecture**
+  - *8.1 Danaher's Four-Step Algorithm on Concrete: From Dynamic Chaos to Asymmetric Control*
+  - *8.2 Wedges vs. Levers, The Attacker's Dilemma, and the Ratchet Principle*
+- **Chapter 09: The Strategic Predecessor Synthesis: How Five Traditions Derive the 11 Principles**
+  - *9.1 The Grand Predecessor Synthesis Matrix: Mathematical Lineage of Unified Doctrine*
 
 ---
 
 ### PART III: THE 11 UNIFIED PRINCIPLES — Invariant Operational Laws
-- **Chapter 08: Principles 1–3: Purpose, Security, and Maneuver**
-  - *8.1 Principle 1: Purpose First (The Strategic Compass and Mission Command on Concrete)*
-  - *8.2 Principle 2: Security of Position (Defending the Anchor Under Pressure)*
-  - *8.3 Principle 3: Maneuver to Advantage (Offline Angles and Asymmetric Envelopment)*
-- **Chapter 09: Principles 4–6: Initiative, Concentration, and Economy**
-  - *9.1 Principle 4: Initiative (Driving the Action and Compressing the Decision Cycle)*
-  - *9.2 Principle 5: Concentration (Massing Force at the Decisive Point)*
-  - *9.3 Principle 6: Economy of Force (The Asymmetric Limb Ratio and Resource Preservation)*
-- **Chapter 10: Principles 7–9: Surprise, Avoidance, and Persistence**
-  - *10.1 Principle 7: Surprise (Exploiting Rhythm Shifts, Deception, and Sun Tzu's Baiting Doctrine)*
-  - *10.2 Principle 8: Avoidance When Superior (The Clean Exit and Strategic Security)*
-  - *10.3 Principle 9: Persistence to Resolution (Weathering Storms, Relentless Pressure, and the Chapter 10 Capstone)*
-- **Chapter 11: Principles 10–11: Dynamic Reflexes and Situational Knowledge**
-  - *11.1 Principle 10: Actions on Contact (Immediate Subconscious Drilled Response)*
-  - *11.2 Principle 11: Know the Situation (Continuous Dynamic Threat Audit and the Part III Grand Capstone)*
+- **Chapter 10: Principles 1–3: Purpose, Security, and Maneuver**
+  - *10.1 Principle 1: Purpose First (The Strategic Compass and Mission Command on Concrete)*
+  - *10.2 Principle 2: Security of Position (Defending the Anchor Under Pressure)*
+  - *10.3 Principle 3: Maneuver to Advantage (Offline Angles and Asymmetric Envelopment)*
+- **Chapter 11: Principles 4–6: Initiative, Concentration, and Economy**
+  - *11.1 Principle 4: Initiative (Driving the Action and Compressing the Decision Cycle)*
+  - *11.2 Principle 5: Concentration (Massing Force at the Decisive Point)*
+  - *11.3 Principle 6: Economy of Force (The Asymmetric Limb Ratio and Resource Preservation)*
+- **Chapter 12: Principles 7–9: Surprise, Avoidance, and Persistence**
+  - *12.1 Principle 7: Surprise (Exploiting Rhythm Shifts, Deception, and Sun Tzu's Baiting Doctrine)*
+  - *12.2 Principle 8: Avoidance When Superior (The Clean Exit and Strategic Security)*
+  - *12.3 Principle 9: Persistence to Resolution (Relentless Pressure and Operational Completion)*
+- **Chapter 13: Principles 10–11: Actions on Contact and Situational Knowledge**
+  - *13.1 Principle 10: Actions on Contact (Immediate Drilled Response to Ambush)*
+  - *13.2 Principle 11: Know the Situation (Continuous Dynamic Threat Audit)*
 
 ---
 
 ### PART IV: DISCIPLINE APPLICATIONS ACROSS THE RANGES — Style Synthesis
-- **Chapter 12: Taekwondo: The Long Range and Longest Lever**
-  - *12.1 Distance as Shield and the Mechanics of the Longest Lever*
-  - *12.2 Timing Windows, Interception, and Sport Traps*
-- **Chapter 13: Muay Thai: Medium Range, Clinch, and Short Levers**
-  - *13.1 Space Control and Short-Lever Kinetic Shock*
-  - *13.2 The Thai Clinch and Cervical Spine Manipulation*
-- **Chapter 14: Wrestling: Close Range, Tie-Ups, and Level Changes**
-  - *14.1 Posture, Base, and Anti-Takedown Defense*
-  - *14.2 Tie-Ups, Pummeling, and Sport Traps*
-- **Chapter 15: Brazilian Jiu-Jitsu: Ground Survival and Structural Framing**
-  - *15.1 Structural Framing and Ground Survival*
-  - *15.2 Sport Traps, Strangles, and Tactical Egress*
-- **Chapter 16: Range Transitions and Fluid Synthesis**
-  - *16.1 Range Chaining and Structural Bridges*
-  - *16.2 Real-Time Dynamic Range Switching and Part IV Master Capstone*
+- **Chapter 14: Taekwondo: The Long Range and Longest Lever**
+  - *14.1 Distance as Shield and the Mechanics of the Longest Lever*
+  - *14.2 Timing Windows, Interception, and Sport Traps*
+- **Chapter 15: Muay Thai: Medium Range, Clinch, and Short Levers**
+  - *15.1 Space Control and Short-Lever Kinetic Shock*
+  - *15.2 The Thai Clinch and Cervical Spine Manipulation*
+- **Chapter 16: Wrestling: Close Range, Tie-Ups, and Level Changes**
+  - *16.1 Posture, Base, and Anti-Takedown Defense*
+  - *16.2 Tie-Ups, Pummeling, and Sport Traps*
+- **Chapter 17: Brazilian Jiu-Jitsu & SOCP: Ground Survival and Structural Framing**
+  - *17.1 Structural Framing and Ground Survival*
+  - *17.2 Sport Traps, Strangles, and Tactical Egress*
+- **Chapter 18: Range Transitions and Fluid Synthesis**
+  - *18.1 Range Chaining and Structural Bridges*
+  - *18.2 Real-Time Dynamic Range Switching and System Integration*
 
 ---
 
 ### PART V: THE TACTICAL DECISION ENGINE — High-Stress Processing
-- **Chapter 17: The 4-Step Cycle: Recognize, Prioritize, Choose, Act**
-  - *17.1 Recognize and Prioritize: Threat Classification Under Pressure*
-  - *17.2 Choose, Act, and Reassess: Executing Inside the Opponent's Loop*
-- **Chapter 18: High-Stress Physiology: Surviving the Autonomic Cascade**
-  - *18.1 The Autonomic Cascade and Sensory Distortions*
-  - *18.2 Motor Degradation, Recovery Protocols, and Part V Capstone*
+- **Chapter 19: The Command Center: Neurological Reality Under Fire**
+  - *19.1 The Mind as Primary Weapon and the Dual-Brain Paradox*
+  - *19.2 Offloading to the Lizard Brain: Developing Subconscious Reflexes*
+  - *19.3 The Iron Law: Decision Quality Under Severe Physical Stress*
+- **Chapter 20: The 4-Step Cycle: Recognize, Prioritize, Choose, Act**
+  - *20.1 Recognize and Prioritize: Threat Classification Under Pressure*
+  - *20.2 Choose, Act, and Reassess: Executing Inside the Opponent's Loop*
+- **Chapter 21: High-Stress Physiology: Surviving the Autonomic Cascade**
+  - *21.1 The Autonomic Cascade and Sensory Distortions*
+  - *21.2 Motor Degradation, Recovery Protocols, and Operator Resilience*
 
 ---
 
 ### PART VI: TRAINING DOCTRINE & SURVIVAL REALITIES — Neural Conditioning & Survival
-- **Chapter 19: Train Like You Fight: The Law of Neural Conditioning**
-  - *19.1 Neural Conditioning, Myelination, and the Law of Permanence*
-  - *19.2 Progressive Stress Inoculation, Decision Drilling, and Chapter 19 Capstone*
-- **Chapter 20: Asymmetric Threats: Blades, Weapons, and Multiple Attackers**
-  - *20.1 Edged Weapons, Reactionary Deficits, and Flanking*
-  - *20.2 Immediate Action Drills on Weapon Presentation and Asymmetric Survival Capstone*
-- **Chapter 21: The Ethical and Legal Boundaries of Power**
-  - *21.1 Proportionality, Objective Reasonableness, and the Continuum of Force*
-  - *21.2 Post-Incident Procedures: Medical, Exit, Legal Preservations, and Book Capstone*
+- **Chapter 22: Train Like You Fight: The Law of Neural Conditioning**
+  - *22.1 Neural Conditioning, Myelination, and the Law of Permanence*
+  - *22.2 Progressive Stress Inoculation and Decision Drilling*
+- **Chapter 23: Asymmetric Threats: Blades, Weapons, and Multiple Attackers**
+  - *23.1 Edged Weapons, Reactionary Deficits, and Flanking*
+  - *23.2 Immediate Action Drills on Weapon Presentation and Asymmetric Survival*
+- **Chapter 24: The Ethical and Legal Boundaries of Power**
+  - *24.1 Proportionality, Objective Reasonableness, and the Continuum of Force*
+  - *24.2 Post-Incident Procedures: Medical, Exit, and Legal Preservation*
 
 ---
 

@@ -25,9 +25,9 @@ def get_section_files():
 
 
 def test_gate_3a_all_52_sections_exist_and_non_empty():
-    """Verify all 52 manuscript section files exist, are readable, and exceed minimum word count."""
+    """Verify all 57 manuscript section files exist, are readable, and exceed minimum word count."""
     files = get_section_files()
-    assert len(files) == 52, f"Expected 52 sections, found {len(files)}"
+    assert len(files) == 57, f"Expected 57 sections, found {len(files)}"
     for f in files:
         with open(f, "r", encoding="utf-8") as fp:
             words = len(fp.read().split())
@@ -35,14 +35,14 @@ def test_gate_3a_all_52_sections_exist_and_non_empty():
 
 
 def test_gate_3a_manuscript_total_word_count_and_rollups():
-    """Verify total manuscript word count across all 52 sections is within 80,000 - 95,000 words."""
+    """Verify total manuscript word count across all 57 sections is within 95,000 - 115,000 words."""
     files = get_section_files()
     total_words = 0
     for f in files:
         with open(f, "r", encoding="utf-8") as fp:
             total_words += len(fp.read().split())
     print(f"\n[GATE-3A] Total manuscript word count: {total_words}")
-    assert 80000 <= total_words <= 95000, f"Total manuscript word count {total_words} outside expected range [80000, 95000]"
+    assert 95000 <= total_words <= 115000, f"Total manuscript word count {total_words} outside expected range [95000, 115000]"
 
 
 def test_gate_3a_global_zero_banned_marketing_words():

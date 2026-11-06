@@ -53,7 +53,7 @@ def get_section_files():
 def assemble():
     section_files = get_section_files()
     print(f"Discovered {len(section_files)} section files.")
-    assert len(section_files) == 52, f"Expected 52 section files, found {len(section_files)}"
+    assert len(section_files) == 57, f"Expected 57 section files, found {len(section_files)}"
 
     for f in FRONT_MATTER_FILES:
         assert f.exists(), f"Missing front matter: {f}"
