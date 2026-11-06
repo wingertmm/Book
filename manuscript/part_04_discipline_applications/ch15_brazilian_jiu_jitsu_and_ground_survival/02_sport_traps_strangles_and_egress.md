@@ -60,7 +60,16 @@ Instead of following the threat down to the asphalt, the defender isolates their
 - **Neutralizing Pursuit and Weapons**: Fracturing the olecranon (elbow) or tearing the glenohumeral capsule (shoulder) is not cruelty; it is definitive functional neutralization. An adversary with a destroyed arm cannot post to stand up, cannot tackle your legs as you disengage, and cannot index or draw a weapon from their waistband.
 - **Complete Asphalt Immunity**: The defender inflicts decisive mechanical incapacitation while remaining on their feet throughout the encounter, completely immune to asphalt friction traps, broken glass, and ground-level stomps.
 
-#### 3. The Three Combative Resolutions of Ground Dominance
+#### 3. SOCP and the Weapon-Access Audit: Fighting For the Weapon vs. Fighting With the Weapon
+Nowhere is this distinction clearer than in the **Special Operations Combatives Program (SOCP)**, established by Greg Thompson for modern combat troops. In military special operations, operators fight while wearing body armor, helmets, load-bearing plate carriers, and modular gear, with secondary blades and sidearms mounted on their kit. In this severe operational environment, recreational sport BJJ rolling is catastrophic. Encumbered movement restricts spinal articulation, burns massive glycogen reserves, and exposes weapons to an adversary's grasp.
+
+SOCP establishes a fundamental tactical distinction: **fighting *for* the weapon versus fighting *with* the weapon**:
+- **Fighting *For* the Weapon**: If an adversary possesses free hands or an unmonitored arm, attempting to draw your own tool (blade, pepper spray, or firearm) precipitates a catastrophic weapon retention battle inside grappling range. Prematurely introducing a weapon turns the fight into a 50/50 struggle where an opponent can redirect the muzzle or blade into your vitals. Doctrine dictates that you must first fight *for* the weapon: deploying two-on-one limb ties, wrist controls, head-and-arm frames, or driving a Knee on Belly to physically dominate and pin the threat's limbs. Only after securing total limb dominance do you access your tools.
+- **Weapon Access Denial**: Conversely, if a grounded adversary drops a hand toward their waistband, pocket, or jacket, all attempts at recreational submissions immediately cease. In SOCP doctrine, that movement signifies a lethal weapon draw. The defender must instantly drive into the threat's limb with whole-body mass, pinning the hand against the asphalt or hyperextending the joint (*Waki-gatame* / standing kimura) to crush weapon presentation before steel clears cloth.
+
+This doctrine explains why SOF combatives prioritizes upright Knee on Belly and standing arm control over chest-to-chest ground entanglement. Remaining upright maintains the defender's weapon retention corridor, provides continuous visual auditing of the adversary's hands, denies the grounded threat access to their waistline, and ensures instant disengagement capability if secondary assailants emerge.
+
+#### 4. The Three Combative Resolutions of Ground Dominance
 When an attacker is grounded and their legs are cleared, combatives presents three distinct operational resolutions governed by **Principle 1: Purpose First** and **Principle 8: Avoidance When Superior**:
 
 - **Resolution 1: The Instant Sprint (Clean Egress)**: Executed when the adversary is stunned or tangled, your exit corridor is completely unobstructed, and no third party requires protection. Execute the Technical Stand-Up and accelerate to safety.

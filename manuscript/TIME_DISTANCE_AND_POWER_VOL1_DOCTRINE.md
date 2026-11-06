@@ -3291,15 +3291,27 @@ In military doctrine, U.S. Army Field Manual 3-0 (*Operations*) establishes the 
 
 Instead, every soldier instantly executes a non-deliberative **Battle Drill**: returning suppression fire, taking cover, and establishing local security. Only after the battle drill blunts the ambush does the commander develop the fight and issue deliberate orders. In combat aviation, Department of the Air Force Doctrine Publication 1 (*Airpower Operations*) enforces the same doctrine: pilots drill emergency procedures until muscle memory executes them instantly, ensuring aircraft survival before adjusting flight strategy.
 
-In civilian self-defense on concrete, you must possess an identical tactical protocol. Under acute adrenal surge, the mind cannot navigate an encyclopedic catalog of martial arts moves. Martial artists who memorize dozens of defenses for dozens of attacks fall into the cognitive trap of Hick's Law: reaction latency increases logarithmically with every additional choice presented to the mind. If your system requires choosing among ten techniques, your physical response slows catastrophically.
+Nowhere is this dynamic more stark than in the elite doctrine of the **75th Ranger Regiment**. In Ranger doctrine, **Battle Drill 4: React to Ambush** draws an absolute operational boundary between two tactical realities: the **Far Ambush** and the **Near Ambush**. 
+
+In a Far Ambush (beyond hand-grenade range, typically outside 25 to 50 meters), soldiers possess spatial standoff. They immediately return fire, locate covered positions, establish a base of fire, and maneuver out of the beaten zone. Distance buys the temporal buffer required to deploy fire and movement.
+
+In a **Near Ambush** (within 0 to 15 meters—the exact spatial equivalent of close-quarters street violence), the tactical mathematics flip catastrophically. The ambusher's kill zone is dialed in, weapons are pre-aimed, and the beaten zone is saturated. Under Ranger doctrine, attempting to backpedal, drop into the dirt, or retreat in a near ambush is 100% fatal. Retreating concedes initiative, traps soldiers in the direct center of the kill zone, and exposes their backs to uncontested fire.
+
+Therefore, Ranger Battle Drill 4 mandates a counter-intuitive, ruthless imperative: **Immediately assault directly into the ambush!** Soldiers immediately return maximum suppression fire, close distance aggressively, and assault through the enemy position with overwhelming **Violence of Action (VoA)**. By driving violently into the teeth of the attack, soldiers crash through the kill zone, disrupt the ambushers' firing arcs, and transform an ambush into a close-quarters fight where aggressiveness, forward pressure, and shock dictate survival.
+
+In civilian self-defense on concrete, an unprovoked assault from zero to ten feet is a textbook Near Ambush. The predator has chosen the time, the angle, and the point of impact. Under this acute threat, linear retreat is suicidal. As biomechanics demonstrates, human backward locomotion tops out at approximately 3.2 meters per second, while an attacker charging forward easily exceeds 7.0 meters per second. If you attempt to back away in a straight line, the attacker runs you down, drives your weight over your heels, and delivers unanswered blows or cycling knife thrusts into your centerline.
+
+Principle 10 operationalizes the Ranger near-ambush mandate for empty-hand combat: under unexpected contact, you do not retreat linearly; you assault into the threat's centerline with a forward-driving wedge. Driving aggressively into the attack collapses standoff distance, smothers punches before they reach maximum terminal velocity, jams weapon draws and levers against the attacker's body, and overwhelms their sensory processing through sheer Violence of Action. You crash the kill zone and force the predator to defend.
+
+Under acute adrenal surge, the mind cannot navigate an encyclopedic catalog of martial arts moves. Martial artists who memorize dozens of defenses for dozens of attacks fall into the cognitive trap of Hick's Law: reaction latency increases logarithmically with every additional choice presented to the mind. If your system requires choosing among ten techniques, your physical response slows catastrophically.
 
 Principle 10 eliminates choice friction by establishing a universal **Subconscious Drilled Response**. You do not maintain an inventory of specific moves for every attack angle. You condition a single, robust, primal battle drill that fires automatically whenever physical contact occurs.
 
 At the moment of unexpected contact, your body executes this drilled response without conscious thought:
 - **Base Anchor**: You instantly drop your center of mass, widen your stance, and drive your cleats into the earth, securing your structural platform against tipping torque.
-- **Forearm Wedge**: Your hands snap to your head, constructing a double-wedge helmet. Your forearms form rigid compressive trusses that protect your temples, jawline, and cervical spine.
+- **Forearm Wedge**: Your hands snap to your head, constructing a double-wedge helmet. Your forearms form rigid compressive trusses that protect your temples, jawline, and cervical spine while driving into the threat's upper chest or neck.
 - **Chin Tucked**: Your chin drops to your sternum behind raised shoulder guards, shielding the vulnerable mandibular lever from direct impact.
-- **Offline Angle**: You step off the incoming vector, displacing your centerline from the attacker's primary force path.
+- **Forward-Angle Drive**: Rather than retreating on your heels, you drive off your rear foot at a slight forward angle, penetrating the attacker's space, jamming their striking levers, and breaking their forward posture.
 
 This is the living embodiment of the classic martial maxim: *"Beware the person who has practiced one kick a thousand times, not the person who has practiced a thousand kicks once."* A single, deeply automated battle drill executed with savage conviction outperforms a library of unconditioned techniques every time.
 
@@ -4448,7 +4460,16 @@ Instead of following the threat down to the asphalt, the defender isolates their
 - **Neutralizing Pursuit and Weapons**: Fracturing the olecranon (elbow) or tearing the glenohumeral capsule (shoulder) is not cruelty; it is definitive functional neutralization. An adversary with a destroyed arm cannot post to stand up, cannot tackle your legs as you disengage, and cannot index or draw a weapon from their waistband.
 - **Complete Asphalt Immunity**: The defender inflicts decisive mechanical incapacitation while remaining on their feet throughout the encounter, completely immune to asphalt friction traps, broken glass, and ground-level stomps.
 
-#### 3. The Three Combative Resolutions of Ground Dominance
+#### 3. SOCP and the Weapon-Access Audit: Fighting For the Weapon vs. Fighting With the Weapon
+Nowhere is this distinction clearer than in the **Special Operations Combatives Program (SOCP)**, established by Greg Thompson for modern combat troops. In military special operations, operators fight while wearing body armor, helmets, load-bearing plate carriers, and modular gear, with secondary blades and sidearms mounted on their kit. In this severe operational environment, recreational sport BJJ rolling is catastrophic. Encumbered movement restricts spinal articulation, burns massive glycogen reserves, and exposes weapons to an adversary's grasp.
+
+SOCP establishes a fundamental tactical distinction: **fighting *for* the weapon versus fighting *with* the weapon**:
+- **Fighting *For* the Weapon**: If an adversary possesses free hands or an unmonitored arm, attempting to draw your own tool (blade, pepper spray, or firearm) precipitates a catastrophic weapon retention battle inside grappling range. Prematurely introducing a weapon turns the fight into a 50/50 struggle where an opponent can redirect the muzzle or blade into your vitals. Doctrine dictates that you must first fight *for* the weapon: deploying two-on-one limb ties, wrist controls, head-and-arm frames, or driving a Knee on Belly to physically dominate and pin the threat's limbs. Only after securing total limb dominance do you access your tools.
+- **Weapon Access Denial**: Conversely, if a grounded adversary drops a hand toward their waistband, pocket, or jacket, all attempts at recreational submissions immediately cease. In SOCP doctrine, that movement signifies a lethal weapon draw. The defender must instantly drive into the threat's limb with whole-body mass, pinning the hand against the asphalt or hyperextending the joint (*Waki-gatame* / standing kimura) to crush weapon presentation before steel clears cloth.
+
+This doctrine explains why SOF combatives prioritizes upright Knee on Belly and standing arm control over chest-to-chest ground entanglement. Remaining upright maintains the defender's weapon retention corridor, provides continuous visual auditing of the adversary's hands, denies the grounded threat access to their waistline, and ensures instant disengagement capability if secondary assailants emerge.
+
+#### 4. The Three Combative Resolutions of Ground Dominance
 When an attacker is grounded and their legs are cleared, combatives presents three distinct operational resolutions governed by **Principle 1: Purpose First** and **Principle 8: Avoidance When Superior**:
 
 - **Resolution 1: The Instant Sprint (Clean Egress)**: Executed when the adversary is stunned or tangled, your exit corridor is completely unobstructed, and no third party requires protection. Execute the Technical Stand-Up and accelerate to safety.
